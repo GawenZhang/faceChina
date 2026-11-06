@@ -298,6 +298,7 @@ h1 {
 
 .section h2,
 .panel h2,
+.download h2,
 .contact h2 {
   margin: 0 0 8px;
   font-size: 22px;
@@ -306,6 +307,7 @@ h1 {
 
 .section > .wrap > p,
 .panel p,
+.download p,
 .contact p {
   margin: 0;
   color: var(--muted);
@@ -320,6 +322,7 @@ h1 {
 
 .card,
 .panel,
+.download,
 .contact,
 .commitment,
 .policy-section {
@@ -356,9 +359,19 @@ h1 {
 }
 
 .panel,
+.download,
 .contact {
   margin: 18px auto;
   padding: 20px 22px;
+}
+
+.download__actions {
+  margin-top: 16px;
+}
+
+.download__meta {
+  margin-top: 10px;
+  font-size: 13px;
 }
 
 .panel--note {
