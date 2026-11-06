@@ -1,0 +1,44 @@
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-www
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pack site
+        run: tar -czf site.tar.gz index.html favicon.png css img privacy
+
+      - name: Publish to server
+        env:
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        run: |
+          if [ -z "$SSH_HOST" ] || [ -z "$SSH_USER" ] || [ -z "$SSH_PRIVATE_KEY" ]; then
+            echo "缺少 GitHub Secrets：SSH_HOST、SSH_USER、SSH_PRIVATE_KEY"
+            echo "先在服务器上执行 scripts/setup-deploy.sh，再把输出的私钥写进仓库 Secrets。"
+            exit 1
+          fi
+          install -d -m 700 ~/.ssh
+          printf '%s\n' "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -H "$SSH_HOST" >> ~/.ssh/known_hosts
+          scp -i ~/.ssh/deploy_key -o IdentitiesOnly=yes \
+            site.tar.gz "${SSH_USER}@${SSH_HOST}:/tmp/o2magic-site.tar.gz"
+          ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes \
+            "${SSH_USER}@${SSH_HOST}" \
+            "sudo /usr/local/bin/deploy-o2magic"
