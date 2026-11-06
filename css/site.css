@@ -374,6 +374,10 @@ h1 {
   font-size: 13px;
 }
 
+.install-bar {
+  display: none;
+}
+
 .panel--note {
   border: 1px solid rgba(0, 163, 150, 0.14);
   background: linear-gradient(145deg, #e7f7f5 0%, #f7fcfb 55%, #fff 100%);
@@ -541,7 +545,11 @@ th {
 
 @media (max-width: 860px) {
   h1 {
-    font-size: 32px;
+    font-size: 30px;
+  }
+
+  .hero {
+    padding: 28px 0 12px;
   }
 
   .hero__grid,
@@ -549,9 +557,68 @@ th {
     grid-template-columns: 1fr;
   }
 
+  .lede {
+    font-size: 15px;
+  }
+
+  .hero__actions,
+  .download__actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero__actions .btn,
+  .download__actions .btn {
+    width: 100%;
+    min-height: 50px;
+    font-size: 16px;
+  }
+
+  .phone {
+    max-width: 420px;
+  }
+
   .facts div {
     grid-template-columns: 1fr;
     gap: 2px;
+  }
+
+  .site-footer__inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .has-install-bar {
+    padding-bottom: calc(96px + env(safe-area-inset-bottom));
+  }
+
+  .install-bar {
+    display: block;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 30;
+    padding: 10px 16px calc(10px + env(safe-area-inset-bottom));
+    background: rgba(255, 255, 255, 0.96);
+    border-top: 1px solid var(--line);
+    box-shadow: 0 -8px 24px rgba(15, 118, 110, 0.1);
+    backdrop-filter: blur(12px);
+  }
+
+  .install-bar__btn {
+    width: 100%;
+    min-height: 52px;
+    gap: 8px;
+    padding: 0 16px;
+    font-size: 17px;
+  }
+
+  .install-bar__size {
+    margin-left: auto;
+    font-size: 12px;
+    font-weight: 500;
+    opacity: 0.9;
   }
 }
 
@@ -561,11 +628,30 @@ th {
     width: min(var(--max), calc(100% - 28px));
   }
 
-  .nav a {
-    padding: 8px;
+  .site-header__inner {
+    gap: 8px;
   }
 
-  .hero {
-    padding-top: 28px;
+  .brand span {
+    font-size: 16px;
+  }
+
+  .nav {
+    gap: 2px;
+  }
+
+  .nav a {
+    padding: 6px 8px;
+    font-size: 13px;
+  }
+
+  .panel,
+  .download,
+  .contact {
+    padding: 18px 16px;
+  }
+
+  .policy-head h1 {
+    font-size: 24px;
   }
 }

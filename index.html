@@ -2,7 +2,7 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>O2Magic — 家用氧舱配套应用</title>
     <meta
       name="description"
@@ -11,7 +11,7 @@
     <link rel="icon" type="image/png" href="favicon.png" />
     <link rel="stylesheet" href="css/site.css" />
   </head>
-  <body>
+  <body class="has-install-bar">
     <a class="skip" href="#main">跳到主要内容</a>
     <header class="site-header">
       <div class="site-header__inner">
@@ -160,5 +160,17 @@
         </span>
       </div>
     </footer>
+
+    <div class="install-bar">
+      <a class="btn btn--primary install-bar__btn" href="downloads/O2Magic.apk" download="O2Magic.apk">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M12 3.5v11" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+          <path d="M7.5 11 12 15.5 16.5 11" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M5 19.5h14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+        <span>下载安装包</span>
+        <span class="install-bar__size">约 20 MB</span>
+      </a>
+    </div>
   </body>
 </html>
