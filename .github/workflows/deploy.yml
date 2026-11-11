@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Pack site
-        run: tar -czf site.tar.gz index.html favicon.png css img privacy downloads
+        run: tar -czf site.tar.gz index.html favicon.png favicon.svg robots.txt sitemap.xml llms.txt css js img about articles products privacy terms
 
       - name: Publish to server
         env:
