@@ -16,7 +16,7 @@
 
   var pack = {
     en: {
-      "nav-home": "Home", "nav-blog": "Blog", "nav-products": "Products", "nav-about": "About",
+      "nav-home": "Home", "nav-blog": "Blog", "nav-products": "Products", "nav-app": "Companion app", "nav-about": "About",
       "cta-contact": "Contact us", "cta-quote": "Get a factory quote", "cta-more": "More posts →",
       "cta-start": "Start your project", "cta-submit": "Submit", "cta-subscribe": "Subscribe",
       "cta-expand": "Read more", "cta-collapse": "Show less", "cta-detail": "View details",
@@ -31,7 +31,7 @@
       "no-result": "No matching posts."
     },
     es: {
-      "nav-home": "Inicio", "nav-blog": "Blog", "nav-products": "Productos", "nav-about": "Nosotros",
+      "nav-home": "Inicio", "nav-blog": "Blog", "nav-products": "Productos", "nav-app": "Aplicación", "nav-about": "Nosotros",
       "cta-contact": "Contáctenos", "cta-quote": "Pedir cotización", "cta-more": "Más artículos →",
       "cta-start": "Iniciar proyecto", "cta-submit": "Enviar", "cta-subscribe": "Suscribirse",
       "cta-expand": "Leer más", "cta-collapse": "Ocultar", "cta-detail": "Ver detalle",
@@ -46,7 +46,7 @@
       "no-result": "Sin resultados."
     },
     fr: {
-      "nav-home": "Accueil", "nav-blog": "Blog", "nav-products": "Produits", "nav-about": "À propos",
+      "nav-home": "Accueil", "nav-blog": "Blog", "nav-products": "Produits", "nav-app": "Application", "nav-about": "À propos",
       "cta-contact": "Nous contacter", "cta-quote": "Devis usine", "cta-more": "Plus d'articles →",
       "cta-start": "Démarrer", "cta-submit": "Envoyer", "cta-subscribe": "S'abonner",
       "cta-expand": "Lire la suite", "cta-collapse": "Réduire", "cta-detail": "Voir",
@@ -61,7 +61,7 @@
       "no-result": "Aucun résultat."
     },
     de: {
-      "nav-home": "Start", "nav-blog": "Blog", "nav-products": "Produkte", "nav-about": "Über uns",
+      "nav-home": "Start", "nav-blog": "Blog", "nav-products": "Produkte", "nav-app": "App", "nav-about": "Über uns",
       "cta-contact": "Kontakt", "cta-quote": "Werksangebot", "cta-more": "Mehr Artikel →",
       "cta-start": "Projekt starten", "cta-submit": "Senden", "cta-subscribe": "Abonnieren",
       "cta-expand": "Weiterlesen", "cta-collapse": "Weniger", "cta-detail": "Details",
@@ -76,7 +76,7 @@
       "no-result": "Keine Treffer."
     },
     pt: {
-      "nav-home": "Início", "nav-blog": "Blog", "nav-products": "Produtos", "nav-about": "Sobre",
+      "nav-home": "Início", "nav-blog": "Blog", "nav-products": "Produtos", "nav-app": "Aplicativo", "nav-about": "Sobre",
       "cta-contact": "Fale conosco", "cta-quote": "Cotação", "cta-more": "Mais artigos →",
       "cta-start": "Começar projeto", "cta-submit": "Enviar", "cta-subscribe": "Assinar",
       "cta-expand": "Ler mais", "cta-collapse": "Recolher", "cta-detail": "Ver detalhes",
@@ -91,7 +91,7 @@
       "no-result": "Nenhum resultado."
     },
     it: {
-      "nav-home": "Home", "nav-blog": "Blog", "nav-products": "Prodotti", "nav-about": "Chi siamo",
+      "nav-home": "Home", "nav-blog": "Blog", "nav-products": "Prodotti", "nav-app": "App", "nav-about": "Chi siamo",
       "cta-contact": "Contattaci", "cta-quote": "Preventivo", "cta-more": "Altri articoli →",
       "cta-start": "Avvia progetto", "cta-submit": "Invia", "cta-subscribe": "Iscriviti",
       "cta-expand": "Leggi di più", "cta-collapse": "Chiudi", "cta-detail": "Dettagli",
@@ -106,7 +106,7 @@
       "no-result": "Nessun risultato."
     },
     ja: {
-      "nav-home": "ホーム", "nav-blog": "ブログ", "nav-products": "製品", "nav-about": "会社情報",
+      "nav-home": "ホーム", "nav-blog": "ブログ", "nav-products": "製品", "nav-app": "連携アプリ", "nav-about": "会社情報",
       "cta-contact": "お問い合わせ", "cta-quote": "工場見積", "cta-more": "記事をもっと見る →",
       "cta-start": "プロジェクトを開始", "cta-submit": "送信", "cta-subscribe": "登録",
       "cta-expand": "続きを読む", "cta-collapse": "閉じる", "cta-detail": "詳細",
@@ -121,7 +121,7 @@
       "no-result": "一致する記事がありません。"
     },
     ko: {
-      "nav-home": "홈", "nav-blog": "블로그", "nav-products": "제품", "nav-about": "회사 소개",
+      "nav-home": "홈", "nav-blog": "블로그", "nav-products": "제품", "nav-app": "연동 앱", "nav-about": "회사 소개",
       "cta-contact": "문의하기", "cta-quote": "공장 견적", "cta-more": "글 더 보기 →",
       "cta-start": "프로젝트 시작", "cta-submit": "제출", "cta-subscribe": "구독",
       "cta-expand": "더 보기", "cta-collapse": "접기", "cta-detail": "자세히",
@@ -137,9 +137,16 @@
     }
   };
 
+  if (window.MACY_COPY) {
+    Object.keys(window.MACY_COPY).forEach(function (code) {
+      pack[code] = Object.assign({}, pack[code] || {}, window.MACY_COPY[code]);
+    });
+  }
+
   var zh = {};
   $$("[data-i18n]").forEach(function (el) { zh[el.getAttribute("data-i18n")] = el.textContent; });
   $$("[data-i18n-placeholder]").forEach(function (el) { zh[el.getAttribute("data-i18n-placeholder")] = el.getAttribute("placeholder") || ""; });
+  $$("[data-i18n-alt]").forEach(function (el) { zh[el.getAttribute("data-i18n-alt")] = el.alt || ""; });
   pack.zh = zh;
   var fallback = {
     "empty-page": "这一页没有更多文章。",
@@ -170,12 +177,18 @@
       var key = el.getAttribute("data-i18n-placeholder");
       el.placeholder = (pack[code] && pack[code][key]) || zh[key] || "";
     });
+    $$("[data-i18n-alt]").forEach(function (el) {
+      var key = el.getAttribute("data-i18n-alt");
+      var value = (pack[code] && pack[code][key]) || zh[key];
+      if (value) el.alt = value;
+    });
+    var heading = $("h1[data-i18n]");
+    if (heading && heading.textContent) document.title = heading.textContent + " | MACY-PAN";
     var label = $(".lang-label");
     if (label) label.textContent = names[code];
     $$(".lang-menu [data-lang]").forEach(function (btn) {
       btn.setAttribute("aria-selected", btn.getAttribute("data-lang") === code ? "true" : "false");
     });
-    try { localStorage.setItem("ihave-lang", code); } catch (err) {}
     $$("[data-live]").forEach(function (el) {
       el.textContent = text(el.getAttribute("data-i18n"));
     });
@@ -194,6 +207,7 @@
       var btn = event.target.closest("[data-lang]");
       if (!btn) return;
       applyLang(btn.getAttribute("data-lang"));
+      try { localStorage.setItem("macy-lang", btn.getAttribute("data-lang")); } catch (err) {}
       langMenu.setAttribute("hidden", "");
       langBtn.setAttribute("aria-expanded", "false");
     });
@@ -378,9 +392,13 @@
   }
   $$(".tags button").forEach(function (btn) {
     btn.addEventListener("click", function () {
-      tag = btn.getAttribute("data-tag") || "";
+      var next = btn.getAttribute("data-tag") || "";
+      tag = tag === next ? "" : next;
       query = "";
       if (search) search.value = "";
+      $$(".tags button").forEach(function (item) {
+        item.setAttribute("aria-pressed", item.getAttribute("data-tag") === tag && tag ? "true" : "false");
+      });
       renderArticles();
     });
   });
@@ -414,9 +432,29 @@
 
   mountPhotos();
 
-  var saved = "zh";
-  try { saved = localStorage.getItem("ihave-lang") || "zh"; } catch (err) {}
-  applyLang(saved);
+  function detectLang() {
+    var list = (navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language || "zh"];
+    var i, tag, primary;
+    for (i = 0; i < list.length; i++) {
+      tag = String(list[i] || "").toLowerCase();
+      if (tag.indexOf("zh") === 0) return "zh";
+      primary = tag.split("-")[0];
+      if (names[primary]) return primary;
+    }
+    return "zh";
+  }
+  function initialLang() {
+    var q = "";
+    try { q = new URLSearchParams(location.search).get("lang") || ""; } catch (err) {}
+    q = String(q).toLowerCase();
+    if (q.indexOf("zh") === 0) return "zh";
+    if (names[q]) return q;
+    var chosen = "";
+    try { chosen = localStorage.getItem("macy-lang") || ""; } catch (err) {}
+    if (names[chosen]) return chosen;
+    return detectLang();
+  }
+  applyLang(initialLang());
 
   function asset(path) {
     var script = document.querySelector("script[src*='site.js']");
@@ -508,6 +546,7 @@
       fill(el, asset("img/articles/" + n + ".jpg"));
     });
     $$(".shot").forEach(function (shot) {
+      if (shot.querySelector("img")) return;
       var link = shot.closest("a");
       if (!link) return;
       var match = (link.getAttribute("href") || "").match(/products\/([^/]+)/);

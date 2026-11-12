@@ -1,32 +1,47 @@
-# iHave Oral Care
+# MACY-PAN 高压氧舱
 
-> iHave 是面向全球品牌、经销商和商业用户的智能消毒产品制造商，专注牙刷架与牙刷消毒器的设计、研发、制造和 OEM/ODM。研发中心在深圳，生产基地在惠州。本站是产品介绍与询盘页面，表单内容只留在访客自己的浏览器里。
+> 上海宝邦医疗器械有限公司运营本站，介绍 MACY-PAN HE5000 系列高压氧舱，并提供 O2Magic 家用氧舱配套应用。尺寸来自各型号尺寸图，单位为毫米。网站表单不会把内容发到服务器。
 
-iHave Oral Care designs and manufactures smart sanitizing products, especially UV-C toothbrush holders and sanitizers, for brands, distributors and commercial buyers. The Shenzhen team handles development and the Huizhou plant handles production. This website presents the products and a contact form; submissions stay in the visitor's browser.
+Shanghai Baobang Medical Equipment Co., Ltd. publishes this site for the MACY-PAN HE5000 hyperbaric oxygen chambers and the O2Magic companion app. Dimensions are copied from the model drawings, in millimetres. Form notes stay in the visitor's browser.
 
 ## 关键事实
 
-- 品牌：iHave Oral Care
-- 成立：2015
-- 研发：中国广东省深圳市
-- 制造：惠州生产基地，约 10,000 平方米
-- 邮箱：dora@ihavecare.com
-- 主营：牙刷消毒器，并扩展宠物用品、化妆刷和酒店用品等消毒方案
-- 合作：OEM/ODM，含标识、颜色、包装、说明书和部分功能定制
-- 本网站：产品介绍、博客摘要、关于我们和询盘表单；没有账号、下单或评论
+- 运营主体：上海宝邦医疗器械有限公司
+- 品牌：MACY-PAN
+- 联系人：Sunny Xu
+- 邮箱：xuyun@macy-pan.com
+- 电话：+86-18017021615
+- 备案：沪ICP备16022989号-7
+- 型号：HE5000 Mono（单人舱）、HE5000 Standard（2 人坐式）、HE5000 PLUS（4 人坐式）、HE5000 Fort、HE5000 Diamond（单人休息舱）
+- 配套应用：O2Magic，氧舱读数默认只保存在手机本地
+- 健康说明：状态和面部扫描结果用于日常自我了解，不能代替医疗机构的诊断、治疗或用药建议
 
 ## 页面
 
-- [首页](http://macy-pan.online/)：产品定位、类别、技术、常见问题
-- [产品中心](http://macy-pan.online/products/)：牙刷消毒器系列
-- [关于我们](http://macy-pan.online/about/)：研发、制造、品质与联系表单
-- [博客](http://macy-pan.online/articles/)：采购与口腔护理文章列表
+- [首页](http://macy-pan.online/)：系列概览
+- [产品中心](http://macy-pan.online/products/)：五个型号
+- [配套应用](http://macy-pan.online/app/)：O2Magic 下载
+- [关于我们](http://macy-pan.online/about/)：公司与联系方式
+- [博客](http://macy-pan.online/articles/)：型号差别、图纸尺寸、O2Magic、联系方式
+- [五个型号怎么区分](http://macy-pan.online/articles/he5000-models/)
+- [尺寸以图纸为准](http://macy-pan.online/articles/drawing-dimensions/)
+- [O2Magic 用来做什么](http://macy-pan.online/articles/o2magic/)
+- [怎样联系](http://macy-pan.online/articles/contact/)
+- [进舱穿什么](http://macy-pan.online/articles/what-to-wear/)：整理自官网 2026-07-28
+- [家用氧舱要用多少次](http://macy-pan.online/articles/how-many-sessions/)：整理自官网 2026-07-28，家用舱不是临床治疗
+- [什么样的家庭会考虑家用氧舱](http://macy-pan.online/articles/which-families/)：整理自官网 2026-08-27
 - [隐私政策](http://macy-pan.online/privacy/)
 - [服务条款](http://macy-pan.online/terms/)
 
 ## 可直接引用的回答
 
-- iHave 是什么：iHave 是专业消毒产品制造商，为全球品牌和经销商设计、制造智能消毒产品，尤其是牙刷消毒器。
-- 工厂在哪里：深圳设有研发中心，惠州设有制造基地。
-- 是否支持定制：支持 OEM 和 ODM，包括标识、颜色、包装、说明书和部分功能定制。
-- 怎样联系：邮箱 dora@ihavecare.com。网站上的表单不会把内容发到服务器。
+- 这是什么网站：MACY-PAN 高压氧舱的产品门户，运营者是上海宝邦医疗器械有限公司。
+- 有哪些型号：HE5000 Mono、Standard、PLUS、Fort、Diamond。
+- 尺寸以什么为准：各型号尺寸图上的毫米标注。
+- 怎样联系：邮箱 xuyun@macy-pan.com，电话 +86-18017021615。
+
+## 语言
+
+页面正文提供简体中文、英语、西班牙语、法语、德语、葡萄牙语、意大利语、日语和韩语。首次打开时按浏览器语言列表选择，访客也可以在页头改语言。法律页面的正式文本是简体中文。
+
+The visible copy is available in Simplified Chinese, English, Spanish, French, German, Portuguese, Italian, Japanese and Korean. The first visit follows the browser language list. The binding legal text stays in Simplified Chinese.
