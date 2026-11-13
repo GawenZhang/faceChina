@@ -1,0 +1,320 @@
+Hyperbaric Chambers for Your Practice: FDA Cleared HBOT | OxyHealth (https://www.oxyhealth.com/hbot-for-your-practice)
+citeturn25view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/hbot-for-your-practice","lineno":100}); Total lines: 317
+L0: 【0†OxyHealth】
+L1: 
+L2: 562-906-8888
+L3: 
+L4: For physicians, clinics, and practitioners
+L5: # Bring hyperbaric therapy into your practice
+L6: 
+L7: Explore our chamber solutions and connect with our team to learn how OxyHealth can support your practice, from FDA 510(k) cleared equipment to professional training.
+L8: 
+L9:   * FDA 510(k) cleared Class II medical devices
+L10:   * Professional training and setup support
+L11:   * Portable and clinical hard-sided configurations
+L12: 
+L13: Talk to a Product Specialist Call 562-906-8888
+L14: 【1†Image: Practitioner using the touchscreen controls of an OxyHealth Fortius 420 EXP clinical hyperbaric chamber】
+L15: 
+L16: FDA 510(k) cleared
+L17: 
+L18: ISO 13485 | ASME PVHO-1 for hard chambers
+L19: 
+L20: Of hyperbaric experience
+L21:     29 years Of hyperbaric experience
+L22: 
+L23: Chambers delivered
+L24:     19,000+Chambers delivered
+L25: 
+L26: Physicians who chose OxyHealth
+L27:     3,000+Physicians who chose OxyHealth
+L28: 
+L29: Warranty coverage
+L30:     5 years Warranty coverage
+L31: 
+L32: Hyperbaric therapy
+L33: ## The science of breathing under pressure
+L34: 
+L35: Hyperbaric therapy involves breathing under increased atmospheric pressure, allowing more oxygen to dissolve into the blood plasma and increasing oxygen availability throughout the body.
+L36: 
+L37: Research continues to investigate the physiological effects of hyperbaric environments, including their influence on:
+L38: 
+L39:   * Inflammation
+L40:   * Cellular signaling
+L41:   * Tissue oxygenation
+L42: 
+L43: From emerging research to clinical application, understanding the science is where it begins.
+L44: 【2†How hyperbaric therapy works】
+L45: 
+L46: 【3†Image: Henry's law equation, which describes how more gas dissolves into a liquid as pressure increases】Henry's law: at higher pressure, more gas dissolves into a liquid. Under pressure, more oxygen dissolves into blood plasma.
+L47: 
+L48: Exploring the research
+L49: ## Hyperbaric therapy and Lyme disease
+L50: 
+L51: As interest in hyperbaric therapy continues to expand, practitioners are exploring its potential applications across a variety of clinical conditions.
+L52: 
+L53: Lyme disease remains an area of investigation, with ongoing questions regarding mechanisms, clinical outcomes, and appropriate treatment protocols.
+L54: ### Explore the research
+L55: 
+L56: Learn more about hyperbaric therapy and Lyme disease through educational resources from the International Hyperbarics Association.
+L57: 
+L58: 【4†IHA Lyme disease resources(opens in a new tab)†ihausa.org】
+L59: 
+L60: HBOT is not an FDA-cleared indication for Lyme disease.
+L61: 
+L62: Hyperbaric equipment safety
+L63: ## Not all hyperbaric chambers are FDA cleared
+L64: 
+L65: Do you know what to look for?
+L66: 
+L67: FDA 510(k) clearance matters when choosing equipment for your practice. Ask us about hyperbaric equipment safety, or review the hyperbaric chamber non-negotiables: a safety and compliance checklist from the International Hyperbaric Association.
+L68: 
+L69: 【5†View the non-negotiables】[Button: Ask about equipment safety]
+L70: 
+L71:   * Not enough: Registered
+L72: 
+L73: Does not mean the device is FDA cleared.
+L74: 
+L75:   * Not enough: Listed
+L76: Does not mean the device is FDA cleared.
+L77: 
+L78:   * Yes: 510(k) cleared
+L79: 
+L80: Verify clearance for the specific chamber model.
+L81: 
+L82: 【6†Image: Digital control display and pressure gauge on an OxyHealth Fortius 420 clinical hyperbaric chamber】
+L83: 
+L84: Why OxyHealth
+L85: ## FDA cleared. Safety focused. Built for confidence.
+L86: 
+L87: For nearly three decades, OxyHealth has specialized in hyperbaric technology, providing FDA 510(k)-cleared chambers designed with an emphasis on safety, quality, and patient comfort.
+L88: 
+L89:   * ### FDA 510(k) cleared, not just registered
+L90: 
+L91: OxyHealth chambers are cleared Class II medical devices (Product Code CBF, 21 CFR 868.5470). Registration alone involves no FDA review of the product.
+L92: 
+L93:   * ### ISO 13485 quality management
+L94: Manufactured in the USA under an ISO 13485 certified quality management system.
+L95: 
+L96:   * ### ASME PVHO-1 standards for hard chambers
+L97: 
+L98: Our clinical hard-sided chambers are built to ASME PVHO-1 pressure vessel standards. Documentation is available for every model.
+L99: 
+L100: FDA clearance applies to the device. Clinical use, patient candidacy, and treatment protocols are determined by a qualified clinician. Read our 【7†FDA statement】.
+L101: 
+L102: Chamber configurations
+L103: ## The right chamber for the way your practice works
+L104: 
+L105: From clinical hard-sided systems to portable soft-sided chambers. A specialist will help you match pressure range, size, and setup to your space and patient volume.
+L106: 
+L107: ### Clinical hard-sided chambers
+L108: 
+L109: Up to 4.0 ATA, reinforced steel construction, professionally installed.
+L110: 
+L111:   * 【8†Image: Practitioner operating the control panel of an OxyHealth Fortius 420 clinical hard-sided hyperbaric chamber】Clinical hard-sided chamber
+L112: #### Fortius 420
+L113: 
+L114: Pressure
+L115:     Up to 4.0 ATA (44 psi)
+L116: 
+L117: Interior
+L118:     42 inches
+L119: 
+L120:     * 45 inch exterior width
+L121:     * Oxygen delivery through a hood assembly or built-in breathing system
+L122: 【9†Full Fortius 420 specs】
+L123: 
+L124:   * 【10†Image: OxyHealth Fortius 420 EXP split design clinical hyperbaric chamber with digital controls】Clinical hard-sided chamber
+L125: #### Fortius 420 EXP
+L126: 
+L127: Pressure
+L128:     Up to 4.0 ATA (44 psi)
+L129: 
+L130: Interior
+L131:     42 inches
+L132: 
+L133:     * Split design for clinics with limited access
+L134:     * Oxygen delivery through a hood assembly
+L135: 【11†Full Fortius 420 EXP specs】
+L136: 
+L137: ### Portable soft-sided chambers
+L138: 
+L139: 1.3 ATA mild hyperbaric pressure, compact footprint, simple setup.
+L140: 
+L141:   * 【12†Image: OxyHealth Vitaeris 320 portable soft-sided hyperbaric chamber in a bright room】Portable soft-sided chamber
+L142: #### Vitaeris 320
+L143: 
+L144: Pressure
+L145:     1.3 ATA (4 psi)
+L146: 
+L147: Interior
+L148:     32 inches
+L149: 
+L150:     * Organic cotton mattress
+L151:     * Dual pressure relief valves and internal pressure gauge
+L152: 【13†Full Vitaeris 320 specs】
+L153: 
+L154:   * 【14†Image: Technician connecting an OxyHealth Quamvis 320 soft-sided hyperbaric chamber with external steel frame】Portable soft-sided chamber
+L155: #### Quamvis 320
+L156: 
+L157: Pressure
+L158:     1.3 ATA (4 psi)
+L159: 
+L160: Interior
+L161:     32 inches
+L162: 
+L163:     * Rigid external steel frame with SafeSet buckling system
+L164:     * Longest OxyHealth portable chamber
+L165: 【15†Full Quamvis 320 specs】
+L166: 
+L167:   * 【16†Image: OxyHealth Respiro 270 compact portable hyperbaric chamber】Portable soft-sided chamber
+L168: #### Respiro 270
+L169: 
+L170: Pressure
+L171:     1.3 ATA (4 psi)
+L172: 
+L173: Interior
+L174:     27 inches
+L175: 
+L176:     * Three large viewing windows
+L177:     * Most compact OxyHealth chamber
+L178: 【17†Full Respiro 270 specs】
+L179: 
+L180: Not sure which configuration fits? A product specialist will recommend one for your practice.
+L181: 
+L182: Get a Recommendation
+L183: 
+L184: Training and support
+L185: ## Support beyond the chamber
+L186: 
+L187: Our commitment extends beyond the chamber itself. We help practitioners navigate equipment selection, professional training, and the safety considerations involved in establishing a hyperbaric program.
+L188: 
+L189: 【18†Image: OxyHealth product specialist demonstrating a hyperbaric chamber to practitioners at a medical conference】
+L190: 
+L191:   * ### Practitioner training
+L192: Professional packages include 8-hour online Practitioner/Clinic Training. For deeper preparation, we connect clinics with independent education programs of about 40 hours covering safety, operations, and staff development.
+L193: 
+L194:   * ### Installation and calibration
+L195: 
+L196: Fortius hard-sided chambers are installed, assembled, and calibrated by OxyHealth certified technicians, with training for your team.
+L197: 
+L198:   * ### Equipment selection
+L199: A product specialist matches chamber type, size, and pressure range to your space, patient volume, and workflow.
+L200: 
+L201:   * ### Safety and compliance guidance
+L202: 
+L203: Regulatory documentation, facility considerations, and safety education to help you start a hyperbaric program the right way.
+L204: 
+L205: How it works
+L206: ## From first call to first session
+L207: 
+L208:   1. 1
+L209: 
+L210: ### Tell us about your practice
+L211: 
+L212: Takes about a minute. No obligation.
+L213: 
+L214:   2. 2
+L215: 
+L216: ### Talk with a product specialist
+L217: 
+L218: Usually within one business day.
+L219: 
+L220:   3. 3
+L221: 
+L222: ### Get your configuration plan
+L223: 
+L224: Chamber, training, delivery, and installation, mapped out.
+L225: 
+L226: Talk to a Product Specialist
+L227: 
+L228: ## Flexible business financing available
+L229: 
+L230: OxyHealth partners with Brickhouse Capital on financing designed for clinics and practices.
+L231: 
+L232: 【19†Explore financing】
+L233: ## Questions practitioners ask
+L234: 
+L235: ### What is hyperbaric therapy?
+L236: 
+L237: +
+L238: 
+L239: Hyperbaric therapy means breathing in an environment pressurized above normal atmospheric pressure. Under increased pressure, more oxygen dissolves into the blood plasma, which increases oxygen availability throughout the body. Pressure and the oxygen concentration being breathed are separate variables, and protocols are set by a qualified clinician.
+L240: ### What does FDA 510(k) clearance mean for a hyperbaric chamber?
+L241: 
+L242: +
+L243: Hyperbaric chambers are Class II medical devices (Product Code CBF, 21 CFR 868.5470). 510(k) clearance means the FDA reviewed the device through its premarket notification process before it could be marketed. Being FDA registered or listed only means a manufacturer or device has been recorded with the FDA, and it does not mean the device is FDA cleared. Verify clearance for the specific chamber model. OxyHealth chambers are 510(k) cleared, not just registered.
+L244: ### Which OxyHealth chamber is right for my practice?
+L245: 
+L246: +
+L247: 
+L248: It depends on your space, patient volume, and the pressure range your clinicians want to work with. Portable soft-sided chambers (Respiro 270, Vitaeris 320, Quamvis 320) operate at 1.3 ATA and need little setup. Clinical hard-sided chambers (Fortius 420 and Fortius 420 EXP) operate up to 4.0 ATA and are professionally installed. A product specialist will recommend a configuration for your practice.
+L249: ### What training does OxyHealth provide for practitioners?
+L250: 
+L251: +
+L252: 
+L253: Professional packages include 8-hour online Practitioner/Clinic Training. OxyHealth also connects clinics with independent education organizations offering programs of about 40 hours that cover safety, operations, and staff development.
+L254: ### Is installation included with clinical hard-sided chambers?
+L255: 
+L256: +
+L257: 
+L258: Yes. Fortius 420 and Fortius 420 EXP chambers are installed, assembled, and calibrated by OxyHealth certified technicians, with training for your team. The Fortius 420 EXP uses a split design for clinics with limited access.
+L259: ### Is financing available for clinics and practices?
+L260: 
+L261: +
+L262: 
+L263: Yes. OxyHealth partners with Brickhouse Capital to offer financing designed for clinics and businesses investing in hyperbaric chambers. A product specialist can walk you through options with your quote.
+L264: 
+L265: ### How much does a clinical hyperbaric chamber cost?
+L266: 
+L267: +
+L268: 
+L269: Pricing depends on the model, configuration, and training package. Request a specialist call and OxyHealth will send a custom quote along with business financing options.
+L270: ### Is hyperbaric therapy FDA approved for Lyme disease?
+L271: 
+L272: +
+L273: 
+L274: No. HBOT is not an FDA-cleared indication for Lyme disease. Lyme disease remains an area of investigation, with open questions about mechanisms, clinical outcomes, and appropriate protocols. FDA clearance applies to the chamber as a device, and patient candidacy and treatment protocols are determined by a qualified clinician. The International Hyperbarics Association publishes educational resources on this topic.
+L275: Reviewing the evidence first? Browse the 【20†hyperbaric research library】 or our 【21†partner program】.
+L276: 
+L277: 【22†Image】
+L278: ## Bring hyperbaric therapy into your practice
+L279: 
+L280: Explore our chamber solutions and connect with our team to learn how OxyHealth can support your practice.
+L281: 
+L282: Talk to a Product Specialist Call 562-906-8888
+L283: 
+L284: ## Talk to a product specialist
+L285: 
+L286: Get chamber options, training details, and a custom quote. We usually reply within one business day.
+L287: 
+L288: [Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input][Input]
+L289: ### Contact Information
+L290: 
+L291: First Name *[Input: John]
+L292: 
+L293: Last Name *[Input: Smith]
+L294: 
+L295: Email *[Input: john@clinic.com]
+L296: 
+L297: Phone *[Input: (555) 123-4567]
+L298: 
+L299: Company / Practice Name *[Input: ABC Wellness Clinic]
+L300: ### About your practice
+L301: 
+L302: Partner Type *[Select]
+L303: 
+L304: [Input]
+L305: 
+L306: Security Verification *
+L307: 
+L308: 【23†Image: Captcha verification image†crm.zoho.com】Reload
+L309: 
+L310: [Input: Enter the text above]
+L311: 
+L312: [Button: Request My Specialist Call]
+L313: 
+L314: No pressure, no obligation. Prefer to talk now? Call 562-906-8888. See our 【24†privacy policy】.
+L315: 
+L316: Call[Button: Talk to a Specialist]
+

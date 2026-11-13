@@ -1,0 +1,5 @@
+html[data-route-arrival="pending"] main{opacity:0}
+@media(prefers-reduced-motion:reduce){html[data-route-arrival="pending"] main{opacity:1}}
+.campaign-header{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:20px 24px;max-width:1200px;margin:auto;font-size:16px}
+html[data-campaign="true"] .sh-floating,html[data-campaign="true"] .sh-chat-wrap{display:none}
+@media(max-width:767px){.campaign-header{font-size:14px;padding:16px 24px}}

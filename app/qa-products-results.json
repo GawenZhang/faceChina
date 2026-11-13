@@ -1,0 +1,563 @@
+{
+  "checkedAt": "2026-11-13T05:04:07.709Z",
+  "passed": true,
+  "scope": "Local product structure, responsive geometry and FAQ behavior. Original screenshot/computed-style comparison remains unverified.",
+  "results": [
+    {
+      "slug": "respiro-270",
+      "width": 1440,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 154,
+          "y": 204.5,
+          "width": 534,
+          "height": 345.546875,
+          "right": 688,
+          "bottom": 550.046875
+        },
+        "image": {
+          "x": 752,
+          "y": 302.8125,
+          "width": 534,
+          "height": 540,
+          "right": 1286,
+          "bottom": 842.8125
+        },
+        "intro": {
+          "x": 154,
+          "y": 161,
+          "width": 534,
+          "height": 823.625,
+          "right": 688,
+          "bottom": 984.625
+        },
+        "lineHeight": 69.12,
+        "scrollWidth": 1440,
+        "width": 1440
+      }
+    },
+    {
+      "slug": "vitaeris-320",
+      "width": 1440,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 154,
+          "y": 204.5,
+          "width": 534,
+          "height": 276.4375,
+          "right": 688,
+          "bottom": 480.9375
+        },
+        "image": {
+          "x": 752,
+          "y": 208.578125,
+          "width": 534,
+          "height": 540,
+          "right": 1286,
+          "bottom": 748.578125
+        },
+        "intro": {
+          "x": 154,
+          "y": 161,
+          "width": 534,
+          "height": 635.171875,
+          "right": 688,
+          "bottom": 796.171875
+        },
+        "lineHeight": 69.12,
+        "scrollWidth": 1440,
+        "width": 1440
+      }
+    },
+    {
+      "slug": "quamvis-320",
+      "width": 1440,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 154,
+          "y": 228.953125,
+          "width": 534,
+          "height": 69.109375,
+          "right": 688,
+          "bottom": 298.0625
+        },
+        "image": {
+          "x": 752,
+          "y": 161,
+          "width": 534,
+          "height": 540,
+          "right": 1286,
+          "bottom": 701
+        },
+        "intro": {
+          "x": 154,
+          "y": 185.453125,
+          "width": 534,
+          "height": 491.09375,
+          "right": 688,
+          "bottom": 676.546875
+        },
+        "lineHeight": 69.12,
+        "scrollWidth": 1440,
+        "width": 1440
+      }
+    },
+    {
+      "slug": "fortius-420",
+      "width": 1440,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 154,
+          "y": 228.953125,
+          "width": 534,
+          "height": 69.109375,
+          "right": 688,
+          "bottom": 298.0625
+        },
+        "image": {
+          "x": 752,
+          "y": 161,
+          "width": 534,
+          "height": 540,
+          "right": 1286,
+          "bottom": 701
+        },
+        "intro": {
+          "x": 154,
+          "y": 185.453125,
+          "width": 534,
+          "height": 491.09375,
+          "right": 688,
+          "bottom": 676.546875
+        },
+        "lineHeight": 69.12,
+        "scrollWidth": 1440,
+        "width": 1440
+      }
+    },
+    {
+      "slug": "fortius-420-exp",
+      "width": 1440,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 154,
+          "y": 228.953125,
+          "width": 534,
+          "height": 69.109375,
+          "right": 688,
+          "bottom": 298.0625
+        },
+        "image": {
+          "x": 752,
+          "y": 161,
+          "width": 534,
+          "height": 540,
+          "right": 1286,
+          "bottom": 701
+        },
+        "intro": {
+          "x": 154,
+          "y": 185.453125,
+          "width": 534,
+          "height": 491.09375,
+          "right": 688,
+          "bottom": 676.546875
+        },
+        "lineHeight": 69.12,
+        "scrollWidth": 1440,
+        "width": 1440
+      }
+    },
+    {
+      "slug": "respiro-270",
+      "width": 768,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 24,
+          "y": 179,
+          "width": 342,
+          "height": 270,
+          "right": 366,
+          "bottom": 449
+        },
+        "image": {
+          "x": 402,
+          "y": 370.9375,
+          "width": 342,
+          "height": 470,
+          "right": 744,
+          "bottom": 840.9375
+        },
+        "intro": {
+          "x": 24,
+          "y": 137,
+          "width": 342,
+          "height": 937.890625,
+          "right": 366,
+          "bottom": 1074.890625
+        },
+        "lineHeight": 54,
+        "scrollWidth": 768,
+        "width": 768
+      }
+    },
+    {
+      "slug": "vitaeris-320",
+      "width": 768,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 24,
+          "y": 179,
+          "width": 342,
+          "height": 270,
+          "right": 366,
+          "bottom": 449
+        },
+        "image": {
+          "x": 402,
+          "y": 284.0625,
+          "width": 342,
+          "height": 470,
+          "right": 744,
+          "bottom": 754.0625
+        },
+        "intro": {
+          "x": 24,
+          "y": 137,
+          "width": 342,
+          "height": 764.125,
+          "right": 366,
+          "bottom": 901.125
+        },
+        "lineHeight": 54,
+        "scrollWidth": 768,
+        "width": 768
+      }
+    },
+    {
+      "slug": "quamvis-320",
+      "width": 768,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 24,
+          "y": 179,
+          "width": 342,
+          "height": 54,
+          "right": 366,
+          "bottom": 233
+        },
+        "image": {
+          "x": 402,
+          "y": 205.203125,
+          "width": 342,
+          "height": 470,
+          "right": 744,
+          "bottom": 675.203125
+        },
+        "intro": {
+          "x": 24,
+          "y": 137,
+          "width": 342,
+          "height": 606.421875,
+          "right": 366,
+          "bottom": 743.421875
+        },
+        "lineHeight": 54,
+        "scrollWidth": 768,
+        "width": 768
+      }
+    },
+    {
+      "slug": "fortius-420",
+      "width": 768,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 24,
+          "y": 179,
+          "width": 342,
+          "height": 54,
+          "right": 366,
+          "bottom": 233
+        },
+        "image": {
+          "x": 402,
+          "y": 223.359375,
+          "width": 342,
+          "height": 470,
+          "right": 744,
+          "bottom": 693.359375
+        },
+        "intro": {
+          "x": 24,
+          "y": 137,
+          "width": 342,
+          "height": 642.71875,
+          "right": 366,
+          "bottom": 779.71875
+        },
+        "lineHeight": 54,
+        "scrollWidth": 768,
+        "width": 768
+      }
+    },
+    {
+      "slug": "fortius-420-exp",
+      "width": 768,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 24,
+          "y": 179,
+          "width": 342,
+          "height": 108,
+          "right": 366,
+          "bottom": 287
+        },
+        "image": {
+          "x": 402,
+          "y": 237.15625,
+          "width": 342,
+          "height": 470,
+          "right": 744,
+          "bottom": 707.15625
+        },
+        "intro": {
+          "x": 24,
+          "y": 137,
+          "width": 342,
+          "height": 670.328125,
+          "right": 366,
+          "bottom": 807.328125
+        },
+        "lineHeight": 54,
+        "scrollWidth": 768,
+        "width": 768
+      }
+    },
+    {
+      "slug": "respiro-270",
+      "width": 390,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 24,
+          "y": 139.5,
+          "width": 342,
+          "height": 237.578125,
+          "right": 366,
+          "bottom": 377.078125
+        },
+        "image": {
+          "x": 24,
+          "y": 974.75,
+          "width": 342,
+          "height": 305.34375,
+          "right": 366,
+          "bottom": 1280.09375
+        },
+        "intro": {
+          "x": 24,
+          "y": 101,
+          "width": 342,
+          "height": 833.75,
+          "right": 366,
+          "bottom": 934.75
+        },
+        "lineHeight": 47.52,
+        "scrollWidth": 390,
+        "width": 390
+      }
+    },
+    {
+      "slug": "vitaeris-320",
+      "width": 390,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 24,
+          "y": 139.5,
+          "width": 342,
+          "height": 190.0625,
+          "right": 366,
+          "bottom": 329.5625
+        },
+        "image": {
+          "x": 24,
+          "y": 752.1875,
+          "width": 342,
+          "height": 305.34375,
+          "right": 366,
+          "bottom": 1057.53125
+        },
+        "intro": {
+          "x": 24,
+          "y": 101,
+          "width": 342,
+          "height": 611.1875,
+          "right": 366,
+          "bottom": 712.1875
+        },
+        "lineHeight": 47.52,
+        "scrollWidth": 390,
+        "width": 390
+      }
+    },
+    {
+      "slug": "quamvis-320",
+      "width": 390,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 24,
+          "y": 139.5,
+          "width": 342,
+          "height": 47.515625,
+          "right": 366,
+          "bottom": 187.015625
+        },
+        "image": {
+          "x": 24,
+          "y": 667.578125,
+          "width": 342,
+          "height": 305.34375,
+          "right": 366,
+          "bottom": 972.921875
+        },
+        "intro": {
+          "x": 24,
+          "y": 101,
+          "width": 342,
+          "height": 526.578125,
+          "right": 366,
+          "bottom": 627.578125
+        },
+        "lineHeight": 47.52,
+        "scrollWidth": 390,
+        "width": 390
+      }
+    },
+    {
+      "slug": "fortius-420",
+      "width": 390,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 24,
+          "y": 139.5,
+          "width": 342,
+          "height": 47.515625,
+          "right": 366,
+          "bottom": 187.015625
+        },
+        "image": {
+          "x": 24,
+          "y": 705.515625,
+          "width": 342,
+          "height": 305.34375,
+          "right": 366,
+          "bottom": 1010.859375
+        },
+        "intro": {
+          "x": 24,
+          "y": 101,
+          "width": 342,
+          "height": 564.515625,
+          "right": 366,
+          "bottom": 665.515625
+        },
+        "lineHeight": 47.52,
+        "scrollWidth": 390,
+        "width": 390
+      }
+    },
+    {
+      "slug": "fortius-420-exp",
+      "width": 390,
+      "passed": true,
+      "layout": {
+        "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+        "background": "rgb(11, 11, 13)",
+        "titleColor": "rgb(245, 245, 247)",
+        "title": {
+          "x": 24,
+          "y": 139.5,
+          "width": 342,
+          "height": 47.515625,
+          "right": 366,
+          "bottom": 187.015625
+        },
+        "image": {
+          "x": 24,
+          "y": 679.125,
+          "width": 342,
+          "height": 305.34375,
+          "right": 366,
+          "bottom": 984.46875
+        },
+        "intro": {
+          "x": 24,
+          "y": 101,
+          "width": 342,
+          "height": 538.125,
+          "right": 366,
+          "bottom": 639.125
+        },
+        "lineHeight": 47.52,
+        "scrollWidth": 390,
+        "width": 390
+      }
+    }
+  ],
+  "errors": []
+}

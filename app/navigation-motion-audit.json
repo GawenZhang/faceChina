@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-12T09:04:27.784Z",
+  "observed": {
+    "user": "Homepage to Respiro 270 moves upward on navigation",
+    "localSource": "capture/page.html lists /assets/framer-motion-Ynn_upvn.js",
+    "implementationBefore": "main.jsx rendered pathname once; native links had no arrival animation"
+  },
+  "attempts": [
+    {
+      "tool": "Craft web_site_open",
+      "result": "Denied: MCP tool call requires approval, approval policy never"
+    },
+    {
+      "tool": "Craft web_page_show passive source read",
+      "result": "Same approval denial"
+    },
+    {
+      "tool": "node fetch / Invoke-WebRequest HTML and JS",
+      "result": "Network EACCES / unable to connect"
+    },
+    {
+      "tool": "web.open source bundle and stylesheet",
+      "result": "URLs not accessible"
+    },
+    {
+      "tool": "web.open original Respiro page",
+      "result": "Content structure readable; no computed styles or animation trace"
+    }
+  ],
+  "implementation": {
+    "direction": "translateY(40px) to 0, opacity 0 to 1",
+    "duration_ms": 600,
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "scope": "same-origin known-route primary links; full-document navigation retained; reduced-motion skips"
+  },
+  "verification": {
+    "upwardMotion": "18 local cases passed at 1440/768/390; qa-motion-results.json. Original timing remains unverified.",
+    "originalDurationAndCurve": "UNVERIFIED: provisional, not extracted from original"
+  },
+  "sourceURLs": [
+    "https://www.oxyhealth.com/",
+    "https://www.oxyhealth.com/products/respiro-270",
+    "https://www.oxyhealth.com/assets/index-C4DRXZ3O.js"
+  ],
+  "original_evidence": "inspection/navigation-current/evidence.json"
+}

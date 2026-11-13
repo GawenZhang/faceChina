@@ -1,0 +1,67 @@
+Privacy Policy | OxyHealth (https://www.oxyhealth.com/documents/privacy-notice)
+citeturn43view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/documents/privacy-notice","lineno":null}); Total lines: 64
+L0: Your Privacy Matters
+L1: 
+L2: # Privacy Policy
+L3: 
+L4: OxyHealth LLC is committed to safeguarding your personal information. We believe in transparency and want you to understand how your data is collected, used, and protected.
+L5: 
+L6: No Data Sold
+L7: 
+L8: Your personal data is never sold to third parties
+L9: 
+L10: Secure Storage
+L11: 
+L12: Data stored in a secure Zoho data center in Colorado, USA
+L13: 
+L14: HIPAA Compliant
+L15: 
+L16: Full adherence to HIPAA privacy and security regulations
+L17: 
+L18: Our Privacy Practices
+L19: ## How We Handle Your Data
+L20: 
+L21: We are transparent about what data we collect, how we use it, and what rights you have. Read through each section below for full details.
+L22: ### Overview
+L23: 
+L24: OxyHealth LLC is committed to protecting your personal information. We do not use your data for marketing purposes unless you have explicitly opted in.
+L25: 
+L26: All data is stored in a highly secure Zoho data center located in Colorado, USA, ensuring your information remains protected under stringent security protocols.
+L27: 
+L28: We do not sell your personal data to third parties under any circumstances.
+L29: ### Data Collection
+L30: 
+L31: We collect basic identifiers such as names and email addresses only when users voluntarily provide them. This may occur through website registration, app usage, or service requests.
+L32: 
+L33: OxyHealth does not collect geolocation data, biometric data, or any other sensitive personal data.
+L34: ### Usage Purposes
+L35: 
+L36: Your personal information is used to enable account access, deliver services, respond to customer support inquiries, and collect feedback to improve our products and services.
+L37: 
+L38: Data use remains strictly limited to authorized purposes. We will never use your information beyond the scope for which it was provided.
+L39: ### Storage and Security
+L40: 
+L41: All information transfers occur on secure servers with encryption applied to both data in transit and data at rest.
+L42: 
+L43: Employee access to personal information requires background checks, and we conduct periodic security audits to assess and strengthen our data protection measures.
+L44: ### Third-Party Sharing
+L45: 
+L46: Service providers who assist with our business operations may access your data, but only under strict contractual obligations that limit how that data can be used.
+L47: 
+L48: Your data will never be shared for advertising purposes, used to create automated profiles, or provided for data enhancement services.
+L49: ### Your Rights
+L50: 
+L51: You have the right to request access to your personal data, request corrections to inaccurate information, request erasure of your data, or request a transfer of your data to another provider.
+L52: 
+L53: For any privacy-related inquiries or to exercise your rights, please contact us at privacy@Oxyhealth.com.
+L54: ### HIPAA Compliance
+L55: 
+L56: OxyHealth fully adheres to HIPAA (Health Insurance Portability and Accountability Act) regulations for the privacy and security of protected health information.
+L57: 
+L58: Our compliance program ensures that all health-related data is handled with the highest standards of care, meeting both federal privacy and security requirements.
+L59: ## Questions About Your Privacy?
+L60: 
+L61: If you have any questions about this privacy policy, would like to exercise your data rights, or need more information about how we protect your personal data, please reach out to our privacy team.
+L62: 
+L63: Contact privacy@Oxyhealth.com
+

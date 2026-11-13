@@ -1,0 +1,14 @@
+{
+  "name": "aeris-chambers",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build && node static-routes.mjs",
+    "qa": "node qa-all.mjs"
+  },
+  "dependencies": {
+    "vite": "5.4.21"
+  },
+  "devDependencies": {}
+}

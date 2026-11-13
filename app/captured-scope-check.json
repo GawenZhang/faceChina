@@ -1,0 +1,19 @@
+{
+  "tested_at": "2026-11-13T04:52:49.123Z",
+  "scope": "Offline source CSS versus scoped CSS, home landing only; fonts and images stubbed identically",
+  "passed": true,
+  "rows": [
+    {
+      "width": 1440,
+      "differences": []
+    },
+    {
+      "width": 768,
+      "differences": []
+    },
+    {
+      "width": 390,
+      "differences": []
+    }
+  ]
+}

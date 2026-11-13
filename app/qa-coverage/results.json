@@ -1,0 +1,1955 @@
+{
+  "passed": true,
+  "scope": "Offline generated static pages; remote media stubbed. Does not certify visual parity with uncaptured originals.",
+  "representatives": [
+    {
+      "stage": "representative",
+      "path": "/",
+      "width": 1440,
+      "heading": "FDA ClearedHyperbaricChambers for Home and Clinic",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 14,
+      "template": "home",
+      "height": 20611,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbarics",
+      "width": 1440,
+      "heading": "What Is Hyperbaric Oxygen Therapy (HBOT)?",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 7,
+      "template": "hyperbarics",
+      "height": 8366,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/resources",
+      "width": 1440,
+      "heading": "Videos, News & Education",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 5,
+      "template": "resources",
+      "height": 7312,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/blog",
+      "width": 1440,
+      "heading": "The OxyHealth Blog",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 15,
+      "template": "blog-list",
+      "height": 2867,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/events/a4m-longevity-fest",
+      "width": 1440,
+      "heading": "OxyHealth at A4M Longevityfest 2026",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 3,
+      "template": "event-detail",
+      "height": 7594,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/products/fortius-420",
+      "width": 1440,
+      "heading": "Fortius 420",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 11,
+      "template": "product",
+      "height": 9749,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 1440,
+      "heading": "FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt From Medical Device Regulations",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 16,
+      "template": "article",
+      "height": 13827,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/contact",
+      "width": 1440,
+      "heading": "Contact OxyHealth",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 2,
+      "template": "contact",
+      "height": 1817,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/support",
+      "width": 1440,
+      "heading": "Service, Maintenance, and Ongoing Support for Your OxyHealth Chamber",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 5,
+      "template": "support",
+      "height": 6740,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/partners",
+      "width": 1440,
+      "heading": "Build a Successful Hyperbaric Program with the OxyHealth Team",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 12,
+      "template": "partners",
+      "height": 12467,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/why-oxyhealth",
+      "width": 1440,
+      "heading": "Why OxyHealth",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 8,
+      "template": "why-oxyhealth",
+      "height": 13935,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/finance",
+      "width": 1440,
+      "heading": "Grow Your Practice with an OxyHealth Hyperbaric Chamber",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 4,
+      "template": "finance",
+      "height": 4248,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/about",
+      "width": 1440,
+      "heading": "An Experienced Leader in Hyperbaric Chamber Design",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 4,
+      "template": "about",
+      "height": 5140,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/events/events",
+      "width": 1440,
+      "heading": "See OxyHealth in Person",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 3,
+      "template": "event-list",
+      "height": 6587,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbaric-chamber-for-sale",
+      "width": 1440,
+      "heading": "Hyperbaric Chamber for Sale",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 8,
+      "template": "landing",
+      "height": 12134,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbaric-research-library",
+      "width": 1440,
+      "heading": "Hyperbaric Research Library: Studies by Pressure and Protocol",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 3,
+      "template": "research-library",
+      "height": 5074,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/vitaeris-320-vs-respiro-270",
+      "width": 1440,
+      "heading": "Vitaeris 320 vs Respiro 270: How These Hyperbaric Chambers Compare",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 5,
+      "template": "comparison",
+      "height": 3077,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/safety",
+      "width": 1440,
+      "heading": "Hyperbaric Safety",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 3,
+      "template": "document-safety",
+      "height": 3449,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/terms-conditions",
+      "width": 1440,
+      "heading": "Terms & Conditions",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 2,
+      "template": "document-terms",
+      "height": 4388,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/privacy-notice",
+      "width": 1440,
+      "heading": "Privacy Policy",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 5,
+      "template": "document-privacy",
+      "height": 3117,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/repair-exchange-policy",
+      "width": 1440,
+      "heading": "Repair & Exchange Policy",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 4,
+      "template": "document-repair",
+      "height": 3324,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/fda",
+      "width": 1440,
+      "heading": "FDA Statement and Legal Notice",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 5,
+      "template": "document-fda",
+      "height": 4698,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbaric-pressure-converter",
+      "width": 1440,
+      "heading": "Hyperbaric Pressure Converter: ATA to PSI, kPa, mmHg, and Depth",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 5,
+      "template": "pressure-converter",
+      "height": 3806,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 1440,
+      "heading": "Hyperbaric Oxygen Therapy for Longevity: What the Research Says",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 1440,
+      "sections": 11,
+      "template": "article",
+      "height": 9060,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/",
+      "width": 768,
+      "heading": "FDA ClearedHyperbaricChambers for Home and Clinic",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 14,
+      "template": "home",
+      "height": 21155,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbarics",
+      "width": 768,
+      "heading": "What Is Hyperbaric Oxygen Therapy (HBOT)?",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 7,
+      "template": "hyperbarics",
+      "height": 10502,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/resources",
+      "width": 768,
+      "heading": "Videos, News & Education",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 5,
+      "template": "resources",
+      "height": 8265,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/blog",
+      "width": 768,
+      "heading": "The OxyHealth Blog",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 15,
+      "template": "blog-list",
+      "height": 3259,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/events/a4m-longevity-fest",
+      "width": 768,
+      "heading": "OxyHealth at A4M Longevityfest 2026",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 3,
+      "template": "event-detail",
+      "height": 7248,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/products/fortius-420",
+      "width": 768,
+      "heading": "Fortius 420",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 11,
+      "template": "product",
+      "height": 10184,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 768,
+      "heading": "FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt From Medical Device Regulations",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 16,
+      "template": "article",
+      "height": 14396,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/contact",
+      "width": 768,
+      "heading": "Contact OxyHealth",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 2,
+      "template": "contact",
+      "height": 1937,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/support",
+      "width": 768,
+      "heading": "Service, Maintenance, and Ongoing Support for Your OxyHealth Chamber",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 5,
+      "template": "support",
+      "height": 6752,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/partners",
+      "width": 768,
+      "heading": "Build a Successful Hyperbaric Program with the OxyHealth Team",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 12,
+      "template": "partners",
+      "height": 12924,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/why-oxyhealth",
+      "width": 768,
+      "heading": "Why OxyHealth",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 8,
+      "template": "why-oxyhealth",
+      "height": 14240,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/finance",
+      "width": 768,
+      "heading": "Grow Your Practice with an OxyHealth Hyperbaric Chamber",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 4,
+      "template": "finance",
+      "height": 4185,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/about",
+      "width": 768,
+      "heading": "An Experienced Leader in Hyperbaric Chamber Design",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 4,
+      "template": "about",
+      "height": 6303,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/events/events",
+      "width": 768,
+      "heading": "See OxyHealth in Person",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 3,
+      "template": "event-list",
+      "height": 6026,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbaric-chamber-for-sale",
+      "width": 768,
+      "heading": "Hyperbaric Chamber for Sale",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 8,
+      "template": "landing",
+      "height": 12759,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbaric-research-library",
+      "width": 768,
+      "heading": "Hyperbaric Research Library: Studies by Pressure and Protocol",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 3,
+      "template": "research-library",
+      "height": 5420,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/vitaeris-320-vs-respiro-270",
+      "width": 768,
+      "heading": "Vitaeris 320 vs Respiro 270: How These Hyperbaric Chambers Compare",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 5,
+      "template": "comparison",
+      "height": 3138,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/safety",
+      "width": 768,
+      "heading": "Hyperbaric Safety",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 3,
+      "template": "document-safety",
+      "height": 3915,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/terms-conditions",
+      "width": 768,
+      "heading": "Terms & Conditions",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 2,
+      "template": "document-terms",
+      "height": 5149,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/privacy-notice",
+      "width": 768,
+      "heading": "Privacy Policy",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 5,
+      "template": "document-privacy",
+      "height": 3354,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/repair-exchange-policy",
+      "width": 768,
+      "heading": "Repair & Exchange Policy",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 4,
+      "template": "document-repair",
+      "height": 3785,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/fda",
+      "width": 768,
+      "heading": "FDA Statement and Legal Notice",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 5,
+      "template": "document-fda",
+      "height": 5210,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbaric-pressure-converter",
+      "width": 768,
+      "heading": "Hyperbaric Pressure Converter: ATA to PSI, kPa, mmHg, and Depth",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 5,
+      "template": "pressure-converter",
+      "height": 4049,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 768,
+      "heading": "Hyperbaric Oxygen Therapy for Longevity: What the Research Says",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 768,
+      "sections": 11,
+      "template": "article",
+      "height": 9467,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/",
+      "width": 390,
+      "heading": "FDA ClearedHyperbaricChambers for Home and Clinic",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 14,
+      "template": "home",
+      "height": 21820,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbarics",
+      "width": 390,
+      "heading": "What Is Hyperbaric Oxygen Therapy (HBOT)?",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 7,
+      "template": "hyperbarics",
+      "height": 13480,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/resources",
+      "width": 390,
+      "heading": "Videos, News & Education",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 5,
+      "template": "resources",
+      "height": 12013,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/blog",
+      "width": 390,
+      "heading": "The OxyHealth Blog",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 15,
+      "template": "blog-list",
+      "height": 5116,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/events/a4m-longevity-fest",
+      "width": 390,
+      "heading": "OxyHealth at A4M Longevityfest 2026",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 3,
+      "template": "event-detail",
+      "height": 8500,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/products/fortius-420",
+      "width": 390,
+      "heading": "Fortius 420",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 11,
+      "template": "product",
+      "height": 13991,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 390,
+      "heading": "FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt From Medical Device Regulations",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 16,
+      "template": "article",
+      "height": 23844,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/contact",
+      "width": 390,
+      "heading": "Contact OxyHealth",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 2,
+      "template": "contact",
+      "height": 2214,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/support",
+      "width": 390,
+      "heading": "Service, Maintenance, and Ongoing Support for Your OxyHealth Chamber",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 5,
+      "template": "support",
+      "height": 8492,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/partners",
+      "width": 390,
+      "heading": "Build a Successful Hyperbaric Program with the OxyHealth Team",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 12,
+      "template": "partners",
+      "height": 17901,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/why-oxyhealth",
+      "width": 390,
+      "heading": "Why OxyHealth",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 8,
+      "template": "why-oxyhealth",
+      "height": 14447,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/finance",
+      "width": 390,
+      "heading": "Grow Your Practice with an OxyHealth Hyperbaric Chamber",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 4,
+      "template": "finance",
+      "height": 5615,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/about",
+      "width": 390,
+      "heading": "An Experienced Leader in Hyperbaric Chamber Design",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 4,
+      "template": "about",
+      "height": 6077,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/events/events",
+      "width": 390,
+      "heading": "See OxyHealth in Person",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 3,
+      "template": "event-list",
+      "height": 6577,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbaric-chamber-for-sale",
+      "width": 390,
+      "heading": "Hyperbaric Chamber for Sale",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 8,
+      "template": "landing",
+      "height": 17207,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbaric-research-library",
+      "width": 390,
+      "heading": "Hyperbaric Research Library: Studies by Pressure and Protocol",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 3,
+      "template": "research-library",
+      "height": 6803,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/vitaeris-320-vs-respiro-270",
+      "width": 390,
+      "heading": "Vitaeris 320 vs Respiro 270: How These Hyperbaric Chambers Compare",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 5,
+      "template": "comparison",
+      "height": 3849,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/safety",
+      "width": 390,
+      "heading": "Hyperbaric Safety",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 3,
+      "template": "document-safety",
+      "height": 5625,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/terms-conditions",
+      "width": 390,
+      "heading": "Terms & Conditions",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 2,
+      "template": "document-terms",
+      "height": 6075,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/privacy-notice",
+      "width": 390,
+      "heading": "Privacy Policy",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 5,
+      "template": "document-privacy",
+      "height": 4103,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/repair-exchange-policy",
+      "width": 390,
+      "heading": "Repair & Exchange Policy",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 4,
+      "template": "document-repair",
+      "height": 5382,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/documents/fda",
+      "width": 390,
+      "heading": "FDA Statement and Legal Notice",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 5,
+      "template": "document-fda",
+      "height": 6477,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/hyperbaric-pressure-converter",
+      "width": 390,
+      "heading": "Hyperbaric Pressure Converter: ATA to PSI, kPa, mmHg, and Depth",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 5,
+      "template": "pressure-converter",
+      "height": 4810,
+      "passed": true
+    },
+    {
+      "stage": "representative",
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 390,
+      "heading": "Hyperbaric Oxygen Therapy for Longevity: What the Research Says",
+      "mainCount": 1,
+      "headingCount": 1,
+      "viewport": 390,
+      "sections": 11,
+      "template": "article",
+      "height": 15804,
+      "passed": true
+    }
+  ],
+  "routes": [
+    {
+      "path": "/",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbarics",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/resources",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/blog",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/events/a4m-longevity-fest",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/products/fortius-420",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/products/fortius-420-exp",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/products/quamvis-320",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/products/respiro-270",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/products/vitaeris-320",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/contact",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/support",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/partners",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/why-oxyhealth",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/finance",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/about",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/events/events",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-for-sale",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/home-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/portable-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/soft-shell-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/mild-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/fda-cleared-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/best-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-comparison",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-buying-guide",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-cost",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-for-business",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hbot-for-your-practice",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-rental",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/used-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-prescription",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-room-requirements",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/genuine-oxyhealth-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-benefits",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-side-effects",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-insurance",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-research-library",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-anti-aging",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-athletic-recovery",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-brain-health",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-inflammation",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-long-covid",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-near-me",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-veterinary",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-wound-healing",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/vitaeris-320-vs-respiro-270",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/vitaeris-320-vs-quamvis-320",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/fortius-420-vs-fortius-420-exp",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/documents/safety",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/documents/terms-conditions",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/documents/privacy-notice",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/documents/repair-exchange-policy",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/documents/fda",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-pressure-converter",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbarics",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/resources",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/blog",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/events/a4m-longevity-fest",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/products/fortius-420",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/products/fortius-420-exp",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/products/quamvis-320",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/products/respiro-270",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/products/vitaeris-320",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/contact",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/support",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/partners",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/why-oxyhealth",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/finance",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/about",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/events/events",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-for-sale",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/home-hyperbaric-chamber",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/portable-hyperbaric-chamber",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/soft-shell-hyperbaric-chamber",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/mild-hyperbaric-chamber",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/fda-cleared-hyperbaric-chamber",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/best-hyperbaric-chamber",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-comparison",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-buying-guide",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-cost",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-for-business",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hbot-for-your-practice",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-rental",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/used-hyperbaric-chamber",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-prescription",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-room-requirements",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/genuine-oxyhealth-hyperbaric-chamber",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-benefits",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-side-effects",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-insurance",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-research-library",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-anti-aging",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-athletic-recovery",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-brain-health",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-inflammation",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-long-covid",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-near-me",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-veterinary",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-wound-healing",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/vitaeris-320-vs-respiro-270",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/vitaeris-320-vs-quamvis-320",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/fortius-420-vs-fortius-420-exp",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/documents/safety",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/documents/terms-conditions",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/documents/privacy-notice",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/documents/repair-exchange-policy",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/documents/fda",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-pressure-converter",
+      "width": 390,
+      "passed": true
+    }
+  ],
+  "entries": [
+    {
+      "from": "/",
+      "target": "/products/fortius-420",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/vitaeris-320",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/fortius-420-exp",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/quamvis-320",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/respiro-270",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/fortius-420",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/events/events",
+      "target": "/events/a4m-longevity-fest",
+      "width": 1440,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/fortius-420",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/vitaeris-320",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/fortius-420-exp",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/quamvis-320",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/respiro-270",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/",
+      "target": "/products/fortius-420",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/blog",
+      "target": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    },
+    {
+      "from": "/events/events",
+      "target": "/events/a4m-longevity-fest",
+      "width": 390,
+      "passed": true,
+      "checks": "click, document navigation, URL, refresh, back"
+    }
+  ],
+  "errors": []
+}

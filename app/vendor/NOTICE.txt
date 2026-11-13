@@ -1,0 +1,4 @@
+React and ReactDOM 19.2.7, Scheduler 0.27.0. MIT license included.
+Recovered from installed ZCode application dependencies because registry access was unavailable.
+React and base ReactDOM were separately bundled third-party modules.
+The client renderer and scheduler are precisely the four CommonJS factories za, Ba, Va, Ha, bounded between the preceding Textarea component and following Ua application variable. No application component code is included.

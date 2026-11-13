@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-12",
+  "scope": "入口语义审计：检查所有 app/*.jsx 的 href、Button、onClick、data-quote/data-contact，并将首页/既有页面入口与原始 capture 对照；61 个验收 URL 的本地可达性与点击回归由 qa-navigation/qa-coverage 单独记录。",
+  "sources": [
+    "../ACCEPTANCE-CHECKLIST.md",
+    "../craft.json: request (原始任务明确复刻网站首页)",
+    "../capture/page.html: 原站首页完整 HTML 与 anchor/button 属性",
+    "../capture/routes/blog/capture.json: links",
+    "../capture/routes/resources/capture.json: links",
+    "../capture/routes/hyperbarics/capture.json: links",
+    "../capture/routes/events-a4m-longevity-fest/capture.json: links",
+    "product-article-reference.json",
+    "independent-evidence.json",
+    "extended-evidence.json",
+    "https://www.oxyhealth.com/support (本轮网页读取，Request Service 指向当前页，服务表单存在)",
+    "https://www.oxyhealth.com/partners (本轮网页读取，Partnership Conversation 指向当前页，伙伴表单存在)",
+    "https://www.oxyhealth.com/contact (本轮网页读取，Submit an Inquiry 是 button)",
+    "https://www.oxyhealth.com/finance (本轮网页读取并跟随两个链接，确认 Brickhouse 和 /get-pricing)",
+    "https://www.oxyhealth.com/get-pricing (本轮网页读取，确认独立定价与询价页面)"
+  ],
+  "rootCause": {
+    "observed": [
+      "craft.json 的最初 request 限定首页复刻；ACCEPTANCE-CHECKLIST.md 的历史缺失清单明确记载最初只有首页和四个既有页面，产品详情页尚未实现。",
+      "后续 route-manifest.mjs、product-article-data.mjs 及五个产品详情页已经建立；产品卡、Products 菜单和页脚已回填真实路由，Pressure 却仍将五个产品合并成两个 href=#products。",
+      "Home.Products 的两个 CTA 仍为 #get-started；HomeLower 融资入口仍为展开内容；既有 Events 的报名入口仍调用 inquiry 弹窗。",
+      "原 qa-coverage.mjs 全量链接检查仅筛选 startsWith('/')，排除纯 # 链接，且只是验证目标存在。其完整导航流程仅覆盖产品卡、一个菜单产品、博客卡和活动列表，共44项，没有 ATA 或融资/报名入口。",
+      "原 qa-flows.mjs 检查了 ATA 仪表滚动到4.0，但没有点击 ATA 产品名称。"
+    ],
+    "inference": "阶段一首页范围内使用锚点或临时局部交互；阶段二扩展详情页时，只迁移了主要导航和卡片，没有按每个入口逐一回填。验收脚本又把页面存在、部分点击通过当成全部入口语义已验证，导致残留锚点/弹窗替代和指向错误但存在的页面均未被发现。阶段演变是基于任务记录与当前代码的推断，不声称掌握完整提交历史。",
+    "prevention": "复用 productLinks 和 eventRegistrations 等显式目标字典；回归测试覆盖同一目标的所有不同入口位置，检查完整文档导航与正确 pathname，而不只检查存在任意可点击对象。合法锚点和原站弹窗另列白名单。"
+  },
+  "corrections": [
+    {"entry":"Home.Pressure: Respiro 270","old":"#products (三个产品共用一条链接)","expected":"/products/respiro-270","source":"../capture/page.html"},
+    {"entry":"Home.Pressure: Vitaeris 320","old":"#products (三个产品共用一条链接)","expected":"/products/vitaeris-320","source":"../capture/page.html"},
+    {"entry":"Home.Pressure: Quamvis 320","old":"#products (三个产品共用一条链接)","expected":"/products/quamvis-320","source":"../capture/page.html"},
+    {"entry":"Home.Pressure: Fortius 420","old":"#products (两个产品共用一条链接)","expected":"/products/fortius-420","source":"../capture/page.html"},
+    {"entry":"Home.Pressure: Fortius 420 EXP","old":"#products (两个产品共用一条链接)","expected":"/products/fortius-420-exp","source":"../capture/page.html"},
+    {"entry":"Home manifesto story","old":"/about","expected":"/why-oxyhealth","source":"../capture/page.html"},
+    {"entry":"Home.Products: How to choose a hyperbaric chamber","old":"/hyperbaric-chamber-buying-guide","expected":"/best-hyperbaric-chamber","source":"../capture/page.html"},
+    {"entry":"Home.Products: cost and financing","old":"/finance","expected":"/hyperbaric-chamber-cost","source":"../capture/page.html"},
+    {"entry":"Home.Products: Talk to a Specialist","old":"#get-started","expected":"tel:5629068888","source":"../capture/page.html: tel:562-906-8888 (同一号码)"},
+    {"entry":"Home.Products: Request a Quote","old":"#get-started","expected":"原站 button 对应报价弹窗（data-quote）","source":"../capture/page.html"},
+    {"entry":"HomeLower financing CTA","old":"setFinanceOpen 局部展开","expected":"/finance","source":"../capture/page.html"},
+    {"entry":"HomeLower journey/contact/contact-card 电话入口","old":"openInquiry 弹窗","expected":"tel:5629068888","source":"../capture/page.html: 三处 tel:562-906-8888"},
+    {"entry":"HomeLower Email Us","old":"mailto:info@oxyhealth.com","expected":"mailto:information@oxyhealth.com","source":"../capture/page.html"},
+    {"entry":"HomeLower event secondary CTA","old":"/events/a4m-longevity-fest#register","expected":"https://www.a4m.com/longevity-fest-2026/index.html","target":"_blank","source":"../capture/page.html"},
+    {"entry":"Shell social TikTok/Facebook/YouTube/Instagram","old":["/blog","/resources","/resources#videos","/blog"],"expected":["https://www.tiktok.com/@oxyhealth","https://www.facebook.com/oxyhealthllc","https://www.youtube.com/@OxyHealthLLC","https://www.instagram.com/oxyhealth"],"target":"_blank","source":"../capture/page.html"},
+    {"entry":"Shell Sitemap","old":"/resources","expected":"https://www.oxyhealth.com/sitemap.xml","source":"../capture/page.html: /sitemap.xml"},
+    {"entry":"Shell About this site（原页脚 Humans 位置）","old":"/about","expected":"https://www.oxyhealth.com/humans.txt","source":"../capture/page.html: /humans.txt","limit":"原站另有 /llms.txt，本地当前没有相应入口；本轮修复现有入口，不增补已接受的页脚视觉。"},
+    {"entry":"Routes.EventCard 六个会议主入口","old":"onInquiry 弹窗","expected":["https://shop.lymebytes.com/","https://www.a4m.com/longevity-fest-2026/index.html","https://beyondconference.com/","https://ahsconference.com/","https://www.a4m.com/spring-exhibit-2026.html","https://www.medmaps.org/events/spring2026/"],"source":"../capture/routes/events-a4m-longevity-fest/capture.json: links","implementation":"event-navigation.mjs 共享映射，完整外部页面导航"},
+    {"entry":"Routes.Events hero: Speak with our team","old":"setInquiry 弹窗","expected":"tel:562-906-8888","source":"../capture/routes/events-a4m-longevity-fest/capture.json: links"},
+    {"entry":"IndependentPages.EventList 的 A4M longevity / A4M spring / MAPS 报名","old":["https://www.a4m.com/longevity-fest-2026.html","https://www.a4m.com/","https://www.medmaps.org/"],"expected":["https://www.a4m.com/longevity-fest-2026/index.html","https://www.a4m.com/spring-exhibit-2026.html","https://www.medmaps.org/events/spring2026/"],"source":"../capture/routes/events-a4m-longevity-fest/capture.json: 相同会议的精确目的网址"},
+    {"entry":"Routes.Hyperbarics: veterinary research resources","old":"/resources","expected":"/hyperbaric-therapy-veterinary","source":"../capture/routes/hyperbarics/capture.json: Veterinary HBOT"},
+    {"entry":"IndependentPages.Finance hero financing CTA","old":"#financing-options","expected":"https://partners.brickhousecapital.com/oxyhealth/","source":"https://www.oxyhealth.com/finance: Apply for Financing"},
+    {"entry":"IndependentPages.Finance: Get Pricing and Financing Options","old":"#finance-inquiry","expected":"https://www.oxyhealth.com/get-pricing","source":"https://www.oxyhealth.com/finance: Get Pricing and Financing Options","limit":"独立定价页不在61个本地验收URL内；本轮恢复到原站真实页面的完整导航，不声称已完成该页面的本地复刻。"}
+  ],
+  "preserved": [
+    {"entry":"/hyperbarics View All Products","target":"/#products","reason":"原站 capture/routes/hyperbarics/capture.json 明确为首页产品集合锚点；不是单个产品详情入口。"},
+    {"entry":"产品详情面包屑 Products、why-oxyhealth 的 Explore Our Chambers","target":"/#products","reason":"集合入口指向首页产品集合；五个具名产品入口均独立指向 /products/*。"},
+    {"entry":"/support Request Service","target":"#service-request","reason":"原站 Request Service 链接返回同一 support 页，页面内服务表单存在；保留表单定位。"},
+    {"entry":"/partners Start a Partnership Conversation","target":"#partner-inquiry","reason":"原站对应链接返回同一 partners 页，页面内伙伴表单存在；保留表单定位。"},
+    {"entry":"条款目录、长文章目录","target":"#document-section-* / #article-section-*","reason":"原站参考明确为页内目录；本地各目标section有对应id。"},
+    {"entry":"Request a Quote / Submit an Inquiry","target":"现有报价或询问弹窗","reason":"原站首页与联系页是button，产品参考记录明确报价按钮；只修复误用在产品/融资/报名导航上的弹窗，不把真实询问动作强改为页面跳转。"},
+    {"entry":"菜单开合、公告关闭、FAQ、视频播放/加载更多、聊天、表单提交/重置、会议照片开合、研究筛选、压力换算重置","target":"局部交互状态","reason":"不是清单中的真实页面入口，原 capture 或已有模板参考保留对应交互类型。视频和下载素材仍沿用用户已接受的占位限制。"}
+  ],
+  "coverageNotes": [
+    "首页产品卡、Products 桌面/手机菜单、页脚五产品已经使用真实详情路由，本轮统一ATA链接数据源；不改其已接受视觉。",
+    "博客15篇、首页3篇、资源8篇、页脚文章/指南/主题/法律入口以及新增产品/着陆/对比/独立模板均读取显式路由或记录路径，未发现其他指向#或dialog的真实页面替代入口。",
+    "本轮源代码审查后保留的纯hash只有服务表单、伙伴表单、条款/文章目录；集合导航保留 /#products。",
+    "外链已核对原始href与开启完整页面方式；没有进行购买、注册或提交任何表单。会议原始capture.json没有保存每个target属性，统一采用首页已观察的A4M外链新标签页模式；其他会议的原始target细节未单独验证。",
+    "原始页面逐像素一致、未捕获页面的逐模块一致及真实后台提交仍不在本轮导航修复的验证结论内。"
+  ]
+}

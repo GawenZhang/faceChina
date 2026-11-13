@@ -1,0 +1,401 @@
+[
+  {
+    "path": "/",
+    "title": "OxyHealth | Hyperbaric Chambers",
+    "template": "home"
+  },
+  {
+    "path": "/hyperbarics",
+    "title": "Understanding Hyperbaric Therapy | OxyHealth",
+    "template": "hyperbarics"
+  },
+  {
+    "path": "/resources",
+    "title": "Videos, News & Resources | OxyHealth",
+    "template": "resources"
+  },
+  {
+    "path": "/blog",
+    "title": "The OxyHealth Blog",
+    "template": "blog-list"
+  },
+  {
+    "path": "/events/a4m-longevity-fest",
+    "title": "OxyHealth at Longevityfest 2026",
+    "template": "event-detail"
+  },
+  {
+    "path": "/products/fortius-420",
+    "title": "Fortius 420 Hyperbaric Chamber",
+    "template": "product"
+  },
+  {
+    "path": "/products/fortius-420-exp",
+    "title": "Fortius 420 EXP Hyperbaric Chamber",
+    "template": "product"
+  },
+  {
+    "path": "/products/quamvis-320",
+    "title": "Quamvis 320 Hyperbaric Chamber",
+    "template": "product"
+  },
+  {
+    "path": "/products/respiro-270",
+    "title": "Respiro 270 Hyperbaric Chamber",
+    "template": "product"
+  },
+  {
+    "path": "/products/vitaeris-320",
+    "title": "Vitaeris 320 Hyperbaric Chamber",
+    "template": "product"
+  },
+  {
+    "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+    "title": "FDA Guidance: Hyperbaric Chambers Sold for Wellness Still Require Clearance Under Medical Device Regulations",
+    "template": "article"
+  },
+  {
+    "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+    "title": "Hyperbaric Oxygen and Longevity: A Look at the Evidence",
+    "template": "article"
+  },
+  {
+    "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+    "title": "HBOT for Brain Injury: Clinical Trial Findings",
+    "template": "article"
+  },
+  {
+    "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+    "title": "Long COVID and Hyperbaric Therapy: The Latest Research",
+    "template": "article"
+  },
+  {
+    "path": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+    "title": "Understanding Insurance Coverage for Hyperbaric Therapy",
+    "template": "article"
+  },
+  {
+    "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+    "title": "Planning a Hyperbaric Clinic: A Practical Starting Guide",
+    "template": "article"
+  },
+  {
+    "path": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+    "title": "Hyperbaric Therapy in Veterinary Practice",
+    "template": "article"
+  },
+  {
+    "path": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+    "title": "Inside an Elite Quarterback’s Recovery Routine",
+    "template": "article"
+  },
+  {
+    "path": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+    "title": "From Personal Recovery to Helping Others",
+    "template": "article"
+  },
+  {
+    "path": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+    "title": "Clinical Hyperbaric Care in a Connecticut Practice",
+    "template": "article"
+  },
+  {
+    "path": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+    "title": "A Professional Football Player’s Hyperbaric Recovery",
+    "template": "article"
+  },
+  {
+    "path": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+    "title": "Advanced Recovery Technology in Professional Soccer",
+    "template": "article"
+  },
+  {
+    "path": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+    "title": "Recovery Stories from Athletes at the Highest Level",
+    "template": "article"
+  },
+  {
+    "path": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+    "title": "Hyperbaric Oxygen in a Basketball Star’s Routine",
+    "template": "article"
+  },
+  {
+    "path": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+    "title": "Why Hyperbaric Therapy Is Growing in Professional Sport",
+    "template": "article"
+  },
+  {
+    "path": "/contact",
+    "title": "Contact OxyHealth",
+    "template": "contact"
+  },
+  {
+    "path": "/support",
+    "title": "Service & Support | OxyHealth",
+    "template": "support"
+  },
+  {
+    "path": "/partners",
+    "title": "Build Your Hyperbaric Practice | OxyHealth",
+    "template": "partners"
+  },
+  {
+    "path": "/why-oxyhealth",
+    "title": "Why OxyHealth",
+    "template": "why-oxyhealth"
+  },
+  {
+    "path": "/finance",
+    "title": "Hyperbaric Chamber Financing | OxyHealth",
+    "template": "finance"
+  },
+  {
+    "path": "/about",
+    "title": "About OxyHealth",
+    "template": "about"
+  },
+  {
+    "path": "/events/events",
+    "title": "OxyHealth Events & Conferences",
+    "template": "event-list"
+  },
+  {
+    "path": "/hyperbaric-chamber-for-sale",
+    "title": "Hyperbaric Chambers for Sale",
+    "description": "Explore chambers for your home or practice, with guidance from selection through setup.",
+    "template": "landing"
+  },
+  {
+    "path": "/home-hyperbaric-chamber",
+    "title": "Home Hyperbaric Chambers",
+    "description": "Plan a comfortable space and explore chamber configurations for your home.",
+    "template": "landing"
+  },
+  {
+    "path": "/portable-hyperbaric-chamber",
+    "title": "Portable Hyperbaric Chambers",
+    "description": "Compare portable designs, interior space, installation, and storage considerations.",
+    "template": "landing"
+  },
+  {
+    "path": "/soft-shell-hyperbaric-chamber",
+    "title": "Soft Shell Hyperbaric Chambers",
+    "description": "Explore flexible chamber construction and the practical details of daily ownership.",
+    "template": "landing"
+  },
+  {
+    "path": "/mild-hyperbaric-chamber",
+    "title": "Mild Hyperbaric Chambers",
+    "description": "Understand chamber specifications, pressure terminology, and the questions to discuss with your clinician.",
+    "template": "landing"
+  },
+  {
+    "path": "/fda-cleared-hyperbaric-chamber",
+    "title": "FDA Cleared Hyperbaric Chambers",
+    "description": "Find the documentation to review when comparing equipment and its intended use.",
+    "template": "landing"
+  },
+  {
+    "path": "/best-hyperbaric-chamber",
+    "title": "Choosing the Best Hyperbaric Chamber",
+    "description": "A useful comparison starts with your space, care setting, and support requirements.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-chamber-comparison",
+    "title": "Compare Hyperbaric Chambers",
+    "description": "See the chamber family together and explore the differences between individual models.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-chamber-buying-guide",
+    "title": "Hyperbaric Chamber Buying Guide",
+    "description": "Bring your questions together before choosing a chamber for a home or professional setting.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-chamber-cost",
+    "title": "Hyperbaric Chamber Cost",
+    "description": "Consider equipment, delivery, installation, and ongoing care when planning your budget.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-chamber-for-business",
+    "title": "Hyperbaric Chambers for Business",
+    "description": "Explore equipment, room planning, staff preparation, and continuing support for your business.",
+    "template": "landing"
+  },
+  {
+    "path": "/hbot-for-your-practice",
+    "title": "HBOT for Your Practice",
+    "description": "A starting point for practices exploring equipment and the requirements of a hyperbaric service.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-chamber-rental",
+    "title": "Hyperbaric Chamber Rental",
+    "description": "Discuss availability, rental terms, setup, and support with a product specialist.",
+    "template": "landing"
+  },
+  {
+    "path": "/used-hyperbaric-chamber",
+    "title": "Used Hyperbaric Chambers",
+    "description": "Know which ownership, service, and model records to gather when evaluating pre-owned equipment.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-chamber-prescription",
+    "title": "Hyperbaric Chamber Prescription",
+    "description": "Prepare questions about the documentation and professional oversight required for your equipment.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-chamber-room-requirements",
+    "title": "Hyperbaric Chamber Room Requirements",
+    "description": "Plan the delivery route, operating space, utilities, and access around your chamber.",
+    "template": "landing"
+  },
+  {
+    "path": "/genuine-oxyhealth-hyperbaric-chamber",
+    "title": "Identify a Genuine OxyHealth Chamber",
+    "description": "Gather model and serial information so the team can help verify your equipment.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-chamber-benefits",
+    "title": "Hyperbaric Chamber Benefits",
+    "description": "Explore educational resources and the questions that connect research with clinical decisions.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-chamber-side-effects",
+    "title": "Hyperbaric Chamber Side Effects",
+    "description": "Prepare questions for your clinician about suitability, monitoring, and individual risk.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-chamber-insurance",
+    "title": "Hyperbaric Chamber Insurance",
+    "description": "Organize the questions and documentation to discuss with your care team and insurer.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-research-library",
+    "title": "Hyperbaric Research Library",
+    "description": "Explore study records by pressure and examine the full protocol alongside each research question.",
+    "template": "research-library"
+  },
+  {
+    "path": "/hyperbaric-therapy-anti-aging",
+    "title": "Hyperbaric Therapy and Longevity",
+    "description": "Explore the research context, study design, and limits behind longevity discussions.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-therapy-athletic-recovery",
+    "title": "Hyperbaric Therapy and Athletic Recovery",
+    "description": "Find a starting point for reading recovery research and discussing it with a qualified professional.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-therapy-brain-health",
+    "title": "Hyperbaric Therapy and Brain Health",
+    "description": "Explore the questions researchers ask about brain health and hyperbaric environments.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-therapy-inflammation",
+    "title": "Hyperbaric Therapy and Inflammation",
+    "description": "Read research in context, including the study population, protocol, and outcome measures.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-therapy-long-covid",
+    "title": "Hyperbaric Therapy and Long COVID",
+    "description": "Explore published research questions and discuss how the evidence relates to individual care.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-therapy-near-me",
+    "title": "Find Hyperbaric Therapy Near You",
+    "description": "Prepare questions about a provider’s equipment, professional supervision, and facilities.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-therapy-veterinary",
+    "title": "Veterinary Hyperbaric Therapy",
+    "description": "A starting point for discussing hyperbaric equipment and care with a qualified veterinary team.",
+    "template": "landing"
+  },
+  {
+    "path": "/hyperbaric-therapy-wound-healing",
+    "title": "Hyperbaric Therapy and Wound Healing",
+    "description": "Explore educational resources to discuss with a wound care specialist.",
+    "template": "landing"
+  },
+  {
+    "path": "/vitaeris-320-vs-respiro-270",
+    "title": "Vitaeris 320 vs Respiro 270: How These Hyperbaric Chambers Compare",
+    "models": [
+      0,
+      1
+    ],
+    "difference": "Interior width and overall size are the main differences. Compare the room available and the space you prefer inside the chamber.",
+    "template": "comparison"
+  },
+  {
+    "path": "/vitaeris-320-vs-quamvis-320",
+    "title": "Vitaeris 320 vs Quamvis 320: How These Hyperbaric Chambers Compare",
+    "models": [
+      0,
+      2
+    ],
+    "difference": "Both models have a 32-inch interior. The Quamvis configuration adds an external frame and extra length.",
+    "template": "comparison"
+  },
+  {
+    "path": "/fortius-420-vs-fortius-420-exp",
+    "title": "Fortius 420 vs Fortius 420 EXP: How These Hyperbaric Chambers Compare",
+    "models": [
+      3,
+      4
+    ],
+    "difference": "Both models share a 42-inch interior and pressure range. The EXP separates into sections to help with delivery access.",
+    "template": "comparison"
+  },
+  {
+    "path": "/documents/safety",
+    "title": "Hyperbaric Safety",
+    "eyebrow": "Safety and Documentation",
+    "template": "document-safety"
+  },
+  {
+    "path": "/documents/terms-conditions",
+    "title": "Terms & Conditions",
+    "eyebrow": "Legal",
+    "template": "document-terms"
+  },
+  {
+    "path": "/documents/privacy-notice",
+    "title": "Privacy Policy",
+    "eyebrow": "Your Privacy",
+    "template": "document-privacy"
+  },
+  {
+    "path": "/documents/repair-exchange-policy",
+    "title": "Repair & Exchange Policy",
+    "eyebrow": "Service and Support",
+    "template": "document-repair"
+  },
+  {
+    "path": "/documents/fda",
+    "title": "FDA Statement and Legal Notice",
+    "eyebrow": "Regulatory Information",
+    "template": "document-fda"
+  },
+  {
+    "path": "/hyperbaric-pressure-converter",
+    "title": "Hyperbaric Pressure Converter",
+    "template": "pressure-converter"
+  }
+]

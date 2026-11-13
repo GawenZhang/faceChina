@@ -1,0 +1,61 @@
+Used Hyperbaric Chambers: What to Check Before You Buy | OxyHealth (https://www.oxyhealth.com/used-hyperbaric-chamber)
+citeturn31view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/used-hyperbaric-chamber","lineno":100}); Total lines: 58
+L0:   1. 【0†Home】
+L1:   2. /
+L2:   3. 【1†Resources】
+L3:   4. /
+L4:   5. Used Hyperbaric Chambers
+L5: 
+L6: Buying Guide
+L7: 
+L8: # Used Hyperbaric Chambers: What to Check Before You Buy
+L9: 
+L10: A used hyperbaric chamber is still a pressurized medical device, so its history matters. Before buying one, confirm what it is, who made it, how it has been serviced, and who will support it. OxyHealth occasionally has factory-refurbished chambers available.
+L11: ## Why a chamber's history matters
+L12: 
+L13: A hyperbaric chamber holds a person inside an environment pressurized above normal atmospheric pressure. Its seals, closures, windows, valves, and air supply all have to work as designed, every session. Wear, poor storage, and unauthorized repairs are not always visible.
+L14: 
+L15: FDA regulates hyperbaric chambers as 【2†Class II medical devices†www.accessdata.fda.gov】. That classification does not lapse when a chamber changes hands.
+L16: ## A checklist for any used chamber
+L17:   * Identity. Get the manufacturer, model name, and serial number, and confirm them with the manufacturer.
+L18:   * Clearance. Confirm the model has FDA 510(k) clearance. See 【3†what FDA clearance means】.
+L19:   * Service history. Ask for records of inspections, repairs, and part replacements, and who performed them.
+L20:   * Condition of the pressure boundary. For soft-sided chambers, inspect the bladder, zipper or seal assemblies, and windows. For hard-sided chambers, ask for the vessel's documentation.
+L21:   * Air supply. Check the compressor and filters, and ask when filters were last changed.
+L22:   * Documents. The chamber should come with its instructions for use.
+L23:   * Support. Ask the manufacturer whether it will service the unit and what coverage, if any, applies to a second owner.
+L24: ## OxyHealth refurbished chambers
+L25: 
+L26: OxyHealth occasionally has refurbished chambers available. These chambers are inspected, serviced, and certified by factory-trained technicians before they are offered again. Buying a refurbished chamber directly from OxyHealth also means the manufacturer knows the unit's history.
+L27: Availability changes, so 【4†contact OxyHealth】 to ask what is on hand. If you already own an OxyHealth chamber that needs attention, see the 【5†repair and exchange policy】 or the 【6†support page】.
+L28: ## A prescription is still required
+L29: 
+L30: New or used, an OxyHealth chamber is sold on the order of a licensed healthcare provider, and a qualified clinician determines the protocol. Read more in 【7†Do You Need a Prescription for a Hyperbaric Chamber?】
+L31: 
+L32: ## Used Hyperbaric Chamber FAQ
+L33: ### Can I buy a used or refurbished hyperbaric chamber from OxyHealth?
+L34: 
+L35: OxyHealth occasionally has refurbished chambers available. Refurbished OxyHealth chambers are inspected, serviced, and certified by factory-trained technicians. Contact OxyHealth to ask about current availability.
+L36: ### Is it safe to buy a used hyperbaric chamber from a private seller?
+L37: 
+L38: It carries more uncertainty. A private sale usually comes without a documented service history, without confirmation of how the chamber was stored and used, and without manufacturer support. If you consider one, verify the serial number with the manufacturer and have the chamber inspected before use.
+L39: ### Do I still need a prescription for a used hyperbaric chamber?
+L40: 
+L41: A hyperbaric chamber is an FDA-regulated Class II medical device whether it is new or used. OxyHealth chambers are sold on the order of a licensed healthcare provider.
+L42: 
+L43: ### How do I check that a used chamber is a genuine OxyHealth chamber?
+L44: 
+L45: Ask the seller for the model name and serial number, then contact OxyHealth at 562-906-8888 to confirm them. OxyHealth can tell you whether the chamber is one of its products.
+L46: ## Ask about refurbished availability
+L47: 
+L48: Refurbished chambers are available from time to time. Contact the OxyHealth team to ask what is currently available, or to verify a chamber you are considering.
+L49: 
+L50: 【4†Contact OxyHealth】【8†See chambers for sale】
+L51: 
+L52: ### Related guides
+L53: 
+L54:   * 【9†How to Confirm a Genuine OxyHealth Chamber】
+L55:   * 【10†Hyperbaric Chamber Rental】
+L56:   * 【5†Repair and Exchange Policy】
+L57:   * 【11†Hyperbaric Chamber Buying Guide】
+

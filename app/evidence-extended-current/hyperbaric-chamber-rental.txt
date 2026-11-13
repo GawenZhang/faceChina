@@ -1,0 +1,67 @@
+Hyperbaric Chamber Rental: What to Know Before You Rent | OxyHealth (https://www.oxyhealth.com/hyperbaric-chamber-rental)
+citeturn35view0 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/hyperbaric-chamber-rental","lineno":100}); Total lines: 64
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4:   1. 【6†Home】
+L5:   2. /
+L6:   3. 【1†Resources】
+L7:   4. /
+L8:   5. Hyperbaric Chamber Rental
+L9: 
+L10: Buying Guide
+L11: 
+L12: # Hyperbaric Chamber Rental: What to Know Before You Rent
+L13: 
+L14: A rented hyperbaric chamber is the same regulated medical device as a purchased one, so the same checks apply: FDA 510(k) clearance, a prescription, training, and a clear answer on who services the equipment. OxyHealth provides rental details on request.
+L15: ## What you are renting
+L16: 
+L17: A hyperbaric chamber pressurizes the environment around the whole body above normal atmospheric pressure. FDA regulates these chambers as 【7†Class II medical devices†www.accessdata.fda.gov】. Renting changes who owns the equipment. It does not change what the equipment is or the care it needs.
+L18: 
+L19: That is why the questions to ask a rental provider are largely the same questions you would ask before buying.
+L20: ## What to verify with any rental provider
+L21:   * Clearance for the specific device. Ask for the model's FDA 510(k) clearance and confirm it. See 【8†what FDA clearance means】.
+L22:   * Prescription handling. Ask how the provider handles the 【9†prescription requirement】.
+L23:   * Service and cleaning history. A rental unit has been used before. Ask when it was last inspected and serviced, and by whom.
+L24:   * Instructions and training. You should receive the manufacturer's instructions for use and be shown how to operate the chamber correctly.
+L25:   * Support during the rental. Find out who you call if something needs attention, and who is responsible for maintenance.
+L26:   * That the chamber is genuine. See 【10†how to confirm a genuine OxyHealth chamber】.
+L27: ## Renting compared with owning
+L28: 
+L29: The right choice follows from how the chamber will be used, and that starts with your clinician. A qualified clinician determines whether hyperbaric therapy is appropriate and sets the protocol, including how long it runs.
+L30:   * Renting can suit a defined period of use, or someone who wants experience with a chamber before committing to one.
+L31:   * Owning can suit ongoing use, households or practices with more than one user, and anyone who wants the chamber set up permanently. OxyHealth offers 【3†financing】 for purchases.
+L32: 
+L33: Either way, plan the space first. The 【11†room size and setup guide】 lists the dimensions and power requirements for each OxyHealth model.
+L34: ## Safety applies to rentals too
+L35: 
+L36: Follow the chamber's instructions for use every session, including the manufacturer's prohibited-item list and guidance on ignition sources and electronic devices. Do not improvise exceptions. The 【12†OxyHealth safety page】 covers the essentials.
+L37: 
+L38: ## Hyperbaric Chamber Rental FAQ
+L39: ### Can you rent a hyperbaric chamber?
+L40: 
+L41: Rental availability depends on the provider, the model, and your location. OxyHealth provides rental details on request. Contact the team and select the rental option on the inquiry form to find out what is currently available.
+L42: 
+L43: ### Do you need a prescription to rent a hyperbaric chamber?
+L44: 
+L45: Hyperbaric chambers are FDA-regulated Class II medical devices whether they are bought or rented. OxyHealth chambers are provided on the order of a licensed healthcare provider.
+L46: ### Is it better to rent or buy a hyperbaric chamber?
+L47: 
+L48: It depends on how long your clinician expects you to use the chamber and how you weigh logistics, service, and long-term access. Renting can suit a defined period of use. Ownership can suit ongoing use. OxyHealth also offers financing for purchases.
+L49: ### What should I check before renting a chamber?
+L50: 
+L51: Confirm the specific device has FDA 510(k) clearance, ask for its service and cleaning history, make sure you receive the instructions for use and training, and find out who is responsible for maintenance and support during the rental.
+L52: ## Request rental details
+L53: 
+L54: Tell the OxyHealth team what you are considering. On the inquiry form, choose "Rental details only" and a specialist will follow up with what is currently available.
+L55: 
+L56: 【13†Contact OxyHealth】【3†See financing options】
+L57: 
+L58: ### Related guides
+L59: 
+L60:   * 【14†Used and Refurbished Chambers】
+L61:   * 【9†Do You Need a Prescription?】
+L62:   * 【11†Room Size and Setup Requirements】
+L63:   * 【15†Hyperbaric Chamber Buying Guide】
+

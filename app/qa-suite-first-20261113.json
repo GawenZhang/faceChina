@@ -1,0 +1,843 @@
+{
+  "started_at": "2026-11-13T04:56:54.626Z",
+  "passed": false,
+  "scripts": [
+    {
+      "script": "qa.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 3215,
+      "passed": true,
+      "stdout": "{\n  \"passed\": true,\n  \"scope\": \"Offline homepage structure and layout; remote media stubbed.\",\n  \"results\": [\n    {\n      \"width\": 1440,\n      \"title\": \"OxyHealth | Hyperbaric Chambers\",\n      \"layout\": {\n        \"scroll\": 1440,\n        \"width\": 1440,\n        \"mainCount\": 1,\n        \"headingCount\": 1,\n        \"heading\": \"FDA ClearedHyperbaricChambers for Home and Clinic\",\n        \"sections\": [\n          {\n            \"title\": \"FDA ClearedHyperbaricChambers for Home and Clinic\",\n            \"y\": 105,\n            \"h\": 2070\n          },\n          {\n            \"title\": \"Why OxyHealth\",\n            \"y\": 2175,\n            \"h\": 1111\n          },\n          {\n            \"title\": \"From 1.3 to 4.0 ATA. One family of chambers.\",\n            \"y\": 3286,\n            \"h\": 2340\n          },\n          {\n            \"title\": \"A Chamber for Every Need\",\n            \"y\": 5626,\n            \"h\": 1892\n          },\n          {\n            \"title\": \"Professional Hyperbaric Therapy. Designed for Everyday Life.\",\n            \"y\": 7518,\n            \"h\": 995\n          },\n          {\n            \"title\": \"The standard everyone else is measured against.\",\n            \"y\": 8513,\n            \"h\": 1004\n          },\n          {\n            \"title\": \"Proof you can ask for in writing.\",\n            \"y\": 9517,\n            \"h\": 2880\n          }\n        ]\n      },\n      \"passed\": true\n    },\n    {\n      \"width\": 768,\n      \"title\": \"OxyHealth | Hyperbaric Chambers\",\n      \"layout\": {\n        \"scroll\": 768,\n        \"width\": 768,\n        \"mainCount\": 1,\n        \"headingCount\": 1,\n        \"heading\": \"FDA ClearedHyperbaricChambers for Home and Clinic\",\n        \"sections\": [\n          {\n            \"title\": \"FDA ClearedHyperbaricChambers for Home and Clinic\",\n            \"y\": 105,\n            \"h\": 2070\n          },\n          {\n            \"title\": \"Why OxyHealth\",\n            \"y\": 2175,\n            \"h\": 1173\n          },\n          {\n            \"title\": \"From 1.3 to 4.0 ATA. One family of chambers.\",\n            \"y\": 3348,\n            \"h\": 2340\n          },\n          {\n            \"title\": \"A Chamber for Every Need\",\n            \"y\": 5688,\n            \"h\": 1752\n          },\n          {\n            \"title\": \"Professional Hyperbaric Therapy. Designed for Everyday Life.\",\n            \"y\": 7440,\n            \"h\": 928\n          },\n          {\n            \"title\": \"The standard everyone else is measured against.\",\n            \"y\": 8368,\n            \"h\": 1171\n          },\n          {\n            \"title\": \"Proof you can ask for in writing.\",\n            \"y\": 9539,\n            \"h\": 2880\n          }\n        ]\n      },\n      \"passed\": true\n    },\n    {\n      \"width\": 390,\n      \"title\": \"OxyHealth | Hyperbaric Chambers\",\n      \"layout\": {\n        \"scroll\": 390,\n        \"width\": 390,\n        \"mainCount\": 1,\n        \"headingCount\": 1,\n        \"heading\": \"FDA ClearedHyperbaricChambers for Home and Clinic\",\n        \"sections\": [\n          {\n            \"title\": \"FDA ClearedHyperbaricChambers for Home and Clinic\",\n            \"y\": 93,\n            \"h\": 2070\n          },\n          {\n            \"title\": \"Why OxyHealth\",\n            \"y\": 2163,\n            \"h\": 717\n          },\n          {\n            \"title\": \"From 1.3 to 4.0 ATA. One family of chambers.\",\n            \"y\": 2880,\n            \"h\": 2340\n          },\n          {\n            \"title\": \"A Chamber for Every Need\",\n            \"y\": 5220,\n            \"h\": 3297\n          },\n          {\n            \"title\": \"Professional Hyperbaric Therapy. Designed for Everyday Life.\",\n            \"y\": 8517,\n            \"h\": 1256\n          },\n          {\n            \"title\": \"The standard everyone else is measured against.\",\n            \"y\": 9773,\n            \"h\": 1496\n          },\n          {\n            \"title\": \"Proof you can ask for in writing.\",\n            \"y\": 11269,\n            \"h\": 829\n          }\n        ]\n      },\n      \"passed\": true\n    }\n  ],\n  \"errors\": []\n}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "scope": "Offline homepage structure and layout; remote media stubbed.",
+        "results": [
+          {
+            "width": 1440,
+            "title": "OxyHealth | Hyperbaric Chambers",
+            "layout": {
+              "scroll": 1440,
+              "width": 1440,
+              "mainCount": 1,
+              "headingCount": 1,
+              "heading": "FDA ClearedHyperbaricChambers for Home and Clinic",
+              "sections": [
+                {
+                  "title": "FDA ClearedHyperbaricChambers for Home and Clinic",
+                  "y": 105,
+                  "h": 2070
+                },
+                {
+                  "title": "Why OxyHealth",
+                  "y": 2175,
+                  "h": 1111
+                },
+                {
+                  "title": "From 1.3 to 4.0 ATA. One family of chambers.",
+                  "y": 3286,
+                  "h": 2340
+                },
+                {
+                  "title": "A Chamber for Every Need",
+                  "y": 5626,
+                  "h": 1892
+                },
+                {
+                  "title": "Professional Hyperbaric Therapy. Designed for Everyday Life.",
+                  "y": 7518,
+                  "h": 995
+                },
+                {
+                  "title": "The standard everyone else is measured against.",
+                  "y": 8513,
+                  "h": 1004
+                },
+                {
+                  "title": "Proof you can ask for in writing.",
+                  "y": 9517,
+                  "h": 2880
+                }
+              ]
+            },
+            "passed": true
+          },
+          {
+            "width": 768,
+            "title": "OxyHealth | Hyperbaric Chambers",
+            "layout": {
+              "scroll": 768,
+              "width": 768,
+              "mainCount": 1,
+              "headingCount": 1,
+              "heading": "FDA ClearedHyperbaricChambers for Home and Clinic",
+              "sections": [
+                {
+                  "title": "FDA ClearedHyperbaricChambers for Home and Clinic",
+                  "y": 105,
+                  "h": 2070
+                },
+                {
+                  "title": "Why OxyHealth",
+                  "y": 2175,
+                  "h": 1173
+                },
+                {
+                  "title": "From 1.3 to 4.0 ATA. One family of chambers.",
+                  "y": 3348,
+                  "h": 2340
+                },
+                {
+                  "title": "A Chamber for Every Need",
+                  "y": 5688,
+                  "h": 1752
+                },
+                {
+                  "title": "Professional Hyperbaric Therapy. Designed for Everyday Life.",
+                  "y": 7440,
+                  "h": 928
+                },
+                {
+                  "title": "The standard everyone else is measured against.",
+                  "y": 8368,
+                  "h": 1171
+                },
+                {
+                  "title": "Proof you can ask for in writing.",
+                  "y": 9539,
+                  "h": 2880
+                }
+              ]
+            },
+            "passed": true
+          },
+          {
+            "width": 390,
+            "title": "OxyHealth | Hyperbaric Chambers",
+            "layout": {
+              "scroll": 390,
+              "width": 390,
+              "mainCount": 1,
+              "headingCount": 1,
+              "heading": "FDA ClearedHyperbaricChambers for Home and Clinic",
+              "sections": [
+                {
+                  "title": "FDA ClearedHyperbaricChambers for Home and Clinic",
+                  "y": 93,
+                  "h": 2070
+                },
+                {
+                  "title": "Why OxyHealth",
+                  "y": 2163,
+                  "h": 717
+                },
+                {
+                  "title": "From 1.3 to 4.0 ATA. One family of chambers.",
+                  "y": 2880,
+                  "h": 2340
+                },
+                {
+                  "title": "A Chamber for Every Need",
+                  "y": 5220,
+                  "h": 3297
+                },
+                {
+                  "title": "Professional Hyperbaric Therapy. Designed for Everyday Life.",
+                  "y": 8517,
+                  "h": 1256
+                },
+                {
+                  "title": "The standard everyone else is measured against.",
+                  "y": 9773,
+                  "h": 1496
+                },
+                {
+                  "title": "Proof you can ask for in writing.",
+                  "y": 11269,
+                  "h": 829
+                }
+              ]
+            },
+            "passed": true
+          }
+        ],
+        "errors": []
+      }
+    },
+    {
+      "script": "qa-motion.mjs",
+      "exitCode": 1,
+      "signal": null,
+      "duration_ms": 39446,
+      "passed": false,
+      "stdout": "{\n  \"date\": \"2026-11-13T04:57:37.274Z\",\n  \"passed\": false,\n  \"scope\": \"Local navigation behavior; original timing is unverified\",\n  \"parameters\": {\n    \"duration\": 600,\n    \"distance\": 40,\n    \"easing\": \"cubic-bezier(0.22, 1, 0.36, 1)\"\n  },\n  \"checks\": [\n    {\n      \"name\": \"1440 homepage ATA -> respiro-270\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440 homepage ATA -> vitaeris-320\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440 homepage ATA -> quamvis-320\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440 homepage ATA -> fortius-420\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440 homepage ATA -> fortius-420-exp\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440 reduced motion and same-page anchors\",\n      \"passed\": false,\n      \"error\": \"locator.click: Timeout 10000ms exceeded.\\nCall log:\\n\\u001b[2m  - waiting for locator('.pa-toc a[href^=\\\"#\\\"]').first()\\u001b[22m\\n\\n    at D:\\\\MacyGEO\\\\glm复刻氧舱官网\\\\app\\\\qa-motion.mjs:62:55\\n    at async check (D:\\\\MacyGEO\\\\glm复刻氧舱官网\\\\app\\\\qa-motion.mjs:25:35)\\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-motion.mjs:56:3\"\n    },\n    {\n      \"name\": \"768 homepage ATA -> respiro-270\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"768 homepage ATA -> vitaeris-320\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"768 homepage ATA -> quamvis-320\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"768 homepage ATA -> fortius-420\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"768 homepage ATA -> fortius-420-exp\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"768 reduced motion and same-page anchors\",\n      \"passed\": false,\n      \"error\": \"locator.click: Timeout 10000ms exceeded.\\nCall log:\\n\\u001b[2m  - waiting for locator('.pa-toc a[href^=\\\"#\\\"]').first()\\u001b[22m\\n\\n    at D:\\\\MacyGEO\\\\glm复刻氧舱官网\\\\app\\\\qa-motion.mjs:62:55\\n    at async check (D:\\\\MacyGEO\\\\glm复刻氧舱官网\\\\app\\\\qa-motion.mjs:25:35)\\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-motion.mjs:56:3\"\n    },\n    {\n      \"name\": \"390 homepage ATA -> respiro-270\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390 homepage ATA -> vitaeris-320\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390 homepage ATA -> quamvis-320\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390 homepage ATA -> fortius-420\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390 homepage ATA -> fortius-420-exp\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390 reduced motion and same-page anchors\",\n      \"passed\": false,\n      \"error\": \"locator.click: Timeout 10000ms exceeded.\\nCall log:\\n\\u001b[2m  - waiting for locator('.pa-toc a[href^=\\\"#\\\"]').first()\\u001b[22m\\n\\n    at D:\\\\MacyGEO\\\\glm复刻氧舱官网\\\\app\\\\qa-motion.mjs:62:55\\n    at async check (D:\\\\MacyGEO\\\\glm复刻氧舱官网\\\\app\\\\qa-motion.mjs:25:35)\\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-motion.mjs:56:3\"\n    }\n  ],\n  \"errors\": []\n}\n",
+      "stderr": "",
+      "result": {
+        "date": "2026-11-13T04:57:37.274Z",
+        "passed": false,
+        "scope": "Local navigation behavior; original timing is unverified",
+        "parameters": {
+          "duration": 600,
+          "distance": 40,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "checks": [
+          {
+            "name": "1440 homepage ATA -> respiro-270",
+            "passed": true
+          },
+          {
+            "name": "1440 homepage ATA -> vitaeris-320",
+            "passed": true
+          },
+          {
+            "name": "1440 homepage ATA -> quamvis-320",
+            "passed": true
+          },
+          {
+            "name": "1440 homepage ATA -> fortius-420",
+            "passed": true
+          },
+          {
+            "name": "1440 homepage ATA -> fortius-420-exp",
+            "passed": true
+          },
+          {
+            "name": "1440 reduced motion and same-page anchors",
+            "passed": false,
+            "error": "locator.click: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('.pa-toc a[href^=\"#\"]').first()\u001b[22m\n\n    at D:\\MacyGEO\\glm复刻氧舱官网\\app\\qa-motion.mjs:62:55\n    at async check (D:\\MacyGEO\\glm复刻氧舱官网\\app\\qa-motion.mjs:25:35)\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-motion.mjs:56:3"
+          },
+          {
+            "name": "768 homepage ATA -> respiro-270",
+            "passed": true
+          },
+          {
+            "name": "768 homepage ATA -> vitaeris-320",
+            "passed": true
+          },
+          {
+            "name": "768 homepage ATA -> quamvis-320",
+            "passed": true
+          },
+          {
+            "name": "768 homepage ATA -> fortius-420",
+            "passed": true
+          },
+          {
+            "name": "768 homepage ATA -> fortius-420-exp",
+            "passed": true
+          },
+          {
+            "name": "768 reduced motion and same-page anchors",
+            "passed": false,
+            "error": "locator.click: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('.pa-toc a[href^=\"#\"]').first()\u001b[22m\n\n    at D:\\MacyGEO\\glm复刻氧舱官网\\app\\qa-motion.mjs:62:55\n    at async check (D:\\MacyGEO\\glm复刻氧舱官网\\app\\qa-motion.mjs:25:35)\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-motion.mjs:56:3"
+          },
+          {
+            "name": "390 homepage ATA -> respiro-270",
+            "passed": true
+          },
+          {
+            "name": "390 homepage ATA -> vitaeris-320",
+            "passed": true
+          },
+          {
+            "name": "390 homepage ATA -> quamvis-320",
+            "passed": true
+          },
+          {
+            "name": "390 homepage ATA -> fortius-420",
+            "passed": true
+          },
+          {
+            "name": "390 homepage ATA -> fortius-420-exp",
+            "passed": true
+          },
+          {
+            "name": "390 reduced motion and same-page anchors",
+            "passed": false,
+            "error": "locator.click: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('.pa-toc a[href^=\"#\"]').first()\u001b[22m\n\n    at D:\\MacyGEO\\glm复刻氧舱官网\\app\\qa-motion.mjs:62:55\n    at async check (D:\\MacyGEO\\glm复刻氧舱官网\\app\\qa-motion.mjs:25:35)\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-motion.mjs:56:3"
+          }
+        ],
+        "errors": []
+      }
+    },
+    {
+      "script": "qa-products.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 10711,
+      "passed": true,
+      "stdout": "{\"passed\":true,\"checks\":15,\"errors\":[],\"failures\":[]}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "checks": 15,
+        "errors": [],
+        "failures": []
+      }
+    },
+    {
+      "script": "qa-backgrounds.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 26613,
+      "passed": true,
+      "stdout": "{\n  \"passed\": true,\n  \"pages\": 210,\n  \"checks\": 339,\n  \"failures\": [],\n  \"errors\": []\n}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "pages": 210,
+        "checks": 339,
+        "failures": [],
+        "errors": []
+      }
+    },
+    {
+      "script": "qa-template-structure.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 14749,
+      "passed": true,
+      "stdout": "{\"passed\":true,\"checks\":66,\"errors\":[]}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "checks": 66,
+        "errors": []
+      }
+    },
+    {
+      "script": "qa-extended-current.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 17868,
+      "passed": true,
+      "stdout": "{\n  \"passed\": true,\n  \"checks\": 135,\n  \"failures\": [],\n  \"errors\": []\n}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "checks": 135,
+        "failures": [],
+        "errors": []
+      }
+    },
+    {
+      "script": "qa-live-source.mjs",
+      "exitCode": 1,
+      "signal": null,
+      "duration_ms": 15698,
+      "passed": false,
+      "stdout": "{\n  \"passed\": false,\n  \"pages\": 132,\n  \"failures\": [\n    {\n      \"path\": \"/why-oxyhealth\",\n      \"width\": 1440,\n      \"failures\": [\n        \"block 3 padding 150,0,150,0 vs 0,0,0,0\"\n      ]\n    },\n    {\n      \"path\": \"/hbot-for-your-practice\",\n      \"width\": 1440,\n      \"failures\": [\n        \"heading hierarchy/order differs from captured main\"\n      ]\n    },\n    {\n      \"path\": \"/hbot-for-your-practice\",\n      \"width\": 768,\n      \"failures\": [\n        \"heading hierarchy/order differs from captured main\"\n      ]\n    },\n    {\n      \"path\": \"/hbot-for-your-practice\",\n      \"width\": 390,\n      \"failures\": [\n        \"heading hierarchy/order differs from captured main\"\n      ]\n    }\n  ],\n  \"errors\": []\n}\n",
+      "stderr": "",
+      "result": {
+        "passed": false,
+        "pages": 132,
+        "failures": [
+          {
+            "path": "/why-oxyhealth",
+            "width": 1440,
+            "failures": [
+              "block 3 padding 150,0,150,0 vs 0,0,0,0"
+            ]
+          },
+          {
+            "path": "/hbot-for-your-practice",
+            "width": 1440,
+            "failures": [
+              "heading hierarchy/order differs from captured main"
+            ]
+          },
+          {
+            "path": "/hbot-for-your-practice",
+            "width": 768,
+            "failures": [
+              "heading hierarchy/order differs from captured main"
+            ]
+          },
+          {
+            "path": "/hbot-for-your-practice",
+            "width": 390,
+            "failures": [
+              "heading hierarchy/order differs from captured main"
+            ]
+          }
+        ],
+        "errors": []
+      }
+    },
+    {
+      "script": "qa-captured-geometry.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 7764,
+      "passed": true,
+      "stdout": "{\n  \"passed\": true,\n  \"cases\": 132,\n  \"failed\": [],\n  \"missing\": []\n}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "cases": 132,
+        "failed": [],
+        "missing": []
+      }
+    },
+    {
+      "script": "qa-navigation.mjs",
+      "exitCode": 1,
+      "signal": null,
+      "duration_ms": 159106,
+      "passed": false,
+      "stdout": "{\n  \"passed\": false,\n  \"checklistUrls\": 61,\n  \"routeScans\": 136,\n  \"fragmentChecks\": 62,\n  \"entryFlows\": 148,\n  \"externalFlows\": 34,\n  \"semanticChecks\": 10,\n  \"errors\": [\n    {\n      \"name\": \"scan /home-hyperbaric-chamber\",\n      \"width\": 1440,\n      \"error\": \"AssertionError [ERR_ASSERTION]: /home-hyperbaric-chamber: a product entry must be a link, not a button/modal: How do I choose between the Vitaeris 320 and the Respiro 270?\\n    at file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:149:54\\n    at async check (file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:61:7)\\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:139:34\"\n    },\n    {\n      \"name\": \"scan /soft-shell-hyperbaric-chamber\",\n      \"width\": 1440,\n      \"error\": \"AssertionError [ERR_ASSERTION]: /soft-shell-hyperbaric-chamber: a product entry must be a link, not a button/modal: How do I choose between the Vitaeris 320 and Respiro 270?\\n    at file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:149:54\\n    at runNextTicks (node:internal/process/task_queues:65:5)\\n    at process.processImmediate (node:internal/timers:541:9)\\n    at async check (file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:61:7)\\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:139:34\"\n    },\n    {\n      \"name\": \"scan /home-hyperbaric-chamber\",\n      \"width\": 390,\n      \"error\": \"AssertionError [ERR_ASSERTION]: /home-hyperbaric-chamber: a product entry must be a link, not a button/modal: How do I choose between the Vitaeris 320 and the Respiro 270?\\n    at file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:149:54\\n    at async check (file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:61:7)\\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:139:34\"\n    },\n    {\n      \"name\": \"scan /soft-shell-hyperbaric-chamber\",\n      \"width\": 390,\n      \"error\": \"AssertionError [ERR_ASSERTION]: /soft-shell-hyperbaric-chamber: a product entry must be a link, not a button/modal: How do I choose between the Vitaeris 320 and Respiro 270?\\n    at file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:149:54\\n    at async check (file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:61:7)\\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:139:34\"\n    }\n  ]\n}\n",
+      "stderr": "[1440] PASS scan / (264ms)\n[1440] PASS scan /hyperbarics (117ms)\n[1440] PASS scan /resources (95ms)\n[1440] PASS scan /blog (93ms)\n[1440] PASS scan /events/a4m-longevity-fest (100ms)\n[1440] PASS scan /products/fortius-420 (109ms)\n[1440] PASS scan /products/fortius-420-exp (93ms)\n[1440] PASS scan /products/quamvis-320 (82ms)\n[1440] PASS scan /products/respiro-270 (94ms)\n[1440] PASS scan /products/vitaeris-320 (99ms)\n[1440] PASS scan /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt (92ms)\n[1440] PASS scan /post/hyperbaric-oxygen-therapy-for-longevity (86ms)\n[1440] PASS scan /post/hbot-for-brain-injury-what-clinical-trials-show (107ms)\n[1440] PASS scan /post/hyperbaric-oxygen-therapy-for-long-covid-research (92ms)\n[1440] PASS scan /post/does-insurance-cover-hyperbaric-oxygen-therapy (93ms)\n[1440] PASS scan /post/starting-an-hbot-business-clinic-setup-guide (119ms)\n[1440] PASS scan /post/hbot-for-pets-veterinary-hyperbaric-therapy (82ms)\n[1440] PASS scan /post/why-russell-wilson-spends-over-1-million-a-year-on-his-body (89ms)\n[1440] PASS scan /post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy (80ms)\n[1440] PASS scan /post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford (81ms)\n[1440] PASS scan /post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery (76ms)\n[1440] PASS scan /post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance (80ms)\n[1440] PASS scan /post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover (80ms)\n[1440] PASS scan /post/lebron-james-uses-hyperbaric-oxygen-therapy (88ms)\n[1440] PASS scan /post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports (84ms)\n[1440] PASS scan /contact (103ms)\n[1440] PASS scan /support (117ms)\n[1440] PASS scan /partners (110ms)\n[1440] PASS scan /why-oxyhealth (145ms)\n[1440] PASS scan /finance (112ms)\n[1440] PASS scan /about (106ms)\n[1440] PASS scan /events/events (121ms)\n[1440] PASS scan /hyperbaric-chamber-for-sale (144ms)\n[1440] FAIL scan /home-hyperbaric-chamber (130ms)\n[1440] PASS scan /portable-hyperbaric-chamber (122ms)\n[1440] FAIL scan /soft-shell-hyperbaric-chamber (113ms)\n[1440] PASS scan /mild-hyperbaric-chamber (118ms)\n[1440] PASS scan /fda-cleared-hyperbaric-chamber (121ms)\n[1440] PASS scan /best-hyperbaric-chamber (176ms)\n[1440] PASS scan /hyperbaric-chamber-comparison (135ms)\n[1440] PASS scan /hyperbaric-chamber-buying-guide (135ms)\n[1440] PASS scan /hyperbaric-chamber-cost (126ms)\n[1440] PASS scan /hyperbaric-chamber-for-business (116ms)\n[1440] PASS scan /hbot-for-your-practice (193ms)\n[1440] PASS scan /hyperbaric-chamber-rental (103ms)\n[1440] PASS scan /used-hyperbaric-chamber (91ms)\n[1440] PASS scan /hyperbaric-chamber-prescription (96ms)\n[1440] PASS scan /hyperbaric-chamber-room-requirements (101ms)\n[1440] PASS scan /genuine-oxyhealth-hyperbaric-chamber (114ms)\n[1440] PASS scan /hyperbaric-chamber-benefits (117ms)\n[1440] PASS scan /hyperbaric-chamber-side-effects (137ms)\n[1440] PASS scan /hyperbaric-chamber-insurance (146ms)\n[1440] PASS scan /hyperbaric-research-library (140ms)\n[1440] PASS scan /hyperbaric-therapy-anti-aging (112ms)\n[1440] PASS scan /hyperbaric-therapy-athletic-recovery (108ms)\n[1440] PASS scan /hyperbaric-therapy-brain-health (104ms)\n[1440] PASS scan /hyperbaric-therapy-inflammation (100ms)\n[1440] PASS scan /hyperbaric-therapy-long-covid (126ms)\n[1440] PASS scan /hyperbaric-therapy-near-me (116ms)\n[1440] PASS scan /hyperbaric-therapy-veterinary (104ms)\n[1440] PASS scan /hyperbaric-therapy-wound-healing (114ms)\n[1440] PASS scan /vitaeris-320-vs-respiro-270 (116ms)\n[1440] PASS scan /vitaeris-320-vs-quamvis-320 (105ms)\n[1440] PASS scan /fortius-420-vs-fortius-420-exp (107ms)\n[1440] PASS scan /documents/safety (88ms)\n[1440] PASS scan /documents/terms-conditions (92ms)\n[1440] PASS scan /documents/privacy-notice (123ms)\n[1440] PASS scan /documents/repair-exchange-policy (98ms)\n[1440] PASS scan /documents/fda (90ms)\n[1440] PASS scan /hyperbaric-pressure-converter (105ms)\n[1440] PASS fragment /hyperbarics -> /#products (0ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#what-does-the-fda-define-as-a-hyperbaric-chamber (1ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#fda-confirms-hyperbaric-chambers-do-not-qualify-under-its-general-wellness-policy (11ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#fda-distributing-medical-devices-without-meeting-applicable-requirements-is-unlawful (0ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#why-fda-510k-clearance-matters-for-safety (0ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#rebranding-an-imported-hyperbaric-chamber-does-not-eliminate-regulatory-responsibilities (0ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#importing-medical-devices-as-nonmedical-equipment-does-not-create-an-exemption (0ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#how-to-verify-fda-clearance-for-a-hyperbaric-chamber (0ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#the-growing-problem-of-unregulated-hyperbaric-chambers-in-the-us-market (0ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#what-this-means-for-buyers (5ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#fda-response-october-16 (0ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#fda-response-october-28 (0ms)\n[1440] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#fda-response-october-16 (0ms)\n[1440] PASS fragment /support -> /support#service-request (1ms)\n[1440] PASS fragment /partners -> /partners#partner-inquiry (1ms)\n[1440] PASS fragment /hyperbaric-chamber-cost -> /hyperbaric-chamber-cost#get-pricing (0ms)\n[1440] PASS fragment /hyperbaric-therapy-anti-aging -> /#products (1ms)\n[1440] PASS fragment /hyperbaric-therapy-athletic-recovery -> /#products (0ms)\n[1440] PASS fragment /hyperbaric-therapy-inflammation -> /#products (0ms)\n[1440] PASS fragment /hyperbaric-therapy-long-covid -> /#products (0ms)\n[1440] PASS fragment /hyperbaric-therapy-wound-healing -> /#products (0ms)\n[1440] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-0 (5ms)\n[1440] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-1 (1ms)\n[1440] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-2 (0ms)\n[1440] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-3 (4ms)\n[1440] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-4 (3ms)\n[1440] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-5 (5ms)\n[1440] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-6 (0ms)\n[1440] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-7 (0ms)\n[1440] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-8 (0ms)\n[1440] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-9 (0ms)\n[1440] PASS ATA Fortius 420 (518ms)\n[1440] PASS ATA Fortius 420 EXP (469ms)\n[1440] PASS ATA Quamvis 320 (492ms)\n[1440] PASS ATA Vitaeris 320 (531ms)\n[1440] PASS ATA Respiro 270 (507ms)\n[1440] PASS ATA independent link count (145ms)\n[1440] PASS checklist entry /hyperbarics (637ms)\n[1440] PASS checklist entry /resources (597ms)\n[1440] PASS checklist entry /blog (526ms)\n[1440] PASS checklist entry /finance (568ms)\n[1440] PASS checklist entry /about (688ms)\n[1440] PASS checklist entry /events/events (604ms)\n[1440] PASS checklist entry /products/fortius-420 (563ms)\n[1440] PASS checklist entry /products/fortius-420-exp (600ms)\n[1440] PASS checklist entry /products/quamvis-320 (600ms)\n[1440] PASS checklist entry /products/respiro-270 (599ms)\n[1440] PASS checklist entry /products/vitaeris-320 (624ms)\n[1440] PASS checklist entry /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt (638ms)\n[1440] PASS checklist entry /post/does-insurance-cover-hyperbaric-oxygen-therapy (676ms)\n[1440] PASS checklist entry /post/hbot-for-brain-injury-what-clinical-trials-show (666ms)\n[1440] PASS checklist entry /post/hbot-for-pets-veterinary-hyperbaric-therapy (822ms)\n[1440] PASS checklist entry /post/hyperbaric-oxygen-therapy-for-long-covid-research (650ms)\n[1440] PASS checklist entry /post/hyperbaric-oxygen-therapy-for-longevity (523ms)\n[1440] PASS checklist entry /post/starting-an-hbot-business-clinic-setup-guide (568ms)\n[1440] PASS checklist entry /contact (574ms)\n[1440] PASS checklist entry /support (634ms)\n[1440] PASS checklist entry /partners (684ms)\n[1440] PASS checklist entry /why-oxyhealth (726ms)\n[1440] PASS checklist entry /events/a4m-longevity-fest (643ms)\n[1440] PASS checklist entry /hyperbaric-chamber-for-sale (658ms)\n[1440] PASS checklist entry /home-hyperbaric-chamber (698ms)\n[1440] PASS checklist entry /portable-hyperbaric-chamber (920ms)\n[1440] PASS checklist entry /soft-shell-hyperbaric-chamber (649ms)\n[1440] PASS checklist entry /mild-hyperbaric-chamber (664ms)\n[1440] PASS checklist entry /fda-cleared-hyperbaric-chamber (609ms)\n[1440] PASS checklist entry /best-hyperbaric-chamber (652ms)\n[1440] PASS checklist entry /hyperbaric-chamber-comparison (682ms)\n[1440] PASS checklist entry /hyperbaric-chamber-buying-guide (654ms)\n[1440] PASS checklist entry /hyperbaric-chamber-cost (682ms)\n[1440] PASS checklist entry /hyperbaric-chamber-for-business (679ms)\n[1440] PASS checklist entry /hbot-for-your-practice (786ms)\n[1440] PASS checklist entry /hyperbaric-chamber-rental (735ms)\n[1440] PASS checklist entry /used-hyperbaric-chamber (946ms)\n[1440] PASS checklist entry /hyperbaric-chamber-prescription (699ms)\n[1440] PASS checklist entry /hyperbaric-chamber-room-requirements (643ms)\n[1440] PASS checklist entry /genuine-oxyhealth-hyperbaric-chamber (683ms)\n[1440] PASS checklist entry /hyperbaric-chamber-benefits (723ms)\n[1440] PASS checklist entry /hyperbaric-chamber-side-effects (678ms)\n[1440] PASS checklist entry /hyperbaric-chamber-insurance (756ms)\n[1440] PASS checklist entry /hyperbaric-research-library (650ms)\n[1440] PASS checklist entry /hyperbaric-pressure-converter (728ms)\n[1440] PASS checklist entry /hyperbaric-therapy-anti-aging (699ms)\n[1440] PASS checklist entry /hyperbaric-therapy-athletic-recovery (734ms)\n[1440] PASS checklist entry /hyperbaric-therapy-brain-health (729ms)\n[1440] PASS checklist entry /hyperbaric-therapy-inflammation (731ms)\n[1440] PASS checklist entry /hyperbaric-therapy-long-covid (701ms)\n[1440] PASS checklist entry /hyperbaric-therapy-near-me (1044ms)\n[1440] PASS checklist entry /hyperbaric-therapy-veterinary (986ms)\n[1440] PASS checklist entry /hyperbaric-therapy-wound-healing (650ms)\n[1440] PASS checklist entry /vitaeris-320-vs-respiro-270 (624ms)\n[1440] PASS checklist entry /vitaeris-320-vs-quamvis-320 (747ms)\n[1440] PASS checklist entry /fortius-420-vs-fortius-420-exp (713ms)\n[1440] PASS checklist entry /documents/safety (688ms)\n[1440] PASS checklist entry /documents/terms-conditions (717ms)\n[1440] PASS checklist entry /documents/privacy-notice (697ms)\n[1440] PASS checklist entry /documents/repair-exchange-policy (752ms)\n[1440] PASS checklist entry /documents/fda (729ms)\n[1440] PASS Brand story (1039ms)\n[1440] PASS Chambers for sale (694ms)\n[1440] PASS Home chambers (666ms)\n[1440] PASS Portable chambers (688ms)\n[1440] PASS Choose a chamber (676ms)\n[1440] PASS Cost and financing (785ms)\n[1440] PASS Explore Payment Options (771ms)\n[1440] PASS Hyperbarics veterinary research entry (578ms)\n[1440] PASS Homepage telephone and quote entry semantics (293ms)\n[1440] PASS Original external event registration (367ms)\n[1440] PASS Footer TikTok (385ms)\n[1440] PASS Footer Facebook (329ms)\n[1440] PASS Footer YouTube (323ms)\n[1440] PASS Footer Instagram (358ms)\n[1440] PASS Footer original sitemap and humans destinations (261ms)\n[1440] PASS Event registration 1 (233ms)\n[1440] PASS Event registration 2 (256ms)\n[1440] PASS Event registration 3 (491ms)\n[1440] PASS Event registration 4 (359ms)\n[1440] PASS Event registration 5 (268ms)\n[1440] PASS Event registration 6 (191ms)\n[1440] PASS Event list registration 1 (205ms)\n[1440] PASS Event list registration 2 (200ms)\n[1440] PASS Event list registration 3 (220ms)\n[1440] PASS Event list registration 4 (236ms)\n[1440] PASS Event list registration 5 (225ms)\n[1440] PASS Event list registration 6 (227ms)\n[1440] PASS Finance original external destinations (153ms)\n[1440] PASS Event detail telephone action (118ms)\n[390] PASS scan / (232ms)\n[390] PASS scan /hyperbarics (168ms)\n[390] PASS scan /resources (150ms)\n[390] PASS scan /blog (119ms)\n[390] PASS scan /events/a4m-longevity-fest (133ms)\n[390] PASS scan /products/fortius-420 (141ms)\n[390] PASS scan /products/fortius-420-exp (128ms)\n[390] PASS scan /products/quamvis-320 (126ms)\n[390] PASS scan /products/respiro-270 (153ms)\n[390] PASS scan /products/vitaeris-320 (140ms)\n[390] PASS scan /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt (141ms)\n[390] PASS scan /post/hyperbaric-oxygen-therapy-for-longevity (132ms)\n[390] PASS scan /post/hbot-for-brain-injury-what-clinical-trials-show (127ms)\n[390] PASS scan /post/hyperbaric-oxygen-therapy-for-long-covid-research (130ms)\n[390] PASS scan /post/does-insurance-cover-hyperbaric-oxygen-therapy (134ms)\n[390] PASS scan /post/starting-an-hbot-business-clinic-setup-guide (153ms)\n[390] PASS scan /post/hbot-for-pets-veterinary-hyperbaric-therapy (126ms)\n[390] PASS scan /post/why-russell-wilson-spends-over-1-million-a-year-on-his-body (129ms)\n[390] PASS scan /post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy (132ms)\n[390] PASS scan /post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford (139ms)\n[390] PASS scan /post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery (129ms)\n[390] PASS scan /post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance (141ms)\n[390] PASS scan /post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover (128ms)\n[390] PASS scan /post/lebron-james-uses-hyperbaric-oxygen-therapy (132ms)\n[390] PASS scan /post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports (137ms)\n[390] PASS scan /contact (121ms)\n[390] PASS scan /support (133ms)\n[390] PASS scan /partners (152ms)\n[390] PASS scan /why-oxyhealth (156ms)\n[390] PASS scan /finance (123ms)\n[390] PASS scan /about (151ms)\n[390] PASS scan /events/events (140ms)\n[390] PASS scan /hyperbaric-chamber-for-sale (149ms)\n[390] FAIL scan /home-hyperbaric-chamber (133ms)\n[390] PASS scan /portable-hyperbaric-chamber (139ms)\n[390] FAIL scan /soft-shell-hyperbaric-chamber (144ms)\n[390] PASS scan /mild-hyperbaric-chamber (131ms)\n[390] PASS scan /fda-cleared-hyperbaric-chamber (133ms)\n[390] PASS scan /best-hyperbaric-chamber (142ms)\n[390] PASS scan /hyperbaric-chamber-comparison (136ms)\n[390] PASS scan /hyperbaric-chamber-buying-guide (138ms)\n[390] PASS scan /hyperbaric-chamber-cost (157ms)\n[390] PASS scan /hyperbaric-chamber-for-business (128ms)\n[390] PASS scan /hbot-for-your-practice (200ms)\n[390] PASS scan /hyperbaric-chamber-rental (149ms)\n[390] PASS scan /used-hyperbaric-chamber (158ms)\n[390] PASS scan /hyperbaric-chamber-prescription (124ms)\n[390] PASS scan /hyperbaric-chamber-room-requirements (130ms)\n[390] PASS scan /genuine-oxyhealth-hyperbaric-chamber (118ms)\n[390] PASS scan /hyperbaric-chamber-benefits (127ms)\n[390] PASS scan /hyperbaric-chamber-side-effects (137ms)\n[390] PASS scan /hyperbaric-chamber-insurance (136ms)\n[390] PASS scan /hyperbaric-research-library (137ms)\n[390] PASS scan /hyperbaric-therapy-anti-aging (163ms)\n[390] PASS scan /hyperbaric-therapy-athletic-recovery (133ms)\n[390] PASS scan /hyperbaric-therapy-brain-health (140ms)\n[390] PASS scan /hyperbaric-therapy-inflammation (128ms)\n[390] PASS scan /hyperbaric-therapy-long-covid (131ms)\n[390] PASS scan /hyperbaric-therapy-near-me (141ms)\n[390] PASS scan /hyperbaric-therapy-veterinary (129ms)\n[390] PASS scan /hyperbaric-therapy-wound-healing (132ms)\n[390] PASS scan /vitaeris-320-vs-respiro-270 (144ms)\n[390] PASS scan /vitaeris-320-vs-quamvis-320 (130ms)\n[390] PASS scan /fortius-420-vs-fortius-420-exp (131ms)\n[390] PASS scan /documents/safety (132ms)\n[390] PASS scan /documents/terms-conditions (131ms)\n[390] PASS scan /documents/privacy-notice (129ms)\n[390] PASS scan /documents/repair-exchange-policy (137ms)\n[390] PASS scan /documents/fda (149ms)\n[390] PASS scan /hyperbaric-pressure-converter (123ms)\n[390] PASS fragment /hyperbarics -> /#products (0ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#what-does-the-fda-define-as-a-hyperbaric-chamber (1ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#fda-confirms-hyperbaric-chambers-do-not-qualify-under-its-general-wellness-policy (0ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#fda-distributing-medical-devices-without-meeting-applicable-requirements-is-unlawful (0ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#why-fda-510k-clearance-matters-for-safety (8ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#rebranding-an-imported-hyperbaric-chamber-does-not-eliminate-regulatory-responsibilities (0ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#importing-medical-devices-as-nonmedical-equipment-does-not-create-an-exemption (5ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#how-to-verify-fda-clearance-for-a-hyperbaric-chamber (3ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#the-growing-problem-of-unregulated-hyperbaric-chambers-in-the-us-market (0ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#what-this-means-for-buyers (5ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#fda-response-october-16 (0ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#fda-response-october-28 (0ms)\n[390] PASS fragment /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt -> /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt#fda-response-october-16 (0ms)\n[390] PASS fragment /support -> /support#service-request (0ms)\n[390] PASS fragment /partners -> /partners#partner-inquiry (0ms)\n[390] PASS fragment /hyperbaric-chamber-cost -> /hyperbaric-chamber-cost#get-pricing (5ms)\n[390] PASS fragment /hyperbaric-therapy-anti-aging -> /#products (1ms)\n[390] PASS fragment /hyperbaric-therapy-athletic-recovery -> /#products (0ms)\n[390] PASS fragment /hyperbaric-therapy-inflammation -> /#products (0ms)\n[390] PASS fragment /hyperbaric-therapy-long-covid -> /#products (0ms)\n[390] PASS fragment /hyperbaric-therapy-wound-healing -> /#products (0ms)\n[390] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-0 (1ms)\n[390] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-1 (4ms)\n[390] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-2 (0ms)\n[390] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-3 (0ms)\n[390] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-4 (4ms)\n[390] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-5 (0ms)\n[390] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-6 (0ms)\n[390] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-7 (1ms)\n[390] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-8 (0ms)\n[390] PASS fragment /documents/terms-conditions -> /documents/terms-conditions#document-section-9 (5ms)\n[390] PASS ATA Fortius 420 (919ms)\n[390] PASS ATA Fortius 420 EXP (853ms)\n[390] PASS ATA Quamvis 320 (910ms)\n[390] PASS ATA Vitaeris 320 (870ms)\n[390] PASS ATA Respiro 270 (1163ms)\n[390] PASS ATA independent link count (262ms)\n[390] PASS checklist entry /hyperbarics (853ms)\n[390] PASS checklist entry /resources (743ms)\n[390] PASS checklist entry /blog (759ms)\n[390] PASS checklist entry /finance (722ms)\n[390] PASS checklist entry /about (773ms)\n[390] PASS checklist entry /events/events (793ms)\n[390] PASS checklist entry /products/fortius-420 (820ms)\n[390] PASS checklist entry /products/fortius-420-exp (838ms)\n[390] PASS checklist entry /products/quamvis-320 (844ms)\n[390] PASS checklist entry /products/respiro-270 (864ms)\n[390] PASS checklist entry /products/vitaeris-320 (906ms)\n[390] PASS checklist entry /blog/fda-hyperbaric-chambers-wellness-devices-not-exempt (926ms)\n[390] PASS checklist entry /post/does-insurance-cover-hyperbaric-oxygen-therapy (949ms)\n[390] PASS checklist entry /post/hbot-for-brain-injury-what-clinical-trials-show (1376ms)\n[390] PASS checklist entry /post/hbot-for-pets-veterinary-hyperbaric-therapy (944ms)\n[390] PASS checklist entry /post/hyperbaric-oxygen-therapy-for-long-covid-research (797ms)\n[390] PASS checklist entry /post/hyperbaric-oxygen-therapy-for-longevity (853ms)\n[390] PASS checklist entry /post/starting-an-hbot-business-clinic-setup-guide (842ms)\n[390] PASS checklist entry /contact (840ms)\n[390] PASS checklist entry /support (840ms)\n[390] PASS checklist entry /partners (757ms)\n[390] PASS checklist entry /why-oxyhealth (728ms)\n[390] PASS checklist entry /events/a4m-longevity-fest (705ms)\n[390] PASS checklist entry /hyperbaric-chamber-for-sale (836ms)\n[390] PASS checklist entry /home-hyperbaric-chamber (794ms)\n[390] PASS checklist entry /portable-hyperbaric-chamber (823ms)\n[390] PASS checklist entry /soft-shell-hyperbaric-chamber (782ms)\n[390] PASS checklist entry /mild-hyperbaric-chamber (897ms)\n[390] PASS checklist entry /fda-cleared-hyperbaric-chamber (1160ms)\n[390] PASS checklist entry /best-hyperbaric-chamber (1153ms)\n[390] PASS checklist entry /hyperbaric-chamber-comparison (1623ms)\n[390] PASS checklist entry /hyperbaric-chamber-buying-guide (1207ms)\n[390] PASS checklist entry /hyperbaric-chamber-cost (1139ms)\n[390] PASS checklist entry /hyperbaric-chamber-for-business (1111ms)\n[390] PASS checklist entry /hbot-for-your-practice (1217ms)\n[390] PASS checklist entry /hyperbaric-chamber-rental (1075ms)\n[390] PASS checklist entry /used-hyperbaric-chamber (997ms)\n[390] PASS checklist entry /hyperbaric-chamber-prescription (955ms)\n[390] PASS checklist entry /hyperbaric-chamber-room-requirements (955ms)\n[390] PASS checklist entry /genuine-oxyhealth-hyperbaric-chamber (1251ms)\n[390] PASS checklist entry /hyperbaric-chamber-benefits (1275ms)\n[390] PASS checklist entry /hyperbaric-chamber-side-effects (1088ms)\n[390] PASS checklist entry /hyperbaric-chamber-insurance (1226ms)\n[390] PASS checklist entry /hyperbaric-research-library (1385ms)\n[390] PASS checklist entry /hyperbaric-pressure-converter (1378ms)\n[390] PASS checklist entry /hyperbaric-therapy-anti-aging (1244ms)\n[390] PASS checklist entry /hyperbaric-therapy-athletic-recovery (2039ms)\n[390] PASS checklist entry /hyperbaric-therapy-brain-health (1247ms)\n[390] PASS checklist entry /hyperbaric-therapy-inflammation (868ms)\n[390] PASS checklist entry /hyperbaric-therapy-long-covid (979ms)\n[390] PASS checklist entry /hyperbaric-therapy-near-me (1018ms)\n[390] PASS checklist entry /hyperbaric-therapy-veterinary (1008ms)\n[390] PASS checklist entry /hyperbaric-therapy-wound-healing (934ms)\n[390] PASS checklist entry /vitaeris-320-vs-respiro-270 (967ms)\n[390] PASS checklist entry /vitaeris-320-vs-quamvis-320 (1117ms)\n[390] PASS checklist entry /fortius-420-vs-fortius-420-exp (1077ms)\n[390] PASS checklist entry /documents/safety (955ms)\n[390] PASS checklist entry /documents/terms-conditions (1171ms)\n[390] PASS checklist entry /documents/privacy-notice (1324ms)\n[390] PASS checklist entry /documents/repair-exchange-policy (1085ms)\n[390] PASS checklist entry /documents/fda (1192ms)\n[390] PASS Brand story (1477ms)\n[390] PASS Chambers for sale (2109ms)\n[390] PASS Home chambers (1515ms)\n[390] PASS Portable chambers (1033ms)\n[390] PASS Choose a chamber (1047ms)\n[390] PASS Cost and financing (1121ms)\n[390] PASS Explore Payment Options (991ms)\n[390] PASS Hyperbarics veterinary research entry (808ms)\n[390] PASS Homepage telephone and quote entry semantics (410ms)\n[390] PASS Original external event registration (470ms)\n[390] PASS Footer TikTok (436ms)\n[390] PASS Footer Facebook (411ms)\n[390] PASS Footer YouTube (450ms)\n[390] PASS Footer Instagram (440ms)\n[390] PASS Footer original sitemap and humans destinations (366ms)\n[390] PASS Event registration 1 (331ms)\n[390] PASS Event registration 2 (309ms)\n[390] PASS Event registration 3 (318ms)\n[390] PASS Event registration 4 (277ms)\n[390] PASS Event registration 5 (281ms)\n[390] PASS Event registration 6 (258ms)\n[390] PASS Event list registration 1 (293ms)\n[390] PASS Event list registration 2 (615ms)\n[390] PASS Event list registration 3 (288ms)\n[390] PASS Event list registration 4 (297ms)\n[390] PASS Event list registration 5 (284ms)\n[390] PASS Event list registration 6 (288ms)\n[390] PASS Finance original external destinations (155ms)\n[390] PASS Event detail telephone action (155ms)\n",
+      "result": {
+        "passed": false,
+        "checklistUrls": 61,
+        "routeScans": 136,
+        "fragmentChecks": 62,
+        "entryFlows": 148,
+        "externalFlows": 34,
+        "semanticChecks": 10,
+        "errors": [
+          {
+            "name": "scan /home-hyperbaric-chamber",
+            "width": 1440,
+            "error": "AssertionError [ERR_ASSERTION]: /home-hyperbaric-chamber: a product entry must be a link, not a button/modal: How do I choose between the Vitaeris 320 and the Respiro 270?\n    at file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:149:54\n    at async check (file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:61:7)\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:139:34"
+          },
+          {
+            "name": "scan /soft-shell-hyperbaric-chamber",
+            "width": 1440,
+            "error": "AssertionError [ERR_ASSERTION]: /soft-shell-hyperbaric-chamber: a product entry must be a link, not a button/modal: How do I choose between the Vitaeris 320 and Respiro 270?\n    at file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:149:54\n    at runNextTicks (node:internal/process/task_queues:65:5)\n    at process.processImmediate (node:internal/timers:541:9)\n    at async check (file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:61:7)\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:139:34"
+          },
+          {
+            "name": "scan /home-hyperbaric-chamber",
+            "width": 390,
+            "error": "AssertionError [ERR_ASSERTION]: /home-hyperbaric-chamber: a product entry must be a link, not a button/modal: How do I choose between the Vitaeris 320 and the Respiro 270?\n    at file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:149:54\n    at async check (file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:61:7)\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:139:34"
+          },
+          {
+            "name": "scan /soft-shell-hyperbaric-chamber",
+            "width": 390,
+            "error": "AssertionError [ERR_ASSERTION]: /soft-shell-hyperbaric-chamber: a product entry must be a link, not a button/modal: How do I choose between the Vitaeris 320 and Respiro 270?\n    at file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:149:54\n    at async check (file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:61:7)\n    at async file:///D:/MacyGEO/glm%E5%A4%8D%E5%88%BB%E6%B0%A7%E8%88%B1%E5%AE%98%E7%BD%91/app/qa-navigation.mjs:139:34"
+          }
+        ]
+      }
+    },
+    {
+      "script": "qa-coverage.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 51248,
+      "passed": true,
+      "stdout": "{\n  \"passed\": true,\n  \"representativeChecks\": 72,\n  \"routeChecks\": 140,\n  \"entryFlows\": 44,\n  \"errors\": []\n}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "representativeChecks": 72,
+        "routeChecks": 140,
+        "entryFlows": 44,
+        "errors": []
+      }
+    },
+    {
+      "script": "qa-new-interactions.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 5235,
+      "passed": true,
+      "stdout": "{\n  \"passed\": true,\n  \"results\": [\n    {\n      \"name\": \"1440: converter defaults, live input, invalid and reset\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: research pressure filters\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: product FAQs remain independent\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: support form validation, verification, local status and reset\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: support independent FAQs\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: partner form validation, verification, local status and reset\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: partner independent FAQs\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: support reset clears attachment error and permits submission without files\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: contact dialog focus, escape and form lifecycle\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: converter defaults, live input, invalid and reset\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: research pressure filters\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: product FAQs remain independent\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: support form validation, verification, local status and reset\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: support independent FAQs\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: partner form validation, verification, local status and reset\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: partner independent FAQs\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: support reset clears attachment error and permits submission without files\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: contact dialog focus, escape and form lifecycle\",\n      \"passed\": true\n    }\n  ],\n  \"errors\": [],\n  \"remoteMedia\": \"Stubbed; interaction verification only\"\n}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "results": [
+          {
+            "name": "1440: converter defaults, live input, invalid and reset",
+            "passed": true
+          },
+          {
+            "name": "1440: research pressure filters",
+            "passed": true
+          },
+          {
+            "name": "1440: product FAQs remain independent",
+            "passed": true
+          },
+          {
+            "name": "1440: support form validation, verification, local status and reset",
+            "passed": true
+          },
+          {
+            "name": "1440: support independent FAQs",
+            "passed": true
+          },
+          {
+            "name": "1440: partner form validation, verification, local status and reset",
+            "passed": true
+          },
+          {
+            "name": "1440: partner independent FAQs",
+            "passed": true
+          },
+          {
+            "name": "1440: support reset clears attachment error and permits submission without files",
+            "passed": true
+          },
+          {
+            "name": "1440: contact dialog focus, escape and form lifecycle",
+            "passed": true
+          },
+          {
+            "name": "390: converter defaults, live input, invalid and reset",
+            "passed": true
+          },
+          {
+            "name": "390: research pressure filters",
+            "passed": true
+          },
+          {
+            "name": "390: product FAQs remain independent",
+            "passed": true
+          },
+          {
+            "name": "390: support form validation, verification, local status and reset",
+            "passed": true
+          },
+          {
+            "name": "390: support independent FAQs",
+            "passed": true
+          },
+          {
+            "name": "390: partner form validation, verification, local status and reset",
+            "passed": true
+          },
+          {
+            "name": "390: partner independent FAQs",
+            "passed": true
+          },
+          {
+            "name": "390: support reset clears attachment error and permits submission without files",
+            "passed": true
+          },
+          {
+            "name": "390: contact dialog focus, escape and form lifecycle",
+            "passed": true
+          }
+        ],
+        "errors": [],
+        "remoteMedia": "Stubbed; interaction verification only"
+      }
+    },
+    {
+      "script": "qa-resume.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 24590,
+      "passed": true,
+      "stdout": "{\n  \"passed\": true,\n  \"results\": [\n    {\n      \"name\": \"1440: product full-page navigation lifecycle\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: Finance navigation reaches independent page\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: Contact navigation reaches independent page\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: homepage checklist downloads\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: resource checklist downloads\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: resource video dialog keyboard lifecycle\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: article full-page navigation lifecycle\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"1440: event inquiry keyboard lifecycle\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: product full-page navigation lifecycle\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: Finance navigation reaches independent page\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: Contact navigation reaches independent page\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: homepage checklist downloads\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: resource checklist downloads\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: resource video dialog keyboard lifecycle\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: article full-page navigation lifecycle\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"390: event inquiry keyboard lifecycle\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"desktop: pointer click keeps Products links available\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"desktop: Products Escape restores trigger focus\",\n      \"passed\": true\n    }\n  ],\n  \"errors\": [],\n  \"localFailures\": []\n}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "results": [
+          {
+            "name": "1440: product full-page navigation lifecycle",
+            "passed": true
+          },
+          {
+            "name": "1440: Finance navigation reaches independent page",
+            "passed": true
+          },
+          {
+            "name": "1440: Contact navigation reaches independent page",
+            "passed": true
+          },
+          {
+            "name": "1440: homepage checklist downloads",
+            "passed": true
+          },
+          {
+            "name": "1440: resource checklist downloads",
+            "passed": true
+          },
+          {
+            "name": "1440: resource video dialog keyboard lifecycle",
+            "passed": true
+          },
+          {
+            "name": "1440: article full-page navigation lifecycle",
+            "passed": true
+          },
+          {
+            "name": "1440: event inquiry keyboard lifecycle",
+            "passed": true
+          },
+          {
+            "name": "390: product full-page navigation lifecycle",
+            "passed": true
+          },
+          {
+            "name": "390: Finance navigation reaches independent page",
+            "passed": true
+          },
+          {
+            "name": "390: Contact navigation reaches independent page",
+            "passed": true
+          },
+          {
+            "name": "390: homepage checklist downloads",
+            "passed": true
+          },
+          {
+            "name": "390: resource checklist downloads",
+            "passed": true
+          },
+          {
+            "name": "390: resource video dialog keyboard lifecycle",
+            "passed": true
+          },
+          {
+            "name": "390: article full-page navigation lifecycle",
+            "passed": true
+          },
+          {
+            "name": "390: event inquiry keyboard lifecycle",
+            "passed": true
+          },
+          {
+            "name": "desktop: pointer click keeps Products links available",
+            "passed": true
+          },
+          {
+            "name": "desktop: Products Escape restores trigger focus",
+            "passed": true
+          }
+        ],
+        "errors": [],
+        "localFailures": []
+      }
+    },
+    {
+      "script": "qa-flows.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 14360,
+      "passed": true,
+      "stdout": "{\n  \"passed\": true,\n  \"results\": [\n    {\n      \"width\": 1440,\n      \"route\": \"/\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 1440,\n      \"viewportWidth\": 1440,\n      \"heading\": \"FDA ClearedHyperbaricChambers for Home and Clinic\",\n      \"mainHeight\": 20611\n    },\n    {\n      \"width\": 1440,\n      \"route\": \"/events/a4m-longevity-fest\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 1440,\n      \"viewportWidth\": 1440,\n      \"heading\": \"OxyHealth at A4M Longevityfest 2026\",\n      \"mainHeight\": 7594\n    },\n    {\n      \"width\": 1440,\n      \"route\": \"/hyperbarics\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 1440,\n      \"viewportWidth\": 1440,\n      \"heading\": \"What Is Hyperbaric Oxygen Therapy (HBOT)?\",\n      \"mainHeight\": 8366\n    },\n    {\n      \"width\": 1440,\n      \"route\": \"/resources\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 1440,\n      \"viewportWidth\": 1440,\n      \"heading\": \"Videos, News & Education\",\n      \"mainHeight\": 7312\n    },\n    {\n      \"width\": 1440,\n      \"route\": \"/blog\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 1440,\n      \"viewportWidth\": 1440,\n      \"heading\": \"The OxyHealth Blog\",\n      \"mainHeight\": 2867\n    },\n    {\n      \"width\": 1440,\n      \"flows\": \"menu, product details, quote, gauge passed\"\n    },\n    {\n      \"width\": 768,\n      \"route\": \"/\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 768,\n      \"viewportWidth\": 768,\n      \"heading\": \"FDA ClearedHyperbaricChambers for Home and Clinic\",\n      \"mainHeight\": 21155\n    },\n    {\n      \"width\": 768,\n      \"route\": \"/events/a4m-longevity-fest\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 768,\n      \"viewportWidth\": 768,\n      \"heading\": \"OxyHealth at A4M Longevityfest 2026\",\n      \"mainHeight\": 7248\n    },\n    {\n      \"width\": 768,\n      \"route\": \"/hyperbarics\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 768,\n      \"viewportWidth\": 768,\n      \"heading\": \"What Is Hyperbaric Oxygen Therapy (HBOT)?\",\n      \"mainHeight\": 10502\n    },\n    {\n      \"width\": 768,\n      \"route\": \"/resources\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 768,\n      \"viewportWidth\": 768,\n      \"heading\": \"Videos, News & Education\",\n      \"mainHeight\": 8265\n    },\n    {\n      \"width\": 768,\n      \"route\": \"/blog\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 768,\n      \"viewportWidth\": 768,\n      \"heading\": \"The OxyHealth Blog\",\n      \"mainHeight\": 3259\n    },\n    {\n      \"width\": 768,\n      \"flows\": \"menu, product details, quote, gauge passed\"\n    },\n    {\n      \"width\": 390,\n      \"route\": \"/\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 390,\n      \"viewportWidth\": 390,\n      \"heading\": \"FDA ClearedHyperbaricChambers for Home and Clinic\",\n      \"mainHeight\": 21820\n    },\n    {\n      \"width\": 390,\n      \"route\": \"/events/a4m-longevity-fest\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 390,\n      \"viewportWidth\": 390,\n      \"heading\": \"OxyHealth at A4M Longevityfest 2026\",\n      \"mainHeight\": 8500\n    },\n    {\n      \"width\": 390,\n      \"route\": \"/hyperbarics\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 390,\n      \"viewportWidth\": 390,\n      \"heading\": \"What Is Hyperbaric Oxygen Therapy (HBOT)?\",\n      \"mainHeight\": 13480\n    },\n    {\n      \"width\": 390,\n      \"route\": \"/resources\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 390,\n      \"viewportWidth\": 390,\n      \"heading\": \"Videos, News & Education\",\n      \"mainHeight\": 12013\n    },\n    {\n      \"width\": 390,\n      \"route\": \"/blog\",\n      \"horizontalOverflow\": false,\n      \"pageWidth\": 390,\n      \"viewportWidth\": 390,\n      \"heading\": \"The OxyHealth Blog\",\n      \"mainHeight\": 5116\n    },\n    {\n      \"width\": 390,\n      \"flows\": \"menu, product details, quote, gauge passed\"\n    }\n  ],\n  \"errors\": []\n}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "results": [
+          {
+            "width": 1440,
+            "route": "/",
+            "horizontalOverflow": false,
+            "pageWidth": 1440,
+            "viewportWidth": 1440,
+            "heading": "FDA ClearedHyperbaricChambers for Home and Clinic",
+            "mainHeight": 20611
+          },
+          {
+            "width": 1440,
+            "route": "/events/a4m-longevity-fest",
+            "horizontalOverflow": false,
+            "pageWidth": 1440,
+            "viewportWidth": 1440,
+            "heading": "OxyHealth at A4M Longevityfest 2026",
+            "mainHeight": 7594
+          },
+          {
+            "width": 1440,
+            "route": "/hyperbarics",
+            "horizontalOverflow": false,
+            "pageWidth": 1440,
+            "viewportWidth": 1440,
+            "heading": "What Is Hyperbaric Oxygen Therapy (HBOT)?",
+            "mainHeight": 8366
+          },
+          {
+            "width": 1440,
+            "route": "/resources",
+            "horizontalOverflow": false,
+            "pageWidth": 1440,
+            "viewportWidth": 1440,
+            "heading": "Videos, News & Education",
+            "mainHeight": 7312
+          },
+          {
+            "width": 1440,
+            "route": "/blog",
+            "horizontalOverflow": false,
+            "pageWidth": 1440,
+            "viewportWidth": 1440,
+            "heading": "The OxyHealth Blog",
+            "mainHeight": 2867
+          },
+          {
+            "width": 1440,
+            "flows": "menu, product details, quote, gauge passed"
+          },
+          {
+            "width": 768,
+            "route": "/",
+            "horizontalOverflow": false,
+            "pageWidth": 768,
+            "viewportWidth": 768,
+            "heading": "FDA ClearedHyperbaricChambers for Home and Clinic",
+            "mainHeight": 21155
+          },
+          {
+            "width": 768,
+            "route": "/events/a4m-longevity-fest",
+            "horizontalOverflow": false,
+            "pageWidth": 768,
+            "viewportWidth": 768,
+            "heading": "OxyHealth at A4M Longevityfest 2026",
+            "mainHeight": 7248
+          },
+          {
+            "width": 768,
+            "route": "/hyperbarics",
+            "horizontalOverflow": false,
+            "pageWidth": 768,
+            "viewportWidth": 768,
+            "heading": "What Is Hyperbaric Oxygen Therapy (HBOT)?",
+            "mainHeight": 10502
+          },
+          {
+            "width": 768,
+            "route": "/resources",
+            "horizontalOverflow": false,
+            "pageWidth": 768,
+            "viewportWidth": 768,
+            "heading": "Videos, News & Education",
+            "mainHeight": 8265
+          },
+          {
+            "width": 768,
+            "route": "/blog",
+            "horizontalOverflow": false,
+            "pageWidth": 768,
+            "viewportWidth": 768,
+            "heading": "The OxyHealth Blog",
+            "mainHeight": 3259
+          },
+          {
+            "width": 768,
+            "flows": "menu, product details, quote, gauge passed"
+          },
+          {
+            "width": 390,
+            "route": "/",
+            "horizontalOverflow": false,
+            "pageWidth": 390,
+            "viewportWidth": 390,
+            "heading": "FDA ClearedHyperbaricChambers for Home and Clinic",
+            "mainHeight": 21820
+          },
+          {
+            "width": 390,
+            "route": "/events/a4m-longevity-fest",
+            "horizontalOverflow": false,
+            "pageWidth": 390,
+            "viewportWidth": 390,
+            "heading": "OxyHealth at A4M Longevityfest 2026",
+            "mainHeight": 8500
+          },
+          {
+            "width": 390,
+            "route": "/hyperbarics",
+            "horizontalOverflow": false,
+            "pageWidth": 390,
+            "viewportWidth": 390,
+            "heading": "What Is Hyperbaric Oxygen Therapy (HBOT)?",
+            "mainHeight": 13480
+          },
+          {
+            "width": 390,
+            "route": "/resources",
+            "horizontalOverflow": false,
+            "pageWidth": 390,
+            "viewportWidth": 390,
+            "heading": "Videos, News & Education",
+            "mainHeight": 12013
+          },
+          {
+            "width": 390,
+            "route": "/blog",
+            "horizontalOverflow": false,
+            "pageWidth": 390,
+            "viewportWidth": 390,
+            "heading": "The OxyHealth Blog",
+            "mainHeight": 5116
+          },
+          {
+            "width": 390,
+            "flows": "menu, product details, quote, gauge passed"
+          }
+        ],
+        "errors": []
+      }
+    },
+    {
+      "script": "qa-faq.mjs",
+      "exitCode": 0,
+      "signal": null,
+      "duration_ms": 7348,
+      "passed": true,
+      "stdout": "{\n  \"passed\": true,\n  \"results\": [\n    {\n      \"width\": 1440,\n      \"index\": 0,\n      \"label\": \"How long do OxyHealth hyperbaric chambers last?\",\n      \"isOpen\": true,\n      \"answerVisible\": true,\n      \"overflow\": false\n    },\n    {\n      \"width\": 1440,\n      \"index\": 1,\n      \"label\": \"Which hyperbaric chamber brand do home and clinic buyers choose?\",\n      \"isOpen\": true,\n      \"answerVisible\": true,\n      \"overflow\": false\n    },\n    {\n      \"width\": 1440,\n      \"index\": 2,\n      \"label\": \"Are OxyHealth hyperbaric chambers built to recognized safety standards?\",\n      \"isOpen\": true,\n      \"answerVisible\": true,\n      \"overflow\": false\n    },\n    {\n      \"width\": 390,\n      \"index\": 0,\n      \"label\": \"How long do OxyHealth hyperbaric chambers last?\",\n      \"isOpen\": true,\n      \"answerVisible\": true,\n      \"overflow\": false\n    },\n    {\n      \"width\": 390,\n      \"index\": 1,\n      \"label\": \"Which hyperbaric chamber brand do home and clinic buyers choose?\",\n      \"isOpen\": true,\n      \"answerVisible\": true,\n      \"overflow\": false\n    },\n    {\n      \"width\": 390,\n      \"index\": 2,\n      \"label\": \"Are OxyHealth hyperbaric chambers built to recognized safety standards?\",\n      \"isOpen\": true,\n      \"answerVisible\": true,\n      \"overflow\": false\n    }\n  ],\n  \"errors\": []\n}\n",
+      "stderr": "",
+      "result": {
+        "passed": true,
+        "results": [
+          {
+            "width": 1440,
+            "index": 0,
+            "label": "How long do OxyHealth hyperbaric chambers last?",
+            "isOpen": true,
+            "answerVisible": true,
+            "overflow": false
+          },
+          {
+            "width": 1440,
+            "index": 1,
+            "label": "Which hyperbaric chamber brand do home and clinic buyers choose?",
+            "isOpen": true,
+            "answerVisible": true,
+            "overflow": false
+          },
+          {
+            "width": 1440,
+            "index": 2,
+            "label": "Are OxyHealth hyperbaric chambers built to recognized safety standards?",
+            "isOpen": true,
+            "answerVisible": true,
+            "overflow": false
+          },
+          {
+            "width": 390,
+            "index": 0,
+            "label": "How long do OxyHealth hyperbaric chambers last?",
+            "isOpen": true,
+            "answerVisible": true,
+            "overflow": false
+          },
+          {
+            "width": 390,
+            "index": 1,
+            "label": "Which hyperbaric chamber brand do home and clinic buyers choose?",
+            "isOpen": true,
+            "answerVisible": true,
+            "overflow": false
+          },
+          {
+            "width": 390,
+            "index": 2,
+            "label": "Are OxyHealth hyperbaric chambers built to recognized safety standards?",
+            "isOpen": true,
+            "answerVisible": true,
+            "overflow": false
+          }
+        ],
+        "errors": []
+      }
+    }
+  ],
+  "completed_at": "2026-11-13T05:03:32.589Z"
+}

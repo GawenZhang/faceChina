@@ -1,0 +1,607 @@
+{
+  "checked_at": "2026-11-13T05:04:47.194Z",
+  "passed": true,
+  "results": [
+    {
+      "route": "/contact",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "route": "/support",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "route": "/partners",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "route": "/why-oxyhealth",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "route": "/finance",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "route": "/events/events",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "route": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/blog__fda-hyperbaric-chambers-wellness-devices-not-exempt/page.html",
+      "headings": 25,
+      "sections": 5,
+      "links": 32,
+      "disclosures": 9,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-longevity/page.html",
+      "headings": 24,
+      "sections": 5,
+      "links": 11,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hbot-for-brain-injury-what-clinical-trials-show/page.html",
+      "headings": 30,
+      "sections": 5,
+      "links": 9,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-long-covid-research/page.html",
+      "headings": 28,
+      "sections": 5,
+      "links": 12,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__does-insurance-cover-hyperbaric-oxygen-therapy/page.html",
+      "headings": 30,
+      "sections": 5,
+      "links": 8,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__starting-an-hbot-business-clinic-setup-guide/page.html",
+      "headings": 26,
+      "sections": 5,
+      "links": 14,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hbot-for-pets-veterinary-hyperbaric-therapy/page.html",
+      "headings": 24,
+      "sections": 5,
+      "links": 10,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__why-russell-wilson-spends-over-1-million-a-year-on-his-body/page.html",
+      "headings": 8,
+      "sections": 5,
+      "links": 8,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery/page.html",
+      "headings": 7,
+      "sections": 5,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover/page.html",
+      "headings": 8,
+      "sections": 4,
+      "links": 8,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__lebron-james-uses-hyperbaric-oxygen-therapy/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 1440,
+      "passed": true,
+      "source": "inspection/live-20261113/post__the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/contact",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "route": "/support",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "route": "/partners",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "route": "/why-oxyhealth",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "route": "/finance",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "route": "/events/events",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "route": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/blog__fda-hyperbaric-chambers-wellness-devices-not-exempt/page.html",
+      "headings": 25,
+      "sections": 5,
+      "links": 32,
+      "disclosures": 9,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-longevity/page.html",
+      "headings": 24,
+      "sections": 5,
+      "links": 11,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hbot-for-brain-injury-what-clinical-trials-show/page.html",
+      "headings": 30,
+      "sections": 5,
+      "links": 9,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-long-covid-research/page.html",
+      "headings": 28,
+      "sections": 5,
+      "links": 12,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__does-insurance-cover-hyperbaric-oxygen-therapy/page.html",
+      "headings": 30,
+      "sections": 5,
+      "links": 8,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__starting-an-hbot-business-clinic-setup-guide/page.html",
+      "headings": 26,
+      "sections": 5,
+      "links": 14,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hbot-for-pets-veterinary-hyperbaric-therapy/page.html",
+      "headings": 24,
+      "sections": 5,
+      "links": 10,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__why-russell-wilson-spends-over-1-million-a-year-on-his-body/page.html",
+      "headings": 8,
+      "sections": 5,
+      "links": 8,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery/page.html",
+      "headings": 7,
+      "sections": 5,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover/page.html",
+      "headings": 8,
+      "sections": 4,
+      "links": 8,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__lebron-james-uses-hyperbaric-oxygen-therapy/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 768,
+      "passed": true,
+      "source": "inspection/live-20261113/post__the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "route": "/support",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "route": "/partners",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "route": "/why-oxyhealth",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "route": "/finance",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "route": "/events/events",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "route": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/blog__fda-hyperbaric-chambers-wellness-devices-not-exempt/page.html",
+      "headings": 25,
+      "sections": 5,
+      "links": 32,
+      "disclosures": 9,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-longevity/page.html",
+      "headings": 24,
+      "sections": 5,
+      "links": 11,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hbot-for-brain-injury-what-clinical-trials-show/page.html",
+      "headings": 30,
+      "sections": 5,
+      "links": 9,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-long-covid-research/page.html",
+      "headings": 28,
+      "sections": 5,
+      "links": 12,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__does-insurance-cover-hyperbaric-oxygen-therapy/page.html",
+      "headings": 30,
+      "sections": 5,
+      "links": 8,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__starting-an-hbot-business-clinic-setup-guide/page.html",
+      "headings": 26,
+      "sections": 5,
+      "links": 14,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hbot-for-pets-veterinary-hyperbaric-therapy/page.html",
+      "headings": 24,
+      "sections": 5,
+      "links": 10,
+      "disclosures": 0,
+      "faqButtons": 8
+    },
+    {
+      "route": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__why-russell-wilson-spends-over-1-million-a-year-on-his-body/page.html",
+      "headings": 8,
+      "sections": 5,
+      "links": 8,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery/page.html",
+      "headings": 7,
+      "sections": 5,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover/page.html",
+      "headings": 8,
+      "sections": 4,
+      "links": 8,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__lebron-james-uses-hyperbaric-oxygen-therapy/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    },
+    {
+      "route": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 390,
+      "passed": true,
+      "source": "inspection/live-20261113/post__the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports/page.html",
+      "headings": 7,
+      "sections": 4,
+      "links": 7,
+      "disclosures": 0,
+      "faqButtons": 0
+    }
+  ],
+  "errors": []
+}

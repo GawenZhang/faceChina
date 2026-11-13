@@ -1,0 +1,9 @@
+﻿import fs from 'node:fs';
+import {landingPages} from './extended-data.mjs';
+const dir='evidence-extended-current';
+const schemas={};
+const clean=s=>s.replace(/【\d+†([^】]+)】/g,'$1').replace(/^\s*(?:\*|\d+\.)\s*/,'').trim();
+const words=s=>clean(s).split(/\s+/).length;
+for(const page of landingPages){const file=dir+'/'+page.path.slice(1)+'.txt';if(!fs.existsSync(file))continue;const lines=fs.readFileSync(file,'utf8').split('\n').map(x=>x.match(/^L\d+: ?(.*)/)?.[1]).filter(x=>x!==undefined);let titleIndex=lines.findIndex(x=>/^# /.test(x));if(titleIndex<0)continue;let sections=[],section=null,group=null;for(const line of lines.slice(titleIndex+1)){if(/^## /.test(line)){section={title:clean(line.slice(3)),paragraphs:[],groups:[],bullets:[],table:[]};sections.push(section);group=null;}else if(/^### / .test(line)&&section){group={title:clean(line.replace(/^#+ /,'')),paragraphs:[],bullets:[]};section.groups.push(group);}else if(section&&line.trim()){if(/^\s*(?:\*|\d+\.)\s+/.test(line)){(group||section).bullets.push(words(line));}else if(line.includes(' | ')){section.table.push(line.split('|').map(clean));}else if(!/^[【\[]/.test(line)&&line.length>70){(group||section).paragraphs.push(words(line));}}}
+let firstSection=lines.findIndex((x,i)=>i>titleIndex&&/^## /.test(x));const pre=lines.slice(titleIndex+1,firstSection);schemas[page.path]={source:'https://www.oxyhealth.com'+page.path,title:clean(lines[titleIndex].slice(2)),eyebrow:clean(lines.slice(0,titleIndex).filter(x=>x.trim()).at(-1)||''),intro:pre.filter(x=>x.length>70&&!x.startsWith('【')).map(words).slice(0,2),compact:/rental|used-hyperbaric|prescription|room-requirements|genuine-oxyhealth/.test(page.path),sections};}
+fs.writeFileSync('landing-evidence.json',JSON.stringify(schemas,null,2));console.log(Object.keys(schemas).length+' route-specific outlines');

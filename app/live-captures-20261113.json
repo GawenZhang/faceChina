@@ -1,0 +1,1905 @@
+{
+  "recorded_at": "2026-11-13T04:56:16.194Z",
+  "count": 44,
+  "widths": [
+    1440,
+    768,
+    390
+  ],
+  "source_css_evidence": "ev_3a00c2faea6674b33f1cc79f32cae29095f165461c029b408fa40749734a061d",
+  "why_script_evidence": "ev_e76dc16eca60cb56a575d520eb53107dfd79095c15f527d0f060cd0f59949350",
+  "results": [
+    {
+      "path": "/why-oxyhealth",
+      "open_evidence": "ev_1979827ae8647992269f7d48d8192445a3e6b48eaa19e202d7dc0bdbae3c74f8",
+      "capture_evidence": "ev_6d5b7b9ba22e85014f4a4a1aaaefbe876e243f8df1551cdc06e5b033ce3df79a",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\why-oxyhealth",
+      "final_url": "https://www.oxyhealth.com/why-oxyhealth",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 16630,
+          "sha256": "23dd35eb12976a31617c5a7a0ac809611cffa0642d016af0b7b7a86e5a1af61b",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 15471,
+          "sha256": "91569b2e07cda44b34868448e3a1b6e737426a7aea3c2573b9eb9f9e0d29ed40",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 16928,
+          "sha256": "7e0313eb69e4031b3efdb7230c73ea0f1aed32254f1929592bf11731f6f6baa9",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-for-sale",
+      "open_evidence": "ev_a3fc0c8dc3cdfc1eb60580b7a2541e7c99f1009b3981f6a99367e758c76993a2",
+      "capture_evidence": "ev_816afd1f0c29ade8de08fdea01656d5350565b2d6a3ae3676f8977c8bd17b771",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-for-sale",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-for-sale",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 13257,
+          "sha256": "54d74130fa70dc89fa67e87607682a1b2acc81d0eed149699400661a6f1fd42c",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 14097,
+          "sha256": "1d88251915350e332f0a0463b9ffa28d8f8f60ecc4702b490594052f9d7aee2d",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 19650,
+          "sha256": "f499a34b304ef1ef26764925ab7e167d45cfb3b4e7f5e9b05c126aac7ffcd2aa",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/home-hyperbaric-chamber",
+      "open_evidence": "ev_bcfc1306580e2a31c087714a8dc9cb139503ae47e4db4db373247c22326abc35",
+      "capture_evidence": "ev_adef0c3e6eeb0d1f46c3dcc377bb5b8e70bafb2e02836b71e537b6ea89658f11",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\home-hyperbaric-chamber",
+      "final_url": "https://www.oxyhealth.com/home-hyperbaric-chamber",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 13343,
+          "sha256": "6695380107daac9bf080494e3241351936d4e6adf5bda61b8d72875c94fd7fdc",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 14297,
+          "sha256": "594f0bdef274c6a912b7989e7bc56e84c2c14fe4ffd1a06ccfac7c434b04d817",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 19441,
+          "sha256": "4f0663d312ba20ce1a4cd95a41b80953ffc950f067a53cafb5214d65720b9293",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/mild-hyperbaric-chamber",
+      "open_evidence": "ev_33f4f9c8ad294f1fbb156711065a2f4a17652f881adb8ecbdb4f3c4e0bd86306",
+      "capture_evidence": "ev_51f0a309801fcff666aa7180f15f9d5e45a905e79dedf7f84f66d21e73e3acbf",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\mild-hyperbaric-chamber",
+      "final_url": "https://www.oxyhealth.com/mild-hyperbaric-chamber",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 14204,
+          "sha256": "ca5761ba503216c09019cdf1e9ead3ad8899caaea57897f25a6482e8a559808a",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 15501,
+          "sha256": "9f1cca8ec1887d68ba24ea7b08a60842c837b711699e76fd660e49d45c37fabb",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "3927aa8fea7f524c01b72ae951993580bf7aae51175314960c4c93e0f1d3e84f",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-for-business",
+      "open_evidence": "ev_308100210e08ba2d0c7ddf93724648b7106c50421d00038f91c5c50db706527f",
+      "capture_evidence": "ev_756d6fc7e57a05b7cf29fc06b3c115adf00c96bcb6577dfdf49c1399d278af27",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-for-business",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-for-business",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 14000,
+          "sha256": "738ce46db2a13695ec6337bd03a62182d6b9e34dabbadd02804daed3d2cace3f",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 15261,
+          "sha256": "497fc6554bf759276eac1ed3d4d1864f712936b5ad0cf6dc851b3fe0d7f30edc",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "64c144d9e3d277611244f0af729798566d8181f8f96b0ce99ee0a9d7639874d5",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "open_evidence": "ev_785b96a0e9192133fdbaf2dba00ca6ed811d155fdb55917b1b5f8fafda8325ee",
+      "capture_evidence": "ev_e42309c9c70a985e928e02e99619400ed8a1587e67ba9d691fbdef170ac492e2",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\blog__fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "final_url": "https://www.oxyhealth.com/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 15052,
+          "sha256": "a2e3c0f07a45f7b27eb434f3adac2fcfd9420662556c9a57f52f1a2a6c9e0913",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 15787,
+          "sha256": "9885b6636a9ef889f4bdfad4f3b3f983070a40d14b6132fd1a5b11a1a0e3e693",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "b82d8977476803d152eae859118e656c23a6e852fef9eb55b4ef6662647ff105",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "open_evidence": "ev_bba715243044a6ae15c0be5154642d771eaf4dd3a970aca0a773d53d7e21c087",
+      "capture_evidence": "ev_c196d4151a274e6c0c8d050a92d6bb875b41fc7ba1eff67269b845039cdf143e",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__hyperbaric-oxygen-therapy-for-longevity",
+      "final_url": "https://www.oxyhealth.com/post/hyperbaric-oxygen-therapy-for-longevity",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 10245,
+          "sha256": "29e60cb4716e4b04077c9934bfd8ec995634d5b63bba7e948ebf5a5237152d75",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 10779,
+          "sha256": "77f22075e0267cebdb9c81cd3ce0dc45bf7ee0f1ea1894545da66615e4f40316",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 18154,
+          "sha256": "5e359c08603a20a7612c5358fe58e7a8d88eadced368eb19e869019cc6653356",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "open_evidence": "ev_3693894b1a43e7ae0ca0165c573148512b40ee63185f3d2864b57f01a9dd4c8f",
+      "capture_evidence": "ev_3560e872bb4bae88f8d51833d11c9eee3adc0e674b9376548909060709b17b9c",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__hbot-for-brain-injury-what-clinical-trials-show",
+      "final_url": "https://www.oxyhealth.com/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 11272,
+          "sha256": "3b89eb5104749d24fb8f4886c374dbc54bce5545a2fdbb90d2e36f8a7d23c349",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 11868,
+          "sha256": "1d904db87b36f4e565cf5b32a74a033bfa44aa4a41b82efa0c7b542932b5a882",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 19985,
+          "sha256": "3c6e9a26fcacc5b363f35d68b02a169f6e5c0c6c8db9f1890e656416917a501f",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "open_evidence": "ev_efc80eff42b19c1ae161b10b007d24fcb661f0720dc9903f75058e1a027e42df",
+      "capture_evidence": "ev_efb90a1caf653ac57f535de9681cc967e72d4b3749c334607441f6d7ef91d608",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__hyperbaric-oxygen-therapy-for-long-covid-research",
+      "final_url": "https://www.oxyhealth.com/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 10971,
+          "sha256": "fc292483e494163063221dc009e3cf5ca3d520ddb5119272e56dfae97bd00919",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 11597,
+          "sha256": "52f54a152f66f2162598a712ddd89eeace86f24abfa210b3adcaea805a507fb0",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 19478,
+          "sha256": "c4cbcef269fedbf6371d97988a028c6591dfde764c0806340d72eac55f17d63a",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "open_evidence": "ev_6360e2f9d7f94936f34908f0f0a7a4f85ea71591cb1caca6e1c912753cfe01fe",
+      "capture_evidence": "ev_991b0ef51dfe1b76c80f82b70b1e4a34e87aa35651a5a56695d85ac45b765303",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__does-insurance-cover-hyperbaric-oxygen-therapy",
+      "final_url": "https://www.oxyhealth.com/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 11830,
+          "sha256": "0a99819086e13872aaab855a4369dd9bd69cff9e006bd4f4d11185c5fdfff534",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 12487,
+          "sha256": "4322e058e7bd69696915572c14162b5b890e3e1c1ff1b5297544fb558a13ecdf",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "677629cea2b956ffab3d53cc9fcd3d531a58490d0a47f0b53e8ee4ed264da3c7",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "open_evidence": "ev_5bd953d0ef9da35afd7709f344cd7df60c6a368d187d7bdc383b58af8915be9d",
+      "capture_evidence": "ev_06d71edef32587530917b0b781de332b51c832c8c1999b3c2bc73ff5f49ce5de",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__starting-an-hbot-business-clinic-setup-guide",
+      "final_url": "https://www.oxyhealth.com/post/starting-an-hbot-business-clinic-setup-guide",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 11559,
+          "sha256": "166d76c5d5d49e2863363b67c2c87ff21e7797fc07068895f0396e87f8f3ba65",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 12236,
+          "sha256": "d1a1ed32d53d51cf0033d93fa0bf3e25d92b6aa5b70f2cb910669ee1bf305efd",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "63f3657efc55eb61be62a2c9a07380912f5e2444902d32b0e85596a0f42f513b",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "open_evidence": "ev_94a03b54a294e294103d554b68a70e6efb77ce0e45f2b6eb53e28a25612e510e",
+      "capture_evidence": "ev_70e9d85e2f6f527696e4d853f5c697c42c33823d1094e249ca6dc3bb700c266f",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__hbot-for-pets-veterinary-hyperbaric-therapy",
+      "final_url": "https://www.oxyhealth.com/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 11541,
+          "sha256": "6f08a3d7d5c07cc3987c90f993d371fb1f83a19d314e82336796e0ff1552677d",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 12070,
+          "sha256": "58b1df1dd289105ff07ead706704bb89ea28dcc9bf6fa7d09009f663177e4aac",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "c2b4638bd421da37da932ed3ce269149c4f1a0baf3290eaee3444b0e4842940c",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "open_evidence": "ev_11eb87face64908c5ba964adc401a43ec34d22ac7a72006b54776d78516a3a13",
+      "capture_evidence": "ev_f99491b247e494b4e1d64e8e51ecffce18ffe8805ed5eb254214bf8d0473d79c",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "final_url": "https://www.oxyhealth.com/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4917,
+          "sha256": "24f3e73d9a5f03c5e81fe5ae2fd1373fcb5f51ceb079b799a0b3d051fafc1c99",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4945,
+          "sha256": "f01928484c9302e7e24783a8c4150dec8fbf25b84c38f87b53daa3bfebe9752a",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 6549,
+          "sha256": "af548c2f4c64f5440bb59df035b356ac64d5fa16ed574a228f88cb7647e831cd",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "open_evidence": "ev_c2b2cdd48a470c243013386c51626bd01ed394c74ddd6105a5a5615cf357d328",
+      "capture_evidence": "ev_666d59ced138394b0c9aa8ae6f5ed7fb14afadebb5b0019b0bd65e7a3ed983c2",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "final_url": "https://www.oxyhealth.com/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4525,
+          "sha256": "2ec5d082799957160300e7b3f3a17397710eb31c6fa6932a7891c3bbdc60698a",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4601,
+          "sha256": "63a66fa8c63af6d2c1483346f2c924b222db5eb523440b7382e6a696f551b01f",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 6310,
+          "sha256": "7dc5599c70c0047bf0ff49a601978580a333973d60825bc32f228bef451122f7",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "open_evidence": "ev_fcf8ec0da29acfe008fa17f1fce54ef891ad720d66fbe1ad659d9cbfbd7f1773",
+      "capture_evidence": "ev_fddb903da0db85665e1c4d111af2e124c7c262812f802ecf72470ccfcabdb5ad",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "final_url": "https://www.oxyhealth.com/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4511,
+          "sha256": "8aaba525cd9d4377a86cad4c612061e0b2a0982dfd897414e67979772ce695bf",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4507,
+          "sha256": "2d4d6a46afe1d5997b157025dab286f8dd056b227b5ff6efedee6ee756e1d3e0",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 6308,
+          "sha256": "1d99e9c142282334cb333e17b361ac3b175e8100c0c3ac01ffb8afabfd6ba97d",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "open_evidence": "ev_9d9b80b2189c1e924f8feaa520f6d56949ab1b1cd78cf5f429e6fad7642b3d82",
+      "capture_evidence": "ev_ed36c83a1480e8557d01c30cde0bc89b14987f814f9201a7fb4c6b0673253b38",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "final_url": "https://www.oxyhealth.com/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4870,
+          "sha256": "1ca1fb02532f8e581d4ce0c7d0346a859d8b1c008f58fc7989bc71a887ea3d29",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4847,
+          "sha256": "992f3e06abf76e88156c2335e9408502adf0e86478219591e8a0bea8564885c7",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 6204,
+          "sha256": "f8d5e2588cfd0a68ba957eb34203425cc8c934882f0a8f53481a421a4c198199",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "open_evidence": "ev_6ccfc4b70d8d67b2b5cfc7f3ef45edcd21af320734319e8b01005ef22ff7e104",
+      "capture_evidence": "ev_33f3298c400b43c617fb5d8e475fa60298b4717fb7881938534b265d010e68ba",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "final_url": "https://www.oxyhealth.com/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4025,
+          "sha256": "2c6940e2a746bf5e9e72d82cad8a453874592e09328bd4e613412d1478a30d20",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4069,
+          "sha256": "0de53e94dd4d9b456ae24a1091d41e1ddfdf94333e1dc12ea39199443788112f",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 5923,
+          "sha256": "6ec8dbe3929372fb305ba0b989e38af32eab3614bb47afb463051cd553b73322",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "open_evidence": "ev_8d030d632a472a5e62f6f36e6e8c736604d6249ef94da927eafc487280957c1d",
+      "capture_evidence": "ev_7c38271d854e9b86a8db9822edc8df427d13015cb0ca586d76cafbd4316e4773",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "final_url": "https://www.oxyhealth.com/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4487,
+          "sha256": "be56006981056d76eb8a66ff44c3781af400b98cca5fb7ab3002ed21a804f4b7",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4601,
+          "sha256": "c6a15feafb19ed39e1cad19643aae8978478e2a7a1b14758f6717f98534beaf7",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 6477,
+          "sha256": "cec0d4ea1d9aabfe97c528ff9a06da97b6be82a4462f70e7214e269467ef4268",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "open_evidence": "ev_007e29c0d843ba0a544d5b8cffcee56f5ec3eea7d253000da23b87f7ca6edf72",
+      "capture_evidence": "ev_9f08be5fdcdb1505a1b3ae644aea0365a6206670a13caacaf67882159612f743",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__lebron-james-uses-hyperbaric-oxygen-therapy",
+      "final_url": "https://www.oxyhealth.com/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 3933,
+          "sha256": "bf8994a2285cd4b0d7ab765ebe6db27b9e4e31c3160c06ae6dca8b173d5542f1",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4052,
+          "sha256": "542356a0fe143671439c5fcf56b0fcd031b55697bdfff5c53391a367c658f522",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 6199,
+          "sha256": "ba62a2f390050e72db685cdd58347075a027906e8c3fc8ba7540c9dd8cab7bec",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "open_evidence": "ev_cd5fbbf2f1ecffb9bfbd4f0058a5dc69b6d00eaebd836d8be55304d1ab68e05f",
+      "capture_evidence": "ev_d23c62d87125ce5378b4f4096839d4ca7ffaf1383ea4e9a298619bba3c3efb09",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\post__the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "final_url": "https://www.oxyhealth.com/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4303,
+          "sha256": "f5467fae56a470784d488357d80a6732a8d0db0973e1d889003118c7c5f3daae",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4407,
+          "sha256": "970d52857610e0f08a9856b160d06b376a2ac279c3b4f7d7abb4058023668675",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 6060,
+          "sha256": "14ca565bc5c0ec4d2e1a7d0ab8b2af41da09fe46abd61bad3a5dc4a82fbd2b78",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/portable-hyperbaric-chamber",
+      "open_evidence": "ev_b92d728bf2c8218ce2c0b505967c2a802adca47b83756b549aef2a19eed9bb8d",
+      "capture_evidence": "ev_5e9440f8274c7f1f6abc856c8c776827a1323c6ad3d68ef971a751b0346dee50",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\portable-hyperbaric-chamber",
+      "final_url": "https://www.oxyhealth.com/portable-hyperbaric-chamber",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 13098,
+          "sha256": "14d093c842e6aa43ca342d6f3bf626897ff6d96ca68ebbee3f845ea01ec5f05f",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 13986,
+          "sha256": "1daccacc48efa64cbe0c0a473ccc5ed5596010741a20748f63df8591658f2fa8",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 19583,
+          "sha256": "a32e22a00b235f4a14c6372023de06115325ce6364c5c447fc05105b7338dd43",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/soft-shell-hyperbaric-chamber",
+      "open_evidence": "ev_4b4a1b96cc187a0bdaab4c1cb02f523d3e94a8ac90cecd6d85a0248dfb467c86",
+      "capture_evidence": "ev_9aa91c319622edc8b909e46159bd6d139d6f4d11a0ff7da9131e86730c3f6ee1",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\soft-shell-hyperbaric-chamber",
+      "final_url": "https://www.oxyhealth.com/soft-shell-hyperbaric-chamber",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 14025,
+          "sha256": "011f6a67890a59c53720874d47b66836deafbd3133489c763f71866b1e1183dc",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 14831,
+          "sha256": "c8c63f78b9053dd109ea5c48eb68a3e67d28644937c8360397b5cd23d82a03ce",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "4badb6f244172f2a8dd598a4c17f826c16d068aa083b1a40b84d766621b07c25",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/fda-cleared-hyperbaric-chamber",
+      "open_evidence": "ev_f3cbfd14429de7ac998d4b49b047524e7d607b8f77b50c4dc173379d2a451ace",
+      "capture_evidence": "ev_80e63f672e8dd731746e386222da28c234e25593b2636f9abed8c82ebc8d7ccc",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\fda-cleared-hyperbaric-chamber",
+      "final_url": "https://www.oxyhealth.com/fda-cleared-hyperbaric-chamber",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 13446,
+          "sha256": "5e04a68989d5865fa2b13ddfcbe5c6b761af44328e1c04ca7c9097ae0d846014",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 14622,
+          "sha256": "f9d917710b59ad4f71dfa2c9948c18bc8e94f019cd42929d7d5801febb3ea831",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "bbd428c4b3c781a11a6323a1bd2a7816031e7e05adc4592af47ea835f795fe7f",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/best-hyperbaric-chamber",
+      "open_evidence": "ev_51ade27efc54de8ad963844d796ba0b03808d7a7777de5dd27b7f4b6023f59de",
+      "capture_evidence": "ev_d0fd1a1a4ba45aa025bbf99a9cfe281ce70512d8916352bf84a5ea3d568c079a",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\best-hyperbaric-chamber",
+      "final_url": "https://www.oxyhealth.com/best-hyperbaric-chamber",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 13838,
+          "sha256": "0d72e86f57743f0d9b065a15901321d55b8b6d0c8bd7cd69b9baad39db665cec",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 14394,
+          "sha256": "32d74e4fb630f8a5224a1951e71f882da1a2af53ea1ac9dfd19f57d53b1ad96d",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "bb6a391f76060d8059610b461ae6d446daa605dccc14b23c65ef7fed2c80cd05",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-comparison",
+      "open_evidence": "ev_d2265092cfe5801d15e5553a59ee5940a0801820baf85dc31e0d0456afa520ab",
+      "capture_evidence": "ev_eb768a0d98b9a846a8eb7fa5a3d57920d80bc2b16ff378b489a4b23b4f64691a",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-comparison",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-comparison",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 16440,
+          "sha256": "0d6f5dd46e79b5c882d5f66b44ef3206fd7a459326b91088f9793768ab066123",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 18146,
+          "sha256": "01f256ed88f2991d3d595d759a21888e0c109dc63b04d6d655d23281243c8f7a",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "32b8cf36f75ce4a133aed18d210906b66b91d58843d5fcf9f930183154801ca9",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-buying-guide",
+      "open_evidence": "ev_fa431d29855252a1754c509a0b7c1489c7cdffe454d2af3d67c58f49f95a1dca",
+      "capture_evidence": "ev_3feca59198d48742df5301c47c51c8233eba28cee48a31121232d0adcf480769",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-buying-guide",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-buying-guide",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 13238,
+          "sha256": "737e3f8715e691cf9cb587398e0bfa1e4622d0ce635949b28951a92b26aafb62",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 14124,
+          "sha256": "b0983b8bf4a6895600d159eb675c8ad14d9d1dd0eeafda524e5862e1b0f35bba",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "cd253e8c23f7d271c98e2a23e4f89b2b356d36321b09fbdada950d1a94107475",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-cost",
+      "open_evidence": "ev_ac5f249a32f7f88791829fb74df93954719d7a43b17471f2dad9c65ac0812af7",
+      "capture_evidence": "ev_0ce5c1b4745eb3e27b2652dd7a433e0fea1eb9ca90d7d4bb352e8279724f5994",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-cost",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-cost",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 11541,
+          "sha256": "ac1fcce75566c6a73dcf7ac038ca5e6a370751defff0115efb25c5279b40f11f",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 12045,
+          "sha256": "deff78332d041e5cd53d1527cfc653b8f2659baf1e7d3ff58a773ab8cb9af48d",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 16617,
+          "sha256": "9dc227e8c615aa698e45208ca754fe346faac80fffd1c78761b93a151b702462",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hbot-for-your-practice",
+      "open_evidence": "ev_8921818af7c769803edbb291027697eb4b3e6ff50241af2a52f910d274fa730c",
+      "capture_evidence": "ev_0ab8fd2584eaa9de071ca83815142b001dc45434acc58525c25275d942a6b990",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hbot-for-your-practice",
+      "final_url": "https://www.oxyhealth.com/hbot-for-your-practice",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 8645,
+          "sha256": "4b950861f95cf6a8b3d3736d50f848398bacda9ca6030b11675c9a0a81ec5908",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 11777,
+          "sha256": "8cc35870ca4c7a83a0fc1bd17ff7e3b7b8769ffcb0bf39d87725664bc905b90d",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 13756,
+          "sha256": "232dba56a5dac37a9e4f823400df3c1372fad03ea0fbaa77e77f90cfbafe5c7a",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-rental",
+      "open_evidence": "ev_7cb11dd5e9e87ce5341e8770c7310ab285758591b974c5c59d672951ab4ab66d",
+      "capture_evidence": "ev_e704e8a3a7c30e11182318c873dd06c7802de34302aea69f321f197883741513",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-rental",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-rental",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4484,
+          "sha256": "7ebc0e632e91f73374aadbf3efe1202cde3e29301ab14357c91213795fa40a75",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4572,
+          "sha256": "f41398fcfa106d7a1c4ecc4156191a2fad0201d39c31c4a58e4d1719d2269efd",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 6965,
+          "sha256": "ee7d35e0f659d36e3ad2e0ead43ba53be3039d4177cd4e67a8a23eb853556110",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/used-hyperbaric-chamber",
+      "open_evidence": "ev_8876906dfea12e0234402c22175cfee02b0a4d34e20db2a0ba1eb92cf8ea91ba",
+      "capture_evidence": "ev_d0e39ee62423c6d40e321351744a1d1bbe9ed3ec21e0a2ac45d487ca1ee6bf15",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\used-hyperbaric-chamber",
+      "final_url": "https://www.oxyhealth.com/used-hyperbaric-chamber",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4468,
+          "sha256": "5e22083955360d3eaa8027e77bb9161d138d5c3cb0523e64ade6928be27e8704",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4521,
+          "sha256": "fa8ed8e878d2663a12b47aeae27a531ee5c5bbf7631dd84de32155759de404a1",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 7005,
+          "sha256": "c12b445633892ae669af4ab9e4ce31b228a28f971abb265860db0ce64a24f3f6",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-prescription",
+      "open_evidence": "ev_0cad56e9f9e11e83ef371111ec6c7e9b52700dd068c7ab21c891eb507825775e",
+      "capture_evidence": "ev_d67a084369cf93b2dac7536cde7791b200803fb0f911258be64ef0755a3d1b6b",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-prescription",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-prescription",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4830,
+          "sha256": "4ec918d0fe715af8d9c0b55688c0295015b42b9bab36b38658670ad295eeddac",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4983,
+          "sha256": "5954aacca8f174e078d49dfb179892984514a8b62a336fa23a69996b4fba6c7b",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 7629,
+          "sha256": "e4b01b9ca633674fb70abc21187271f862f59783a01f8dadd9b4266bbea90db7",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-room-requirements",
+      "open_evidence": "ev_9bd25be1ad47a2c41c6a9cffaa3286e35cbd1ceb807c8f84c118b70359965a3f",
+      "capture_evidence": "ev_c1cc0483d84ce5c6ba3d1120b51490cc6b89be762b55b4bbe0bdc75aa8a7638c",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-room-requirements",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-room-requirements",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 5021,
+          "sha256": "2ee6fe88da5e96b2565f9bc7e6c32e338a0f4f4ad9c85a2d8675198f98362afc",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 5079,
+          "sha256": "4018e4a30cc12dcec0659477fd956a4ef10f686c78b6a73032f2c47543b57e60",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 7989,
+          "sha256": "81f573be36ff0a9d8ac650c5092f208635ae023cabe1fc7c8636343205acce41",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/genuine-oxyhealth-hyperbaric-chamber",
+      "open_evidence": "ev_972a904fd422968a97b5ac9964a6a785e1457369396f586774d52037fce91567",
+      "capture_evidence": "ev_f4eaa1a81b24ed839c83f6190fdf9078dbb5a99ded856d5823100aa070ff1b0d",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\genuine-oxyhealth-hyperbaric-chamber",
+      "final_url": "https://www.oxyhealth.com/genuine-oxyhealth-hyperbaric-chamber",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 4684,
+          "sha256": "9a11a7f3420c28459f8a2b90bf9990d304210d870ad3579a5b0f3de49882eb6f",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 4722,
+          "sha256": "6baab33a67283682d03921085d29058b05927f25172b3db712c053f5e223aba0",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 7034,
+          "sha256": "8a90a503184c9c20592808f4d001af53b5a6fb0bfcc1151a343b901c6a3a8226",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-benefits",
+      "open_evidence": "ev_62c900bd86ed421ca13ff617c1224944d2d5d4759e2f620e3afb75c24069d800",
+      "capture_evidence": "ev_eec02de4ef075765176701a2e3201ef803b982b24c42743dafae1a57c26d322a",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-benefits",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-benefits",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 11466,
+          "sha256": "78d40413e13389f72a02602cf1429deeef21a95174f16dd3829b45795a485b80",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 12079,
+          "sha256": "1c9e37060cccecbf26f24ef1628a103084ab5e646dd178ddb01cdbc598e1ce61",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 16601,
+          "sha256": "0fc8ac2492a53ccb6598fa15c4e42653cb0f58690eeb460147bfa6961dd330e7",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-side-effects",
+      "open_evidence": "ev_14618c740de353b0ae4dcbf517a2d3fd206c82ddf4c8015d82408a8c2e767d69",
+      "capture_evidence": "ev_17e1fa0b3f9ea9b2457a2e73b7ed719db2294a27198fb5e1a5bb1d37cdaa37c8",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-side-effects",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-side-effects",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 15016,
+          "sha256": "5aea3fe6b3edaf996ec5b494b472b8f9ba54220f91339497b49557ac75a97fb3",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 16145,
+          "sha256": "68fd36dbc9eb8ced645a11dd414083d171a06ace460cc72048cee0b5a33eceda",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "d2628a5fc364859ff4a15a2a05e241221ea1f074c564c457b4d276198a5f4f0d",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-chamber-insurance",
+      "open_evidence": "ev_2ee241bd68efb1040cfa3e45862e55692e04092936c2c8168175180da2ba1ed9",
+      "capture_evidence": "ev_931ed40d2b06468dc19ab54c4d9e36441790b818f762a957c531afd3cd77595a",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-chamber-insurance",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-chamber-insurance",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 14835,
+          "sha256": "3cb9b5f4d9ff36236da031c7ac6a8248fe60133f52438c9cd8b499a13a9a0cdb",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 15964,
+          "sha256": "e9120e46a1d086b8558756eaead1d645053d632de3e8902c0eec8fe1c6560ef3",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "8766b99a955743026f582dce81ee1601bbe9258d312a2837d0ffeacef8caaf7e",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-therapy-anti-aging",
+      "open_evidence": "ev_44193f9aa3ce24b59f1bc4ae6304606caa09fc6bbeb48780888edd44d80274d6",
+      "capture_evidence": "ev_eb3804dccaa63feb18672ea81ba45088856487fe6a3e1baee5bc7b9670a7513a",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-therapy-anti-aging",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-therapy-anti-aging",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 10473,
+          "sha256": "c230038d4173c37dcb1973381bc875340621c9aba202994ba094a640c5ced67c",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 10765,
+          "sha256": "f183efb7fde5e4c9b69d8bfa604de1a03093868a7511b3446844be1ce86b6b83",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 15133,
+          "sha256": "45214ce5a3e03ce51ed1f1f02472f711bc2244ef24db6007ec44f43b8344c6fd",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-therapy-athletic-recovery",
+      "open_evidence": "ev_13f7d5202e79ede4d31513cbf346f2c477c586b585c5b8c5dbf1b2fa46e760ee",
+      "capture_evidence": "ev_cfd8a7ce7bc80d86b92a45f8764078e8b8351e82204a090f2516c000683d0be0",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-therapy-athletic-recovery",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-therapy-athletic-recovery",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 11442,
+          "sha256": "c91b0942ae38650620a9c878776816b0e231116d34a1699ea0c9072b8c7201b6",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 12002,
+          "sha256": "afa2ca71e8ab41baf84807d25fc81f74d0cb33b4b6d5a912910a496e4546206c",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 16219,
+          "sha256": "37080dbd1a5ec715ff63d4327390e01cae5811dcd1642fc2c56cc91504c7a1a7",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-therapy-brain-health",
+      "open_evidence": "ev_45ab85bab6b27858d3ad1f0680108c506afff20bb7140eeaf6c675f6c36c2926",
+      "capture_evidence": "ev_17f49b3a42b3b828a76cbd940ba0f63cd7a0ad1c182624b0161eee413a101be8",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-therapy-brain-health",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-therapy-brain-health",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 12681,
+          "sha256": "097574cae0b2f386371048ccb33d3ee4672fe2238deb7659ae8731835f54bc62",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 13747,
+          "sha256": "47b28af5332efed071561a264bef011dada72cd9c88f4d4f7a81f7edebb970c9",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 19459,
+          "sha256": "fac9284c036415ae26f86b278bc3fe74474bb6a349b20cc228b4bd29c1dfc812",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-therapy-inflammation",
+      "open_evidence": "ev_ebbe8bdad8efe238b99d6f1b7c1be3a230d5f9c1b6f61328d83a07db2a7e6e0c",
+      "capture_evidence": "ev_4c5b2dcf13cffb816369777f84444cfffd2d5a0099a41fd0fc2527e134cfa956",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-therapy-inflammation",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-therapy-inflammation",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 11515,
+          "sha256": "248c8bd9291f9aa085bd04a230737ff5cc3d9f8aed79317f20514cebc70585f3",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 12013,
+          "sha256": "41c575e07210664b917fb7a23068e1b737936440262952e2a1470cd41d1f2460",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 16901,
+          "sha256": "35cbe1903223d3ea40ef4f8333952aae90185370388d006892d4d8836a6b5ce6",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-therapy-long-covid",
+      "open_evidence": "ev_e11b3105088f18ebc085686e4fa1a56240b33d2c9a1642a3b39b64a57eb75cd4",
+      "capture_evidence": "ev_1ffc48f2bc312f41dc569ce0ae4158ad1956c7fb1ec5da322406898dc7ccc602",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-therapy-long-covid",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-therapy-long-covid",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 13874,
+          "sha256": "55bc8e67f1180ad837ed51b0f443ddd63022671672e3fb1e29be2e349f64281b",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 14500,
+          "sha256": "ed9922ee5de20e0f89bceb049eca94069827d644849de81195cafd91b2b8f717",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "63da1e8a0dc2af457d1a9a9b9d393c60b8887529a8278a5d08674d45712ef2da",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-therapy-near-me",
+      "open_evidence": "ev_f61620663bb66433427c31216ceb1c81bff11a8745a88c2b1062fc1c0832520c",
+      "capture_evidence": "ev_93837423b76dc73a4f06a95075140d6072e515a6afe0802b5fdd78bbf9a15ff5",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-therapy-near-me",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-therapy-near-me",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 13258,
+          "sha256": "898cb916435db8201e76116a1d9c077eee632f751552525e8a824959b3300644",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 13750,
+          "sha256": "dde555de2e2b9ba0a0971683f6e23fedc85cab0cb30792b1628eac28c3aab821",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 19127,
+          "sha256": "20bdf03ca77ad4a8b4a4ceb0d9e5fafa787e227c2879f451b29a8fb082d6e737",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-therapy-veterinary",
+      "open_evidence": "ev_61d1baaa5657e9f6b1ae072d76d861724ed7da67c06ce23e708d2c2c58ed91d7",
+      "capture_evidence": "ev_51f13e18e424a2ed80f38f693eae58241c7b127a88ff45c9ece8fec24387d272",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-therapy-veterinary",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-therapy-veterinary",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 13286,
+          "sha256": "bd2deabb6a96edfd306f021f4418e7cfed68095c3a212cae9c4f422b1cdd26c4",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 14283,
+          "sha256": "66bcb4ad066b1a26379738b92ae9718bf4f610f1b36551ce4c25bf2f0107d19d",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": true,
+          "file": "screenshot-390.png",
+          "height": 20000,
+          "sha256": "1b713317266af4a27a79d10e8280bdae463d7c1f8faca7acbd6c397e9a313c80",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    },
+    {
+      "path": "/hyperbaric-therapy-wound-healing",
+      "open_evidence": "ev_d5213960b563a8c3013b5c0ae8153f1a56e75ffd0fb255630e845d2ab1fed143",
+      "capture_evidence": "ev_b8620b8138b8a4a40ea206878a62a5aaad9bfe5c161f1fd6edd406e182ccf929",
+      "directory": "D:\\MacyGEO\\glm复刻氧舱官网\\app\\inspection\\live-20261113\\hyperbaric-therapy-wound-healing",
+      "final_url": "https://www.oxyhealth.com/hyperbaric-therapy-wound-healing",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 10813,
+          "sha256": "171aa6b474359c92b3201f887040a9af17cd70075c52934126a70181318dcfdb",
+          "width": 1440
+        },
+        {
+          "css_width": 768,
+          "cut": false,
+          "file": "screenshot-768.png",
+          "height": 11190,
+          "sha256": "55598262d5fd600d56aaf89d29436bdc136e30797a4210edd8df7fa6416e94a1",
+          "width": 768
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 15407,
+          "sha256": "989b17b6e43736aff1ce8bd7d66cdb410aaf3025183743fb63dc312d52eef552",
+          "width": 390
+        }
+      ],
+      "health": {
+        "errors": [],
+        "failed_requests": [
+          {
+            "status": 400,
+            "type": "Fetch",
+            "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request"
+          }
+        ]
+      }
+    }
+  ]
+}

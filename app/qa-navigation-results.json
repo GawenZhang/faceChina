@@ -1,0 +1,5346 @@
+{
+  "passed": true,
+  "scope": "Offline production files; full document navigation. External destinations are checked for original URL/opening semantics, not contacted; media/visual parity is separate.",
+  "checklistSource": "../ACCEPTANCE-CHECKLIST.md section 1",
+  "checklist": [
+    {
+      "target": "/hyperbarics",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/resources",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/blog",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/finance",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/about",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/events/events",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/products/fortius-420",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/products/fortius-420-exp",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/products/quamvis-320",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/products/respiro-270",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/products/vitaeris-320",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/contact",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/support",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/partners",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/why-oxyhealth",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/events/a4m-longevity-fest",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-for-sale",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/home-hyperbaric-chamber",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/portable-hyperbaric-chamber",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/soft-shell-hyperbaric-chamber",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/mild-hyperbaric-chamber",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/fda-cleared-hyperbaric-chamber",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/best-hyperbaric-chamber",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-comparison",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-buying-guide",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-cost",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-for-business",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hbot-for-your-practice",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-rental",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/used-hyperbaric-chamber",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-prescription",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-room-requirements",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/genuine-oxyhealth-hyperbaric-chamber",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-benefits",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-side-effects",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-chamber-insurance",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-research-library",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-pressure-converter",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-therapy-anti-aging",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-therapy-athletic-recovery",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-therapy-brain-health",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-therapy-inflammation",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-therapy-long-covid",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-therapy-near-me",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-therapy-veterinary",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/hyperbaric-therapy-wound-healing",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/vitaeris-320-vs-respiro-270",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/vitaeris-320-vs-quamvis-320",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/fortius-420-vs-fortius-420-exp",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/documents/safety",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/documents/terms-conditions",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/documents/privacy-notice",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/documents/repair-exchange-policy",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "target": "/documents/fda",
+      "registered": true,
+      "widths": [
+        {
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "width": 390,
+          "passed": true
+        }
+      ]
+    }
+  ],
+  "scans": [
+    {
+      "path": "/",
+      "width": 1440,
+      "linkCount": 127,
+      "passed": true
+    },
+    {
+      "path": "/hyperbarics",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/resources",
+      "width": 1440,
+      "linkCount": 129,
+      "passed": true
+    },
+    {
+      "path": "/blog",
+      "width": 1440,
+      "linkCount": 110,
+      "passed": true
+    },
+    {
+      "path": "/events/a4m-longevity-fest",
+      "width": 1440,
+      "linkCount": 87,
+      "passed": true
+    },
+    {
+      "path": "/products/fortius-420",
+      "width": 1440,
+      "linkCount": 93,
+      "passed": true
+    },
+    {
+      "path": "/products/fortius-420-exp",
+      "width": 1440,
+      "linkCount": 93,
+      "passed": true
+    },
+    {
+      "path": "/products/quamvis-320",
+      "width": 1440,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/products/respiro-270",
+      "width": 1440,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/products/vitaeris-320",
+      "width": 1440,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 1440,
+      "linkCount": 110,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 1440,
+      "linkCount": 89,
+      "passed": true
+    },
+    {
+      "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 1440,
+      "linkCount": 87,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 1440,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "linkCount": 86,
+      "passed": true
+    },
+    {
+      "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 1440,
+      "linkCount": 92,
+      "passed": true
+    },
+    {
+      "path": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 1440,
+      "linkCount": 86,
+      "passed": true
+    },
+    {
+      "path": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 1440,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 1440,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 1440,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 1440,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 1440,
+      "linkCount": 86,
+      "passed": true
+    },
+    {
+      "path": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 1440,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/contact",
+      "width": 1440,
+      "linkCount": 82,
+      "passed": true
+    },
+    {
+      "path": "/support",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/partners",
+      "width": 1440,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/why-oxyhealth",
+      "width": 1440,
+      "linkCount": 98,
+      "passed": true
+    },
+    {
+      "path": "/finance",
+      "width": 1440,
+      "linkCount": 83,
+      "passed": true
+    },
+    {
+      "path": "/about",
+      "width": 1440,
+      "linkCount": 79,
+      "passed": true
+    },
+    {
+      "path": "/events/events",
+      "width": 1440,
+      "linkCount": 100,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-for-sale",
+      "width": 1440,
+      "linkCount": 98,
+      "passed": true
+    },
+    {
+      "path": "/home-hyperbaric-chamber",
+      "width": 1440,
+      "linkCount": 92,
+      "passed": true
+    },
+    {
+      "path": "/portable-hyperbaric-chamber",
+      "width": 1440,
+      "linkCount": 95,
+      "passed": true
+    },
+    {
+      "path": "/soft-shell-hyperbaric-chamber",
+      "width": 1440,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/mild-hyperbaric-chamber",
+      "width": 1440,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/fda-cleared-hyperbaric-chamber",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/best-hyperbaric-chamber",
+      "width": 1440,
+      "linkCount": 97,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-comparison",
+      "width": 1440,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-buying-guide",
+      "width": 1440,
+      "linkCount": 104,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-cost",
+      "width": 1440,
+      "linkCount": 93,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-for-business",
+      "width": 1440,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/hbot-for-your-practice",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-rental",
+      "width": 1440,
+      "linkCount": 93,
+      "passed": true
+    },
+    {
+      "path": "/used-hyperbaric-chamber",
+      "width": 1440,
+      "linkCount": 92,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-prescription",
+      "width": 1440,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-room-requirements",
+      "width": 1440,
+      "linkCount": 93,
+      "passed": true
+    },
+    {
+      "path": "/genuine-oxyhealth-hyperbaric-chamber",
+      "width": 1440,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-benefits",
+      "width": 1440,
+      "linkCount": 99,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-side-effects",
+      "width": 1440,
+      "linkCount": 87,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-insurance",
+      "width": 1440,
+      "linkCount": 89,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-research-library",
+      "width": 1440,
+      "linkCount": 83,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-anti-aging",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-athletic-recovery",
+      "width": 1440,
+      "linkCount": 92,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-brain-health",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-inflammation",
+      "width": 1440,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-long-covid",
+      "width": 1440,
+      "linkCount": 95,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-near-me",
+      "width": 1440,
+      "linkCount": 92,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-veterinary",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-wound-healing",
+      "width": 1440,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/vitaeris-320-vs-respiro-270",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/vitaeris-320-vs-quamvis-320",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/fortius-420-vs-fortius-420-exp",
+      "width": 1440,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/documents/safety",
+      "width": 1440,
+      "linkCount": 80,
+      "passed": true
+    },
+    {
+      "path": "/documents/terms-conditions",
+      "width": 1440,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/documents/privacy-notice",
+      "width": 1440,
+      "linkCount": 80,
+      "passed": true
+    },
+    {
+      "path": "/documents/repair-exchange-policy",
+      "width": 1440,
+      "linkCount": 80,
+      "passed": true
+    },
+    {
+      "path": "/documents/fda",
+      "width": 1440,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-pressure-converter",
+      "width": 1440,
+      "linkCount": 83,
+      "passed": true
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "linkCount": 127,
+      "passed": true
+    },
+    {
+      "path": "/hyperbarics",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/resources",
+      "width": 390,
+      "linkCount": 129,
+      "passed": true
+    },
+    {
+      "path": "/blog",
+      "width": 390,
+      "linkCount": 110,
+      "passed": true
+    },
+    {
+      "path": "/events/a4m-longevity-fest",
+      "width": 390,
+      "linkCount": 87,
+      "passed": true
+    },
+    {
+      "path": "/products/fortius-420",
+      "width": 390,
+      "linkCount": 93,
+      "passed": true
+    },
+    {
+      "path": "/products/fortius-420-exp",
+      "width": 390,
+      "linkCount": 93,
+      "passed": true
+    },
+    {
+      "path": "/products/quamvis-320",
+      "width": 390,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/products/respiro-270",
+      "width": 390,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/products/vitaeris-320",
+      "width": 390,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 390,
+      "linkCount": 110,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 390,
+      "linkCount": 89,
+      "passed": true
+    },
+    {
+      "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 390,
+      "linkCount": 87,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 390,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "linkCount": 86,
+      "passed": true
+    },
+    {
+      "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 390,
+      "linkCount": 92,
+      "passed": true
+    },
+    {
+      "path": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 390,
+      "linkCount": 86,
+      "passed": true
+    },
+    {
+      "path": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 390,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 390,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 390,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 390,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 390,
+      "linkCount": 86,
+      "passed": true
+    },
+    {
+      "path": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 390,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/contact",
+      "width": 390,
+      "linkCount": 82,
+      "passed": true
+    },
+    {
+      "path": "/support",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/partners",
+      "width": 390,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/why-oxyhealth",
+      "width": 390,
+      "linkCount": 98,
+      "passed": true
+    },
+    {
+      "path": "/finance",
+      "width": 390,
+      "linkCount": 83,
+      "passed": true
+    },
+    {
+      "path": "/about",
+      "width": 390,
+      "linkCount": 79,
+      "passed": true
+    },
+    {
+      "path": "/events/events",
+      "width": 390,
+      "linkCount": 100,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-for-sale",
+      "width": 390,
+      "linkCount": 98,
+      "passed": true
+    },
+    {
+      "path": "/home-hyperbaric-chamber",
+      "width": 390,
+      "linkCount": 92,
+      "passed": true
+    },
+    {
+      "path": "/portable-hyperbaric-chamber",
+      "width": 390,
+      "linkCount": 95,
+      "passed": true
+    },
+    {
+      "path": "/soft-shell-hyperbaric-chamber",
+      "width": 390,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/mild-hyperbaric-chamber",
+      "width": 390,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/fda-cleared-hyperbaric-chamber",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/best-hyperbaric-chamber",
+      "width": 390,
+      "linkCount": 97,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-comparison",
+      "width": 390,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-buying-guide",
+      "width": 390,
+      "linkCount": 104,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-cost",
+      "width": 390,
+      "linkCount": 93,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-for-business",
+      "width": 390,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/hbot-for-your-practice",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-rental",
+      "width": 390,
+      "linkCount": 93,
+      "passed": true
+    },
+    {
+      "path": "/used-hyperbaric-chamber",
+      "width": 390,
+      "linkCount": 92,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-prescription",
+      "width": 390,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-room-requirements",
+      "width": 390,
+      "linkCount": 93,
+      "passed": true
+    },
+    {
+      "path": "/genuine-oxyhealth-hyperbaric-chamber",
+      "width": 390,
+      "linkCount": 94,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-benefits",
+      "width": 390,
+      "linkCount": 99,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-side-effects",
+      "width": 390,
+      "linkCount": 87,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-chamber-insurance",
+      "width": 390,
+      "linkCount": 89,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-research-library",
+      "width": 390,
+      "linkCount": 83,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-anti-aging",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-athletic-recovery",
+      "width": 390,
+      "linkCount": 92,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-brain-health",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-inflammation",
+      "width": 390,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-long-covid",
+      "width": 390,
+      "linkCount": 95,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-near-me",
+      "width": 390,
+      "linkCount": 92,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-veterinary",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-therapy-wound-healing",
+      "width": 390,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/vitaeris-320-vs-respiro-270",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/vitaeris-320-vs-quamvis-320",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/fortius-420-vs-fortius-420-exp",
+      "width": 390,
+      "linkCount": 88,
+      "passed": true
+    },
+    {
+      "path": "/documents/safety",
+      "width": 390,
+      "linkCount": 80,
+      "passed": true
+    },
+    {
+      "path": "/documents/terms-conditions",
+      "width": 390,
+      "linkCount": 90,
+      "passed": true
+    },
+    {
+      "path": "/documents/privacy-notice",
+      "width": 390,
+      "linkCount": 80,
+      "passed": true
+    },
+    {
+      "path": "/documents/repair-exchange-policy",
+      "width": 390,
+      "linkCount": 80,
+      "passed": true
+    },
+    {
+      "path": "/documents/fda",
+      "width": 390,
+      "linkCount": 85,
+      "passed": true
+    },
+    {
+      "path": "/hyperbaric-pressure-converter",
+      "width": 390,
+      "linkCount": 83,
+      "passed": true
+    }
+  ],
+  "fragments": [
+    {
+      "from": "/hyperbarics",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Products",
+      "purpose": "Home product overview",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#what-does-the-fda-define-as-a-hyperbaric-chamber",
+      "label": "What does the FDA define as a hyperbaric chamber?",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#fda-confirms-hyperbaric-chambers-do-not-qualify-under-its-general-wellness-policy",
+      "label": "FDA confirms hyperbaric chambers do not qualify under its general wellness policy",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#fda-distributing-medical-devices-without-meeting-applicable-requirements-is-unlawful",
+      "label": "FDA: distributing medical devices without meeting applicable requirements is \"unlawful\"",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#why-fda-510k-clearance-matters-for-safety",
+      "label": "Why FDA 510(k) clearance matters for safety",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#rebranding-an-imported-hyperbaric-chamber-does-not-eliminate-regulatory-responsibilities",
+      "label": "Rebranding an imported hyperbaric chamber does not eliminate regulatory responsibilities",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#importing-medical-devices-as-nonmedical-equipment-does-not-create-an-exemption",
+      "label": "Importing medical devices as nonmedical equipment does not create an exemption",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#how-to-verify-fda-clearance-for-a-hyperbaric-chamber",
+      "label": "How to verify FDA clearance for a hyperbaric chamber",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#the-growing-problem-of-unregulated-hyperbaric-chambers-in-the-us-market",
+      "label": "The growing problem of unregulated hyperbaric chambers in the U.S. market",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#what-this-means-for-buyers",
+      "label": "What this means for buyers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#fda-response-october-16",
+      "label": "FDA response: Office of Industry and Consumer Education (October 16, 2026)",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#fda-response-october-28",
+      "label": "FDA response: Office of Import Operations (October 28, 2026)",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#fda-response-october-16",
+      "label": "read both FDA responses in full",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/support",
+      "target": "/support",
+      "hash": "#service-request",
+      "label": "Request Service",
+      "purpose": "Service form on current page",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/partners",
+      "target": "/partners",
+      "hash": "#partner-inquiry",
+      "label": "Start a Partnership Conversation",
+      "purpose": "Partnership form on current page",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-chamber-cost",
+      "target": "/hyperbaric-chamber-cost",
+      "hash": "#get-pricing",
+      "label": "Get Pricing and Financing Options",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-therapy-anti-aging",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Chambers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-therapy-athletic-recovery",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Chambers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-therapy-inflammation",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Chambers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-therapy-long-covid",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Chambers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-therapy-wound-healing",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Chambers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-0",
+      "label": "1. Using this website",
+      "purpose": "Terms table of contents",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-1",
+      "label": "2. Website content and permissions",
+      "purpose": "Terms table of contents",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-2",
+      "label": "3. Responsible use",
+      "purpose": "Terms table of contents",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-3",
+      "label": "4. Access to restricted areas",
+      "purpose": "Terms table of contents",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-4",
+      "label": "5. Content submitted by users",
+      "purpose": "Terms table of contents",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-5",
+      "label": "6. Information and warranties",
+      "purpose": "Terms table of contents",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-6",
+      "label": "7. Limits of responsibility",
+      "purpose": "Terms table of contents",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-7",
+      "label": "8. Indemnification",
+      "purpose": "Terms table of contents",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-8",
+      "label": "9. Handling a breach",
+      "purpose": "Terms table of contents",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-9",
+      "label": "10. Applicable law and jurisdiction",
+      "purpose": "Terms table of contents",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "from": "/hyperbarics",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Products",
+      "purpose": "Home product overview",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#what-does-the-fda-define-as-a-hyperbaric-chamber",
+      "label": "What does the FDA define as a hyperbaric chamber?",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#fda-confirms-hyperbaric-chambers-do-not-qualify-under-its-general-wellness-policy",
+      "label": "FDA confirms hyperbaric chambers do not qualify under its general wellness policy",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#fda-distributing-medical-devices-without-meeting-applicable-requirements-is-unlawful",
+      "label": "FDA: distributing medical devices without meeting applicable requirements is \"unlawful\"",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#why-fda-510k-clearance-matters-for-safety",
+      "label": "Why FDA 510(k) clearance matters for safety",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#rebranding-an-imported-hyperbaric-chamber-does-not-eliminate-regulatory-responsibilities",
+      "label": "Rebranding an imported hyperbaric chamber does not eliminate regulatory responsibilities",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#importing-medical-devices-as-nonmedical-equipment-does-not-create-an-exemption",
+      "label": "Importing medical devices as nonmedical equipment does not create an exemption",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#how-to-verify-fda-clearance-for-a-hyperbaric-chamber",
+      "label": "How to verify FDA clearance for a hyperbaric chamber",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#the-growing-problem-of-unregulated-hyperbaric-chambers-in-the-us-market",
+      "label": "The growing problem of unregulated hyperbaric chambers in the U.S. market",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#what-this-means-for-buyers",
+      "label": "What this means for buyers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#fda-response-october-16",
+      "label": "FDA response: Office of Industry and Consumer Education (October 16, 2026)",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#fda-response-october-28",
+      "label": "FDA response: Office of Import Operations (October 28, 2026)",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "hash": "#fda-response-october-16",
+      "label": "read both FDA responses in full",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/support",
+      "target": "/support",
+      "hash": "#service-request",
+      "label": "Request Service",
+      "purpose": "Service form on current page",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/partners",
+      "target": "/partners",
+      "hash": "#partner-inquiry",
+      "label": "Start a Partnership Conversation",
+      "purpose": "Partnership form on current page",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-chamber-cost",
+      "target": "/hyperbaric-chamber-cost",
+      "hash": "#get-pricing",
+      "label": "Get Pricing and Financing Options",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-therapy-anti-aging",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Chambers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-therapy-athletic-recovery",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Chambers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-therapy-inflammation",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Chambers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-therapy-long-covid",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Chambers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/hyperbaric-therapy-wound-healing",
+      "target": "/",
+      "hash": "#products",
+      "label": "View All Chambers",
+      "purpose": "2026-11-13 live source recorded section link",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-0",
+      "label": "1. Using this website",
+      "purpose": "Terms table of contents",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-1",
+      "label": "2. Website content and permissions",
+      "purpose": "Terms table of contents",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-2",
+      "label": "3. Responsible use",
+      "purpose": "Terms table of contents",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-3",
+      "label": "4. Access to restricted areas",
+      "purpose": "Terms table of contents",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-4",
+      "label": "5. Content submitted by users",
+      "purpose": "Terms table of contents",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-5",
+      "label": "6. Information and warranties",
+      "purpose": "Terms table of contents",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-6",
+      "label": "7. Limits of responsibility",
+      "purpose": "Terms table of contents",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-7",
+      "label": "8. Indemnification",
+      "purpose": "Terms table of contents",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-8",
+      "label": "9. Handling a breach",
+      "purpose": "Terms table of contents",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "from": "/documents/terms-conditions",
+      "target": "/documents/terms-conditions",
+      "hash": "#document-section-9",
+      "label": "10. Applicable law and jurisdiction",
+      "purpose": "Terms table of contents",
+      "width": 390,
+      "passed": true
+    }
+  ],
+  "entries": [
+    {
+      "source": "ATA: Fortius 420",
+      "from": "/",
+      "target": "/products/fortius-420",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "ATA: Fortius 420 EXP",
+      "from": "/",
+      "target": "/products/fortius-420-exp",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "ATA: Quamvis 320",
+      "from": "/",
+      "target": "/products/quamvis-320",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "ATA: Vitaeris 320",
+      "from": "/",
+      "target": "/products/vitaeris-320",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "ATA: Respiro 270",
+      "from": "/",
+      "target": "/products/respiro-270",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbarics",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/resources",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/blog",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/finance",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/about",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/events/events",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/products/fortius-420",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/products/fortius-420-exp",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/products/quamvis-320",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/products/respiro-270",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/products/vitaeris-320",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/contact",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/support",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/partners",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/why-oxyhealth",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/events/a4m-longevity-fest",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-for-sale",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/home-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/portable-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/soft-shell-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/mild-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/fda-cleared-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/best-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-comparison",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-buying-guide",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-cost",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-for-business",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hbot-for-your-practice",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-rental",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/used-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-prescription",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-room-requirements",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/genuine-oxyhealth-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-benefits",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-side-effects",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-insurance",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-research-library",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-pressure-converter",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-anti-aging",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-athletic-recovery",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-brain-health",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-inflammation",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-long-covid",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-near-me",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-veterinary",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-wound-healing",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/vitaeris-320-vs-respiro-270",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/vitaeris-320-vs-quamvis-320",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/fortius-420-vs-fortius-420-exp",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/documents/safety",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/documents/terms-conditions",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/documents/privacy-notice",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/documents/repair-exchange-policy",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/documents/fda",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Brand story",
+      "from": "/",
+      "target": "/why-oxyhealth",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Chambers for sale",
+      "from": "/",
+      "target": "/hyperbaric-chamber-for-sale",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Home chambers",
+      "from": "/",
+      "target": "/home-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Portable chambers",
+      "from": "/",
+      "target": "/portable-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Choose a chamber",
+      "from": "/",
+      "target": "/best-hyperbaric-chamber",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Cost and financing",
+      "from": "/",
+      "target": "/hyperbaric-chamber-cost",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Explore Payment Options",
+      "from": "/",
+      "target": "/finance",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Hyperbarics veterinary research",
+      "from": "/hyperbarics",
+      "target": "/hyperbaric-therapy-veterinary",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "ATA: Fortius 420",
+      "from": "/",
+      "target": "/products/fortius-420",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "ATA: Fortius 420 EXP",
+      "from": "/",
+      "target": "/products/fortius-420-exp",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "ATA: Quamvis 320",
+      "from": "/",
+      "target": "/products/quamvis-320",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "ATA: Vitaeris 320",
+      "from": "/",
+      "target": "/products/vitaeris-320",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "ATA: Respiro 270",
+      "from": "/",
+      "target": "/products/respiro-270",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbarics",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/resources",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/blog",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/finance",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/about",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/events/events",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/products/fortius-420",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/products/fortius-420-exp",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/products/quamvis-320",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/products/respiro-270",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/products/vitaeris-320",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/contact",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/support",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/partners",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/why-oxyhealth",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/events/a4m-longevity-fest",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-for-sale",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/home-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/portable-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/soft-shell-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/mild-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/fda-cleared-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/best-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-comparison",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-buying-guide",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-cost",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-for-business",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hbot-for-your-practice",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-rental",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/used-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-prescription",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-room-requirements",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/genuine-oxyhealth-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-benefits",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-side-effects",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-chamber-insurance",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-research-library",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-pressure-converter",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-anti-aging",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-athletic-recovery",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-brain-health",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-inflammation",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-long-covid",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-near-me",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-veterinary",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/hyperbaric-therapy-wound-healing",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/vitaeris-320-vs-respiro-270",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/vitaeris-320-vs-quamvis-320",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/fortius-420-vs-fortius-420-exp",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/documents/safety",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/documents/terms-conditions",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/documents/privacy-notice",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/documents/repair-exchange-policy",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Checklist home entry",
+      "from": "/",
+      "target": "/documents/fda",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Brand story",
+      "from": "/",
+      "target": "/why-oxyhealth",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Chambers for sale",
+      "from": "/",
+      "target": "/hyperbaric-chamber-for-sale",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Home chambers",
+      "from": "/",
+      "target": "/home-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Portable chambers",
+      "from": "/",
+      "target": "/portable-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Choose a chamber",
+      "from": "/",
+      "target": "/best-hyperbaric-chamber",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Cost and financing",
+      "from": "/",
+      "target": "/hyperbaric-chamber-cost",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Explore Payment Options",
+      "from": "/",
+      "target": "/finance",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    },
+    {
+      "source": "Hyperbarics veterinary research",
+      "from": "/hyperbarics",
+      "target": "/hyperbaric-therapy-veterinary",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "click",
+        "new document",
+        "correct URL",
+        "HTTP 200",
+        "template",
+        "no dialog",
+        "refresh",
+        "back"
+      ]
+    }
+  ],
+  "externalEntries": [
+    {
+      "source": "Home event registration",
+      "from": "/",
+      "target": "https://www.a4m.com/longevity-fest-2026/index.html",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Footer TikTok",
+      "from": "/",
+      "target": "https://www.tiktok.com/@oxyhealth",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Footer Facebook",
+      "from": "/",
+      "target": "https://www.facebook.com/oxyhealthllc",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Footer YouTube",
+      "from": "/",
+      "target": "https://www.youtube.com/@OxyHealthLLC",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Footer Instagram",
+      "from": "/",
+      "target": "https://www.instagram.com/oxyhealth",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 1",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://shop.lymebytes.com/",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 2",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://www.a4m.com/longevity-fest-2026/index.html",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 3",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://beyondconference.com/",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 4",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://ahsconference.com/",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 5",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://www.a4m.com/spring-exhibit-2026.html",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 6",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://www.medmaps.org/events/spring2026/",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 1",
+      "from": "/events/events",
+      "target": "https://shop.lymebytes.com/",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 2",
+      "from": "/events/events",
+      "target": "https://www.a4m.com/longevity-fest-2026/index.html",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 3",
+      "from": "/events/events",
+      "target": "https://beyondconference.com/",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 4",
+      "from": "/events/events",
+      "target": "https://ahsconference.com/",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 5",
+      "from": "/events/events",
+      "target": "https://www.a4m.com/spring-exhibit-2026.html",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 6",
+      "from": "/events/events",
+      "target": "https://www.medmaps.org/events/spring2026/",
+      "width": 1440,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Home event registration",
+      "from": "/",
+      "target": "https://www.a4m.com/longevity-fest-2026/index.html",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Footer TikTok",
+      "from": "/",
+      "target": "https://www.tiktok.com/@oxyhealth",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Footer Facebook",
+      "from": "/",
+      "target": "https://www.facebook.com/oxyhealthllc",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Footer YouTube",
+      "from": "/",
+      "target": "https://www.youtube.com/@OxyHealthLLC",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Footer Instagram",
+      "from": "/",
+      "target": "https://www.instagram.com/oxyhealth",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 1",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://shop.lymebytes.com/",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 2",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://www.a4m.com/longevity-fest-2026/index.html",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 3",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://beyondconference.com/",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 4",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://ahsconference.com/",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 5",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://www.a4m.com/spring-exhibit-2026.html",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event detail registration 6",
+      "from": "/events/a4m-longevity-fest",
+      "target": "https://www.medmaps.org/events/spring2026/",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 1",
+      "from": "/events/events",
+      "target": "https://shop.lymebytes.com/",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 2",
+      "from": "/events/events",
+      "target": "https://www.a4m.com/longevity-fest-2026/index.html",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 3",
+      "from": "/events/events",
+      "target": "https://beyondconference.com/",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 4",
+      "from": "/events/events",
+      "target": "https://ahsconference.com/",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 5",
+      "from": "/events/events",
+      "target": "https://www.a4m.com/spring-exhibit-2026.html",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    },
+    {
+      "source": "Event list registration 6",
+      "from": "/events/events",
+      "target": "https://www.medmaps.org/events/spring2026/",
+      "width": 390,
+      "passed": true,
+      "checks": [
+        "original href",
+        "new tab",
+        "popup URL",
+        "no modal",
+        "original page retained"
+      ],
+      "network": "stubbed"
+    }
+  ],
+  "semantics": [
+    {
+      "name": "Five separate ATA product links",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "Telephone links and original quote modal",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "Footer sitemap and humans original file URLs and same-tab behavior",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "Finance original application and pricing URLs",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "Event detail telephone action",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "Five separate ATA product links",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "Telephone links and original quote modal",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "Footer sitemap and humans original file URLs and same-tab behavior",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "Finance original application and pricing URLs",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "Event detail telephone action",
+      "width": 390,
+      "passed": true
+    }
+  ],
+  "errors": []
+}

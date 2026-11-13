@@ -1,0 +1,107 @@
+Terms & Conditions | OxyHealth (https://www.oxyhealth.com/documents/terms-conditions)
+citeturn42view0 [wordlim: 200] Crawled: 3 weeks ago; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/documents/terms-conditions","lineno":null}); Total lines: 104
+L0: Legal
+L1: 
+L2: # Terms & Conditions
+L3: 
+L4: Please read these terms and conditions carefully before using the OxyHealth website.
+L5: 
+L6: ## Terms and Conditions Details
+L7: 
+L8: ### Table of Contents
+L9: 
+L10:   1. 【0†1. Terms of Use】
+L11:   2. 【1†2. License to Use Website】
+L12:   3. 【2†3. Acceptable Use】
+L13:   4. 【3†4. Restricted Access】
+L14:   5. 【4†5. User Content】
+L15:   6. 【5†6. No Warranties】
+L16:   7. 【6†7. Limitations of Liability】
+L17:   8. 【7†8. Indemnity】
+L18:   9. 【8†9. Breaches of These Terms】
+L19:   10. 【9†10. Law and Jurisdiction】
+L20: ### 1. Terms of Use
+L21: 
+L22: By accessing and using this website, you accept and agree to be bound by these Terms & Conditions in full. If you disagree with any part of these terms, you must not use this website.
+L23: 
+L24: You must be at least 18 years of age to use this website. By using this website and agreeing to these terms, you warrant and represent that you are at least 18 years old.
+L25: This website uses cookies. By using this website and agreeing to these terms, you consent to OxyHealth LLC's use of cookies in accordance with our privacy policy.
+L26: ### 2. License to Use Website
+L27: 
+L28: Unless otherwise stated, OxyHealth LLC and/or its licensors own the intellectual property rights for all material on this website. All intellectual property rights are reserved.
+L29: 
+L30: You may:
+L31: 
+L32:   * View pages from this website in a web browser
+L33:   * Download pages from this website for caching in a web browser
+L34:   * Print pages from this website for your own personal, non-commercial use
+L35: 
+L36: You must not:
+L37:   * Republish material from this website, including on another website
+L38:   * Sell, rent, or sub-license material from this website
+L39:   * Show any material from this website in public without prior written consent
+L40:   * Reproduce, duplicate, copy, or otherwise exploit material on this website for commercial purposes
+L41:   * Edit or otherwise modify any material on this website
+L42:   * Redistribute material from this website, except for content specifically made available for redistribution
+L43: ### 3. Acceptable Use
+L44: 
+L45: You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website, or in any way which is unlawful, illegal, fraudulent, or harmful.
+L46: 
+L47: You must not use this website to:
+L48:   * Copy, store, host, transmit, send, use, publish, or distribute any material that consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit, or other malicious computer software
+L49:   * Conduct any systematic or automated data collection activities, including scraping, data mining, data extraction, or data harvesting, on or in relation to this website without OxyHealth LLC's express written consent
+L50:   * Send or facilitate the sending of unsolicited commercial communications
+L51:   * Use this website for any purposes related to marketing without the express written consent of OxyHealth LLC
+L52: ### 4. Restricted Access
+L53: 
+L54: OxyHealth LLC reserves the right to restrict access to certain areas of this website, or to the entire website, at its discretion. OxyHealth LLC may change or modify this policy without notice.
+L55: If OxyHealth LLC provides you with a user ID and password to enable access to restricted areas of this website or other content or services, you must ensure that the user ID and password are kept confidential. OxyHealth LLC may disable your user ID and password at its sole discretion without notice or explanation.
+L56: ### 5. User Content
+L57: 
+L58: In these Terms & Conditions, "your user content" means material (including text, images, audio material, video material, and audio-visual material) that you submit to this website, for whatever purpose.
+L59: You grant to OxyHealth LLC a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, adapt, publish, translate, and distribute your user content in any existing or future media. You also grant to OxyHealth LLC the right to sub-license these rights and the right to bring an action for infringement of these rights.
+L60: Your user content must not be illegal or unlawful, must not infringe any third party's legal rights, and must not be capable of giving rise to legal action whether against you, OxyHealth LLC, or a third party (in each case under any applicable law).
+L61: 
+L62: OxyHealth LLC reserves the right to edit or remove any material submitted to this website, stored on OxyHealth LLC's servers, or hosted or published on this website.
+L63: ### 6. No Warranties
+L64: 
+L65: This website is provided "as is" without any representations or warranties, express or implied. OxyHealth LLC makes no representations or warranties in relation to this website or the information and materials provided on this website.
+L66: 
+L67: OxyHealth LLC does not warrant that the website will be constantly available, or available at all. OxyHealth LLC does not warrant that the information on this website is complete, true, accurate, or non-misleading.
+L68: Nothing on this website constitutes, or is meant to constitute, advice of any kind. If you require advice in relation to any medical, legal, financial, or other matter, you should consult an appropriate professional.
+L69: ### 7. Limitations of Liability
+L70: 
+L71: OxyHealth LLC will not be liable to you (whether under the law of contract, the law of torts, or otherwise) in relation to the contents of, or use of, or otherwise in connection with, this website for any:
+L72: 
+L73:   * Direct loss
+L74:   * Indirect, special, or consequential loss
+L75:   * Business losses, including loss of revenue, income, profits, anticipated savings, contracts, business relationships, reputation, goodwill, or data
+L76: These limitations of liability apply even if OxyHealth LLC has been expressly advised of the potential loss. However, nothing in these terms shall exclude or limit liability for death or personal injury caused by negligence, fraud or fraudulent misrepresentation, or any other liability that cannot be excluded or limited under applicable law.
+L77: ### 8. Indemnity
+L78: 
+L79: You hereby indemnify OxyHealth LLC and undertake to keep OxyHealth LLC indemnified against any losses, damages, costs, liabilities, and expenses (including legal expenses and any amounts paid by OxyHealth LLC to a third party in settlement of a claim or dispute on the advice of OxyHealth LLC's legal advisers) incurred or suffered by OxyHealth LLC arising out of any breach by you of any provision of these terms.
+L80: ### 9. Breaches of These Terms
+L81: 
+L82: Without prejudice to OxyHealth LLC's other rights under these terms, if you breach these terms in any way, OxyHealth LLC may take such action as it deems appropriate to deal with the breach, including:
+L83:   * Suspending your access to the website
+L84:   * Prohibiting you from accessing the website
+L85:   * Blocking computers using your IP address from accessing the website
+L86:   * Contacting your internet service provider to request that they block your access to the website
+L87:   * Bringing court proceedings against you
+L88: ### 10. Law and Jurisdiction
+L89: 
+L90: These Terms & Conditions will be governed by and construed in accordance with the laws of the State of California, United States. Any disputes relating to these terms shall be subject to the non-exclusive jurisdiction of the courts of California.
+L91: 
+L92: OxyHealth LLC is registered and headquartered in Santa Fe Springs, California. You can contact OxyHealth LLC regarding these terms by using the contact information provided below.
+L93: ## Contact Us
+L94: 
+L95: If you have any questions about these Terms & Conditions, please contact us using the information below.
+L96: 
+L97: OxyHealth LLC
+L98: 
+L99: 10719 Norwalk Blvd., Santa Fe Springs, CA 90670
+L100: 
+L101: 562-906-8888
+L102: 
+L103: information@oxyhealth.com
+

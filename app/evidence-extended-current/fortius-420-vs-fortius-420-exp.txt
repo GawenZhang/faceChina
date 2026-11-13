@@ -1,0 +1,74 @@
+Fortius 420 vs Fortius 420 EXP: Hyperbaric Chamber Comparison | OxyHealth (https://www.oxyhealth.com/fortius-420-vs-fortius-420-exp)
+citeturn36view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/fortius-420-vs-fortius-420-exp","lineno":100}); Total lines: 71
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4:   1. 【6†Home】
+L5:   2. /
+L6:   3. 【1†Resources】
+L7:   4. /
+L8:   5. Fortius 420 vs Fortius 420 EXP
+L9: 
+L10: Model Comparison
+L11: 
+L12: # Fortius 420 vs Fortius 420 EXP: How These Hyperbaric Chambers Compare
+L13: 
+L14: The Fortius 420 and Fortius 420 EXP are both clinical hard-sided chambers with a 42 inch interior that operate up to 4.0 ATA (44 psi). The EXP uses a split design that simplifies transport into clinics with limited access.
+L15: ## Fortius 420 vs Fortius 420 EXP: specifications side by side
+L16: Fortius 420 vs Fortius 420 EXP specifications
+L17: Specification  | 【7†Fortius 420】  | 【8†Fortius 420 EXP】
+L18: --- | --- | ---
+L19: Chamber type  | Clinical hard-sided chamber  | Clinical hard-sided chamber
+L20: Operating pressure  | Up to 4.0 ATA (44 psi)  | Up to 4.0 ATA (44 psi)
+L21: Interior diameter  | 42 inches  | 42 inches
+L22: Length  | 91 inches  | 96 inches total (62 inch interior length)
+L23: Weight  | 1,250 lbs  | 1,400 lbs
+L24: Construction  | Reinforced steel with powder coating  | Reinforced steel with powder coating
+L25: Closure  | See product page  | See product page
+L26: Compressor  | Double-headed, oil-less 1/3 hp CleanAir compressor  | Double-headed, oil-less 1/3 hp CleanAir compressor
+L27: Power  | 110-120V  | 110-120V
+L28: Setup  | Installed, assembled, and calibrated by OxyHealth certified technicians, with training.  | Split design for simplified transport. Installed, assembled, and calibrated by OxyHealth certified technicians, with training.
+L29: Specifications are taken from each model's product page. Confirm current specifications with OxyHealth before ordering.
+L30: ## Where they differ
+L31: 
+L32: ### Split design
+L33: 
+L34: The Fortius 420 EXP is built in sections for simplified transport and setup. It is intended for sites where a one-piece chamber is difficult to bring in.
+L35: 
+L36: ### Length and weight
+L37: 
+L38: The Fortius 420 is 91 inches long and weighs 1,250 lbs. The Fortius 420 EXP is 96 inches in total length, with a 62 inch interior length, and weighs 1,400 lbs.
+L39: ### What is the same
+L40: 
+L41: Both operate up to 4.0 ATA (44 psi), have a 42 inch interior diameter, use reinforced steel construction with powder coating, deliver oxygen through a hood assembly, and are installed and calibrated by OxyHealth certified technicians with training included.
+L42: ## Which setting each one suits
+L43: 
+L44:   * Fortius 420: Clinics and practices with a straightforward delivery path for a one-piece chamber.
+L45:   * Fortius 420 EXP: Clinics with narrow doorways, corridors, or elevators that call for a chamber delivered in sections.
+L46: Chamber pressure is one part of a hyperbaric dose. Breathing gas, session length, frequency, and total sessions matter too, and a qualified clinician determines those for each individual. Higher pressure is not automatically better, and lower pressure is not automatically safer.
+L47: ## Fortius 420 vs Fortius 420 EXP FAQ
+L48: 
+L49: ### What is the difference between the Fortius 420 and the Fortius 420 EXP?
+L50: 
+L51: The Fortius 420 EXP uses a split design for simplified transport into clinics with limited access. Both chambers have a 42 inch interior diameter and operate up to 4.0 ATA (44 psi).
+L52: 
+L53: ### Do the Fortius 420 and Fortius 420 EXP reach the same pressure?
+L54: 
+L55: Yes. Both operate up to 4.0 ATA, which is about 44 psi above normal atmospheric pressure.
+L56: ### Who installs a Fortius chamber?
+L57: 
+L58: OxyHealth certified technicians complete the installation, assembly, and calibration, and provide training.
+L59: 
+L60: ## Talk through the choice with a specialist
+L61: 
+L62: An OxyHealth specialist can go through your space, setting, and questions and help you narrow down the right model.
+L63: 
+L64: 【9†Speak with a hyperbaric specialist】【10†Check room requirements】
+L65: ### Related guides
+L66: 
+L67:   * 【11†Vitaeris 320 vs Respiro 270】
+L68:   * 【12†Vitaeris 320 vs Quamvis 320】
+L69:   * 【13†Compare All Hyperbaric Chambers】
+L70:   * 【14†Hyperbaric Chamber Buying Guide】
+

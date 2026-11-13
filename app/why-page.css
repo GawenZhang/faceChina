@@ -1,0 +1,19 @@
+/* Only /why-oxyhealth: the captured utility sheet supplies the nine section layouts. */
+.why-source{background:#000;color:#1d1d1f;overflow:clip}
+.why-source [aria-controls^="faq-answer-"]{background:transparent}
+.why-source [aria-controls^="faq-answer-"][aria-expanded="true"]+[role="region"]{padding-bottom:24px}
+.why-source .why-dossier-grid>ol{list-style:none}
+.why-source .why-dossier-sticky{width:100%}
+.why-source .why-credential-meter{display:none}
+@media(min-width:1024px) and (prefers-reduced-motion:no-preference){
+ .why-source .why-dossier{height:560svh;padding-top:0;padding-bottom:0;overflow:visible}
+ .why-source .why-dossier-sticky{height:100svh;position:sticky;top:0;display:flex;align-items:center;overflow:hidden}
+ .why-source .why-dossier-grid{display:grid;grid-template-columns:1fr 520px;gap:80px;align-items:center;width:100%}
+ .why-source .why-dossier-grid>ol{position:relative;height:560px;margin:0;width:100%;max-width:none}
+ .why-source .why-dossier-grid>ol>li{position:absolute;inset:0 0 auto;margin:0;will-change:transform;transform-origin:50% 100%}
+ .why-source .why-credential-meter{display:flex;align-items:center;gap:12px;margin-top:48px}
+ .why-source .why-credential-meter i{height:3px;width:20px;border-radius:999px;background:#fff3;transition:all .5s}
+ .why-source .why-credential-meter i[data-active="true"]{width:40px;background:#c8a165}
+ .why-source .why-credential-meter span{margin-left:12px;font-size:14px;color:#ffffff8c;font-variant-numeric:tabular-nums}
+}
+@media(prefers-reduced-motion:reduce){.why-source .story-rise{opacity:1;transform:none}}

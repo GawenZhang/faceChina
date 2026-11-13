@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-12",
+  "scope": "Seven newly requested independent pages; existing pages are not changed by this module.",
+  "method": "Primary-site rendered text through web browsing. No live original screenshots or browser interaction states were available.",
+  "pages": [
+    {
+      "path": "/contact",
+      "source": "https://www.oxyhealth.com/contact",
+      "observed": "Hero, four contact categories, inquiry action, headquarters map link.",
+      "implemented": "Contact-specific information grid, full address, phone/email links, inquiry dialog with locally validated preview form, location panel.",
+      "status": "原站栏目顺序已核对；视觉和原站弹窗内容未验证"
+    },
+    {
+      "path": "/support",
+      "source": "https://www.oxyhealth.com/support",
+      "observed": "Image hero, three services, four process steps, two model families, six FAQs, service form grouped by contact/equipment/issue/address.",
+      "implemented": "Support-specific service and model sections, six independent FAQ disclosures, service form with model selection and file count/size validation.",
+      "status": "原站栏目顺序已核对；视觉未验证"
+    },
+    {
+      "path": "/partners",
+      "source": "https://www.oxyhealth.com/partners",
+      "observed": "Program hero, planning introduction, growth cards, four partner types, four pillars, six implementation topics, model families, documentation, buyer resources, finance, eleven FAQs, partner inquiry.",
+      "implemented": "Dedicated partner page with separate business-oriented sections, product links, finance and safety entries, eleven FAQ disclosures, partner form.",
+      "status": "原站栏目顺序已核对；视觉未验证"
+    },
+    {
+      "path": "/finance",
+      "source": "https://www.oxyhealth.com/finance",
+      "observed": "Dark financing hero, four benefits, application and payment-estimate cards, inquiry form, final contact action.",
+      "implemented": "Dedicated financing page; verified Brickhouse partner destination; local preview form.",
+      "status": "原站栏目顺序已核对；视觉未验证"
+    },
+    {
+      "path": "/about",
+      "source": "https://www.oxyhealth.com/about",
+      "observed": "Intro hero, lifestyle image, company story, values, event gallery, eight professional profiles, athlete section.",
+      "implemented": "Company-story page with image sections, three values, eight portrait placeholders and resource entry.",
+      "status": "原站栏目顺序已核对；视觉未验证"
+    },
+    {
+      "path": "/events/events",
+      "source": "https://www.oxyhealth.com/events/events",
+      "observed": "Events hero, two upcoming and four past event cards, banners, registration and inquiry actions, photo/contact disclosures.",
+      "implemented": "Separate event-list template, six cards with disclosure states, inquiry dialog; A4M card links to /events/a4m-longevity-fest as a full document.",
+      "status": "原站栏目顺序已核对；视觉未验证"
+    },
+    {
+      "path": "/why-oxyhealth",
+      "source": "https://www.oxyhealth.com/why-oxyhealth",
+      "observed": "Primary URL returned cache miss; one search did not retrieve it. Existing captured homepage Why/Proof content is available.",
+      "implemented": "Independent provisional brand page based on existing home story, differentiators, documentation, and ownership support.",
+      "status": "缺少原站页面证据；原站结构未验证"
+    }
+  ],
+  "forms": {
+    "backend": "Not connected; local preview only.",
+    "verification": "Local code challenge preserves a verification field but is not a production anti-bot service.",
+    "selectors": {
+      "forms": ".ip-form",
+      "success": ".ip-form-success[role=status]",
+      "required": ".ip-form [required]",
+      "verification": "input[name=verification]",
+      "dialog": "[role=dialog][aria-labelledby=ip-inquiry-title]",
+      "faq": ".ip-faq details",
+      "eventDisclosure": ".ip-event-disclosure",
+      "a4mDetail": ".ip-event-list a[href='/events/a4m-longevity-fest']"
+    }
+  },
+  "validation": {
+    "syntax": "esbuild JSX transform passed",
+    "browser": "Pending root integration QA"
+  },
+  "limitations": [
+    "Original dimensions and visual parity unverified.",
+    "Portraits and some repeated event photos are placeholders under the user agreement.",
+    "External registration links do not submit registrations."
+  ],
+  "historical": true,
+  "superseded_by": "inspection/independent-current/audit.json"
+}

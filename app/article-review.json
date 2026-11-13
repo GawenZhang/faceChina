@@ -1,0 +1,5065 @@
+{
+  "updated_at": "2026-11-13T04:56:37.749Z",
+  "count": 15,
+  "expected": 15,
+  "results": [
+    {
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "source": "inspection/live-20261113/blog__fda-hyperbaric-chambers-wellness-devices-not-exempt/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/blog__fda-hyperbaric-chambers-wellness-devices-not-exempt/capture.json",
+        "inspection/live-20261113/blog__fda-hyperbaric-chambers-wellness-devices-not-exempt/page.html",
+        "inspection/live-20261113/blog__fda-hyperbaric-chambers-wellness-devices-not-exempt/screenshot-1440.png",
+        "inspection/live-20261113/blog__fda-hyperbaric-chambers-wellness-devices-not-exempt/screenshot-768.png",
+        "inspection/live-20261113/blog__fda-hyperbaric-chambers-wellness-devices-not-exempt/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "article",
+              "heading": "FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "heading": "FDA response: Office of Industry and Consumer Education (October 16, 2026)",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "FDA response: Office of Import Operations (October 28, 2026)",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "References",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "article",
+              "heading": "FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "heading": "FDA response: Office of Industry and Consumer Education (October 16, 2026)",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "FDA response: Office of Import Operations (October 28, 2026)",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "References",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "article",
+              "heading": "FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "FDA response: Office of Industry and Consumer Education (October 16, 2026)",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "FDA response: Office of Import Operations (October 28, 2026)",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "References",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "source": "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-longevity/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-longevity/capture.json",
+        "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-longevity/page.html",
+        "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-longevity/screenshot-1440.png",
+        "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-longevity/screenshot-768.png",
+        "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-longevity/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Hyperbaric Oxygen Therapy for Longevity: What the Research Says",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "The Landmark Tel Aviv University Telomere Study",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About HBOT and Longevity",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in HBOT for Longevity?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Hyperbaric Oxygen Therapy for Longevity: What the Research Says",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "The Landmark Tel Aviv University Telomere Study",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About HBOT and Longevity",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in HBOT for Longevity?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Hyperbaric Oxygen Therapy for Longevity: What the Research Says",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "The Landmark Tel Aviv University Telomere Study",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About HBOT and Longevity",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in HBOT for Longevity?",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "source": "inspection/live-20261113/post__hbot-for-brain-injury-what-clinical-trials-show/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__hbot-for-brain-injury-what-clinical-trials-show/capture.json",
+        "inspection/live-20261113/post__hbot-for-brain-injury-what-clinical-trials-show/page.html",
+        "inspection/live-20261113/post__hbot-for-brain-injury-what-clinical-trials-show/screenshot-1440.png",
+        "inspection/live-20261113/post__hbot-for-brain-injury-what-clinical-trials-show/screenshot-768.png",
+        "inspection/live-20261113/post__hbot-for-brain-injury-what-clinical-trials-show/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "HBOT for Brain Injury: What Clinical Trials Show",
+              "background": "#1d1d1f",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "heading": "Why Researchers Are Studying HBOT for Brain Injury",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions: HBOT and Brain Injury",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Learn More About Hyperbaric Therapy",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "HBOT for Brain Injury: What Clinical Trials Show",
+              "background": "#1d1d1f",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "heading": "Why Researchers Are Studying HBOT for Brain Injury",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions: HBOT and Brain Injury",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Learn More About Hyperbaric Therapy",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "HBOT for Brain Injury: What Clinical Trials Show",
+              "background": "#1d1d1f",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "Why Researchers Are Studying HBOT for Brain Injury",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions: HBOT and Brain Injury",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Learn More About Hyperbaric Therapy",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "source": "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-long-covid-research/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-long-covid-research/capture.json",
+        "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-long-covid-research/page.html",
+        "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-long-covid-research/screenshot-1440.png",
+        "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-long-covid-research/screenshot-768.png",
+        "inspection/live-20261113/post__hyperbaric-oxygen-therapy-for-long-covid-research/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Hyperbaric Oxygen Therapy for Long COVID: Research Update",
+              "background": "#1d1d1f",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "heading": "Understanding Long COVID and Post-COVID Syndrome",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions: HBOT and Long COVID",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Hyperbaric Oxygen Therapy for Long COVID: Research Update",
+              "background": "#1d1d1f",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "heading": "Understanding Long COVID and Post-COVID Syndrome",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions: HBOT and Long COVID",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Hyperbaric Oxygen Therapy for Long COVID: Research Update",
+              "background": "#1d1d1f",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "Understanding Long COVID and Post-COVID Syndrome",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions: HBOT and Long COVID",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "source": "inspection/live-20261113/post__does-insurance-cover-hyperbaric-oxygen-therapy/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__does-insurance-cover-hyperbaric-oxygen-therapy/capture.json",
+        "inspection/live-20261113/post__does-insurance-cover-hyperbaric-oxygen-therapy/page.html",
+        "inspection/live-20261113/post__does-insurance-cover-hyperbaric-oxygen-therapy/screenshot-1440.png",
+        "inspection/live-20261113/post__does-insurance-cover-hyperbaric-oxygen-therapy/screenshot-768.png",
+        "inspection/live-20261113/post__does-insurance-cover-hyperbaric-oxygen-therapy/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Does Insurance Cover Hyperbaric Oxygen Therapy? Medicare Guide",
+              "background": "#1d1d1f",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "heading": "Does Insurance Cover Hyperbaric Oxygen Therapy?",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About Insurance and HBOT",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Questions About Insurance or Financing?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Does Insurance Cover Hyperbaric Oxygen Therapy? Medicare Guide",
+              "background": "#1d1d1f",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "heading": "Does Insurance Cover Hyperbaric Oxygen Therapy?",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About Insurance and HBOT",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Questions About Insurance or Financing?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Does Insurance Cover Hyperbaric Oxygen Therapy? Medicare Guide",
+              "background": "#1d1d1f",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "Does Insurance Cover Hyperbaric Oxygen Therapy?",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About Insurance and HBOT",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Questions About Insurance or Financing?",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "source": "inspection/live-20261113/post__starting-an-hbot-business-clinic-setup-guide/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__starting-an-hbot-business-clinic-setup-guide/capture.json",
+        "inspection/live-20261113/post__starting-an-hbot-business-clinic-setup-guide/page.html",
+        "inspection/live-20261113/post__starting-an-hbot-business-clinic-setup-guide/screenshot-1440.png",
+        "inspection/live-20261113/post__starting-an-hbot-business-clinic-setup-guide/screenshot-768.png",
+        "inspection/live-20261113/post__starting-an-hbot-business-clinic-setup-guide/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Starting an HBOT Business: Clinic Setup Guide",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "The Growing Demand for HBOT Services",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About Starting an HBOT Business",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Ready to Start Your HBOT Business?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Starting an HBOT Business: Clinic Setup Guide",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "The Growing Demand for HBOT Services",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About Starting an HBOT Business",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Ready to Start Your HBOT Business?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Starting an HBOT Business: Clinic Setup Guide",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "The Growing Demand for HBOT Services",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About Starting an HBOT Business",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Ready to Start Your HBOT Business?",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "source": "inspection/live-20261113/post__hbot-for-pets-veterinary-hyperbaric-therapy/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__hbot-for-pets-veterinary-hyperbaric-therapy/capture.json",
+        "inspection/live-20261113/post__hbot-for-pets-veterinary-hyperbaric-therapy/page.html",
+        "inspection/live-20261113/post__hbot-for-pets-veterinary-hyperbaric-therapy/screenshot-1440.png",
+        "inspection/live-20261113/post__hbot-for-pets-veterinary-hyperbaric-therapy/screenshot-768.png",
+        "inspection/live-20261113/post__hbot-for-pets-veterinary-hyperbaric-therapy/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "HBOT for Pets: Veterinary Hyperbaric Therapy",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "Which Animals Can Receive Hyperbaric Oxygen Therapy?",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About Veterinary HBOT",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Veterinary Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "HBOT for Pets: Veterinary Hyperbaric Therapy",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "Which Animals Can Receive Hyperbaric Oxygen Therapy?",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About Veterinary HBOT",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Veterinary Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "HBOT for Pets: Veterinary Hyperbaric Therapy",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "heading": "Which Animals Can Receive Hyperbaric Oxygen Therapy?",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Frequently Asked Questions About Veterinary HBOT",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Veterinary Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "source": "inspection/live-20261113/post__why-russell-wilson-spends-over-1-million-a-year-on-his-body/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__why-russell-wilson-spends-over-1-million-a-year-on-his-body/capture.json",
+        "inspection/live-20261113/post__why-russell-wilson-spends-over-1-million-a-year-on-his-body/page.html",
+        "inspection/live-20261113/post__why-russell-wilson-spends-over-1-million-a-year-on-his-body/screenshot-1440.png",
+        "inspection/live-20261113/post__why-russell-wilson-spends-over-1-million-a-year-on-his-body/screenshot-768.png",
+        "inspection/live-20261113/post__why-russell-wilson-spends-over-1-million-a-year-on-his-body/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Why Russell Wilson Spends Over $1 Million a Year on His Body",
+              "background": "#1d1d1f",
+              "padding": [
+                160,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "background": "#ffffff",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 768,
+                "pad": [
+                  0,
+                  0
+                ],
+                "w": 768,
+                "x": 329
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Discover the Power of Hyperbaric Oxygen Therapy",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Why Russell Wilson Spends Over $1 Million a Year on His Body",
+              "background": "#1d1d1f",
+              "padding": [
+                160,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "background": "#ffffff",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 768,
+                "pad": [
+                  0,
+                  0
+                ],
+                "w": 705,
+                "x": 24
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Discover the Power of Hyperbaric Oxygen Therapy",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Why Russell Wilson Spends Over $1 Million a Year on His Body",
+              "background": "#1d1d1f",
+              "padding": [
+                96,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 768,
+                "pad": [
+                  0,
+                  0
+                ],
+                "w": 342,
+                "x": 24
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Discover the Power of Hyperbaric Oxygen Therapy",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "source": "inspection/live-20261113/post__from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy/capture.json",
+        "inspection/live-20261113/post__from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy/page.html",
+        "inspection/live-20261113/post__from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy/screenshot-1440.png",
+        "inspection/live-20261113/post__from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy/screenshot-768.png",
+        "inspection/live-20261113/post__from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "From Survival to Service: Coryn Carver's Journey to Healing Through Hyperbaric T",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "From Survival to Service: Coryn Carver's Journey to Healing Through Hyperbaric T",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 3
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "From Survival to Service: Coryn Carver's Journey to Healing Through Hyperbaric T",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "source": "inspection/live-20261113/post__how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford/capture.json",
+        "inspection/live-20261113/post__how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford/page.html",
+        "inspection/live-20261113/post__how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford/screenshot-1440.png",
+        "inspection/live-20261113/post__how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford/screenshot-768.png",
+        "inspection/live-20261113/post__how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Medical-Grade Hyperbaric Oxygen Therapy at MD Hyperbaric Stamford",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Medical-Grade Hyperbaric Oxygen Therapy at MD Hyperbaric Stamford",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 3
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Medical-Grade Hyperbaric Oxygen Therapy at MD Hyperbaric Stamford",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "source": "inspection/live-20261113/post__how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery/capture.json",
+        "inspection/live-20261113/post__how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery/page.html",
+        "inspection/live-20261113/post__how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery/screenshot-1440.png",
+        "inspection/live-20261113/post__how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery/screenshot-768.png",
+        "inspection/live-20261113/post__how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "How Mark Andrews Used a Hyperbaric Oxygen Chamber in His Injury Recovery",
+              "background": "#1d1d1f",
+              "padding": [
+                160,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "background": "#ffffff",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 768,
+                "pad": [
+                  0,
+                  0
+                ],
+                "w": 768,
+                "x": 329
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Discover the Power of Hyperbaric Oxygen Therapy",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "How Mark Andrews Used a Hyperbaric Oxygen Chamber in His Injury Recovery",
+              "background": "#1d1d1f",
+              "padding": [
+                160,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "background": "#ffffff",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 768,
+                "pad": [
+                  0,
+                  0
+                ],
+                "w": 705,
+                "x": 24
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Discover the Power of Hyperbaric Oxygen Therapy",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "How Mark Andrews Used a Hyperbaric Oxygen Chamber in His Injury Recovery",
+              "background": "#1d1d1f",
+              "padding": [
+                96,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 768,
+                "pad": [
+                  0,
+                  0
+                ],
+                "w": 342,
+                "x": 24
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Discover the Power of Hyperbaric Oxygen Therapy",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "source": "inspection/live-20261113/post__how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance/capture.json",
+        "inspection/live-20261113/post__how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance/page.html",
+        "inspection/live-20261113/post__how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance/screenshot-1440.png",
+        "inspection/live-20261113/post__how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance/screenshot-768.png",
+        "inspection/live-20261113/post__how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "How Neymar Jr. Uses Advanced Recovery Tech to Stay at Peak Performance",
+              "background": "#1d1d1f",
+              "padding": [
+                160,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "#ffffff",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 3
+            },
+            {
+              "tag": "section",
+              "heading": "Recover Like the Pros",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "How Neymar Jr. Uses Advanced Recovery Tech to Stay at Peak Performance",
+              "background": "#1d1d1f",
+              "padding": [
+                160,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "#ffffff",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 3
+            },
+            {
+              "tag": "section",
+              "heading": "Recover Like the Pros",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "How Neymar Jr. Uses Advanced Recovery Tech to Stay at Peak Performance",
+              "background": "#1d1d1f",
+              "padding": [
+                96,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Recover Like the Pros",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "source": "inspection/live-20261113/post__hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover/capture.json",
+        "inspection/live-20261113/post__hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover/page.html",
+        "inspection/live-20261113/post__hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover/screenshot-1440.png",
+        "inspection/live-20261113/post__hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover/screenshot-768.png",
+        "inspection/live-20261113/post__hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Hyperbaric Success Stories: How Top Athletes Use Oxygen Therapy to Heal and Reco",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Hyperbaric Success Stories: How Top Athletes Use Oxygen Therapy to Heal and Reco",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 3
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "Hyperbaric Success Stories: How Top Athletes Use Oxygen Therapy to Heal and Reco",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "source": "inspection/live-20261113/post__lebron-james-uses-hyperbaric-oxygen-therapy/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__lebron-james-uses-hyperbaric-oxygen-therapy/capture.json",
+        "inspection/live-20261113/post__lebron-james-uses-hyperbaric-oxygen-therapy/page.html",
+        "inspection/live-20261113/post__lebron-james-uses-hyperbaric-oxygen-therapy/screenshot-1440.png",
+        "inspection/live-20261113/post__lebron-james-uses-hyperbaric-oxygen-therapy/screenshot-768.png",
+        "inspection/live-20261113/post__lebron-james-uses-hyperbaric-oxygen-therapy/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "LeBron James Uses Hyperbaric Oxygen Therapy",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 3
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "LeBron James Uses Hyperbaric Oxygen Therapy",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "#ffffff",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 3
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "LeBron James Uses Hyperbaric Oxygen Therapy",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "#ffffff",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    },
+    {
+      "path": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "source": "inspection/live-20261113/post__the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports/capture.json",
+      "status": "source_structure_and_scoped_css_verified_pending_app_qa",
+      "evidence": [
+        "inspection/live-20261113/post__the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports/capture.json",
+        "inspection/live-20261113/post__the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports/page.html",
+        "inspection/live-20261113/post__the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports/screenshot-1440.png",
+        "inspection/live-20261113/post__the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports/screenshot-768.png",
+        "inspection/live-20261113/post__the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports/screenshot-390.png"
+      ],
+      "source_widths": [
+        1440,
+        768,
+        390
+      ],
+      "layouts": [
+        {
+          "width": 1440,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "The Rise of Hyperbaric Oxygen Therapy in Professional Sports",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 980,
+                "x": 223
+              },
+              "per_row": 1
+            }
+          ]
+        },
+        {
+          "width": 768,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "The Rise of Hyperbaric Oxygen Therapy in Professional Sports",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                96,
+                0,
+                96,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 3
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                112,
+                0,
+                112,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 753,
+                "x": 0
+              },
+              "per_row": 2
+            }
+          ]
+        },
+        {
+          "width": 390,
+          "blocks": [
+            {
+              "tag": "section",
+              "heading": "The Rise of Hyperbaric Oxygen Therapy in Professional Sports",
+              "background": "transparent",
+              "padding": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 2
+            },
+            {
+              "tag": "article",
+              "background": "transparent",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Related Articles",
+              "background": "#f5f5f7",
+              "padding": [
+                64,
+                0,
+                64,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            },
+            {
+              "tag": "section",
+              "heading": "Interested in Hyperbaric Therapy?",
+              "background": "#1d1d1f",
+              "padding": [
+                80,
+                0,
+                80,
+                0
+              ],
+              "column": {
+                "max_w": 980,
+                "pad": [
+                  24,
+                  24
+                ],
+                "w": 390,
+                "x": 0
+              },
+              "per_row": 1
+            }
+          ]
+        }
+      ],
+      "changes": [
+        "Restore source section backgrounds, typography, responsive columns and spacing from scoped source CSS.",
+        "Preserve the original heading hierarchy, text lengths, image placement, links and native disclosures.",
+        "Replace the prior generic article cover/body/related layout with this individual page’s captured structure."
+      ],
+      "limitations": [
+        "Original scripts and tracking are excluded. Existing shared header/footer and accepted differences are retained.",
+        "Image availability is not a completion requirement; original dimensions and hierarchy are retained."
+      ],
+      "css_geometry_qa": {
+        "report": "qa-captured-geometry-results.json",
+        "widths": [
+          1440,
+          768,
+          390
+        ],
+        "passed": true,
+        "checked_at": "2026-11-13T04:56:45.883Z"
+      }
+    }
+  ]
+}
