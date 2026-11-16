@@ -1,0 +1,409 @@
+Internal Error ()
+citeturn14view0 [wordlim: 200] Source: open({"ref_id":"https://www.oxyhealth.com/mild-hyperbaric-chamber","lineno":null}); 
+Failed to fetch https://www.oxyhealth.com/mild-hyperbaric-chamber: Cache miss--------------------------------------------------------------------------------
+FDA Cleared Hyperbaric Chamber: 510(k) Guide | OxyHealth (https://www.oxyhealth.com/fda-cleared-hyperbaric-chamber)
+citeturn14view1 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/fda-cleared-hyperbaric-chamber","lineno":null}); Total lines: 149
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4: Regulatory Standards
+L5: 
+L6: # FDA Cleared Hyperbaric Chamber: Why 510(k) Clearance Matters
+L7: 
+L8: Not all hyperbaric chambers are created equal. Learn why FDA 510(k) clearance is the gold standard for safety and what to look for when choosing a chamber.
+L9: 
+L10: Get Started Call 562-906-8888
+L11: 
+L12: Understanding FDA Clearance
+L13: ## What Does FDA Cleared Mean?
+L14: 
+L15: When a hyperbaric chamber is described as "FDA cleared," it means the device has gone through the FDA's 510(k) premarket notification process. This is a formal regulatory pathway where the manufacturer submits detailed evidence demonstrating that the device is safe and effective for its intended use. The FDA reviews this submission, evaluates the data, and issues a clearance letter only when the device meets the agency's safety and performance standards.
+L16: Hyperbaric chambers are classified by the FDA as Class II medical devices. Class II devices are considered moderate risk and require regulatory controls beyond the general controls applied to Class I devices. The 510(k) pathway requires the manufacturer to demonstrate that the device is "substantially equivalent" to a legally marketed predicate device. This means the chamber must perform at least as safely and effectively as devices already on the market.
+L17: The 510(k) submission typically includes data on biocompatibility testing, electrical safety testing, pressure system integrity, material safety, labeling review, and overall device performance. The FDA may request additional information or testing before issuing clearance. This process can take several months and represents a significant investment by the manufacturer in demonstrating product safety.
+L18: Once a device receives 510(k) clearance, the manufacturer is assigned a clearance number (formatted as K followed by six digits) and may legally market the device in the United States. The clearance is specific to the device as described in the submission, and any significant changes to the device's design, materials, or intended use may require a new 510(k) submission.
+L19: 
+L20: Critical Distinction
+L21: ## FDA Cleared vs FDA Registered
+L22: 
+L23: One of the most important distinctions in the hyperbaric industry is the difference between FDA cleared and FDA registered. These terms sound similar but represent fundamentally different levels of regulatory oversight. Understanding this difference is essential for making a safe purchasing decision.
+L24: ### FDA 510(k)-Cleared
+L25: 
+L26:   * FDA has reviewed safety and effectiveness data
+L27:   * Biocompatibility and electrical safety testing evaluated
+L28:   * Device performance verified against predicate device
+L29:   * Clearance number issued (K######)
+L30:   * Subject to ongoing FDA compliance and reporting requirements
+L31: ### FDA Registered Only
+L32: 
+L33:   * No FDA review of safety or effectiveness data
+L34:   * Manufacturer simply notified FDA of facility existence
+L35:   * No testing or performance evaluation by FDA
+L36:   * Device listed in FDA database but not evaluated
+L37:   * Registration does not equal clearance or endorsement
+L38: Some manufacturers market their hyperbaric chambers as "FDA registered" in a way that may suggest regulatory approval. It is important to understand that registration is an administrative step that any device manufacturer can complete. It does not mean the FDA has reviewed or evaluated the device in any way. When evaluating hyperbaric chambers, always ask specifically for the 510(k) clearance number and verify it in the FDA database.
+L39: This is the only way to confirm that the device has been properly reviewed for safety and effectiveness.
+L40: Patient Safety
+L41: ## Why FDA 510(k) Clearance Matters
+L42: 
+L43: ### Proven Safety Data
+L44: 
+L45: FDA 510(k) clearance requires manufacturers to submit comprehensive safety testing data, including biocompatibility assessments, electrical safety evaluations, and pressure system integrity testing. This data is reviewed by FDA scientists and engineers before the device can be marketed. Without this review, there is no independent verification that the chamber meets baseline safety requirements.
+--------------------------------------------------------------------------------
+Best Hyperbaric Chamber 2026: Expert Comparison Guide | OxyHealth (https://www.oxyhealth.com/best-hyperbaric-chamber)
+citeturn14view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/best-hyperbaric-chamber","lineno":null}); Total lines: 203
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4: Expert Comparison Guide
+L5: 
+L6: # Best Hyperbaric Chamber 2026
+L7: 
+L8: Not all hyperbaric chambers are created equal. Learn what certifications matter, how to verify quality, and what to ask any manufacturer before you buy.
+L9: 
+L10: Get Expert Guidance Call 562-906-8888
+L11: 
+L12: Certification Criteria
+L13: ## What Makes a Hyperbaric Chamber the Best?
+L14: 
+L15: When searching for the best hyperbaric chamber, the single most important factor is safety certification. A hyperbaric chamber is a pressurized medical device designed for human occupancy, and choosing one without proper certifications introduces unnecessary risk. The best hyperbaric chambers meet four critical standards that together ensure the device has been rigorously tested, properly manufactured, and cleared for safe use.
+L16: ### FDA 510(k) Clearance
+L17: 
+L18: The U.S. Food and Drug Administration 510(k) clearance process requires manufacturers to demonstrate that their device is substantially equivalent to a legally marketed predicate device in terms of safety and effectiveness. This is fundamentally different from simple FDA registration, which requires no review of the device itself. The best hyperbaric chambers are FDA 510(k)-cleared as Class II medical devices.
+L19: ### ASME PVHO-1 Certification
+L20: 
+L21: The American Society of Mechanical Engineers (ASME) Pressure Vessels for Human Occupancy (PVHO-1) standard is the recognized safety standard for pressure vessels designed to hold people. It establishes requirements for design, materials, fabrication, inspection, and testing. A chamber built to ASME PVHO-1 has been engineered and tested specifically for the stresses of repeated pressurization with human occupants.
+L22: ### ISO 13485 Certified Manufacturing
+L23: 
+L24: ISO 13485 is the international quality management standard specifically designed for medical device manufacturers. It requires documented processes for design, production, installation, and servicing of medical devices. Chambers manufactured under ISO 13485 are built in facilities with rigorous quality controls, traceability, and consistent production processes.
+L25: ### UL Listing
+L26: 
+L27: Underwriters Laboratories (UL) testing and certification covers the electrical components and systems of the chamber. UL listing means that the electrical systems have been independently tested for fire, shock, and related safety hazards. This is particularly important for hyperbaric chambers because they operate in oxygen-enriched environments where electrical safety is critical.
+L28: Any chamber lacking one or more of these certifications has not met the full spectrum of safety, quality, and performance standards that define the best hyperbaric chambers available today. When evaluating which chamber to purchase, these four certifications should be your starting point, not an afterthought.
+L29: 
+L30: Since 1997
+L31: ## Why Physicians and Families Choose OxyHealth
+L32: 
+L33: OxyHealth has designed and built hyperbaric chambers in the USA since 1997 and has delivered over 19,000 chambers. Every model is FDA 510(k) cleared, built under ISO 13485, and backed by a 5 year warranty, with ASME PVHO-1 and UL documentation available by model.
+L34: 
+L35: 19,000+
+L36: 
+L37: ### Chambers Delivered Worldwide
+L38: 
+L39: More hyperbaric chambers deployed globally than any other manufacturer.
+L40: 
+L41: 3,000+
+L42: ### Physicians Trust OxyHealth
+L43: 
+L44: Medical professionals worldwide rely on OxyHealth for patient care.
+L45: 
+L46: 4
+L47: 
+L48: ### Major Safety Certifications
+L49: 
+L50: FDA 510(k), ASME PVHO-1, ISO 13485, and UL listing.
+L51: 
+L52: Only
+L53: ### Manufacturer With All 4
+L54: 
+L55: The only hyperbaric chamber manufacturer holding all four certifications.
+L56: 
+L57: OxyHealth chambers are used in hospitals, wound care centers, sports medicine facilities, wellness clinics, and private homes across more than 40 countries. Professional athletes, military veterans, and families alike trust OxyHealth because the company has built its reputation on verifiable safety standards rather than marketing claims.
+--------------------------------------------------------------------------------
+Hyperbaric Chamber Rental: What to Know Before You Rent | OxyHealth (https://www.oxyhealth.com/hyperbaric-chamber-rental)
+citeturn14view3 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/hyperbaric-chamber-rental","lineno":null}); Total lines: 64
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4:   1. 【6†Home】
+L5:   2. /
+L6:   3. 【1†Resources】
+L7:   4. /
+L8:   5. Hyperbaric Chamber Rental
+L9: 
+L10: Buying Guide
+L11: 
+L12: # Hyperbaric Chamber Rental: What to Know Before You Rent
+L13: 
+L14: A rented hyperbaric chamber is the same regulated medical device as a purchased one, so the same checks apply: FDA 510(k) clearance, a prescription, training, and a clear answer on who services the equipment. OxyHealth provides rental details on request.
+L15: ## What you are renting
+L16: 
+L17: A hyperbaric chamber pressurizes the environment around the whole body above normal atmospheric pressure. FDA regulates these chambers as 【7†Class II medical devices†www.accessdata.fda.gov】. Renting changes who owns the equipment. It does not change what the equipment is or the care it needs.
+L18: 
+L19: That is why the questions to ask a rental provider are largely the same questions you would ask before buying.
+L20: ## What to verify with any rental provider
+L21:   * Clearance for the specific device. Ask for the model's FDA 510(k) clearance and confirm it. See 【8†what FDA clearance means】.
+L22:   * Prescription handling. Ask how the provider handles the 【9†prescription requirement】.
+L23:   * Service and cleaning history. A rental unit has been used before. Ask when it was last inspected and serviced, and by whom.
+L24:   * Instructions and training. You should receive the manufacturer's instructions for use and be shown how to operate the chamber correctly.
+L25:   * Support during the rental. Find out who you call if something needs attention, and who is responsible for maintenance.
+L26:   * That the chamber is genuine. See 【10†how to confirm a genuine OxyHealth chamber】.
+L27: ## Renting compared with owning
+L28: 
+L29: The right choice follows from how the chamber will be used, and that starts with your clinician. A qualified clinician determines whether hyperbaric therapy is appropriate and sets the protocol, including how long it runs.
+L30:   * Renting can suit a defined period of use, or someone who wants experience with a chamber before committing to one.
+L31:   * Owning can suit ongoing use, households or practices with more than one user, and anyone who wants the chamber set up permanently. OxyHealth offers 【3†financing】 for purchases.
+L32: 
+L33: Either way, plan the space first. The 【11†room size and setup guide】 lists the dimensions and power requirements for each OxyHealth model.
+L34: ## Safety applies to rentals too
+L35: 
+L36: Follow the chamber's instructions for use every session, including the manufacturer's prohibited-item list and guidance on ignition sources and electronic devices. Do not improvise exceptions. The 【12†OxyHealth safety page】 covers the essentials.
+L37: 
+L38: ## Hyperbaric Chamber Rental FAQ
+L39: ### Can you rent a hyperbaric chamber?
+L40: 
+L41: Rental availability depends on the provider, the model, and your location. OxyHealth provides rental details on request. Contact the team and select the rental option on the inquiry form to find out what is currently available.
+L42: 
+L43: ### Do you need a prescription to rent a hyperbaric chamber?
+L44: 
+L45: Hyperbaric chambers are FDA-regulated Class II medical devices whether they are bought or rented. OxyHealth chambers are provided on the order of a licensed healthcare provider.
+L46: ### Is it better to rent or buy a hyperbaric chamber?
+L47: 
+L48: It depends on how long your clinician expects you to use the chamber and how you weigh logistics, service, and long-term access. Renting can suit a defined period of use. Ownership can suit ongoing use. OxyHealth also offers financing for purchases.
+L49: ### What should I check before renting a chamber?
+L50: 
+L51: Confirm the specific device has FDA 510(k) clearance, ask for its service and cleaning history, make sure you receive the instructions for use and training, and find out who is responsible for maintenance and support during the rental.
+--------------------------------------------------------------------------------
+Used Hyperbaric Chambers: What to Check Before You Buy | OxyHealth (https://www.oxyhealth.com/used-hyperbaric-chamber)
+citeturn14view4 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/used-hyperbaric-chamber","lineno":null}); Total lines: 58
+L0:   1. 【0†Home】
+L1:   2. /
+L2:   3. 【1†Resources】
+L3:   4. /
+L4:   5. Used Hyperbaric Chambers
+L5: 
+L6: Buying Guide
+L7: 
+L8: # Used Hyperbaric Chambers: What to Check Before You Buy
+L9: 
+L10: A used hyperbaric chamber is still a pressurized medical device, so its history matters. Before buying one, confirm what it is, who made it, how it has been serviced, and who will support it. OxyHealth occasionally has factory-refurbished chambers available.
+L11: ## Why a chamber's history matters
+L12: 
+L13: A hyperbaric chamber holds a person inside an environment pressurized above normal atmospheric pressure. Its seals, closures, windows, valves, and air supply all have to work as designed, every session. Wear, poor storage, and unauthorized repairs are not always visible.
+L14: 
+L15: FDA regulates hyperbaric chambers as 【2†Class II medical devices†www.accessdata.fda.gov】. That classification does not lapse when a chamber changes hands.
+L16: ## A checklist for any used chamber
+L17:   * Identity. Get the manufacturer, model name, and serial number, and confirm them with the manufacturer.
+L18:   * Clearance. Confirm the model has FDA 510(k) clearance. See 【3†what FDA clearance means】.
+L19:   * Service history. Ask for records of inspections, repairs, and part replacements, and who performed them.
+L20:   * Condition of the pressure boundary. For soft-sided chambers, inspect the bladder, zipper or seal assemblies, and windows. For hard-sided chambers, ask for the vessel's documentation.
+L21:   * Air supply. Check the compressor and filters, and ask when filters were last changed.
+L22:   * Documents. The chamber should come with its instructions for use.
+L23:   * Support. Ask the manufacturer whether it will service the unit and what coverage, if any, applies to a second owner.
+L24: ## OxyHealth refurbished chambers
+L25: 
+L26: OxyHealth occasionally has refurbished chambers available. These chambers are inspected, serviced, and certified by factory-trained technicians before they are offered again. Buying a refurbished chamber directly from OxyHealth also means the manufacturer knows the unit's history.
+L27: Availability changes, so 【4†contact OxyHealth】 to ask what is on hand. If you already own an OxyHealth chamber that needs attention, see the 【5†repair and exchange policy】 or the 【6†support page】.
+L28: ## A prescription is still required
+L29: 
+L30: New or used, an OxyHealth chamber is sold on the order of a licensed healthcare provider, and a qualified clinician determines the protocol. Read more in 【7†Do You Need a Prescription for a Hyperbaric Chamber?】
+L31: 
+L32: ## Used Hyperbaric Chamber FAQ
+L33: ### Can I buy a used or refurbished hyperbaric chamber from OxyHealth?
+L34: 
+L35: OxyHealth occasionally has refurbished chambers available. Refurbished OxyHealth chambers are inspected, serviced, and certified by factory-trained technicians. Contact OxyHealth to ask about current availability.
+L36: ### Is it safe to buy a used hyperbaric chamber from a private seller?
+L37: 
+L38: It carries more uncertainty. A private sale usually comes without a documented service history, without confirmation of how the chamber was stored and used, and without manufacturer support. If you consider one, verify the serial number with the manufacturer and have the chamber inspected before use.
+L39: ### Do I still need a prescription for a used hyperbaric chamber?
+L40: 
+L41: A hyperbaric chamber is an FDA-regulated Class II medical device whether it is new or used. OxyHealth chambers are sold on the order of a licensed healthcare provider.
+L42: 
+L43: ### How do I check that a used chamber is a genuine OxyHealth chamber?
+L44: 
+L45: Ask the seller for the model name and serial number, then contact OxyHealth at 562-906-8888 to confirm them. OxyHealth can tell you whether the chamber is one of its products.
+L46: ## Ask about refurbished availability
+L47: 
+L48: Refurbished chambers are available from time to time. Contact the OxyHealth team to ask what is currently available, or to verify a chamber you are considering.
+L49: 
+L50: 【4†Contact OxyHealth】【8†See chambers for sale】
+L51: 
+L52: ### Related guides
+L53: 
+L54:   * 【9†How to Confirm a Genuine OxyHealth Chamber】
+L55:   * 【10†Hyperbaric Chamber Rental】
+L56:   * 【5†Repair and Exchange Policy】
+L57:   * 【11†Hyperbaric Chamber Buying Guide】
+--------------------------------------------------------------------------------
+Do You Need a Prescription for a Hyperbaric Chamber? | OxyHealth (https://www.oxyhealth.com/hyperbaric-chamber-prescription)
+citeturn14view5 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/hyperbaric-chamber-prescription","lineno":null}); Total lines: 71
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4:   1. 【6†Home】
+L5:   2. /
+L6:   3. 【1†Resources】
+L7:   4. /
+L8:   5. Hyperbaric Chamber Prescription
+L9: 
+L10: Regulatory Guide
+L11: 
+L12: # Do You Need a Prescription for a Hyperbaric Chamber?
+L13: 
+L14: Yes. Hyperbaric chambers are FDA-regulated Class II medical devices, and OxyHealth chambers are sold on the order of a licensed healthcare provider, for home use and clinic use alike. The prescription is part of how the device is regulated. It is not a formality.
+L15: ## Why a prescription is required
+L16: 
+L17: A hyperbaric chamber raises the pressure around the whole body above normal atmospheric pressure. That makes it a medical device. FDA lists hyperbaric chambers under Product Code CBF and regulation 【7†21 CFR 868.5470†www.accessdata.fda.gov】 as Class II devices that go through 510(k) premarket review.
+L18: FDA 510(k) clearance concerns the device itself: its design, performance, labeling, and manufacturing controls. The prescription requirement sits alongside that clearance. It makes sure a licensed healthcare provider is involved before a person begins using a pressurized device.
+L19: ## Calling a chamber a wellness product does not change this
+L20: 
+L21: Some sellers describe full-body chambers as wellness or lifestyle products. A marketing label does not change how FDA classifies a hyperbaric chamber. If you are comparing sellers, ask for the device's 510(k) clearance and confirm it in 【7†FDA's device classification database†www.accessdata.fda.gov】, and ask how the seller handles the prescription requirement.
+L22: ## What the prescription covers, and what it does not
+L23: 
+L24: A prescription authorizes a person to obtain and use the device under a clinician's direction. The clinician, not the manufacturer, determines:
+L25: 
+L26:   * Whether hyperbaric therapy is appropriate for the individual
+L27:   * The breathing gas and any supplemental oxygen
+L28:   * The pressure, stated in ATA
+L29:   * Session length, frequency, and total number of sessions
+L30: These variables together make up the dose. Pressure and oxygen concentration are separate variables, and two protocols that share a name can deliver very different exposures. OxyHealth does not prescribe protocols or recommend session counts.
+L31: ## Device clearance and clinical use are different things
+L32: 
+L33: FDA clearance applies to a device and its cleared labeling. How a physician uses a cleared device for a particular patient is a separate medical judgment. Research on conditions outside a device's cleared indications does not mean the device is cleared for those uses, and a physician's decision to use a cleared device does not make the device uncleared.
+L34: ## How the process works with OxyHealth
+L35: 
+L36:   1. Speak with a licensed healthcare provider about whether hyperbaric therapy is appropriate for you.
+L37:   2. 【8†Contact OxyHealth】 to discuss chamber types and what documentation is needed.
+L38:   3. Your provider supplies the prescription and determines your protocol.
+L39:   4. Follow the chamber's instructions for use and the training OxyHealth provides.
+L40: A prescription does not determine insurance coverage. See the 【9†insurance coverage guide】 for how payers approach hyperbaric therapy.
+L41: ## Hyperbaric Chamber Prescription FAQ
+L42: 
+L43: ### Do you need a prescription to buy a hyperbaric chamber?
+L44: 
+L45: Yes, for OxyHealth chambers. Hyperbaric chambers are FDA-regulated Class II medical devices, and OxyHealth chambers are sold on the order of a licensed healthcare provider. This applies to home use as well as clinic use.
+L46: ### Do I need a prescription for a home hyperbaric chamber?
+L47: 
+L48: Yes. A chamber does not stop being a medical device because it is used at home or described as a wellness product. OxyHealth requires a prescription from a licensed healthcare provider for its home chambers.
+L49: ### Does the prescription decide my pressure and session schedule?
+L50: 
+--------------------------------------------------------------------------------
+Hyperbaric Chamber Room Size and Setup Requirements | OxyHealth (https://www.oxyhealth.com/hyperbaric-chamber-room-requirements)
+citeturn14view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/hyperbaric-chamber-room-requirements","lineno":null}); Total lines: 71
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4:   1. 【6†Home】
+L5:   2. /
+L6:   3. 【1†Resources】
+L7:   4. /
+L8:   5. Room Size and Setup
+L9: 
+L10: Planning Guide
+L11: # Hyperbaric Chamber Room Size and Setup Requirements
+L12: 
+L13: A portable OxyHealth chamber needs a clear floor area a little larger than the chamber, between 88 and 100 inches long depending on the model, plus space for the compressor and a 110-120V outlet. Clinical hard-sided chambers weigh 1,250 to 1,400 lbs and are installed by OxyHealth certified technicians.
+L14: ## Chamber dimensions, weight, and power by model
+L15: OxyHealth chamber dimensions, weight, and power requirements
+L16: Model  | Type  | Interior diameter  | Length  | Weight  | Power
+L17: --- | --- | --- | --- | --- | ---
+L18: 【7†Respiro 270】  | Portable soft-sided chamber  | 27 inches  | 88 inches  | Ask OxyHealth  | 110-120V
+L19: 【8†Vitaeris 320】  | Portable soft-sided chamber  | 32 inches  | 90 inches  | Ask OxyHealth  | 110-120V
+L20: 【9†Quamvis 320】  | Portable soft-sided chamber  | 32 inches  | 100 inches  | Ask OxyHealth  | 110-120V
+L21: 【10†Fortius 420】  | Clinical hard-sided chamber  | 42 inches  | 91 inches  | 1,250 lbs  | 110-120V
+L22: 【11†Fortius 420 EXP】  | Clinical hard-sided chamber  | 42 inches  | 96 inches total (62 inch interior length)  | 1,400 lbs  | 110-120V
+L23: Figures are the published specifications for each model. Confirm current specifications with OxyHealth before finalizing a room plan.
+L24: ## Planning a room for a portable chamber
+L25: 
+L26: Portable soft-sided chambers such as the Respiro 270, Vitaeris 320, and Quamvis 320 are used in homes and smaller clinics. When you measure, allow for:
+L27:   * The inflated chamber. Use the diameter and length above as the minimum footprint.
+L28:   * Getting in and out. Leave clear floor beside the entry so the user can enter and exit without climbing over furniture.
+L29:   * The compressor. Each system includes a CleanAir compressor that sits outside the chamber, so leave floor space for it next to the chamber.
+L30:   * Power. A 110-120V outlet within reach of the compressor.
+L31:   * A helper, if needed. Follow the instructions for use on whether a second person should be present.
+L32: The Quamvis 320 adds a rigid external steel frame, so plan for the frame as well as the chamber. Portable chambers can be deflated and packed if the room is needed for something else.
+L33: ## Planning a room for a clinical hard-sided chamber
+L34: 
+L35: The Fortius 420 and Fortius 420 EXP are steel pressure vessels that operate up to 4.0 ATA. Planning for them is a facilities question as much as a floor-space question:
+L36:   * Weight. 1,250 lbs for the Fortius 420 and 1,400 lbs for the Fortius 420 EXP. Confirm floor loading with your building.
+L37:   * Delivery path. Measure doorways, corridors, and elevators. The Fortius 420 EXP uses a split design for sites with limited access.
+L38:   * Installation. OxyHealth certified technicians complete installation, assembly, and calibration, and provide training.
+L39:   * Facility safety. Hyperbaric safety also involves facility and fire-safety controls addressed by NFPA 99. Requirements depend on your jurisdiction and facility type, so review them with your local authority and safety officer.
+L40: See 【12†Fortius 420 vs Fortius 420 EXP】 for how the two clinical models differ.
+L41: ## Safety in the room
+L42: 
+L43: Follow the chamber's instructions for use and your facility's safety policy regarding ignition sources and electronic devices. Keep unauthorized electronics and battery-powered devices out of the chamber, and do not improvise exceptions. The 【13†safety page】 covers the essentials for every OxyHealth chamber.
+L44: 
+L45: ## Room and Setup FAQ
+L46: ### How much space do you need for a home hyperbaric chamber?
+L47: 
+L48: Start with the chamber itself. OxyHealth portable chambers range from 27 inches in diameter and 88 inches long (Respiro 270) to 32 inches in diameter and 100 inches long (Quamvis 320). Add room to get in and out comfortably and to place the compressor beside the chamber.
+--------------------------------------------------------------------------------
+How to Confirm a Genuine OxyHealth Hyperbaric Chamber | OxyHealth (https://www.oxyhealth.com/genuine-oxyhealth-hyperbaric-chamber)
+citeturn14view7 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/genuine-oxyhealth-hyperbaric-chamber","lineno":null}); Total lines: 71
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4:   1. 【6†Home】
+L5:   2. /
+L6:   3. 【1†Resources】
+L7:   4. /
+L8:   5. Genuine OxyHealth Chambers
+L9: 
+L10: Buyer Protection
+L11: # How to Confirm You Are Buying a Genuine OxyHealth Hyperbaric Chamber
+L12: 
+L13: OxyHealth, LLC is a hyperbaric chamber manufacturer founded in 1997 and based in Santa Fe Springs, California. Its official website is www.oxyhealth.com and its phone number is 562-906-8888. If a seller or product is not confirmed by OxyHealth through those channels, treat it as unverified.
+L14: ## Who OxyHealth is
+L15: 
+L16:   * Company name: OxyHealth, LLC
+L17:   * Founded: 1997
+L18:   * Address: 10719 Norwalk Blvd., Santa Fe Springs, CA 90670
+L19:   * Phone: 562-906-8888
+L20:   * Email: information@oxyhealth.com
+L21:   * Website: www.oxyhealth.com
+L22: 
+L23: The name is one word, OxyHealth. If the company name, web address, phone number, or email on a quote or invoice is different from the details above, confirm with OxyHealth directly before you pay.
+L24: ## OxyHealth chamber models
+L25: 
+L26: OxyHealth currently makes five chambers:
+L27: 
+L28:   * 【7†Respiro 270】, a portable chamber
+L29:   * 【8†Vitaeris 320】, a portable chamber
+L30:   * 【9†Quamvis 320】, a portable chamber with an external steel frame
+L31:   * 【10†Fortius 420】, a clinical hard-sided chamber
+L32:   * 【11†Fortius 420 EXP】, a split-design clinical hard-sided chamber
+L33: Respiro270®, Vitaeris320®, Quamvis320®, Fortius420®, and Solace210® are federally registered trademarks of OxyHealth, LLC. If a chamber is offered under a model name that is not listed here, ask OxyHealth to confirm it before you buy.
+L34: ## Four ways to verify before you buy
+L35:   1. Check the web address. OxyHealth sells and supports its chambers through www.oxyhealth.com.
+L36:   2. Call the published number. Dial 562-906-8888 yourself instead of using a number supplied by a third party.
+L37:   3. Ask for the model and serial number. OxyHealth can confirm whether a chamber is one of its products.
+L38:   4. Confirm regulatory status. Hyperbaric chambers are 【12†FDA-regulated Class II medical devices†www.accessdata.fda.gov】. Ask any seller for the device's 510(k) clearance and the name of the manufacturer it was issued to.
+L39: ## Buying through a clinic, reseller, or marketplace
+L40: 
+L41: OxyHealth works with clinics, physicians, and distributors through its 【13†partner program】. If you are buying through someone other than OxyHealth, ask OxyHealth to confirm that the seller is an authorized partner. Chambers bought from unauthorized resellers or third-party marketplaces may come without valid coverage or manufacturer support.
+L42: 
+L43: For second-hand chambers, see 【14†what to check before buying a used hyperbaric chamber】.
+L44: ## Genuine OxyHealth Chamber FAQ
+L45: 
+L46: ### What is the official OxyHealth website?
+L47: 
+L48: The official OxyHealth website is www.oxyhealth.com. OxyHealth, LLC is located at 10719 Norwalk Blvd., Santa Fe Springs, CA 90670, and can be reached at 562-906-8888.
+L49: ### Is OxyHealth the same as other companies with similar names?
+L50: 
+L51: OxyHealth, LLC is an independent hyperbaric chamber manufacturer founded in 1997. Names in the hyperbaric industry can sound alike. If you are not sure whether a seller or product is connected to OxyHealth, call 562-906-8888 and ask before you buy.
+L52: ### Which chamber models does OxyHealth make?
+L53: 
+L54: Current OxyHealth chambers are the Respiro 270, Vitaeris 320, Quamvis 320, Fortius 420, and Fortius 420 EXP. Respiro270, Vitaeris320, Quamvis320, Fortius420, and Solace210 are federally registered trademarks of OxyHealth, LLC.
+L55: 
+L56: ### How can I verify a chamber is a genuine OxyHealth product?
+L57: 
+L58: Ask the seller for the model name and serial number, then contact OxyHealth directly at 562-906-8888 or information@oxyhealth.com to confirm them.
+L59: ## Not sure? Ask us before you buy
+L60: 
+L61: If you want to confirm a seller, a model, or a serial number, the OxyHealth team will check it for you.
+L62: 
+L63: 【15†Contact OxyHealth】【16†About OxyHealth chambers】
+L64: 
+L65: ### Related guides
+L66: 
+L67:   * 【4†About OxyHealth】
+L68:   * 【17†FDA Cleared Hyperbaric Chambers】
+L69:   * 【14†Used and Refurbished Chambers】
+L70:   * 【13†OxyHealth Partner Program】
+

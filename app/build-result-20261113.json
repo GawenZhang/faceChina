@@ -1,0 +1,13 @@
+{
+  "command": "npm.cmd run build",
+  "exit_code": 0,
+  "completed_at": "2026-11-13T05:03:44.360Z",
+  "time_note": "Build artifact modification time; command returned exit code 0 before final QA started.",
+  "pages": 70,
+  "checklist_urls": 61,
+  "assets": {
+    "index-Caofio-P.js": "612bd4b2766a87c4c277f86a1925751ae996e1e025a949432d30784d0ac2a43b",
+    "index-N6HwVhN-.css": "b07b2d8c44cef2d670b1a1654673f928a6554a61811b93f2f48f5cb77f7a97ca"
+  },
+  "warning": "Vite bundle exceeds 500 kB warning; build succeeded."
+}

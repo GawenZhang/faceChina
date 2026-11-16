@@ -1,0 +1,548 @@
+{
+  "passed": true,
+  "testedAt": "2026-11-13T05:05:03.716Z",
+  "results": [
+    {
+      "name": "1440 /hyperbaric-chamber-for-sale: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /home-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /portable-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /soft-shell-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /mild-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /fda-cleared-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /best-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-chamber-comparison: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-chamber-buying-guide: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-chamber-cost: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-chamber-for-business: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hbot-for-your-practice: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-chamber-rental: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /used-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-chamber-prescription: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-chamber-room-requirements: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /genuine-oxyhealth-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-chamber-benefits: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-chamber-side-effects: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-chamber-insurance: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-research-library: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-therapy-anti-aging: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-therapy-athletic-recovery: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-therapy-brain-health: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-therapy-inflammation: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-therapy-long-covid: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-therapy-near-me: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-therapy-veterinary: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-therapy-wound-healing: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /vitaeris-320-vs-respiro-270: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /vitaeris-320-vs-quamvis-320: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /fortius-420-vs-fortius-420-exp: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /documents/safety: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /documents/terms-conditions: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /documents/privacy-notice: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /documents/repair-exchange-policy: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /documents/fda: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440 /hyperbaric-pressure-converter: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "1440: home guide has only two model cards",
+      "passed": true
+    },
+    {
+      "name": "1440: compact rental is prose, not model catalog",
+      "passed": true
+    },
+    {
+      "name": "1440: comparison table and differences",
+      "passed": true
+    },
+    {
+      "name": "1440: legal templates keep appropriate hierarchy",
+      "passed": true
+    },
+    {
+      "name": "1440: cost form validates and remains local",
+      "passed": true
+    },
+    {
+      "name": "1440: practice specialist opens source dialog and validates locally",
+      "passed": true
+    },
+    {
+      "name": "1440: converter and research controls",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-for-sale: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /home-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /portable-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /soft-shell-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /mild-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /fda-cleared-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /best-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-comparison: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-buying-guide: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-cost: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-for-business: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hbot-for-your-practice: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-rental: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /used-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-prescription: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-room-requirements: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /genuine-oxyhealth-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-benefits: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-side-effects: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-chamber-insurance: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-research-library: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-therapy-anti-aging: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-therapy-athletic-recovery: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-therapy-brain-health: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-therapy-inflammation: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-therapy-long-covid: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-therapy-near-me: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-therapy-veterinary: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-therapy-wound-healing: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /vitaeris-320-vs-respiro-270: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /vitaeris-320-vs-quamvis-320: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /fortius-420-vs-fortius-420-exp: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /documents/safety: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /documents/terms-conditions: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /documents/privacy-notice: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /documents/repair-exchange-policy: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /documents/fda: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768 /hyperbaric-pressure-converter: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "768: home guide has only two model cards",
+      "passed": true
+    },
+    {
+      "name": "768: compact rental is prose, not model catalog",
+      "passed": true
+    },
+    {
+      "name": "768: comparison table and differences",
+      "passed": true
+    },
+    {
+      "name": "768: legal templates keep appropriate hierarchy",
+      "passed": true
+    },
+    {
+      "name": "768: cost form validates and remains local",
+      "passed": true
+    },
+    {
+      "name": "768: practice specialist opens source dialog and validates locally",
+      "passed": true
+    },
+    {
+      "name": "768: converter and research controls",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-for-sale: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /home-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /portable-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /soft-shell-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /mild-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /fda-cleared-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /best-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-comparison: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-buying-guide: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-cost: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-for-business: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hbot-for-your-practice: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-rental: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /used-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-prescription: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-room-requirements: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /genuine-oxyhealth-hyperbaric-chamber: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-benefits: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-side-effects: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-chamber-insurance: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-research-library: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-therapy-anti-aging: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-therapy-athletic-recovery: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-therapy-brain-health: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-therapy-inflammation: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-therapy-long-covid: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-therapy-near-me: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-therapy-veterinary: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-therapy-wound-healing: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /vitaeris-320-vs-respiro-270: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /vitaeris-320-vs-quamvis-320: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /fortius-420-vs-fortius-420-exp: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /documents/safety: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /documents/terms-conditions: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /documents/privacy-notice: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /documents/repair-exchange-policy: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /documents/fda: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390 /hyperbaric-pressure-converter: structure and overflow",
+      "passed": true
+    },
+    {
+      "name": "390: home guide has only two model cards",
+      "passed": true
+    },
+    {
+      "name": "390: compact rental is prose, not model catalog",
+      "passed": true
+    },
+    {
+      "name": "390: comparison table and differences",
+      "passed": true
+    },
+    {
+      "name": "390: legal templates keep appropriate hierarchy",
+      "passed": true
+    },
+    {
+      "name": "390: cost form validates and remains local",
+      "passed": true
+    },
+    {
+      "name": "390: practice specialist opens source dialog and validates locally",
+      "passed": true
+    },
+    {
+      "name": "390: converter and research controls",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "scope": "Local rebuilt browser only; remote assets stubbed. Does not verify original visual equivalence."
+}

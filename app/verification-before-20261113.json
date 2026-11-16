@@ -1,0 +1,379 @@
+{
+  "date": "2026-11-12T13:57:25.060Z",
+  "production_build": "passed",
+  "verification_run": {
+    "kind": "local_rebuild",
+    "source_browser_calls": 0,
+    "new_original_samples": 0,
+    "source_status": "not_requested_local_verification",
+    "historical_source_records": [
+      "live-source-session.json",
+      "live-source-retry.json"
+    ],
+    "qa": {
+      "status": "retained_from_previous_run",
+      "completed_at": "2026-11-12T12:43:48.036Z",
+      "report": "qa-suite-results.json",
+      "artifacts": {
+        "index-LiveWKxb.css": "0e273b8fa8bde927a9c701bfa44b4674e6931d4c883fb7dc2163cd43b79bdee0",
+        "index-_mkeJg1X.js": "06e94ec1484ff613fd1fd5328b89d5cd5453961476afda92632ea086c5302b76"
+      },
+      "note": "Fresh build artifacts exactly match the previously passing twelve-script QA build; the full suite was not rerun."
+    },
+    "reporting_changes": [],
+    "ui_changes": [],
+    "preview": {
+      "url": "http://127.0.0.1:62446/",
+      "checked_paths": [
+        "/",
+        "/products/fortius-420"
+      ],
+      "http_status": 200,
+      "checked_at": "2026-11-12T13:57:24.928Z"
+    },
+    "completed_at": "2026-11-12T13:57:24.907Z",
+    "rebuild_check": {
+      "report": "rebuild-check-final.json",
+      "score": 85,
+      "target": 90,
+      "scope": "Five saved pages and recorded interaction states; not all 70 pages."
+    },
+    "previous_ui_changes": [
+      {
+        "path": "/support",
+        "file": "IndependentPages.jsx",
+        "summary": "此前已修复附件数量或大小校验失败后，重置表单仍保留浏览器自定义校验错误的问题；qa-new-interactions.mjs 已覆盖重置后再次提交。本轮保留该改动。"
+      },
+      {
+        "path": "All pages: Products menu",
+        "file": "Shell.jsx; qa-resume.mjs",
+        "summary": "Fixed a pointer click closing the Products menu immediately after hover. Pointer activation now keeps product links available; Enter/Space toggle and Escape dismissal remain. Added a full product navigation/refresh/Back regression."
+      }
+    ],
+    "build": {
+      "status": "passed",
+      "generated_pages": 70,
+      "checklist_urls": 61,
+      "artifacts_match_prior_qa": true
+    },
+    "local_audit": {
+      "status": "completed",
+      "method": "Independent read-only source review",
+      "result": "No concrete locally actionable defect found in inspected route dispatch, navigation/menu handlers, preview forms and QA coverage."
+    }
+  },
+  "generated_pages": 70,
+  "checklist_urls": 61,
+  "representative_checks": 72,
+  "route_checks": 140,
+  "entry_flow_checks": 44,
+  "coverage_passed": true,
+  "navigation_passed": true,
+  "navigation_checks": {
+    "route_scans": 140,
+    "entry_flows": 148,
+    "external_flows": 34,
+    "fragment_checks": 52,
+    "semantic_checks": 10,
+    "report": "qa-navigation-results.json"
+  },
+  "qa_suite": {
+    "passed": true,
+    "status": "retained_from_previous_run",
+    "completed_at": "2026-11-12T12:43:48.036Z",
+    "artifacts_match": true,
+    "scripts": [
+      {
+        "script": "qa.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-motion.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-products.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-backgrounds.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-template-structure.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-extended-current.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-navigation.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-coverage.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-new-interactions.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-resume.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-flows.mjs",
+        "exitCode": 0,
+        "passed": true
+      },
+      {
+        "script": "qa-faq.mjs",
+        "exitCode": 0,
+        "passed": true
+      }
+    ],
+    "report": "qa-suite-results.json"
+  },
+  "widths": [
+    1440,
+    768,
+    390
+  ],
+  "runtime_errors": [],
+  "runtime_errors_source": "retained_from_previous_run",
+  "remote_media_in_offline_tests": "stubbed",
+  "visual_similarity_percent": 85,
+  "visual_target_percent": 90,
+  "visual_target_met": false,
+  "rebuild_check_scope": "Previously captured homepage and four existing routes/states; not all 70 routes",
+  "rebuild_check_report": "rebuild-check-final.json",
+  "artifacts": {
+    "index-LiveWKxb.css": "0e273b8fa8bde927a9c701bfa44b4674e6931d4c883fb7dc2163cd43b79bdee0",
+    "index-_mkeJg1X.js": "06e94ec1484ff613fd1fd5328b89d5cd5453961476afda92632ea086c5302b76"
+  },
+  "local_changes": [],
+  "previous_local_changes": [
+    {
+      "path": "/support",
+      "file": "IndependentPages.jsx",
+      "summary": "此前已修复附件数量或大小校验失败后，重置表单仍保留浏览器自定义校验错误的问题；qa-new-interactions.mjs 已覆盖重置后再次提交。本轮保留该改动。"
+    },
+    {
+      "path": "All pages: Products menu",
+      "file": "Shell.jsx; qa-resume.mjs",
+      "summary": "Fixed a pointer click closing the Products menu immediately after hover. Pointer activation now keeps product links available; Enter/Space toggle and Escape dismissal remain. Added a full product navigation/refresh/Back regression."
+    }
+  ],
+  "live_source_audit": {
+    "report": "live-source-audit.json",
+    "recorded_at": "2026-11-12T13:57:24.994Z",
+    "verification_run": {
+      "kind": "local_rebuild",
+      "source_browser_calls": 0,
+      "new_original_samples": 0,
+      "source_status": "not_requested_local_verification",
+      "historical_source_records": [
+        "live-source-session.json",
+        "live-source-retry.json"
+      ],
+      "qa": {
+        "status": "retained_from_previous_run",
+        "completed_at": "2026-11-12T12:43:48.036Z",
+        "report": "qa-suite-results.json",
+        "artifacts": {
+          "index-LiveWKxb.css": "0e273b8fa8bde927a9c701bfa44b4674e6931d4c883fb7dc2163cd43b79bdee0",
+          "index-_mkeJg1X.js": "06e94ec1484ff613fd1fd5328b89d5cd5453961476afda92632ea086c5302b76"
+        },
+        "note": "Fresh build artifacts exactly match the previously passing twelve-script QA build; the full suite was not rerun."
+      },
+      "reporting_changes": [],
+      "ui_changes": [],
+      "preview": {
+        "url": "http://127.0.0.1:62446/",
+        "checked_paths": [
+          "/",
+          "/products/fortius-420"
+        ],
+        "http_status": 200,
+        "checked_at": "2026-11-12T13:57:24.928Z"
+      },
+      "completed_at": "2026-11-12T13:57:24.907Z",
+      "rebuild_check": {
+        "report": "rebuild-check-final.json",
+        "score": 85,
+        "target": 90,
+        "scope": "Five saved pages and recorded interaction states; not all 70 pages."
+      },
+      "previous_ui_changes": [
+        {
+          "path": "/support",
+          "file": "IndependentPages.jsx",
+          "summary": "此前已修复附件数量或大小校验失败后，重置表单仍保留浏览器自定义校验错误的问题；qa-new-interactions.mjs 已覆盖重置后再次提交。本轮保留该改动。"
+        },
+        {
+          "path": "All pages: Products menu",
+          "file": "Shell.jsx; qa-resume.mjs",
+          "summary": "Fixed a pointer click closing the Products menu immediately after hover. Pointer activation now keeps product links available; Enter/Space toggle and Escape dismissal remain. Added a full product navigation/refresh/Back regression."
+        }
+      ],
+      "build": {
+        "status": "passed",
+        "generated_pages": 70,
+        "checklist_urls": 61,
+        "artifacts_match_prior_qa": true
+      },
+      "local_audit": {
+        "status": "completed",
+        "method": "Independent read-only source review",
+        "result": "No concrete locally actionable defect found in inspected route dispatch, navigation/menu handlers, preview forms and QA coverage."
+      },
+      "record": "verification-run.json",
+      "historical_session_recorded_at": "2026-11-12T12:19:46.806Z",
+      "prior_retry_recorded_at": "2026-11-12T11:02:00.034Z"
+    },
+    "counts": {
+      "requested_scope": 44,
+      "readable": 33,
+      "unavailable": 11,
+      "placeholders": 11,
+      "attempted": 0,
+      "approval_rejected": 0,
+      "not_attempted_local_verification": 44,
+      "new_original_samples": 0
+    },
+    "counts_note": "readable/unavailable count historical text retrievals. attempted/approval_rejected/not_attempted_local_verification/new_original_samples describe verification-run.json for this local run. Both source-session and retry logs are historical.",
+    "original_visual_verified": false,
+    "browser_failure": "MCP tool call requires approval, but approval policy is never",
+    "browser_failure_is_historical": true,
+    "browser_attempt": null,
+    "historical_browser_attempt": {
+      "path": "/why-oxyhealth",
+      "url": "https://www.oxyhealth.com/why-oxyhealth",
+      "tool": "web_site_open",
+      "attempted_at_approx": "2026-11-12T12:18:44Z",
+      "timestamp_note": "UTC clock read immediately after this session tool returned; approximate call time.",
+      "parameters": {
+        "url": "https://www.oxyhealth.com/why-oxyhealth",
+        "width": 1440,
+        "height": 900,
+        "settle_ms": 2000,
+        "timeout_secs": 60
+      },
+      "status": "approval_rejected",
+      "reason": "MCP tool call requires approval, but approval policy is never",
+      "execution_started": false,
+      "original_samples_captured": 0,
+      "scope": "The automatic approval gate rejected this call before browser execution. The other 43 URLs were not requested again because the session-level policy remained unavailable. This is not an observed site failure.",
+      "tool_result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "MCP tool call requires approval, but approval policy is never"
+          }
+        ],
+        "isError": true
+      }
+    },
+    "changes": [],
+    "previous_changes": [
+      {
+        "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+        "summary": "按源文字层级补足8项FAQ、4个相关资源链接与结束CTA；按源段落数量和长度维持正文密度。"
+      },
+      {
+        "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+        "summary": "恢复6个正文H3分组、Medical Disclaimer同级内容与5条References；FAQ补为8项，相关资源改4链接并补结束CTA。"
+      },
+      {
+        "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+        "summary": "恢复4个正文H3分组和3条References；FAQ补为8项，相关资源改4链接并补结束CTA。"
+      },
+      {
+        "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+        "summary": "主体补为8个H2区段，恢复2个H3设备分组；FAQ补为8项，相关资源改4链接并补业务结束CTA。"
+      },
+      {
+        "path": "/portable-hyperbaric-chamber",
+        "summary": "依据原站文本补回3张型号卡片各4条功能列表，共12条；沿用占位文案并保留每条1至5词的短行长度。",
+        "source_lines": "L62-L65, L75-L78, L87-L90",
+        "file": "SourceLanding.jsx"
+      },
+      {
+        "path": "/best-hyperbaric-chamber",
+        "summary": "依据原站文本补回4张型号卡片各3条功能列表，共12条；沿用占位文案并保留短行长度。",
+        "source_lines": "型号区 L68-L114",
+        "file": "SourceLanding.jsx"
+      },
+      {
+        "path": "/hyperbaric-chamber-comparison",
+        "summary": "依据原站文本补回5张型号卡片各3条功能列表，共15条；沿用占位文案并保留短行长度。",
+        "source_lines": "型号区 L166-L225",
+        "file": "SourceLanding.jsx"
+      }
+    ],
+    "historical_session_record": "live-source-session.json",
+    "historical_session_counts": {
+      "requested_scope": 44,
+      "attempted": 1,
+      "approval_rejected": 1,
+      "not_attempted_session_policy_blocked": 43,
+      "new_original_samples": 0
+    },
+    "retry_record": "live-source-retry.json",
+    "retry_counts": {
+      "requested_scope": 44,
+      "attempted": 1,
+      "approval_rejected": 1,
+      "not_attempted_session_policy_blocked": 43,
+      "new_original_samples": 0
+    },
+    "retry_is_historical": true,
+    "previous_read_only_records": [
+      "live-source-priority-attempts.json",
+      "live-source-placeholder-attempts.json",
+      "live-source-articles.json",
+      "live-source-landings.json"
+    ]
+  },
+  "limitations": [
+    "This local verification run made 0 original-source browser calls and captured 0 new original samples. Both live-source-session.json and live-source-retry.json retain earlier approval rejections; none is a new request failure.",
+    "The full twelve-script QA is retained from 2026-11-12T12:43:48.036Z; it was not rerun this time. Current JS/CSS artifact hashes match its recorded build.",
+    "The 33 readable and 11 unavailable text results are historical evidence, not current retrievals. All 44 target background/color/layout comparisons remain unverified.",
+    "Navigation direction follows user observation; 600ms / cubic-bezier(0.22,1,0.36,1) are provisional, not extracted original timing.",
+    "Unavailable original routes remain explicitly provisional; see historical live-source-session.json and ACCEPTANCE-REPORT.md.",
+    "Existing accepted visual differences retained; automatic visual score remains below its default threshold within the saved reference scope.",
+    "External navigation tests stub destinations; live third-party services are not certified.",
+    "Preview forms/chat have no backend; remote images/font need network access."
+  ],
+  "background_audit": {
+    "report": "qa-backgrounds-results.json",
+    "qa_status": "retained_from_previous_run",
+    "page_samples": 210,
+    "checks": 369,
+    "passed": true,
+    "original_all_site_verified": false,
+    "limitations": "This local run captured no new raw source HTML/CSS or original screenshots; previous browser rejections remain historical. Product light-body fix is retained from an earlier user observation; other template exact sequences remain unverified."
+  },
+  "reference_records": [
+    "navigation-motion-audit.json",
+    "inspection/products-current/audit.json",
+    "inspection/independent-current/audit.json",
+    "evidence-extended-current/audit.json",
+    "inspection/backgrounds-products/audit.json",
+    "inspection/backgrounds-independent/audit.json",
+    "inspection/backgrounds-extended/audit.json"
+  ],
+  "report": "web-visual: passed, 85% alike (needs 90%) — start page: 89% (1440 px: 94% alike (layout 96%, detail 91%; page height 12000 vs 12000 px); 768 px: 83% alike (layout 87%, detail 79%; page height 12000 vs 12000 px); 390 px: 92% alike (layout 92%, detail 91%; page height 12000 vs 12000 px); text 75% alike; missing headings: \"15 Questions to Ask Before You Buy a Hyperbaric Chamber\", \"Make It Affordable\", \"Speak with a Hyperbaric Specialist\", \"Choose the Right Configuration\", \"Delivery, Installation & Training\", \"Lifetime Support\", \"See OxyHealth at A4M Longevityfest 2026\", \"FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt From Medical Device Regulations\"; missing words: not, ll, always, as, engineered, re, after, available, clinics, helped, lifetime, manufactured; structure 97% alike; missing parts: 2 lists; at 1440 px: the \"Professional Hyperbaric Therapy. Designed for Everyday Life.\" section: 2 per row vs 3; the \"Your Journey with OxyHealth\" section: 2 per row vs 1; the section: 2 per row vs 1; at 768 px: the \"Why OxyHealth\" section: 1 per row vs 3; the \"A Chamber for Every Need\" section: 2 per row vs 3; the \"Professional Hyperbaric Therapy. Designed for Everyday Life.\" section: 2 per row vs 3; the \"Make It Affordable\" section: 3 per row vs 2; at 390 px: the \"Why OxyHealth\" section: 1 per row vs 3; the \"Professional Hyperbaric Therapy. Designed for Everyday Life.\" section: 1 per row vs 2; the \"Make It Affordable\" section: 3 per row vs 2; the section: 2 per row vs 1) | /events/a4m-longevity-fest: 83% (1440 px: 88% alike (layout 92%, detail 83%; page height 8867 vs 8870 px); 768 px: 80% alike (layout 87%, detail 73%; page height 8538 vs 8540 px); 390 px: 81% alike (layout 87%, detail 74%; page height 11053 vs 11055 px); text 73% alike; missing headings: \"Schedule a Private Demonstration\"; missing words: booth, exhibit, academy, anti, by, driven, world, 10, 150, american, lineup, optimization; structure 99% alike; missing parts: a subheading; at 1440 px: body text 20 px, the original's 14 px; the \"OxyHealth at A4M Longevityfest 2026\" section: 1 per row vs 2; at 768 px: body text 20 px, the original's 14 px; the \"OxyHealth at A4M Longevityfest 2026\" section: 1 per row vs 2; the \"Schedule a Private Demonstration\" section: 1 per row vs 2; at 390 px: body text 18 px, the original's 14 px; the \"Beyond Biohacking Conference\" article: 1 per row vs 2; the nav: padding 20 0 0 0 vs the original's 0 0 0 0) | /hyperbarics: 84% (1440 px: 92% alike (layout 96%, detail 88%; page height 9639 vs 9642 px); 768 px: 77% alike (layout 89%, detail 66%; page height 11792 vs 11794 px); 390 px: 82% alike (layout 88%, detail 76%; page height 12000 vs 12000 px); text 60% alike; missing headings: \"Hyperbaric Therapy Comparison\", \"WITHOUT HYPERBARICS\", \"WITH HYPERBARICS\", \"Understanding Gas Laws in Hyperbaric Oxygen Therapy\", \"Henry's Law\", \"Boyle's Law\", \"Charles's Law\", \"The History of Hyperbaric Medicine\"; missing words: was, increased, molecules, proportional, reach, than, allows, built, cellular, discover, from, given; structure 85% alike; missing parts: 6 images, a button; colours the original uses that the build doesn't: #0071e31a (background); at 1440 px: the \"What Is Hyperbaric Oxygen Therapy (HBOT)?\" section: 1 per row vs 2; the \"What is Hyperbaric Oxygen Therapy (HBOT)?\" article: 2 per row vs 3; the \"The History of Hyperbaric Medicine\" section: 2 per row vs 3; the \"Explore HBOT Applications\" section: 3 per row vs 1; at 768 px: the \"What Is Hyperbaric Oxygen Therapy (HBOT)?\" main: 2 per row vs 3; the \"What Is Hyperbaric Oxygen Therapy (HBOT)?\" section: 1 per row vs 2; the \"What is Hyperbaric Oxygen Therapy (HBOT)?\" article: 2 per row vs 3; the \"The History of Hyperbaric Medicine\" section: 1 per row vs 3; at 390 px: the \"What Is Hyperbaric Oxygen Therapy (HBOT)?\" main: 1 per row vs 2; the \"What Is Hyperbaric Oxygen Therapy (HBOT)?\" section: 1 per row vs 2; the \"What is Hyperbaric Oxygen Therapy (HBOT)?\" article: 1 per row vs 2; the \"The History of Hyperbaric Medicine\" section: 1 per row vs 2) | /resources: 85% (1440 px: 91% alike (layout 95%, detail 86%; page height 8585 vs 8588 px); 768 px: 78% alike (layout 87%, detail 69%; page height 9546 vs 9550 px); 390 px: 85% alike (layout 88%, detail 82%; page height 12000 vs 12000 px); text 71% alike; missing headings: \"Vitaeris 320 - Operation\", \"Vitaeris 320 - Installation\", \"Quamvis 320 - Installation\", \"Respiro270-Installation\", \"OxyHealth at Medical Conference\", \"LeBron James & Vitaeris 320\", \"HBOT in the Spotlight\", \"LeBron James Uses Hyperbaric Oxygen Therapy\"; missing words: his, has, performance, every, james, lebron, stamford, andrews, athlete, been, grade, jr; structure 91% alike; missing parts: 2 navigation bars, 2 lists; colours the original uses that the build doesn't: #d4d4d4 (text); at 1440 px: the \"The Rise of Hyperbaric Oxygen Therapy in Professional Sports\" article: 1 per row vs 2; the \"How Mark Andrews Used a Hyperbaric Oxygen Chamber in His Injury Recovery\" article: 1 per row vs 2; the \"How Neymar Jr. Uses Advanced Recovery Tech to Stay at Peak Performance\" article: 1 per row vs 2; the \"Hyperbaric Success Stories: How Top Athletes Use Oxygen Therapy to Heal and Reco\" article: 1 per row vs 2; at 768 px: the \"The Rise of Hyperbaric Oxygen Therapy in Professional Sports\" article: 1 per row vs 2; the \"How Mark Andrews Used a Hyperbaric Oxygen Chamber in His Injury Recovery\" article: 1 per row vs 2; the \"How Neymar Jr. Uses Advanced Recovery Tech to Stay at Peak Performance\" article: 1 per row vs 2; the \"Hyperbaric Success Stories: How Top Athletes Use Oxygen Therapy to Heal and Reco\" article: 1 per row vs 2; at 390 px: the \"Videos, News & Education\" main: 1 per row vs 2; the \"HBOT in the Spotlight\" section: 1 per row vs 2; the \"LeBron James Uses Hyperbaric Oxygen Therapy\" article: 1 per row vs 2; the \"The Rise of Hyperbaric Oxygen Therapy in Professional Sports\" article: 1 per row vs 2) | /blog: 84% (1440 px: 95% alike (layout 98%, detail 93%; page height 4140 vs 4143 px); 768 px: 79% alike (layout 92%, detail 65%; page height 4545 vs 4551 px); 390 px: 79% alike (layout 91%, detail 67%; page height 7613 vs 7671 px); text 82% alike; missing headings: \"FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt From Medical Device Regulations\", \"Hyperbaric Oxygen Therapy for Longevity: What the Research Says\", \"HBOT for Brain Injury: What Clinical Trials Show\", \"Hyperbaric Oxygen Therapy for Long COVID: Research Update\", \"Does Insurance Cover Hyperbaric Oxygen Therapy?\", \"Starting an HBOT Business: Clinic Setup Guide\", \"HBOT for Pets: Veterinary Hyperbaric Therapy\", \"Russell Wilson and His Approach to Recovery\"; missing words: his, publicly, uses, devices, has, james, lebron, russell, sports, using, wilson, 2023; structure 98% alike; missing parts: 2 lists; text sizes the original uses that the build doesn't: 15px; at 1440 px: the \"FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt\" article: 1 per row vs 2; at 768 px: the \"FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt\" article: 1 per row vs 2; at 390 px: the \"The OxyHealth Blog\" main: 1 per row vs 2; the \"FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt\" section: 1 per row vs 2; the \"FDA Clarifies: Hyperbaric Chambers Marketed as \"Wellness\" Devices Are Not Exempt\" article: 1 per row vs 2; the nav: padding 20 0 0 0 vs the original's 0 0 0 0) | opened menus and pop-ups at 1440 px: the \"Products\" menu 14% alike, the \"How long do OxyHealth hyperbaric chambers last?\" section 45% alike, the \"Which hyperbaric chamber brand do home and clinic buyers choose?\" section 79% alike, the \"Are OxyHealth hyperbaric chambers built to recognized safety standards?\" section 81% alike | opened menus and pop-ups at 390 px: the \"Toggle mobile menu\" menu 82% alike, the \"How long do OxyHealth hyperbaric chambers last?\" section 65% alike, the \"Which hyperbaric chamber brand do home and clinic buyers choose?\" section 61% alike, the \"Are OxyHealth hyperbaric chambers built to recognized safety standards?\" section 61% alike\nYour open questions: 44 requested routes (28 landings, 15 articles, Why) still lack fresh executed original screenshots/computed styles; 11 placeholders also have no readable source body. (unk_8fdc07781822cabd). Settle what one more look can and close it with core_unknown_edit (status resolved, the resolution and the evidence ids); say what's left in your summary.\nPictures of your build (compare each with the original's in capture/ or reference/): checks/round-0/screenshot-1440.png, checks/round-0/screenshot-768.png, checks/round-0/screenshot-390.png, checks/round-0/routes/events-a4m-longevity-fest/screenshot-1440.png, checks/round-0/routes/events-a4m-longevity-fest/screenshot-768.png, checks/round-0/routes/events-a4m-longevity-fest/screenshot-390.png, checks/round-0/routes/hyperbarics/screenshot-1440.png, checks/round-0/routes/hyperbarics/screenshot-768.png, checks/round-0/routes/hyperbarics/screenshot-390.png, checks/round-0/routes/resources/screenshot-1440.png, checks/round-0/routes/resources/screenshot-768.png, checks/round-0/routes/resources/screenshot-390.png, checks/round-0/routes/blog/screenshot-1440.png, checks/round-0/routes/blog/screenshot-768.png, checks/round-0/routes/blog/screenshot-390.png\nNot good enough yet: fix what it lists, build again, and check again with rebuild_check."
+}

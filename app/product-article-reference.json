@@ -1,0 +1,40 @@
+{
+  "scope": "Product and article templates; additive coverage under ACCEPTANCE-CHECKLIST.md",
+  "references": [
+    {
+      "url": "https://www.oxyhealth.com/products/fortius-420",
+      "observed": "Read through the web tool during this work: hero with image, type, title, description and quote/call actions; four metrics; introductory paragraph; six-image gallery; features and image; two technical specification groups; four installation steps; compressor section; manufacturer advantages; FAQ; finance; brand section; downloadable checklist; contact CTA and related links.",
+      "implementation": "One shared product template with these section types and five model records. Images and body copy use the authorized placeholders. Product links use full-document anchors. Quote actions retain the existing shared quote dialog, consistent with the original product page's explicit quote button. Gallery is static; no unsupported image modal was introduced."
+    },
+    {
+      "url": "https://www.oxyhealth.com/post/hyperbaric-oxygen-therapy-for-longevity",
+      "observed": "Read through the web tool: large opening image, Back to Resources link, title, date/read time/byline, multiple long-form sections, article FAQ, related article links.",
+      "implementation": "Shared article template with opening image, byline, long-form sections, FAQ and related links. Article body is placeholder prose as authorized."
+    },
+    {
+      "url": "https://www.oxyhealth.com/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "observed": "Read through the web tool: breadcrumb/category, title, deck and editorial metadata, leading image, highlighted takeaways, in-page table of contents and long-form content.",
+      "implementation": "Optional editorial presentation within the shared article template adds the deck, takeaways and functioning section-anchor TOC."
+    },
+    {
+      "source": "capture/routes/blog/capture.json and capture/routes/resources/capture.json",
+      "observed": "All 15 original article URLs are present, including the seven checklist articles and eight legacy athlete/practice stories.",
+      "implementation": "Preserved all 15 accepted blog cards and mapped each card and resource story to its own original URL; none use summary dialogs or a shared unrelated route."
+    }
+  ],
+  "limits": [
+    "The insurance article URL returned a cache miss on its one web retrieval. It uses the authorized shared article template; independent original structure for that article was not verified.",
+    "Only representative original product and article structures were reviewed; individual image fidelity and complete model specifications are not asserted.",
+    "Product image repetitions and placeholder paragraphs are intentional under the user's authorization. No backend was added for the existing preview quote dialog.",
+    "Visual and browser-flow verification results are recorded separately by the main integration checks."
+  ],
+  "source_checks": {
+    "jsx": "Home.jsx, Routes.jsx and ProductArticlePages.jsx pass esbuild transform checks",
+    "css": "product-article.css passes esbuild transform with zero warnings",
+    "route_count": 20,
+    "unique_routes": 20,
+    "article_dialog_handlers_remaining": 0
+  },
+  "historical": true,
+  "superseded_by": "inspection/products-current/audit.json and inspection/independent-current/audit.json"
+}

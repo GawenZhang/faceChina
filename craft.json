@@ -1,0 +1,30 @@
+{
+  "version": 4,
+  "name": "oxyhealth.com",
+  "request": "复刻这个网站首页：对照原站逐段还原深色 Hero、圆形舷窗主图、ATA 表盘滚动动画、Products 下拉菜单、产品卡片栅格、FAQ、页脚与底部悬浮操作条，桌面与移动端一致，全新搭建。文案语义改写，不要逐字照抄原站段落。",
+  "target": {
+    "kind": "website",
+    "url": "https://www.oxyhealth.com/"
+  },
+  "stack": "Builder's choice",
+  "status": "needs_you",
+  "note": "Codex: Reconnecting... 5/5 (request timed out)",
+  "created_ms": 1794463647935,
+  "updated_ms": 1794546682434,
+  "checks": [],
+  "agent_session": "01a1d334-97e9-7043-b4ee-587c5e87419b",
+  "agent_session_by": "codex",
+  "agent_session_deep": true,
+  "allowed_actions": [
+    "tool:web_site_open"
+  ],
+  "last_reply": "",
+  "asset_budget_usd": 5.0,
+  "generate_assets": false,
+  "questions": "ask",
+  "approvals": {
+    "web": "allow",
+    "commands": "allow",
+    "outside_files": "allow"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "kind": "local_rebuild",
+  "source_browser_calls": 0,
+  "new_original_samples": 0,
+  "source_status": "not_requested_local_verification",
+  "historical_source_records": [
+    "live-source-session.json",
+    "live-source-retry.json"
+  ],
+  "qa": {
+    "status": "retained_from_previous_run",
+    "completed_at": "2026-11-12T12:43:48.036Z",
+    "report": "qa-suite-results.json",
+    "artifacts": {
+      "index-LiveWKxb.css": "0e273b8fa8bde927a9c701bfa44b4674e6931d4c883fb7dc2163cd43b79bdee0",
+      "index-_mkeJg1X.js": "06e94ec1484ff613fd1fd5328b89d5cd5453961476afda92632ea086c5302b76"
+    },
+    "note": "Fresh build artifacts exactly match the previously passing twelve-script QA build; the full suite was not rerun."
+  },
+  "reporting_changes": [
+    "Corrected the acceptance report to preserve earlier UI fixes and describe reporting changes from the current run metadata."
+  ],
+  "ui_changes": [],
+  "preview": {
+    "url": "http://127.0.0.1:62446/",
+    "checked_paths": [
+      "/",
+      "/products/fortius-420"
+    ],
+    "http_status": 200,
+    "checked_at": "2026-11-12T12:54:59.858Z"
+  },
+  "completed_at": "2026-11-12T12:54:59.857Z",
+  "rebuild_check": {
+    "report": "rebuild-check-final.json",
+    "score": 85,
+    "target": 90,
+    "scope": "Five saved pages and recorded interaction states; not all 70 pages."
+  },
+  "previous_ui_changes": [
+    {
+      "path": "/support",
+      "file": "IndependentPages.jsx",
+      "summary": "此前已修复附件数量或大小校验失败后，重置表单仍保留浏览器自定义校验错误的问题；qa-new-interactions.mjs 已覆盖重置后再次提交。本轮保留该改动。"
+    },
+    {
+      "path": "All pages: Products menu",
+      "file": "Shell.jsx; qa-resume.mjs",
+      "summary": "Fixed a pointer click closing the Products menu immediately after hover. Pointer activation now keeps product links available; Enter/Space toggle and Escape dismissal remain. Added a full product navigation/refresh/Back regression."
+    }
+  ],
+  "build": {
+    "status": "passed",
+    "generated_pages": 70,
+    "checklist_urls": 61,
+    "artifacts_match_prior_qa": true
+  }
+}

@@ -1,0 +1,934 @@
+{
+  "checked_at": "2026-11-13T05:05:25.713Z",
+  "passed": true,
+  "scope": "Original CSS versus isolated source CSS under current app global CSS. Same sanitized static DOM and source-sized image substitutes; no source scripts, animation parity, font-file likeness, shell or app routing claim.",
+  "expected_routes": 44,
+  "checked_routes": 44,
+  "missing": [],
+  "results": [
+    {
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 1440,
+      "elements": 230,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 768,
+      "elements": 230,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/blog/fda-hyperbaric-chambers-wellness-devices-not-exempt",
+      "width": 390,
+      "elements": 230,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 1440,
+      "elements": 93,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 768,
+      "elements": 93,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-longevity",
+      "width": 390,
+      "elements": 93,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 1440,
+      "elements": 106,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 768,
+      "elements": 106,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hbot-for-brain-injury-what-clinical-trials-show",
+      "width": 390,
+      "elements": 106,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 1440,
+      "elements": 102,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 768,
+      "elements": 102,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hyperbaric-oxygen-therapy-for-long-covid-research",
+      "width": 390,
+      "elements": 102,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "elements": 119,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 768,
+      "elements": 119,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/does-insurance-cover-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "elements": 119,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 1440,
+      "elements": 108,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 768,
+      "elements": 108,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/starting-an-hbot-business-clinic-setup-guide",
+      "width": 390,
+      "elements": 108,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 1440,
+      "elements": 96,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 768,
+      "elements": 96,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hbot-for-pets-veterinary-hyperbaric-therapy",
+      "width": 390,
+      "elements": 96,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 1440,
+      "elements": 33,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 768,
+      "elements": 33,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/why-russell-wilson-spends-over-1-million-a-year-on-his-body",
+      "width": 390,
+      "elements": 33,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 1440,
+      "elements": 28,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 768,
+      "elements": 28,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/from-survival-to-service-coryn-carvers-journey-to-healing-through-hyperbaric-therapy",
+      "width": 390,
+      "elements": 28,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 1440,
+      "elements": 29,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 768,
+      "elements": 29,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/how-medical-grade-hyperbaric-oxygen-therapy-is-supporting-healing-at-md-hyperbaric-stamford",
+      "width": 390,
+      "elements": 29,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 1440,
+      "elements": 30,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 768,
+      "elements": 30,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/how-mark-andrews-used-a-hyperbaric-oxygen-chamber-in-his-injury-recovery",
+      "width": 390,
+      "elements": 30,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 1440,
+      "elements": 28,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 768,
+      "elements": 28,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/how-neymar-jr-uses-advanced-recovery-tech-to-stay-at-peak-performance",
+      "width": 390,
+      "elements": 28,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 1440,
+      "elements": 31,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 768,
+      "elements": 31,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/hyperbaric-success-stories-how-top-athletes-use-oxygen-therapy-to-heal-and-recover",
+      "width": 390,
+      "elements": 31,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 1440,
+      "elements": 29,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 768,
+      "elements": 29,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/lebron-james-uses-hyperbaric-oxygen-therapy",
+      "width": 390,
+      "elements": 29,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 1440,
+      "elements": 28,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 768,
+      "elements": 28,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/post/the-rise-of-hyperbaric-oxygen-therapy-in-professional-sports",
+      "width": 390,
+      "elements": 28,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/why-oxyhealth",
+      "width": 1440,
+      "elements": 136,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/why-oxyhealth",
+      "width": 768,
+      "elements": 136,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/why-oxyhealth",
+      "width": 390,
+      "elements": 136,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-for-sale",
+      "width": 1440,
+      "elements": 152,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-for-sale",
+      "width": 768,
+      "elements": 152,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-for-sale",
+      "width": 390,
+      "elements": 152,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/home-hyperbaric-chamber",
+      "width": 1440,
+      "elements": 136,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/home-hyperbaric-chamber",
+      "width": 768,
+      "elements": 136,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/home-hyperbaric-chamber",
+      "width": 390,
+      "elements": 136,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/portable-hyperbaric-chamber",
+      "width": 1440,
+      "elements": 169,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/portable-hyperbaric-chamber",
+      "width": 768,
+      "elements": 169,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/portable-hyperbaric-chamber",
+      "width": 390,
+      "elements": 169,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/soft-shell-hyperbaric-chamber",
+      "width": 1440,
+      "elements": 130,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/soft-shell-hyperbaric-chamber",
+      "width": 768,
+      "elements": 130,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/soft-shell-hyperbaric-chamber",
+      "width": 390,
+      "elements": 130,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/mild-hyperbaric-chamber",
+      "width": 1440,
+      "elements": 138,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/mild-hyperbaric-chamber",
+      "width": 768,
+      "elements": 138,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/mild-hyperbaric-chamber",
+      "width": 390,
+      "elements": 138,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/fda-cleared-hyperbaric-chamber",
+      "width": 1440,
+      "elements": 137,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/fda-cleared-hyperbaric-chamber",
+      "width": 768,
+      "elements": 137,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/fda-cleared-hyperbaric-chamber",
+      "width": 390,
+      "elements": 137,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/best-hyperbaric-chamber",
+      "width": 1440,
+      "elements": 164,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/best-hyperbaric-chamber",
+      "width": 768,
+      "elements": 164,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/best-hyperbaric-chamber",
+      "width": 390,
+      "elements": 164,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-comparison",
+      "width": 1440,
+      "elements": 216,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-comparison",
+      "width": 768,
+      "elements": 216,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-comparison",
+      "width": 390,
+      "elements": 216,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-buying-guide",
+      "width": 1440,
+      "elements": 149,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-buying-guide",
+      "width": 768,
+      "elements": 149,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-buying-guide",
+      "width": 390,
+      "elements": 149,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-cost",
+      "width": 1440,
+      "elements": 154,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-cost",
+      "width": 768,
+      "elements": 154,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-cost",
+      "width": 390,
+      "elements": 154,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-for-business",
+      "width": 1440,
+      "elements": 154,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-for-business",
+      "width": 768,
+      "elements": 154,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-for-business",
+      "width": 390,
+      "elements": 154,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hbot-for-your-practice",
+      "width": 1440,
+      "elements": 201,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hbot-for-your-practice",
+      "width": 768,
+      "elements": 201,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hbot-for-your-practice",
+      "width": 390,
+      "elements": 201,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-rental",
+      "width": 1440,
+      "elements": 78,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-rental",
+      "width": 768,
+      "elements": 78,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-rental",
+      "width": 390,
+      "elements": 78,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/used-hyperbaric-chamber",
+      "width": 1440,
+      "elements": 75,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/used-hyperbaric-chamber",
+      "width": 768,
+      "elements": 75,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/used-hyperbaric-chamber",
+      "width": 390,
+      "elements": 75,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-prescription",
+      "width": 1440,
+      "elements": 83,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-prescription",
+      "width": 768,
+      "elements": 83,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-prescription",
+      "width": 390,
+      "elements": 83,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-room-requirements",
+      "width": 1440,
+      "elements": 81,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-room-requirements",
+      "width": 768,
+      "elements": 81,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-room-requirements",
+      "width": 390,
+      "elements": 81,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/genuine-oxyhealth-hyperbaric-chamber",
+      "width": 1440,
+      "elements": 87,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/genuine-oxyhealth-hyperbaric-chamber",
+      "width": 768,
+      "elements": 87,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/genuine-oxyhealth-hyperbaric-chamber",
+      "width": 390,
+      "elements": 87,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-benefits",
+      "width": 1440,
+      "elements": 133,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-benefits",
+      "width": 768,
+      "elements": 133,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-benefits",
+      "width": 390,
+      "elements": 133,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-side-effects",
+      "width": 1440,
+      "elements": 149,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-side-effects",
+      "width": 768,
+      "elements": 149,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-side-effects",
+      "width": 390,
+      "elements": 149,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-insurance",
+      "width": 1440,
+      "elements": 163,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-insurance",
+      "width": 768,
+      "elements": 163,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-chamber-insurance",
+      "width": 390,
+      "elements": 163,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-anti-aging",
+      "width": 1440,
+      "elements": 98,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-anti-aging",
+      "width": 768,
+      "elements": 98,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-anti-aging",
+      "width": 390,
+      "elements": 98,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-athletic-recovery",
+      "width": 1440,
+      "elements": 128,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-athletic-recovery",
+      "width": 768,
+      "elements": 128,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-athletic-recovery",
+      "width": 390,
+      "elements": 128,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-brain-health",
+      "width": 1440,
+      "elements": 126,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-brain-health",
+      "width": 768,
+      "elements": 126,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-brain-health",
+      "width": 390,
+      "elements": 126,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-inflammation",
+      "width": 1440,
+      "elements": 126,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-inflammation",
+      "width": 768,
+      "elements": 126,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-inflammation",
+      "width": 390,
+      "elements": 126,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-long-covid",
+      "width": 1440,
+      "elements": 148,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-long-covid",
+      "width": 768,
+      "elements": 148,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-long-covid",
+      "width": 390,
+      "elements": 148,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-near-me",
+      "width": 1440,
+      "elements": 134,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-near-me",
+      "width": 768,
+      "elements": 134,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-near-me",
+      "width": 390,
+      "elements": 134,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-veterinary",
+      "width": 1440,
+      "elements": 123,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-veterinary",
+      "width": 768,
+      "elements": 123,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-veterinary",
+      "width": 390,
+      "elements": 123,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-wound-healing",
+      "width": 1440,
+      "elements": 105,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-wound-healing",
+      "width": 768,
+      "elements": 105,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "path": "/hyperbaric-therapy-wound-healing",
+      "width": 390,
+      "elements": 105,
+      "passed": true,
+      "failures": []
+    }
+  ]
+}

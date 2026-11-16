@@ -1,0 +1,79 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "name": "1440: converter defaults, live input, invalid and reset",
+      "passed": true
+    },
+    {
+      "name": "1440: research pressure filters",
+      "passed": true
+    },
+    {
+      "name": "1440: product FAQs remain independent",
+      "passed": true
+    },
+    {
+      "name": "1440: support form validation, verification, local status and reset",
+      "passed": true
+    },
+    {
+      "name": "1440: support independent FAQs",
+      "passed": true
+    },
+    {
+      "name": "1440: partner form validation, verification, local status and reset",
+      "passed": true
+    },
+    {
+      "name": "1440: partner independent FAQs",
+      "passed": true
+    },
+    {
+      "name": "1440: support reset clears attachment error and permits submission without files",
+      "passed": true
+    },
+    {
+      "name": "1440: contact dialog focus, escape and form lifecycle",
+      "passed": true
+    },
+    {
+      "name": "390: converter defaults, live input, invalid and reset",
+      "passed": true
+    },
+    {
+      "name": "390: research pressure filters",
+      "passed": true
+    },
+    {
+      "name": "390: product FAQs remain independent",
+      "passed": true
+    },
+    {
+      "name": "390: support form validation, verification, local status and reset",
+      "passed": true
+    },
+    {
+      "name": "390: support independent FAQs",
+      "passed": true
+    },
+    {
+      "name": "390: partner form validation, verification, local status and reset",
+      "passed": true
+    },
+    {
+      "name": "390: partner independent FAQs",
+      "passed": true
+    },
+    {
+      "name": "390: support reset clears attachment error and permits submission without files",
+      "passed": true
+    },
+    {
+      "name": "390: contact dialog focus, escape and form lifecycle",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "remoteMedia": "Stubbed; interaction verification only"
+}

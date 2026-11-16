@@ -1,0 +1,197 @@
+{
+  "completed_at": "2026-11-13T05:05:45.322Z",
+  "passed": true,
+  "checks": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sections": [
+        {
+          "heading": "Why OxyHealth",
+          "height": 900,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "One partner, from your first call through years of ownership.",
+          "height": 3972,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "0 chambers delivered since 1997",
+          "height": 674,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "The gold standard, in writing.",
+          "height": 5040,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "Ask every manufacturer these questions.",
+          "height": 810,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "FDA cleared is not FDA registered",
+          "height": 1133,
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "heading": "Chosen by people who cannot afford to guess",
+          "height": 716,
+          "background": "rgb(255, 255, 255)"
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "height": 1390,
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "heading": "Your chapter starts with a conversation.",
+          "height": 749,
+          "background": "rgb(0, 0, 0)"
+        }
+      ],
+      "headings": 1,
+      "chapters": 5,
+      "credentials": 6,
+      "faqs": 7,
+      "interaction_checks": [
+        "FAQ open/close",
+        "quote modal/Escape",
+        "chapter scroll",
+        "reduced-motion credential list"
+      ],
+      "passed": true
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "sections": [
+        {
+          "heading": "Why OxyHealth",
+          "height": 900,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "One partner, from your first call through years of ownership.",
+          "height": 3972,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "0 chambers delivered since 1997",
+          "height": 674,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "The gold standard, in writing.",
+          "height": 3618,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "Ask every manufacturer these questions.",
+          "height": 1107,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "FDA cleared is not FDA registered",
+          "height": 1123,
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "heading": "Chosen by people who cannot afford to guess",
+          "height": 738,
+          "background": "rgb(255, 255, 255)"
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "height": 1360,
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "heading": "Your chapter starts with a conversation.",
+          "height": 749,
+          "background": "rgb(0, 0, 0)"
+        }
+      ],
+      "headings": 1,
+      "chapters": 5,
+      "credentials": 6,
+      "faqs": 7,
+      "interaction_checks": [
+        "FAQ open/close",
+        "quote modal/Escape",
+        "chapter scroll",
+        "reduced-motion credential list"
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "sections": [
+        {
+          "heading": "Why OxyHealth",
+          "height": 900,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "One partner, from your first call through years of ownership.",
+          "height": 3602,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "0 chambers delivered since 1997",
+          "height": 502,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "The gold standard, in writing.",
+          "height": 3800,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "Ask every manufacturer these questions.",
+          "height": 1206,
+          "background": "rgb(0, 0, 0)"
+        },
+        {
+          "heading": "FDA cleared is not FDA registered",
+          "height": 1472,
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "heading": "Chosen by people who cannot afford to guess",
+          "height": 697,
+          "background": "rgb(255, 255, 255)"
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "height": 1500,
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "heading": "Your chapter starts with a conversation.",
+          "height": 769,
+          "background": "rgb(0, 0, 0)"
+        }
+      ],
+      "headings": 1,
+      "chapters": 5,
+      "credentials": 6,
+      "faqs": 7,
+      "interaction_checks": [
+        "FAQ open/close",
+        "quote modal/Escape",
+        "chapter scroll",
+        "reduced-motion credential list"
+      ],
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "External imagery is replaced by same-size placeholders for deterministic local QA.",
+    "Source capture can contain hidden scroll reveals; visible rebuilt content follows captured HTML and original CSS."
+  ]
+}

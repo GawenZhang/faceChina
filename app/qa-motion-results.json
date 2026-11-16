@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-13T05:03:57.279Z",
+  "passed": true,
+  "scope": "Local navigation behavior; original timing is unverified",
+  "parameters": {
+    "duration": 600,
+    "distance": 40,
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)"
+  },
+  "checks": [
+    {
+      "name": "1440 homepage ATA -> respiro-270",
+      "passed": true
+    },
+    {
+      "name": "1440 homepage ATA -> vitaeris-320",
+      "passed": true
+    },
+    {
+      "name": "1440 homepage ATA -> quamvis-320",
+      "passed": true
+    },
+    {
+      "name": "1440 homepage ATA -> fortius-420",
+      "passed": true
+    },
+    {
+      "name": "1440 homepage ATA -> fortius-420-exp",
+      "passed": true
+    },
+    {
+      "name": "1440 reduced motion and same-page anchors",
+      "passed": true
+    },
+    {
+      "name": "768 homepage ATA -> respiro-270",
+      "passed": true
+    },
+    {
+      "name": "768 homepage ATA -> vitaeris-320",
+      "passed": true
+    },
+    {
+      "name": "768 homepage ATA -> quamvis-320",
+      "passed": true
+    },
+    {
+      "name": "768 homepage ATA -> fortius-420",
+      "passed": true
+    },
+    {
+      "name": "768 homepage ATA -> fortius-420-exp",
+      "passed": true
+    },
+    {
+      "name": "768 reduced motion and same-page anchors",
+      "passed": true
+    },
+    {
+      "name": "390 homepage ATA -> respiro-270",
+      "passed": true
+    },
+    {
+      "name": "390 homepage ATA -> vitaeris-320",
+      "passed": true
+    },
+    {
+      "name": "390 homepage ATA -> quamvis-320",
+      "passed": true
+    },
+    {
+      "name": "390 homepage ATA -> fortius-420",
+      "passed": true
+    },
+    {
+      "name": "390 homepage ATA -> fortius-420-exp",
+      "passed": true
+    },
+    {
+      "name": "390 reduced motion and same-page anchors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

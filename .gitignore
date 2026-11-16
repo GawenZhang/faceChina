@@ -1,0 +1,31 @@
+# 原站抓取素材（版权敏感，不入库）
+capture/
+inspection/
+
+# 内部机器文件
+investigation.cany/
+inbox/
+.codex/
+node_modules/
+checks/
+build-activity.log
+*.log
+
+# 构建与验证的临时产物
+qa-*.png
+mobile-build.png
+mobile-original.png
+blog-compare.png
+live-source-*.json
+live-why-oxyhealth-sampling.json
+rebuild-check-*.json
+closeout-verification.json
+verification.json
+verification-run.json
+resume-verification.json
+qa-suite-results.json
+qa-navigation-progress.json
+why-oxyhealth-permission-*/
+why-oxyhealth-capture-*/
+validation-capture-*/
+captures/

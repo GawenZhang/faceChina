@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-12",
+  "scope": "38 new routes: 29 SEO entries including research library, 3 comparisons, 5 document pages, 1 converter",
+  "referenceMethod": "Read original public pages through web.open. These are text/structure observations; no new original-page screenshots were captured by this agent.",
+  "references": [
+    {
+      "url": "https://www.oxyhealth.com/hyperbaric-chamber-for-sale",
+      "observed": "Hero and two contact actions; manufacturer section with four feature cards; five model cards; finance split section; buying checklist; company proof; FAQ; related guides; closing CTA.",
+      "implementation": "Shared landing shell with matching major content groups, placeholder prose, model cards and native navigation. The six-item buying checklist and four-item proof band retain their layout with placeholder copy and statistic marks."
+    },
+    {
+      "url": "https://www.oxyhealth.com/vitaeris-320-vs-respiro-270",
+      "observed": "Breadcrumb; comparison introduction; specifications table; differences; setting discussion; FAQ; specialist CTA; related guides.",
+      "implementation": "Comparison template with model-specific table and links, prose, FAQ, CTA, related guides."
+    },
+    {
+      "url": "https://www.oxyhealth.com/vitaeris-320-vs-quamvis-320",
+      "observed": "Same comparison structure; Quamvis includes additional length and external frame.",
+      "implementation": "Model-specific comparison data in shared comparison template."
+    },
+    {
+      "url": "https://www.oxyhealth.com/fortius-420-vs-fortius-420-exp",
+      "observed": "Same comparison structure; EXP modular delivery difference and different length/weight.",
+      "implementation": "Model-specific comparison data in shared comparison template."
+    },
+    {
+      "url": "https://www.oxyhealth.com/documents/terms-conditions",
+      "observed": "Legal hero; table of contents; ten numbered policy sections.",
+      "implementation": "Ten-section document, working in-page contents links, placeholder legal body text."
+    },
+    {
+      "url": "https://www.oxyhealth.com/documents/privacy-notice",
+      "observed": "Privacy hero; three summary features; seven privacy sections; contact CTA.",
+      "implementation": "Three features, seven body sections, contact CTA; policy assertions replaced by clear placeholder copy."
+    },
+    {
+      "url": "https://www.oxyhealth.com/documents/safety",
+      "observed": "Safety hero; IHA panel; nine buyer-question groups; four documentation cards; inquiry CTA.",
+      "implementation": "IHA text panel, nine question cards, four documentation cards, CTA; no uncaptured logo retry."
+    },
+    {
+      "url": "https://www.oxyhealth.com/documents/repair-exchange-policy",
+      "observed": "Hero; nine repair-policy topics; two exchange topics; four quick-reference items; support CTA.",
+      "implementation": "Corresponding sections and card counts, placeholder body text and support route."
+    },
+    {
+      "url": "https://www.oxyhealth.com/documents/fda",
+      "observed": "Hero; three device-status items; thirteen indication entries; five regulatory record topics; requested-document section; CTA.",
+      "implementation": "Matching groups and counts; indication and legal body text explicitly reserved for approved copy."
+    },
+    {
+      "url": "https://www.oxyhealth.com/hyperbaric-pressure-converter",
+      "observed": "Breadcrumb; title; ATA input (1–6) and oxygen percent input; six conversion results; seven-row common pressure table; explanation; formulas; FAQ; related links.",
+      "implementation": "Working ATA and oxygen inputs, original six outputs plus bar absolute, common pressure table, formulas and FAQ. Invalid/empty input produces an error instead of a misleading result."
+    },
+    {
+      "url": "https://www.oxyhealth.com/hyperbaric-research-library",
+      "observed": "Reading guidance; All/low/high pressure filters; seven study cards with protocol metadata and limitations.",
+      "implementation": "Three functioning filters and seven clearly labeled placeholder study cards with matching metadata layout."
+    }
+  ],
+  "knownLimits": [
+    "https://www.oxyhealth.com/hyperbaric-therapy-brain-health returned a cache miss on its one fetch attempt; it was not retried.",
+    "28 landing routes share the user-authorized placeholder landing template; individual original-page module differences beyond the representative sale page are unverified.",
+    "Reference page typography, padding and imagery on new routes have not been separately compared to screenshots; parent QA covers responsive layout and navigation.",
+    "Placeholder legal copy and study records are explicitly marked; no claims of policy finality or research completeness are made."
+  ],
+  "checks": {
+    "routeCount": 38,
+    "uniqueRoutes": true,
+    "jsxTransform": "passed, no warnings",
+    "converterArithmetic": "passed for ATA 1, 1.3, 2, 6; psi gauge/absolute, kPa and bar; 0% and 100% oxygen; invalid ranges and NaN rejected",
+    "defaultValues": {
+      "ata": 1.3,
+      "oxygenPercent": 21,
+      "psiGauge": 4.4088,
+      "psiAbsolute": 19.1048,
+      "kPa": 131.7225,
+      "bar": 1.317225,
+      "mmHg": 988,
+      "feet": 9.9,
+      "oxygenATA": 0.273
+    },
+    "researchFiltersExpected": {
+      "all": 7,
+      "low": 3,
+      "high": 4
+    },
+    "browserChecks": "delegated to parent qa-coverage.mjs after integrated build"
+  },
+  "supersededBy": "evidence-extended-current/audit.json",
+  "warning": "Earlier representative-only observations must not be used as visual verification. See current route-specific audit, explicit unavailable routes and browser-capture limitation."
+}

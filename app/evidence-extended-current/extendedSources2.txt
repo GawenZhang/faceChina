@@ -1,0 +1,615 @@
+Hyperbaric Chamber Safety Standards | OxyHealth (https://www.oxyhealth.com/documents/safety)
+citeturn10view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/documents/safety","lineno":null}); Total lines: 106
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4: Safety First
+L5: # Hyperbaric Safety
+L6: 
+L7: Essential questions to ask before purchasing a hyperbaric chamber, provided by the International Hyperbaric Association to ensure the device you're using is safe and approved for use.
+L8: 
+L9: 【6†Image: International Hyperbaric Association logo endorsing OxyHealth safety standards】
+L10: 
+L11: Endorsed by the IHA
+L12: 
+L13: These safety questions have been provided by the International Hyperbaric Association to help buyers make informed, safe purchasing decisions.
+L14: 
+L15: Before You Buy
+L16: ## Questions Every Buyer Should Ask
+L17: 
+L18: Whether you're a physician, clinic owner, or individual buyer, these questions will help you evaluate any hyperbaric chamber manufacturer.
+L19: 
+L20: FDA 510(k) Clearance
+L21: ### Can you provide the FDA 510(k) letter for this chamber?
+L22: 
+L23: Why this matters: This gives buyers confidence that the device has been evaluated for safe clinical use and meets engineering and safety standards under U.S. law. For clinicians, this is necessary for applying for facility accreditation or getting malpractice insurance coverage.
+L24: FDA-registered does not mean FDA-cleared. Registration only means the company told the FDA it exists. It does not mean the device is cleared or evaluated to be legally offered within the USA.
+L25: 
+L26: Hard Shell Chamber Standards (ASME PVHO-1)
+L27: ### Is the chamber ASME PVHO-1 stamped and serialized individually? Do you have the documents to support? (GR-1 Form)
+L28: 
+L29: Why this matters: This validates the structural integrity, design safety, and compliance of a pressure vessel for human occupancy under pressure. Without this, the chamber's safety under pressure cannot be guaranteed.
+L30: This stamp certifies that the hyperbaric chamber is designed using recognized engineering principles, is manufactured by an ASME-accredited facility, and has passed required material, weld and pressure testing from a third-party engineer.
+L31: If the company cannot produce a GR-1 form and does not have a PVHO-1 stamp: the vessel was not built to any recognized standard, safety testing was not done or not verified by an independent inspector, and the chamber may be illegal for clinical or commercial use in the United States.
+L32: 
+L33: ISO 13485 Certification
+L34: ### Is the manufacturer ISO 13485 certified?
+L35: 
+L36: Why this matters: This is an international standard that certifies the manufacturer for meeting the quality management system (QMS) requirements for the design, production, installation, and servicing of medical devices.
+L37: 
+L38: Electrical Safety
+L39: 
+L40: ### Are the electrical components UL certified?
+L41: 
+L42: Why this matters: Ensures the device is certified for electrical and fire safety compliance.
+L43: 
+L44: Materials, Construction & Testing
+L45: ### Have flammability tests been performed on all internal components (fabrics, cushions)? Can you provide reports?
+L46: 
+L47: Why this matters: Understanding materials used and their testing reveals long-term durability, health safety, and fire protection.
+L48: 
+L49: Operation, Safety & Redundancy
+L50: ### Is there a mechanical override for all digital control systems?
+L51: 
+L52: Why this matters: Mechanical overrides for pressure control, oxygen delivery, and door locks ensure safe operation even in the event of electronic failure.
+L53: 
+L54:   * Is there a mechanical override for all digital control systems (pressure control, oxygen delivery, door locks)?
+L55:   * Can the user inside the chamber communicate with someone outside (e.g., intercom or visual signals)?
+L56: 
+L57: Service, Maintenance & Support
+L58: ### What ongoing support does the manufacturer provide?
+L59: 
+L60: Why this matters: Reliable service and support infrastructure is critical for long-term operation, patient safety, and minimizing equipment downtime.
+L61:   * What is the expected lifespan of the chamber (under normal use)?
+L62:   * What are the preventative maintenance requirements, and are they user-performable or factory-required?
+L63:   * How quickly can parts (windows, valves, digital displays) be shipped and replaced if something fails?
+L64:   * Is there a loaner program or mobile service option for repairs during downtime?
+L65:   * Do you offer training on safe operation, emergency procedures, and basic troubleshooting?
+L66: 
+L67: Warranty & Insurance
+--------------------------------------------------------------------------------
+Repair & Exchange Policy | OxyHealth (https://www.oxyhealth.com/documents/repair-exchange-policy)
+citeturn10view1 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/documents/repair-exchange-policy","lineno":null}); Total lines: 116
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4: Service & Support
+L5: 
+L6: # Repair & Exchange Policy
+L7: 
+L8: OxyHealth provides comprehensive repair services and an exchange program to keep your hyperbaric chamber performing at its best for years to come.
+L9: 
+L10: Repair Services
+L11: 
+L12: ## Repair Policy
+L13: 
+L14: OxyHealth offers flat-fee repair services for all hyperbaric chambers. Every repair is performed at our facility by factory-trained technicians using only genuine OxyHealth parts.
+L15: 
+L16: Standard Repairs
+L17: ### Flat Fee
+L18: 
+L19: Standard repair service covers all labor, materials, and procedures required to restore your hyperbaric chamber to proper working condition. Zipper repairs are excluded from this fee and are quoted separately.
+L20: 
+L21: Zipper Repairs
+L22: 
+L23: ### Separate Flat Fee
+L24: 
+L25: Zipper repair or replacement is a specialized service and is quoted at a separate flat fee. This covers all labor and materials required to restore full zipper functionality.
+L26: 
+L27: Shipping
+L28: ### Customer Pays Outbound Shipping
+L29: 
+L30: Customers are responsible for outbound shipping costs when sending the chamber to OxyHealth. OxyHealth covers return domestic shipping at no additional charge.
+L31: 
+L32: Return shipping coverage excludes Hawaii, Alaska, Puerto Rico, and international destinations.
+L33: 
+L34: Additional Repairs
+L35: ### No Extra Charge for Essential Fixes
+L36: 
+L37: If additional repairs beyond the original quoted service are needed to ensure proper functionality and safety, OxyHealth will complete those supplementary repairs at no extra charge.
+L38: 
+L39: Turnaround Time
+L40: 
+L41: ### Approximately 6 to 8 Weeks
+L42: 
+L43: The standard turnaround time is approximately 6 to 8 weeks from the date OxyHealth receives your chamber. Timelines may vary depending on the scope of repairs and parts availability.
+L44: 
+L45: Loaner Chambers
+L46: ### Available for a Fee Plus Shipping
+L47: 
+L48: Loaner chambers are available for a fee plus shipping costs, allowing you to continue your hyperbaric oxygen therapy while your chamber is being serviced.
+L49: 
+L50: Loaner chambers are unavailable for the Quamvis 320 model.
+L51: 
+L52: Repair Eligibility
+L53: ### Age and Repair Limits Apply
+L54: 
+L55: Chambers that are 10 or more years old may be determined non-repairable based on their condition. A maximum of 2 total repairs are permitted per chamber over its lifetime. Each individual component is eligible for replacement only once.
+L56: 
+L57: Repair Standards
+L58: ### No Glues, Adhesives, or Chemical Bonding
+L59: 
+L60: OxyHealth does not utilize glues, adhesives, or chemical bonding agents in any repair process. Chambers that have been contaminated with foreign substances, adhesives, or non-OxyHealth materials may be refused for service.
+L61: 
+L62: Repair Warranty
+L63: ### 1-Year Limited Warranty
+L64: 
+L65: All repaired components are covered by a 1-year limited warranty from the date the chamber is returned. This warranty covers defects in workmanship and materials on the repaired components only.
+L66: 
+L67: Exchange Program
+L68: 
+L69: ## Bladder Exchange Program
+L70: 
+L71: OxyHealth offers a bladder exchange program as an alternative to traditional repairs, providing a brand-new replacement with an extended warranty.
+L72: ### New Replacement Bladder
+L73: 
+L74: Receive a brand-new replacement bladder for your hyperbaric chamber. Each exchange bladder comes with a 5-year limited warranty, giving you extended peace of mind and reliable performance.
+L75: 
+L76: 5-Year Limited Warranty
+L77: ### Return Policy
+L78: 
+L79: As part of the exchange program, the returned bladder becomes the property of OxyHealth. This allows OxyHealth to properly recycle materials and maintain quality control over all components in circulation.
+L80: 
+L81: Returned bladders become OxyHealth property
+L82: 
+L83: At a Glance
+L84: ## Quick Reference
+L85: 
+L86: Key policy details for OxyHealth repair and exchange services. Call 562-906-8888 for current service fees.
+L87: 
+L88: Flat Fee
+L89: 
+L90: Standard Repair
+L91: 
+L92: Excludes zippers. Call for current fee
+L93: 
+L94: Flat Fee
+L95: 
+L96: Zipper Repair
+L97: 
+L98: Quoted separately. Call for current fee
+L99: 
+L100: 6-8 Weeks
+L101: 
+L102: Turnaround
+L103: 
+L104: From date received
+L105: 
+L106: Available
+L107: 
+L108: Loaner Chamber
+L109: 
+L110: Fee plus shipping. Call for details
+L111: ## Need a Repair or Exchange?
+L112: 
+L113: Contact our service team to schedule a repair, request a loaner chamber, or learn more about the bladder exchange program. We are here to help keep your hyperbaric chamber running safely and reliably.
+L114: 
+L115: Call 562-906-8888[Button: Submit an Inquiry]
+--------------------------------------------------------------------------------
+FDA Statement & Legal Notice | OxyHealth (https://www.oxyhealth.com/documents/fda)
+citeturn10view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/documents/fda","lineno":null}); Total lines: 135
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4: Regulatory Compliance
+L5: 
+L6: # FDA Statement and Legal Notice
+L7: 
+L8: OxyHealth LLC maintains full FDA compliance for all hyperbaric chamber products. Our commitment to regulatory excellence ensures the highest standards of safety and efficacy for every device we manufacture.
+L9: 
+L10: Regulatory Status
+L11: ## FDA-Cleared Class 2 Medical Devices
+L12: 
+L13: All OxyHealth hyperbaric chambers are classified as Class 2 medical devices requiring a physician prescription. Our chambers are approved for both clinical and home use through FDA 510(k) clearance.
+L14: ### What This Means for You
+L15: 
+L16:   * Class 2 Medical Device - OxyHealth chambers have been evaluated and cleared by the FDA for safe clinical use, meeting engineering and safety standards under U.S. law.
+L17:   * Physician Prescription Required - A physician prescription is required to purchase an OxyHealth hyperbaric chamber, ensuring proper medical oversight.
+L18:   * Approved for Clinical and Home Use - FDA 510(k) clearance authorizes OxyHealth chambers for use in clinical settings as well as private residences.
+L19: Approved Indications
+L20: ## 13 FDA-Cleared HBOT Indications
+L21: 
+L22: The U.S. Food and Drug Administration has approved hyperbaric oxygen therapy for the following 13 medical conditions.
+L23: 
+L24: 01
+L25: 
+L26: Air or Gas Embolism
+L27: 
+L28: 02
+L29: 
+L30: Acute Carbon Monoxide Poisoning
+L31: 
+L32: 03
+L33: 
+L34: Gas Gangrene
+L35: 
+L36: 04
+L37: 
+L38: Crush Injury
+L39: 
+L40: 05
+L41: 
+L42: Decompression Sickness
+L43: 
+L44: 06
+L45: 
+L46: Enhancement of Healing in Selected Problem Wounds
+L47: 
+L48: 07
+L49: 
+L50: Exceptional Blood Loss (Anemia)
+L51: 
+L52: 08
+L53: 
+L54: Intracranial Abscess
+L55: 
+L56: 09
+L57: 
+L58: Necrotizing Soft Tissue Infections
+L59: 
+L60: 10
+L61: 
+L62: Osteomyelitis
+L63: 
+L64: 11
+L65: 
+L66: Delayed Radiation Injury
+L67: 
+L68: 12
+L69: Compromised Skin Grafts & Flaps
+L70: 
+L71: 13
+L72: 
+L73: Thermal Burns
+L74: 
+L75: Compliance Record
+L76: ## Key Regulatory Points
+L77: 
+L78: OxyHealth maintains an exemplary record of FDA compliance and regulatory adherence, backed by decades of commitment to safety and transparency.
+L79: 
+L80: ### State Licensed Practitioner Requirement
+L81: 
+L82: OxyHealth hyperbaric chambers must be sold to or on the order of a state licensed practitioner, ensuring proper medical oversight for every device placed into service.
+L83: ### FDA 510(k) Clearance Since Inception
+L84: 
+L85: OxyHealth has maintained FDA 510(k) clearance since the company was founded, demonstrating a continuous commitment to meeting federal regulatory standards for medical devices.
+L86: 
+L87: ### CFG Licenses for Domestic and International Sales
+L88: 
+L89: OxyHealth holds Certificate to Foreign Goods (CFG) licenses, authorizing the company to sell its hyperbaric chambers both domestically within the United States and internationally.
+L90: ### Clean FDA Compliance Record
+L91: 
+L92: There are no open complaints or items that need corrective actions per the FDA. OxyHealth maintains a clean regulatory record with no outstanding issues.
+L93: 
+L94: ### April 8, 2014 FDA Close-Out Letter
+L95: 
+L96: The April 8, 2014 FDA close-out letter formally cleared all inquiries, confirming that OxyHealth has satisfied all FDA questions and requirements.
+L97: 
+L98: Documentation
+L99: ## Available Regulatory Documents
+L100: 
+L101: The following regulatory documents are available upon request. Contact our team to obtain copies for your records.
+L102: 
+L103: ### April 8, 2014 FDA Close Out Letter
+L104: 
+L105: Official FDA close-out letter confirming all inquiries have been formally cleared and resolved.
+L106: 
+L107: Available upon request
+L108: ### 510(k) Clearance for Solace210, Respiro270, Vitaeris320, Quamvis320
+L109: 
+L110: FDA 510(k) clearance documentation covering the Solace210, Respiro270, Vitaeris320, and Quamvis320 soft chamber models.
+L111: 
+L112: Available upon request
+L113: 
+L114: ### 510(k) Clearance #K041007 for Fortius 420
+L115: 
+L116: FDA 510(k) clearance documentation specific to the Fortius 420 hard shell hyperbaric chamber.
+L117: 
+L118: Available upon request
+L119: ### CFG License for Fortius 420
+L120: 
+L121: Certificate to Foreign Goods license authorizing international distribution of the Fortius 420.
+L122: 
+L123: Available upon request
+L124: 
+L125: ### CFG License for Soft Chambers
+L126: 
+L127: Certificate to Foreign Goods license authorizing international distribution of OxyHealth soft hyperbaric chambers.
+L128: 
+L129: Available upon request
+L130: ## Need Regulatory Documentation?
+L131: 
+L132: Our team can provide copies of all FDA clearance letters, 510(k) documentation, and CFG licenses. Contact us for any regulatory or compliance questions.
+L133: 
+L134: Call 562-906-8888[Button: Submit an Inquiry]
+--------------------------------------------------------------------------------
+Hyperbaric Pressure Converter: ATA to PSI, kPa, mmHg | OxyHealth (https://www.oxyhealth.com/hyperbaric-pressure-converter)
+citeturn10view3 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/hyperbaric-pressure-converter","lineno":null}); Total lines: 95
+L0:   1. 【0†Home】
+L1:   2. /
+L2:   3. 【1†Resources】
+L3:   4. /
+L4:   5. Hyperbaric Pressure Converter
+L5: 
+L6: Reference Tool
+L7: 
+L8: # Hyperbaric Pressure Converter: ATA to PSI, kPa, mmHg, and Depth
+L9: 
+L10: Hyperbaric pressure is stated in ATA, atmospheres absolute. 1 ATA is normal sea-level pressure. A chamber at 1.3 ATA adds about 4.4 psi above the atmosphere, and a chamber at 2.0 ATA adds about 14.7 psi. Use the converter to move between units and to see how pressure and oxygen concentration combine.
+L11: ## Pressure converter
+L12: 
+L13: Chamber pressure (ATA)[Input]
+L14: 
+L15: From 1.0 to 6.0
+L16: 
+L17: Oxygen in breathing gas (%)[Input]
+L18: 
+L19: Room air is 21%
+L20: 
+L21: Gauge pressure
+L22:     4.4 psi above atmosphere
+L23: 
+L24: Absolute pressure
+L25:     19.1 psi
+L26: 
+L27: Kilopascals
+L28:     131.7 kPa
+L29: 
+L30: Millimeters of mercury
+L31:     988 mmHg
+L32: 
+L33: Equivalent sea water depth
+L34:     9.9 feet
+L35: 
+L36: Inspired oxygen partial pressure
+L37:     0.27 ATA (207 mmHg)
+L38: For education and unit conversion only. This tool does not recommend a pressure, a breathing gas, or a session schedule. Inspired oxygen partial pressure is a simplified calculation (pressure multiplied by oxygen fraction) and is not a measurement of oxygen levels in blood or tissue.
+L39: ## Common hyperbaric pressures in every unit
+L40: Common hyperbaric pressures converted between units, breathing room air
+L41: ATA  | psi (gauge)  | kPa  | mmHg  | Sea water depth  | Inspired O2, room air
+L42: --- | --- | --- | --- | --- | ---
+L43: 1.0  | 0.0  | 101.3  | 760  | 0.0 ft  | 0.21 ATA
+L44: 1.3  | 4.4  | 131.7  | 988  | 9.9 ft  | 0.27 ATA
+L45: 1.5  | 7.3  | 152.0  | 1,140  | 16.5 ft  | 0.32 ATA
+L46: 2.0  | 14.7  | 202.7  | 1,520  | 33.0 ft  | 0.42 ATA
+L47: 2.4  | 20.6  | 243.2  | 1,824  | 46.2 ft  | 0.50 ATA
+L48: 3.0  | 29.4  | 304.0  | 2,280  | 66.0 ft  | 0.63 ATA
+L49: 4.0  | 44.1  | 405.3  | 3,040  | 99.0 ft  | 0.84 ATA
+L50: The last column assumes room air (21% oxygen). Breathing a gas with a higher oxygen concentration raises the inspired oxygen partial pressure further at the same chamber pressure.
+L51: ## Pressure and oxygen concentration are separate variables
+L52: 
+L53: Hyperbaric therapy starts with a physical fact: the person is inside an environment pressurized above normal atmospheric pressure. Raising the pressure raises the partial pressure of every gas being breathed, including oxygen, even when the breathing gas is ordinary air.
+L54: Oxygen concentration is a second, independent variable. Increased pressure raises the partial pressure of inspired oxygen, and a higher inspired oxygen concentration raises it further. Knowing a chamber's pressure does not tell you what gas was breathed, so a statement such as "1.3 ATA" describes pressure only.
+L55: The full exposure, or dose, also depends on time at pressure, how often sessions happen, and the total number of sessions. Two studies can both use the word HBOT while delivering very different doses. The 【2†research library】 lists each study's pressure, breathing gas, session length, and schedule for that reason.
+L56: ## How the conversions work
+L57: 
+L58:   * psi (absolute) = ATA x 14.696
+L59:   * psi (gauge) = (ATA - 1) x 14.696
+L60:   * kPa = ATA x 101.325
+L61:   * mmHg = ATA x 760
+L62:   * Sea water depth in feet = (ATA - 1) x 33
+L63:   * Inspired oxygen partial pressure = ATA x oxygen fraction
+L64: 
+L65: Chamber gauges show gauge pressure, the amount added above the surrounding atmosphere. Research papers usually state absolute pressure in ATA. Converting between the two is the most common source of confusion when reading chamber specifications.
+L66: ## Hyperbaric Pressure FAQ
+L67: 
+L68: ### How many psi is 1.3 ATA?
+L69: 
+L70: 1.3 ATA is about 19.1 psi absolute, which is about 4.4 psi above normal atmospheric pressure (gauge pressure). Chamber gauges read gauge pressure, so a chamber at 1.3 ATA shows roughly 4 psi.
+L71: 
+L72: ### What does ATA mean?
+L73: 
+L74: ATA stands for atmospheres absolute. 1 ATA is normal atmospheric pressure at sea level. 2 ATA is twice that pressure. ATA includes the atmosphere you are already under, which is why it is called absolute.
+L75: ### Is pressure the same as oxygen concentration?
+L76: 
+L77: No. Pressure and oxygen concentration are separate variables. Pressure is how much the surrounding environment is compressed. Oxygen concentration is the fraction of the breathing gas that is oxygen. Both affect the partial pressure of inspired oxygen.
+L78: ### What is the difference between absolute and gauge pressure?
+L79: 
+L80: Absolute pressure counts the atmosphere itself, so sea level is 1 ATA or 14.7 psi absolute. Gauge pressure counts only the pressure added above the atmosphere, so sea level is 0 psi gauge.
+L81: 
+--------------------------------------------------------------------------------
+Hyperbaric Research Library: Studies by Pressure and Protocol | OxyHealth (https://www.oxyhealth.com/hyperbaric-research-library)
+citeturn10view4 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/hyperbaric-research-library","lineno":null}); Total lines: 237
+L0:   1. 【0†Home】
+L1:   2. /
+L2:   3. 【1†Resources】
+L3:   4. /
+L4:   5. Hyperbaric Research Library
+L5: 
+L6: Research
+L7: 
+L8: # Hyperbaric Research Library: Studies by Pressure and Protocol
+L9: 
+L10: Hyperbaric research is a dosing question. A study's result only makes sense alongside its pressure, breathing gas, session length, and schedule. This library lists peer-reviewed studies with each of those details stated, links every study to its source, and includes mild-pressure research and null results.
+L11: ## How to read a hyperbaric study
+L12: 
+L13: Hyperbaric therapy means breathing inside an environment pressurized above normal atmospheric pressure. Pressure and oxygen concentration are separate variables, and the delivered dose also depends on session length, frequency, and total sessions. For each study below, look at five things first:
+L14:   * Pressure, in ATA
+L15:   * Breathing gas: room air, enriched oxygen, or near 100% oxygen
+L16:   * Minutes at pressure per session
+L17:   * Schedule: sessions per week and total sessions
+L18:   * Comparator: sham exposure, no treatment, or none
+L19: 
+L20: Then check who was studied and what was measured. A change in a blood marker is not the same as a clinical outcome, and a result in one population does not carry over to another.
+L21: ## Studies
+L22: 
+L23: [Button: All pressures][Button: 1.5 ATA and below][Button: 2.0 ATA and above]
+L24: 
+L25: Showing 7 of 7 studies.
+L26: 
+L27: Stem and progenitor cells | Prospective single-arm study
+L28: ### Hyperbaric air mobilizes stem cells in humans; a new perspective on the hormetic dose curve
+L29: 
+L30: MacLaughlin KJ, et al. Frontiers in Neurology, 2023. 【2†doi:10.3389/fneur.2023.1192793†doi.org】
+L31: 
+L32: Population
+L33:     10 healthy volunteers aged 34 to 35
+L34: 
+L35: Pressure
+L36:     1.27 ATA (4 psig)
+L37: 
+L38: Breathing gas
+L39:     Room air
+L40: 
+L41: Session length
+L42:     90 minutes
+L43: 
+L44: Schedule
+L45:     Monday to Friday, 10 exposures over 2 weeks
+L46: 
+L47: Comparator
+L48:     Each participant served as their own control (blood drawn before the first exposure)
+L49: What the authors reported: The authors measured mobilization of stem and progenitor cells and changes in cytokines in blood samples after hyperbaric air exposures.
+L50: 
+L51: Limits to keep in mind: Ten participants and no separate control group. The endpoint is circulating cell counts, which is not the same as tissue regeneration or a clinical benefit.
+L52: 
+L53: Mild traumatic brain injury | Randomized crossover trial
+L54: ### Hyperbaric Oxygen Therapy Can Improve Post Concussion Syndrome Years after Mild Traumatic Brain Injury - Randomized Prospective Trial
+L55: 
+L56: Boussi-Gross R, et al. PLOS ONE, 2013. 【3†doi:10.1371/journal.pone.0079995†doi.org】
+L57: 
+L58: Population
+L59:     56 patients with mild traumatic brain injury, 1 to 5 years after injury, with prolonged post-concussion syndrome
+L60: 
+L61: Pressure
+L62:     1.5 ATA
+L63: 
+L64: Breathing gas
+L65:     100% oxygen
+L66: 
+L67: Session length
+L68:     60 minutes
+L69: 
+L70: Schedule
+L71:     5 days per week, 40 sessions
+L72: Comparator
+L73:     A 2-month control period with no treatment (crossover design)
+L74: 
+L75: What the authors reported: The authors reported improvements in brain function measures and quality of life after the treatment period, and concluded that the protocol can induce neuroplasticity in this population.
+L76: 
+L77: Limits to keep in mind: The control condition was no treatment, not a sham exposure, so participants knew when they were being treated.
+L78: 
+L79: Mild traumatic brain injury | Randomized controlled trial
+L80: ### Effects of Hyperbaric Oxygen on Symptoms and Quality of Life Among Service Members With Persistent Postconcussion Symptoms: A Randomized Clinical Trial
+L81: 
+L82: Miller RS, et al. JAMA Internal Medicine, 2015. 【4†doi:10.1001/jamainternmed.2014.5479†doi.org】
+L83: 
+L84: Population
+L85:     72 military service members with persistent post-concussion symptoms
+L86: 
+L87: Pressure
+L88:     1.5 ATA
+L89: 
+L90: Breathing gas
+L91:     100% oxygen delivered by a hood
+L92: 
+L93: Session length
+L94:     60 minutes
+L95: 
+L96: Schedule
+L97:     Weekdays, 40 sessions
+L98: Comparator
+L99:     Sham sessions of room air at 1.2 ATA, and a third group with no chamber sessions
+L100: 
+L101: What the authors reported: No difference was observed between the oxygen group and the sham group. Both chamber groups showed more symptom improvement than the group that received routine care alone. The authors concluded that oxygen showed no benefit over sham compressions.
+L102: Limits to keep in mind: The sham arm was itself a pressurized exposure (room air at 1.2 ATA), so the trial compared two pressurized conditions. Read alongside the trial above, it shows why protocols must be compared by dose and control condition, not by name.
+L103: 
+L104: Stroke | Randomized controlled trial
+--------------------------------------------------------------------------------
+Hyperbaric Oxygen Therapy for Athletic Recovery | OxyHealth (https://www.oxyhealth.com/hyperbaric-therapy-athletic-recovery)
+citeturn10view5 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/hyperbaric-therapy-athletic-recovery","lineno":null}); Total lines: 181
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4: Athletic Recovery
+L5: 
+L6: # Hyperbaric Oxygen Therapy for Athletic Recovery
+L7: 
+L8: The same recovery technology trusted by LeBron James, Russell Wilson, and elite sports teams worldwide. Recover faster, train harder, perform better.
+L9: 
+L10: Get Started Call 562-906-8888
+L11: 
+L12:   1. 【6†Home】
+L13:   2. 【0†Hyperbaric Therapy】
+L14:   3. Athletic Recovery
+L15: 
+L16: The Science of Recovery
+L17: ## How HBOT Accelerates Athletic Recovery
+L18: Hyperbaric oxygen therapy (HBOT) may support athletic recovery by delivering concentrated oxygen under pressure directly into blood plasma, enabling it to reach injured muscles and tissues that red blood cells cannot easily access. Research suggests this increased oxygen supply may help reduce inflammation and support the repair of sprains, strains, and fractures.
+L19: A study published in the British Journal of Sports Medicine (Staples et al., 1999) found HBOT may help accelerate recovery from certain sports injuries.
+L20: When an athlete sustains an injury, the surrounding tissue often swells and restricts blood flow, starving the damaged area of the oxygen it needs to heal. HBOT counteracts this by flooding the body with oxygen at pressures up to 1.5 ATA, which dissolves oxygen directly into plasma independent of hemoglobin. This allows oxygen molecules to penetrate swollen, inflamed tissue and reach areas of restricted circulation, jumpstarting the cellular repair process.
+L21: At the cellular level, research suggests HBOT may promote the release of growth factors and stem cells, support collagen production for tissue repair, and enhance white blood cell function. The therapy may also help the body clear metabolic waste products more efficiently, potentially reducing post-exercise soreness and supporting athletes in maintaining higher training volumes throughout the season.
+L22: ## HBOT Athletic Recovery Statistics
+L23: 
+L24: 10,000+
+L25: 
+L26: Published HBOT Studies
+L27: 
+L28: 3,000+
+L29: 
+L30: Physicians Trust OxyHealth
+L31: 
+L32: 10,000+
+L33: 
+L34: Clinical Studies
+L35: 
+L36: FDA
+L37: 
+L38: Cleared Chambers
+L39: 
+L40: Performance Benefits
+L41: 
+L42: ## Why Elite Athletes Choose HBOT
+L43: 
+L44: ### Faster Muscle Recovery
+L45: 
+L46: HBOT delivers oxygen deep into damaged muscle fibers, which may support cellular repair and help reduce recovery time between training sessions and competitions.
+L47: ### Reduced Inflammation
+L48: 
+L49: Pressurized oxygen may help reduce swelling and edema at the injury site, potentially alleviating pain and supporting improved range of motion as part of a comprehensive recovery protocol.
+L50: 
+L51: ### Accelerated Bone Healing
+L52: 
+L53: Research published in the Journal of Orthopaedic Research suggests HBOT may stimulate osteoblast activity, potentially supporting the healing process for fractures and stress injuries.
+L54: ### Improved Endurance
+L55: 
+L56: By increasing oxygen saturation in blood plasma, HBOT may support aerobic capacity and help athletes maintain energy output during demanding training blocks.
+L57: 
+L58: ### Concussion Support
+L59: 
+L60: Emerging research in neurological rehabilitation suggests HBOT may reduce neuroinflammation and support cognitive recovery following mild traumatic brain injuries.
+L61: ### Better Sleep and Recovery
+L62: 
+L63: Many athletes report improved sleep quality after HBOT sessions, supporting the body's natural overnight recovery processes and hormonal balance.
+L64: 
+L65: Trusted by the Best
+L66: 
+L67: ## Athletes Who Use OxyHealth Chambers
+L68: 
+L69: OxyHealth hyperbaric chambers are the choice of elite athletes across every major sport. From NBA courts to NFL fields and international soccer pitches, the world's top competitors rely on OxyHealth technology to stay at the top of their game.
+L70: ### LeBron James
+L71: 
+L72: NBA - Los Angeles Lakers
+L73: 
+L74: LeBron James has publicly shared his use of a hyperbaric oxygen chamber as part of his recovery routine, which he credits as helping him maintain elite performance into his 20th NBA season.
+L75: 
+L76: 【7†Read about LeBron and HBOT】
+L77: ### Russell Wilson
+L78: 
+L79: NFL - Pittsburgh Steelers
+L80: 
+L81: Russell Wilson is known for investing significantly in his body and recovery. HBOT is a reported part of his wellness protocol, which he credits with supporting his recovery from the demands of professional football.
+L82: 
+L83: 【8†Read about Russell Wilson's recovery】
+L84: ### Mark Andrews
+L85: 
+L86: NFL - Baltimore Ravens
+L87: 
+L88: Baltimore Ravens tight end Mark Andrews used a hyperbaric oxygen chamber as part of his injury rehabilitation, crediting HBOT as a component that supported his return to the field.
+L89: 
+L90: 【9†Read about Mark Andrews' recovery】
+

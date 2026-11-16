@@ -1,0 +1,45 @@
+{
+  "kind": "local_rebuild",
+  "source_browser_calls": 0,
+  "new_original_samples": 0,
+  "source_status": "not_requested_local_verification",
+  "historical_source_records": [
+    "live-source-session.json",
+    "live-source-retry.json"
+  ],
+  "qa": {
+    "status": "rerun_this_run",
+    "completed_at": "2026-11-12T12:43:48.036Z",
+    "report": "qa-suite-results.json",
+    "artifacts": {
+      "index-LiveWKxb.css": "0e273b8fa8bde927a9c701bfa44b4674e6931d4c883fb7dc2163cd43b79bdee0",
+      "index-_mkeJg1X.js": "06e94ec1484ff613fd1fd5328b89d5cd5453961476afda92632ea086c5302b76"
+    },
+    "note": "All twelve QA scripts were rerun on the corrected menu build and passed; remote assets and external destinations are stubbed in offline tests."
+  },
+  "reporting_changes": [
+    "Separate current local verification from historical source-browser attempts; validate QA completion timestamps and matching build hashes before generating reports."
+  ],
+  "ui_changes": [
+    {
+      "path": "All pages: Products menu",
+      "file": "Shell.jsx; qa-resume.mjs",
+      "summary": "Fixed a pointer click closing the Products menu immediately after hover. Pointer activation now keeps product links available; Enter/Space toggle and Escape dismissal remain. Added a full product navigation/refresh/Back regression."
+    }
+  ],
+  "preview": {
+    "url": "http://127.0.0.1:62446/",
+    "checked_paths": [
+      "/",
+      "/products/fortius-420"
+    ],
+    "http_status": 200
+  },
+  "completed_at": "2026-11-12T12:44:09.465Z",
+  "rebuild_check": {
+    "report": "rebuild-check-final.json",
+    "score": 85,
+    "target": 90,
+    "scope": "Five saved pages and recorded interaction states; not all 70 pages."
+  }
+}

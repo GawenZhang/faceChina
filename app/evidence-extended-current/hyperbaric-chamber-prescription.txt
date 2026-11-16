@@ -1,0 +1,74 @@
+Do You Need a Prescription for a Hyperbaric Chamber? | OxyHealth (https://www.oxyhealth.com/hyperbaric-chamber-prescription)
+citeturn28view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.oxyhealth.com/hyperbaric-chamber-prescription","lineno":100}); Total lines: 71
+L0: Products
+L1: 
+L2: 【0†Hyperbarics】【1†Resources】【2†Blog】【3†Finance】【4†About Us】【5†Events】
+L3: 
+L4:   1. 【6†Home】
+L5:   2. /
+L6:   3. 【1†Resources】
+L7:   4. /
+L8:   5. Hyperbaric Chamber Prescription
+L9: 
+L10: Regulatory Guide
+L11: 
+L12: # Do You Need a Prescription for a Hyperbaric Chamber?
+L13: 
+L14: Yes. Hyperbaric chambers are FDA-regulated Class II medical devices, and OxyHealth chambers are sold on the order of a licensed healthcare provider, for home use and clinic use alike. The prescription is part of how the device is regulated. It is not a formality.
+L15: ## Why a prescription is required
+L16: 
+L17: A hyperbaric chamber raises the pressure around the whole body above normal atmospheric pressure. That makes it a medical device. FDA lists hyperbaric chambers under Product Code CBF and regulation 【7†21 CFR 868.5470†www.accessdata.fda.gov】 as Class II devices that go through 510(k) premarket review.
+L18: FDA 510(k) clearance concerns the device itself: its design, performance, labeling, and manufacturing controls. The prescription requirement sits alongside that clearance. It makes sure a licensed healthcare provider is involved before a person begins using a pressurized device.
+L19: ## Calling a chamber a wellness product does not change this
+L20: 
+L21: Some sellers describe full-body chambers as wellness or lifestyle products. A marketing label does not change how FDA classifies a hyperbaric chamber. If you are comparing sellers, ask for the device's 510(k) clearance and confirm it in 【7†FDA's device classification database†www.accessdata.fda.gov】, and ask how the seller handles the prescription requirement.
+L22: ## What the prescription covers, and what it does not
+L23: 
+L24: A prescription authorizes a person to obtain and use the device under a clinician's direction. The clinician, not the manufacturer, determines:
+L25: 
+L26:   * Whether hyperbaric therapy is appropriate for the individual
+L27:   * The breathing gas and any supplemental oxygen
+L28:   * The pressure, stated in ATA
+L29:   * Session length, frequency, and total number of sessions
+L30: These variables together make up the dose. Pressure and oxygen concentration are separate variables, and two protocols that share a name can deliver very different exposures. OxyHealth does not prescribe protocols or recommend session counts.
+L31: ## Device clearance and clinical use are different things
+L32: 
+L33: FDA clearance applies to a device and its cleared labeling. How a physician uses a cleared device for a particular patient is a separate medical judgment. Research on conditions outside a device's cleared indications does not mean the device is cleared for those uses, and a physician's decision to use a cleared device does not make the device uncleared.
+L34: ## How the process works with OxyHealth
+L35: 
+L36:   1. Speak with a licensed healthcare provider about whether hyperbaric therapy is appropriate for you.
+L37:   2. 【8†Contact OxyHealth】 to discuss chamber types and what documentation is needed.
+L38:   3. Your provider supplies the prescription and determines your protocol.
+L39:   4. Follow the chamber's instructions for use and the training OxyHealth provides.
+L40: A prescription does not determine insurance coverage. See the 【9†insurance coverage guide】 for how payers approach hyperbaric therapy.
+L41: ## Hyperbaric Chamber Prescription FAQ
+L42: 
+L43: ### Do you need a prescription to buy a hyperbaric chamber?
+L44: 
+L45: Yes, for OxyHealth chambers. Hyperbaric chambers are FDA-regulated Class II medical devices, and OxyHealth chambers are sold on the order of a licensed healthcare provider. This applies to home use as well as clinic use.
+L46: ### Do I need a prescription for a home hyperbaric chamber?
+L47: 
+L48: Yes. A chamber does not stop being a medical device because it is used at home or described as a wellness product. OxyHealth requires a prescription from a licensed healthcare provider for its home chambers.
+L49: ### Does the prescription decide my pressure and session schedule?
+L50: 
+L51: Your clinician does. A qualified clinician determines whether hyperbaric therapy is appropriate for you and sets the breathing gas, pressure, session length, and frequency. OxyHealth does not prescribe protocols.
+L52: ### Is a prescription the same as insurance coverage?
+L53: 
+L54: No. A prescription is a requirement for obtaining the device. Insurance coverage is a separate decision made by the payer and depends on the condition, the setting, and the plan.
+L55: 
+L56: ### Can OxyHealth help with the prescription process?
+L57: 
+L58: OxyHealth can guide you through the prescription process when you contact the team. The clinical decision itself always belongs to your healthcare provider.
+L59: ## Talk with a hyperbaric specialist
+L60: 
+L61: If you are working out how the prescription requirement applies to you, the OxyHealth team can walk you through the process and answer questions about chamber types.
+L62: 
+L63: 【8†Contact OxyHealth】【10†What FDA clearance means】
+L64: 
+L65: ### Related guides
+L66: 
+L67:   * 【10†FDA Cleared Hyperbaric Chambers】
+L68:   * 【9†HBOT Insurance Coverage】
+L69:   * 【11†Home Hyperbaric Chambers】
+L70:   * 【12†Safety Information】
+

@@ -1,0 +1,413 @@
+{
+  "date": "2026-11-12T09:15:40.243Z",
+  "mode": "deep",
+  "scope": "38 extended routes, all 28 marketing/guide URLs attempted; all three comparisons, all five legal types, converter and research representatives read",
+  "capture": {
+    "method": "Read-only original public HTML text via web.open; source responses saved beside this audit",
+    "browser": "Unavailable: original script execution rejected by automatic approval review; no bypass attempted",
+    "directHTTP": "Unavailable under restricted network",
+    "screenshots": "Original screenshots and measured computed geometry NOT captured",
+    "localScreenshots": "Local QA only, never original visual evidence"
+  },
+  "rootCause": {
+    "observed": "Previous extended-evidence.json explicitly said text-only observations, yet all 28 marketing and guide URLs used one generic 5-product landing. Original sources demonstrate distinct compact articles, tables, model counts, campaign and pricing form templates.",
+    "inference": "The shared representative was over-generalized beyond what the evidence supported."
+  },
+  "routes": [
+    {
+      "path": "/hyperbaric-chamber-for-sale",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-for-sale",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-chamber-for-sale.txt",
+      "sectionCount": 8
+    },
+    {
+      "path": "/home-hyperbaric-chamber",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/home-hyperbaric-chamber",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./home-hyperbaric-chamber.txt",
+      "sectionCount": 9
+    },
+    {
+      "path": "/portable-hyperbaric-chamber",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/portable-hyperbaric-chamber",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./portable-hyperbaric-chamber.txt",
+      "sectionCount": 9
+    },
+    {
+      "path": "/soft-shell-hyperbaric-chamber",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/soft-shell-hyperbaric-chamber",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./soft-shell-hyperbaric-chamber.txt",
+      "sectionCount": 9
+    },
+    {
+      "path": "/mild-hyperbaric-chamber",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/mild-hyperbaric-chamber",
+      "contentEvidence": "unavailable_cache_miss",
+      "implementation": "retained_unverified_placeholder",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources4.txt",
+      "limitation": "No structure claims; prior placeholder retained"
+    },
+    {
+      "path": "/fda-cleared-hyperbaric-chamber",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/fda-cleared-hyperbaric-chamber",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./fda-cleared-hyperbaric-chamber.txt",
+      "sectionCount": 9
+    },
+    {
+      "path": "/best-hyperbaric-chamber",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/best-hyperbaric-chamber",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./best-hyperbaric-chamber.txt",
+      "sectionCount": 8
+    },
+    {
+      "path": "/hyperbaric-chamber-comparison",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-comparison",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-chamber-comparison.txt",
+      "sectionCount": 9
+    },
+    {
+      "path": "/hyperbaric-chamber-buying-guide",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-buying-guide",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-chamber-buying-guide.txt",
+      "sectionCount": 8
+    },
+    {
+      "path": "/hyperbaric-chamber-cost",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-cost",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-chamber-cost.txt",
+      "sectionCount": 8
+    },
+    {
+      "path": "/hyperbaric-chamber-for-business",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-for-business",
+      "contentEvidence": "unavailable_cache_miss",
+      "implementation": "retained_unverified_placeholder",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources3.txt",
+      "limitation": "No structure claims; prior placeholder retained"
+    },
+    {
+      "path": "/hbot-for-your-practice",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hbot-for-your-practice",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hbot-for-your-practice.txt",
+      "sectionCount": 11
+    },
+    {
+      "path": "/hyperbaric-chamber-rental",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-rental",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-chamber-rental.txt",
+      "sectionCount": 6
+    },
+    {
+      "path": "/used-hyperbaric-chamber",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/used-hyperbaric-chamber",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./used-hyperbaric-chamber.txt",
+      "sectionCount": 6
+    },
+    {
+      "path": "/hyperbaric-chamber-prescription",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-prescription",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-chamber-prescription.txt",
+      "sectionCount": 7
+    },
+    {
+      "path": "/hyperbaric-chamber-room-requirements",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-room-requirements",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-chamber-room-requirements.txt",
+      "sectionCount": 6
+    },
+    {
+      "path": "/genuine-oxyhealth-hyperbaric-chamber",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/genuine-oxyhealth-hyperbaric-chamber",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./genuine-oxyhealth-hyperbaric-chamber.txt",
+      "sectionCount": 6
+    },
+    {
+      "path": "/hyperbaric-chamber-benefits",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-benefits",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-chamber-benefits.txt",
+      "sectionCount": 8
+    },
+    {
+      "path": "/hyperbaric-chamber-side-effects",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-side-effects",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-chamber-side-effects.txt",
+      "sectionCount": 10
+    },
+    {
+      "path": "/hyperbaric-chamber-insurance",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-chamber-insurance",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-chamber-insurance.txt",
+      "sectionCount": 9
+    },
+    {
+      "path": "/hyperbaric-research-library",
+      "template": "research-library",
+      "source": "https://www.oxyhealth.com/hyperbaric-research-library",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "source_checked_structural_corrections",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources2.txt"
+    },
+    {
+      "path": "/hyperbaric-therapy-anti-aging",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-therapy-anti-aging",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-therapy-anti-aging.txt",
+      "sectionCount": 8
+    },
+    {
+      "path": "/hyperbaric-therapy-athletic-recovery",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-therapy-athletic-recovery",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-therapy-athletic-recovery.txt",
+      "sectionCount": 9
+    },
+    {
+      "path": "/hyperbaric-therapy-brain-health",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-therapy-brain-health",
+      "contentEvidence": "unavailable_cache_miss",
+      "implementation": "retained_unverified_placeholder",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./brain-health-fetch.txt",
+      "limitation": "No structure claims; prior placeholder retained"
+    },
+    {
+      "path": "/hyperbaric-therapy-inflammation",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-therapy-inflammation",
+      "contentEvidence": "unavailable_cache_miss",
+      "implementation": "retained_unverified_placeholder",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources5.txt",
+      "limitation": "No structure claims; prior placeholder retained"
+    },
+    {
+      "path": "/hyperbaric-therapy-long-covid",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-therapy-long-covid",
+      "contentEvidence": "unavailable_cache_miss",
+      "implementation": "retained_unverified_placeholder",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources5.txt",
+      "limitation": "No structure claims; prior placeholder retained"
+    },
+    {
+      "path": "/hyperbaric-therapy-near-me",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-therapy-near-me",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "route_specific_source_outline",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./hyperbaric-therapy-near-me.txt",
+      "sectionCount": 9
+    },
+    {
+      "path": "/hyperbaric-therapy-veterinary",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-therapy-veterinary",
+      "contentEvidence": "unavailable_cache_miss",
+      "implementation": "retained_unverified_placeholder",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources5.txt",
+      "limitation": "No structure claims; prior placeholder retained"
+    },
+    {
+      "path": "/hyperbaric-therapy-wound-healing",
+      "template": "landing",
+      "source": "https://www.oxyhealth.com/hyperbaric-therapy-wound-healing",
+      "contentEvidence": "unavailable_cache_miss",
+      "implementation": "retained_unverified_placeholder",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources5.txt",
+      "limitation": "No structure claims; prior placeholder retained"
+    },
+    {
+      "path": "/vitaeris-320-vs-respiro-270",
+      "template": "comparison",
+      "source": "https://www.oxyhealth.com/vitaeris-320-vs-respiro-270",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "corrected_table_and_prose_hierarchy",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./vitaeris-320-vs-respiro-270.txt"
+    },
+    {
+      "path": "/vitaeris-320-vs-quamvis-320",
+      "template": "comparison",
+      "source": "https://www.oxyhealth.com/vitaeris-320-vs-quamvis-320",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "corrected_table_and_prose_hierarchy",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./vitaeris-320-vs-quamvis-320.txt"
+    },
+    {
+      "path": "/fortius-420-vs-fortius-420-exp",
+      "template": "comparison",
+      "source": "https://www.oxyhealth.com/fortius-420-vs-fortius-420-exp",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "corrected_table_and_prose_hierarchy",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./fortius-420-vs-fortius-420-exp.txt"
+    },
+    {
+      "path": "/documents/safety",
+      "template": "document-safety",
+      "source": "https://www.oxyhealth.com/documents/safety",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "source_checked_structural_corrections",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources2.txt"
+    },
+    {
+      "path": "/documents/terms-conditions",
+      "template": "document-terms",
+      "source": "https://www.oxyhealth.com/documents/terms-conditions",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "source_checked_structural_corrections",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./documents--terms-conditions.txt"
+    },
+    {
+      "path": "/documents/privacy-notice",
+      "template": "document-privacy",
+      "source": "https://www.oxyhealth.com/documents/privacy-notice",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "source_checked_structural_corrections",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./documents--privacy-notice.txt"
+    },
+    {
+      "path": "/documents/repair-exchange-policy",
+      "template": "document-repair",
+      "source": "https://www.oxyhealth.com/documents/repair-exchange-policy",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "source_checked_structural_corrections",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources2.txt"
+    },
+    {
+      "path": "/documents/fda",
+      "template": "document-fda",
+      "source": "https://www.oxyhealth.com/documents/fda",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "source_checked_structural_corrections",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources2.txt"
+    },
+    {
+      "path": "/hyperbaric-pressure-converter",
+      "template": "pressure-converter",
+      "source": "https://www.oxyhealth.com/hyperbaric-pressure-converter",
+      "contentEvidence": "read-only_structure_observed",
+      "implementation": "source_checked_structural_corrections",
+      "visualVerification": "unverified_no_original_render",
+      "sourceFile": "./extendedSources2.txt"
+    }
+  ],
+  "changes": [
+    "21 source-specific landing outlines replace generic universal sections; paragraph lengths and subsection counts retained using authorized placeholder prose.",
+    "Home and soft-shell use two model groups; portable uses three; athletics has stats, benefits, athlete stories and two recommended models.",
+    "Five compact editorial guides remove irrelevant all-model sales sections and preserve list/table-led reading structure.",
+    "Cost has pricing form, three paired comparisons, financing and six inclusion items. Practice has split hero, four stats, clinical/portable groups, process steps and preview form.",
+    "Three comparison pages use complete H1, ten specification rows including power, four portable or three hard-chamber prose differences, compact CTA and link list.",
+    "Five legal variants remove invented breadcrumb; terms retain list structures, FDA status uses list and requests five document groups.",
+    "Converter shows original six results; research adds the observed five-field reading checklist and removes invented final sales CTA."
+  ],
+  "limits": [
+    "All original pixel geometry, fonts, colors, column widths and responsive breakpoints remain UNVERIFIED; current CSS preserves project shared theme or provisional structural layout.",
+    "Seven unavailable URLs remain placeholders, not verified equivalents.",
+    "Campaign footer not present in fetched text; retained shell footer remains unverified.",
+    "Source table model URLs resolved only for known models and longest names first; no undefined product routes.",
+    "Forms are local previews and never submit personal data to external services.",
+    "Source text is a dated web retrieval and may differ from live original execution."
+  ],
+  "checks": {
+    "jsxSyntax": "passed",
+    "defaultExport": "passed",
+    "build": "root integrated build passed 70 pages",
+    "localQA": "132 checks passed at 1440/768/390; root final suite repeats after last structural fixes",
+    "localQAScript": "qa-extended-current.mjs",
+    "localQAResults": "qa-extended-current-results.json"
+  }
+}
