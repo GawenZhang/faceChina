@@ -19,12 +19,12 @@ export const guideLinks = [
  ['Hyperbaric Chamber Cost','/hyperbaric-chamber-cost'],
  ['Hyperbaric Chambers for Business','/hyperbaric-chamber-for-business'],
  ['HBOT for Your Practice','/hbot-for-your-practice'],
- ['Why OxyHealth','/why-oxyhealth'],
+ ['Why macy-pan','/why-oxyhealth'],
  ['Hyperbaric Chamber Rental','/hyperbaric-chamber-rental'],
  ['Used Hyperbaric Chambers','/used-hyperbaric-chamber'],
  ['Do You Need a Prescription?','/hyperbaric-chamber-prescription'],
  ['Room Size and Setup Requirements','/hyperbaric-chamber-room-requirements'],
- ['Confirm a Genuine OxyHealth Chamber','/genuine-oxyhealth-hyperbaric-chamber'],
+ ['Confirm a Genuine macy-pan Chamber','/genuine-oxyhealth-hyperbaric-chamber'],
  ['Vitaeris 320 vs Respiro 270','/vitaeris-320-vs-respiro-270'],
  ['Vitaeris 320 vs Quamvis 320','/vitaeris-320-vs-quamvis-320'],
  ['Fortius 420 vs Fortius 420 EXP','/fortius-420-vs-fortius-420-exp'],
@@ -45,7 +45,7 @@ export const topicLinks = [
  ['Pressure Converter (ATA to PSI)','/hyperbaric-pressure-converter'],
 ];
 export const articleLinks = [
- ['OxyHealth Blog: All Articles','/blog'],
+ ['macy-pan Blog: All Articles','/blog'],
  ['Does Insurance Cover Hyperbaric Oxygen Therapy?','/post/does-insurance-cover-hyperbaric-oxygen-therapy'],
  ['HBOT for Brain Injury: What Clinical Trials Show','/post/hbot-for-brain-injury-what-clinical-trials-show'],
  ['Hyperbaric Oxygen Therapy for Long COVID: Research Update','/post/hyperbaric-oxygen-therapy-for-long-covid-research'],

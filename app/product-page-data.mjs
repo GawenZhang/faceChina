@@ -41,7 +41,7 @@ export const productPageData = {
  },
  'fortius-420-exp': {
   title:'Fortius 420 EXP',type:'Clinical Chamber',tagline:'A modular chamber for more flexible access.',
-  description:'The Fortius 420 EXP uses a split construction to simplify access during installation. Explore the clinical system, its 42-inch interior, and the planning that accompanies delivery. Discuss your access route and facility requirements with an OxyHealth specialist before choosing a configuration.',
+  description:'The Fortius 420 EXP uses a split construction to simplify access during installation. Explore the clinical system, its 42-inch interior, and the planning that accompanies delivery. Discuss your access route and facility requirements with an macy-pan specialist before choosing a configuration.',
   hero:'fortius420exp/updated/fortius-exp-ariana-hero-lifestyle.webp',length:'96 inches',
   metrics:[['4.0 ATA','Max pressure'],['42″','Interior diameter'],['1,400 lbs','Chamber weight'],['Split','Design']],
   featureTitle:'Flexible Access, Carefully Planned Setup',features:10,specRows:8,compressorRows:7,clinical:true,

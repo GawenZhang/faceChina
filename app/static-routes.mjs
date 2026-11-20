@@ -13,6 +13,6 @@ for(const route of allRoutes){
  const page=html.replace(/<title>.*?<\/title>/s,`<title>${escape(route.title)}</title>`);
  await writeFile(`${folder}/index.html`,page);
 }
-await writeFile('dist/404.html',html.replace(/<title>.*?<\/title>/s,'<title>Page not found | OxyHealth</title>'));
+await writeFile('dist/404.html',html.replace(/<title>.*?<\/title>/s,'<title>Page not found | macy-pan</title>'));
 await writeFile('dist/route-manifest.json',JSON.stringify(allRoutes,null,2));
 console.log(`Generated ${allRoutes.length} static pages; all ${required.length} checklist URLs are covered.`);

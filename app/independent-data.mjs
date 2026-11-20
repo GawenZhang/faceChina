@@ -1,11 +1,11 @@
 export const independentRoutes = [
-  {path:'/contact',title:'Contact OxyHealth',template:'contact'},
-  {path:'/support',title:'Service & Support | OxyHealth',template:'support'},
-  {path:'/partners',title:'Build Your Hyperbaric Practice | OxyHealth',template:'partners'},
-  {path:'/why-oxyhealth',title:'Why OxyHealth',template:'why-oxyhealth'},
-  {path:'/finance',title:'Hyperbaric Chamber Financing | OxyHealth',template:'finance'},
-  {path:'/about',title:'About OxyHealth',template:'about'},
-  {path:'/events/events',title:'OxyHealth Events & Conferences',template:'event-list'},
+  {path:'/contact',title:'Contact macy-pan',template:'contact'},
+  {path:'/support',title:'Service & Support | macy-pan',template:'support'},
+  {path:'/partners',title:'Build Your Hyperbaric Practice | macy-pan',template:'partners'},
+  {path:'/why-oxyhealth',title:'Why macy-pan',template:'why-oxyhealth'},
+  {path:'/finance',title:'Hyperbaric Chamber Financing | macy-pan',template:'finance'},
+  {path:'/about',title:'About macy-pan',template:'about'},
+  {path:'/events/events',title:'macy-pan Events & Conferences',template:'event-list'},
 ];
 
 export const independentReferenceNotes = {

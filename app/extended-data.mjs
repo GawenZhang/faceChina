@@ -15,7 +15,7 @@ const landingEntries = [
  ['used-hyperbaric-chamber','Used Hyperbaric Chambers','Know which ownership, service, and model records to gather when evaluating pre-owned equipment.'],
  ['hyperbaric-chamber-prescription','Hyperbaric Chamber Prescription','Prepare questions about the documentation and professional oversight required for your equipment.'],
  ['hyperbaric-chamber-room-requirements','Hyperbaric Chamber Room Requirements','Plan the delivery route, operating space, utilities, and access around your chamber.'],
- ['genuine-oxyhealth-hyperbaric-chamber','Identify a Genuine OxyHealth Chamber','Gather model and serial information so the team can help verify your equipment.'],
+ ['genuine-oxyhealth-hyperbaric-chamber','Identify a Genuine macy-pan Chamber','Gather model and serial information so the team can help verify your equipment.'],
  ['hyperbaric-chamber-benefits','Hyperbaric Chamber Benefits','Explore educational resources and the questions that connect research with clinical decisions.'],
  ['hyperbaric-chamber-side-effects','Hyperbaric Chamber Side Effects','Prepare questions for your clinician about suitability, monitoring, and individual risk.'],
  ['hyperbaric-chamber-insurance','Hyperbaric Chamber Insurance','Organize the questions and documentation to discuss with your care team and insurer.'],

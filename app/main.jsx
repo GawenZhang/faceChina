@@ -18,7 +18,7 @@ const path=location.pathname.replace(/\/+$/,'')||'/';
 const campaign=path==='/hbot-for-your-practice';
 document.documentElement.dataset.campaign=String(campaign);
 const entry=allRoutes.find(route=>route.path===path);
-document.title=entry?.title || 'Page not found | OxyHealth';
+document.title=entry?.title || 'Page not found | macy-pan';
 document.documentElement.dataset.pageTemplate=entry?.template || 'not-found';
 let content;
 if(path==='/') content=<Home/>;
@@ -27,4 +27,4 @@ else if(independentRoutes.some(route=>route.path===path)) content=<IndependentPa
 else if(extendedRoutes.some(route=>route.path===path)) content=<ExtendedPages path={path}/>;
 else if(entry) content=<Routes path={path}/>;
 else content=<main className="sr-route"><section className="sr-blog-hero"><div className="sr-container"><h1>Page not found</h1><p>The address may have changed. Explore our products, resources, or return to the home page.</p><a className="sr-button" href="/">Back to home</a></div></section></main>;
-createRoot(document.getElementById('root')).render(<>{campaign?<header className="campaign-header"><a href="/" aria-label="OxyHealth home"><Brand/></a><a href="tel:5629068888">562-906-8888</a></header>:<Header/>}{content}<Footer/><FloatingBar/><RouteArrival/></>);
+createRoot(document.getElementById('root')).render(<>{campaign?<header className="campaign-header"><a href="/" aria-label="macy-pan home"><Brand/></a><a href="tel:5629068888">562-906-8888</a></header>:<Header/>}{content}<Footer/><FloatingBar/><RouteArrival/></>);
