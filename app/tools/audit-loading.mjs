@@ -1,0 +1,1 @@
+﻿import fs from 'node:fs';const rs=JSON.parse(fs.readFileSync('capture/admin/routes.json'));for(const r of rs){let h=fs.readFileSync('capture/admin/'+r.key+'-1440/final.html','utf8');const loading=h.match(/<div class="fixed-table-loading"[^>]*>/)?.[0];if(loading&&!loading.includes('display: none'))console.log(r.key,loading);}

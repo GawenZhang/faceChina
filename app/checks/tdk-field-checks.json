@@ -1,0 +1,352 @@
+[
+  {
+    "kind": "source",
+    "width": 1440,
+    "state": "add-four-groups-and-enter",
+    "name": "tdk-fields-final/source-1440-added",
+    "evidence_id": "ev_2419b9adea530ef72513f78ef60a6b4641a077767e18e9ddff630482d17a2374",
+    "expected": {
+      "keywords": 3,
+      "citys": 2,
+      "companys": 2,
+      "descs": 2
+    },
+    "actual": {
+      "keywords": 3,
+      "citys": 2,
+      "companys": 2,
+      "descs": 2
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "source",
+    "width": 1440,
+    "state": "remove-rows",
+    "name": "tdk-fields-final/source-1440-removed",
+    "evidence_id": "ev_9abd3f3797d9ce9ed875d590bc59ce85ae8b6bc0d7d0066dc9c6daad1401cacd",
+    "expected": {
+      "keywords": 2,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 2,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "source",
+    "width": 1440,
+    "state": "reset-to-single-empty-row",
+    "name": "tdk-fields-final/source-1440-reset",
+    "evidence_id": "ev_8a036eb5e18821c720d6625dc07d7650767ebb823db86c268078e83208068c86",
+    "expected": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "source",
+    "width": 390,
+    "state": "add-four-groups-and-enter",
+    "name": "tdk-fields-final/source-390-added",
+    "evidence_id": "ev_d4f4b7d9ebee21841d29d4144f91af93713b55d870287675038e00f554a77899",
+    "expected": {
+      "keywords": 3,
+      "citys": 2,
+      "companys": 2,
+      "descs": 2
+    },
+    "actual": {
+      "keywords": 3,
+      "citys": 2,
+      "companys": 2,
+      "descs": 2
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "source",
+    "width": 390,
+    "state": "remove-rows",
+    "name": "tdk-fields-final/source-390-removed",
+    "evidence_id": "ev_bc6fe7d4303906cddb125f788d3d99432eab6c3e5302928a4f780386fcf84b63",
+    "expected": {
+      "keywords": 2,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 2,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "source",
+    "width": 390,
+    "state": "reset-to-single-empty-row",
+    "name": "tdk-fields-final/source-390-reset",
+    "evidence_id": "ev_b0b760b21d41c3ff1de48a94c531b9f0ac5a3232ceb25fb4ea4a0db62aa039b3",
+    "expected": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "local",
+    "width": 1440,
+    "state": "add-four-groups-and-enter",
+    "name": "tdk-fields-final/local-1440-added",
+    "evidence_id": "ev_f1980f540a48ee8c92172784723e65a4a83d81ae0134fc2d7734cde96ea810d7",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "expected": {
+      "keywords": 3,
+      "citys": 2,
+      "companys": 2,
+      "descs": 2
+    },
+    "actual": {
+      "keywords": 3,
+      "citys": 2,
+      "companys": 2,
+      "descs": 2
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "local",
+    "width": 1440,
+    "state": "remove-rows",
+    "name": "tdk-fields-final/local-1440-removed",
+    "evidence_id": "ev_2fd3f279d222299ef0d2a9f8b5596628066cf1049eefd24d1b51876c29a89084",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "expected": {
+      "keywords": 2,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 2,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "local",
+    "width": 1440,
+    "state": "reset-to-single-empty-row",
+    "name": "tdk-fields-final/local-1440-reset",
+    "evidence_id": "ev_bf6585fed94899222f0a3c243657dff13358ad09df64aecfa957d2502374b9a8",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "expected": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "local",
+    "width": 1440,
+    "state": "required-group-validation",
+    "name": "tdk-fields-final/local-1440-required",
+    "evidence_id": "ev_0baaa83806bc4053c438901df9f15d76134feac865803c0e42073e458e736f41",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "expected": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": [],
+    "text": "请至少填写一个关键词"
+  },
+  {
+    "kind": "local",
+    "width": 1440,
+    "state": "local-save",
+    "name": "tdk-fields-final/local-1440-saved",
+    "evidence_id": "ev_7120c972d9ca741a31260a6097cff5dad280e690b8083e9849d5b1d9edbeafa0",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "expected": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": [],
+    "text": "已保存本地演示数据"
+  },
+  {
+    "kind": "local",
+    "width": 390,
+    "state": "add-four-groups-and-enter",
+    "name": "tdk-fields-final/local-390-added",
+    "evidence_id": "ev_1f28adbed2e7d5d121326a33da54e936f7c66ce20bb929671198bd4fde1b8e84",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "expected": {
+      "keywords": 3,
+      "citys": 2,
+      "companys": 2,
+      "descs": 2
+    },
+    "actual": {
+      "keywords": 3,
+      "citys": 2,
+      "companys": 2,
+      "descs": 2
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "local",
+    "width": 390,
+    "state": "remove-rows",
+    "name": "tdk-fields-final/local-390-removed",
+    "evidence_id": "ev_56b98f9f371a1dc69c93a1b97ff071d333118352eb4fe1fbd7945f52666747d6",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "expected": {
+      "keywords": 2,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 2,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "local",
+    "width": 390,
+    "state": "reset-to-single-empty-row",
+    "name": "tdk-fields-final/local-390-reset",
+    "evidence_id": "ev_3826bfa0654820635d98ad41967ccd95d2f7b0c38b5fe43cb43ea02a44e80017",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "expected": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": []
+  },
+  {
+    "kind": "local",
+    "width": 390,
+    "state": "required-group-validation",
+    "name": "tdk-fields-final/local-390-required",
+    "evidence_id": "ev_04bbf41bab79b2fb661e4aa26d46763692b7e8dc0be7bde41f2cb901c9314b88",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "expected": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": [],
+    "text": "请至少填写一个关键词"
+  },
+  {
+    "kind": "local",
+    "width": 390,
+    "state": "local-save",
+    "name": "tdk-fields-final/local-390-saved",
+    "evidence_id": "ev_e084e93279626467aff140daf69f16b6d25e9cbbbe442fd9b59d85deca13d4d1",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "expected": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "actual": {
+      "keywords": 1,
+      "citys": 1,
+      "companys": 1,
+      "descs": 1
+    },
+    "passed": true,
+    "errors": [],
+    "text": "已保存本地演示数据"
+  }
+]

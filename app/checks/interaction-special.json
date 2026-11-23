@@ -1,0 +1,222 @@
+[
+  {
+    "key": "b2b",
+    "width": 1440,
+    "selector": "[data-url=\"/user/b2b/tougao/type/4\"]",
+    "name": "local-states/special-b2b-0-1440",
+    "source": "states/special-b2b-0-1440",
+    "evidence_id": "ev_aacbfac664eedcb4781835d8fd988ebdffbe861c76d59c669f64b80f8a2e3d00",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "selector": "[data-url=\"/user/b2b/tougao/type/4\"]",
+    "name": "local-states/special-b2b-0-390",
+    "source": "states/special-b2b-0-390",
+    "evidence_id": "ev_edd772f631d61e8c14b7148b4f56894ba7eddb5726675e424ffad111c1c0ee08",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "selector": "[data-url=\"/user/b2b/tougao/type/5\"]",
+    "name": "local-states/special-b2b-2-1440",
+    "source": "states/special-b2b-2-1440",
+    "evidence_id": "ev_e6dc5772b7c99692f5f288e838bd98d05e260e6e92ee4a6d2c75396a733f8153",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "selector": "[data-url=\"/user/b2b/tougao/type/5\"]",
+    "name": "local-states/special-b2b-2-390",
+    "source": "states/special-b2b-2-390",
+    "evidence_id": "ev_f8c170cbac2209dbff74ded61f507c1596d4a0e3550d8cfef0bf0d16c7e3dda4",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "selector": "[data-url=\"/user/b2b/tougao/type/6\"]",
+    "name": "local-states/special-b2b-4-1440",
+    "source": "states/special-b2b-3-1440",
+    "evidence_id": "ev_57fd027e81c178cd66f9009f690c500ddfff33edaa47b27283a4b5eac103e5c8",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "selector": "[data-url=\"/user/b2b/tougao/type/6\"]",
+    "name": "local-states/special-b2b-4-390",
+    "source": "states/special-b2b-3-390",
+    "evidence_id": "ev_abc47a8e45fa601a9197634ada8fca09cac3becec9d7f5026900d4bb899f7a22",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "selector": "[data-url=\"/user/b2b/tougao/type/1\"]",
+    "name": "local-states/special-b2b-6-1440",
+    "source": "states/special-b2b-4-1440",
+    "evidence_id": "ev_35dc6153e290fb6f082272c6c7a3f2dca0697a343ad84afe7f5c48f82a0cfeea",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "selector": "[data-url=\"/user/b2b/tougao/type/1\"]",
+    "name": "local-states/special-b2b-6-390",
+    "source": "states/special-b2b-4-390",
+    "evidence_id": "ev_7461ea07c85772860b04cfe5e1972414eccb03dbfe1239efc6347e1a3e78628f",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "webmedia",
+    "width": 1440,
+    "selector": "[data-url=\"/user/webmedia/tougao/media_id/21471\"]",
+    "name": "local-states/special-webmedia-8-1440",
+    "source": "states/special-webmedia-0-1440",
+    "evidence_id": "ev_35b66aede72b446ac1e72593fe5a7d6dfecdd3ba74f2378f0d72468373cda209",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "webmedia",
+    "width": 390,
+    "selector": "[data-url=\"/user/webmedia/tougao/media_id/21471\"]",
+    "name": "local-states/special-webmedia-8-390",
+    "source": "states/special-webmedia-0-390",
+    "evidence_id": "ev_3744d79dab2232265aea67eba88ba68d94d9d0b9a41aa56995d2e8737c1d27a5",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "zimedia",
+    "width": 1440,
+    "selector": "[data-url=\"/user/zimedia/tougao/media_id/53781\"]",
+    "name": "local-states/special-zimedia-10-1440",
+    "source": "states/special-zimedia-0-1440",
+    "evidence_id": "ev_ac42b065871034964d1786b2da4e331ce829f00e34746584d997674da7873e8e",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "zimedia",
+    "width": 390,
+    "selector": "[data-url=\"/user/zimedia/tougao/media_id/53781\"]",
+    "name": "local-states/special-zimedia-10-390",
+    "source": "states/special-zimedia-0-390",
+    "evidence_id": "ev_acb7ddd9b5039540bfa75acfafced12c902ef0249379bfcfdbc826de6d94e0f5",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "selector": "[data-url=\"/user/b2b/tougao/type/3\"]",
+    "name": "local-states/special-b2b-12-1440",
+    "source": "states/special-b2b-repair-0-1440",
+    "evidence_id": "ev_829ca9d4e7ae1d78e7de0e2ed3b435e4e8c88c4da14d3efe80e9741356db2eb9",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "selector": "[data-url=\"/user/b2b/tougao/type/3\"]",
+    "name": "local-states/special-b2b-12-390",
+    "source": "states/special-b2b-repair-0-390",
+    "evidence_id": "ev_8e50f79a06c88cc7c581d851c0e281f46b36a1f9e0a6f42196d0e8ab82ed14fa",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "selector": "[data-url=\"/user/b2b/settle/type/2\"]",
+    "name": "local-states/special-b2b-14-1440",
+    "source": "states/special-store-0-1440",
+    "evidence_id": "ev_e3beb523d18f35df72a15afa52b55bd59a640beaf4353446a0fe1413207d0a6f",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "selector": "[data-url=\"/user/b2b/settle/type/2\"]",
+    "name": "local-states/special-b2b-14-390",
+    "source": "states/special-store-0-390",
+    "evidence_id": "ev_e830d2717f0b8d9e8670add867808e989915b27c4c526bd7844c4ca5d452c241",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "selector": "[data-url=\"/user/b2b/configure/type/2\"]",
+    "name": "local-states/special-b2b-16-1440",
+    "source": "states/special-store-1-1440",
+    "evidence_id": "ev_0ac7eef968d0b7a081de3a954b6a48c3a3c19700f3fc41d5528ef42a0706ea72",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "selector": "[data-url=\"/user/b2b/configure/type/2\"]",
+    "name": "local-states/special-b2b-16-390",
+    "source": "states/special-store-1-390",
+    "evidence_id": "ev_871edbcdac3a301db2a43da4219bb96e233b5ae048d362e1296c945f0e20efd6",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "selector": "[data-url=\"/user/b2b/settle/type/8\"]",
+    "name": "local-states/special-b2b-18-1440",
+    "source": "states/special-store-2-1440",
+    "evidence_id": "ev_7cd6f81488e801f9657baa6267df6550111346d6e5d6a20cbdcf358eabd60369",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "selector": "[data-url=\"/user/b2b/settle/type/8\"]",
+    "name": "local-states/special-b2b-18-390",
+    "source": "states/special-store-2-390",
+    "evidence_id": "ev_bdecae6aa8097ece0a8b2dcc95df30c0c98953984ff0073706d221789d5d5790",
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "status": "complete",
+    "errors": []
+  }
+]

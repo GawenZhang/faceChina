@@ -1,0 +1,526 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+        <meta charset="utf-8">
+
+<title>
+    用户中心-鑫火GEO-鑫火GEO</title>
+<meta name="keywords" content="鑫火GEO，鑫火GEO">
+<meta name="description" content="鑫火GEO">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="renderer" content="webkit">
+<meta name="referrer" content="never">
+<meta name="robots" content="noindex, nofollow">
+
+<link rel="shortcut icon" href="/site-assets/assets/img/favicon.ico">
+
+<link href="/site-assets/user_assets/css/backend.css?v=1.3.1346" rel="stylesheet">
+
+<link href="/site-assets/user_assets/css/skins/skin-blue.css?v=1.3.1346" rel="stylesheet">
+
+<style type="text/css">
+    .layui-layer-fast .layui-layer-title{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+    .btn-primary{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+</style>
+
+
+<style type="text/css">
+    /* 整个滚动条 */
+    ::-webkit-scrollbar {width: 6px; /* 水平滚动条的高度、垂直滚动条的宽度 */height: 6px; /* 水平滚动条的高度 */border-radius: 10px!important;}
+    /* 滚动条轨道 */
+    ::-webkit-scrollbar-track {background: #333; /* 轨道颜色 */}
+    /* 滚动条滑块 */
+    ::-webkit-scrollbar-thumb {background: #999; /* 滑块颜色 */}
+    /* 滑块hover效果 */
+    ::-webkit-scrollbar-thumb:hover {background: #777; /* 滑块hover颜色 */}
+</style>
+
+
+
+
+
+    <link type="text/css" rel="stylesheet" href="/site-assets/user_assets/layui/css/layui.css?v=1.3.1346"><link id="layuicss-laydate" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/laydate/default/laydate.css?v=5.3.1" media="all"><link id="layuicss-layer" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/layer/default/layer.css?v=3.5.1" media="all"><link id="layuicss-skincodecss" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/code.css?v=3" media="all"><meta name="robots" content="noindex,nofollow,noarchive"><link rel="stylesheet" href="/admin-runtime.css"><script>if(innerWidth<=600)location.replace("/backend-pages/b2b.mobile.html"+location.search+location.hash);</script></head>
+
+    <body class="inside-header inside-aside " data-page-key="b2b" data-page-path="/user/b2b">
+        <div id="main" role="main">
+            <div class="tab-content tab-addtabs">
+                <div id="content">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <section class="content-header hide">
+                                <h1>
+                                    控制台                                    <small>Control panel</small>
+                                </h1>
+                            </section>
+                                                        <div class="content">
+                                
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>B2B行业网站管理</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+            min-height: 100vh;
+            color: #1e293b;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 40px 24px;
+        }
+
+        /* 优化后的标题区域 */
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 18px;
+            padding-bottom: 24px;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+        }
+
+        .icon-wrapper {
+            width: 52px;
+            height: 52px;
+            background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+            border-radius: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 18px;
+            box-shadow: 0 8px 24px rgba(59, 130, 246, 0.25);
+        }
+
+        .icon-globe {
+            width: 28px;
+            height: 28px;
+            fill: #ffffff;
+        }
+
+        .title-container {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .main-title {
+            font-size: 28px;
+            font-weight: 700;
+            color: #1e293b;
+            letter-spacing: -0.5px;
+        }
+
+        .subtitle {
+            font-size: 14px;
+            color: #64748b;
+            margin-top: 4px;
+        }
+
+        /* 统计栏 */
+        .stats-bar {
+            display: flex;
+            gap: 24px;
+            margin-bottom: 36px;
+        }
+
+        .stat-card {
+            background: #ffffff;
+            padding: 20px 24px;
+            border-radius: 12px;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+            flex: 1;
+        }
+
+        .stat-value {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1e293b;
+            margin-bottom: 4px;
+        }
+
+        .stat-label {
+            font-size: 13px;
+            color: #64748b;
+        }
+
+        /* 网格布局 */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 28px;
+        }
+
+        /* 全新设计的卡片 */
+        .card {
+            background: #ffffff;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 1px solid rgba(0, 0, 0, 0.05);
+        }
+
+        .card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
+        }
+
+        .card-header {
+            padding: 28px 24px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+        }
+
+        .logo {
+            height: 44px;
+            object-fit: contain;
+            max-width: 120px;
+        }
+
+        .status-badge {
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 500;
+            background: #fef3c7;
+            color: #d97706;
+        }
+
+        .card-body {
+            padding: 24px;
+        }
+
+        .price-section {
+            margin-bottom: 24px;
+        }
+
+        .price-label {
+            font-size: 13px;
+            color: #64748b;
+            margin-bottom: 8px;
+        }
+
+        .price-value {
+            font-size: 26px;
+            font-weight: 700;
+            color: #1e293b;
+        }
+
+        .price-currency {
+            font-size: 16px;
+            color: #64748b;
+            margin-right: 2px;
+        }
+
+        .price-period {
+            font-size: 14px;
+            color: #64748b;
+            font-weight: 400;
+        }
+
+        .card-actions {
+            display: flex;
+            gap: 12px;
+        }
+
+        .btn {
+            flex: 1;
+            padding: 12px 16px;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 500;
+            text-align: center;
+            text-decoration: none;
+            transition: all 0.2s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .btn-outline {
+            background: transparent;
+            color: #3b82f6;
+            border: 1px solid #3b82f6;
+        }
+
+        .btn-outline:hover {
+            background: #3b82f6;
+            color: #fff;
+            border: 1px solid #3b82f6;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+            color: #ffffff;
+            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+        }
+
+        .btn-primary:hover {
+            box-shadow: 0 6px 16px rgba(59, 130, 246, 0.4);
+            transform: translateY(-1px);
+        }
+
+        /* 响应式设计 */
+        @media (max-width: 1280px) {
+            .grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        @media (max-width: 992px) {
+            .grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .stats-bar {
+                flex-wrap: wrap;
+            }
+            
+            .stat-card {
+                flex: 1 1 calc(50% - 12px);
+            }
+        }
+
+        @media (max-width: 640px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .stat-card {
+                flex: 1 1 100%;
+            }
+            
+            .main-title {
+                font-size: 24px;
+            }
+            
+            .container {
+                padding: 24px 16px;
+            }
+        }
+    </style>
+
+
+    <div class="" style="padding-top: 20px;">
+        
+        <div class="header">
+            <div class="icon-wrapper">
+                <svg class="icon-globe" viewBox="0 0 24 24">
+                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"></path>
+                </svg>
+            </div>
+            <div class="title-container">
+                <h1 class="main-title">B2B行业直投</h1>
+                <p class="subtitle">让大数据给你的品牌/电话/官网打广告</p>
+            </div>
+        </div>
+
+        
+        <div class="grid">
+                            <div class="card">
+                    <div class="card-header">
+                        <img src="/site-assets/user_assets/img/lieju.png" alt="列举网" class="logo">
+                        <span class="status-badge">已开通</span>
+                    </div>
+                    <div class="card-body">
+
+                        <div class="price-section">
+                            
+                            <div class="price-value"><span class="price-currency">¥</span>2<span class="price-period">/篇</span></div>
+
+                        </div>
+                        <div class="card-actions">
+                            <a href="https://www.lieju.com/" target="_blank"><button class="btn btn-outline">平台地址</button></a>
+                                                             <a data-url="/user/b2b/tougao/type/4" class=" btn-dialog" data-toggle="modal" data-title="投稿B2B" data-area="[&quot;80%&quot;,&quot;80%&quot;]">
+                                    <button class="btn btn-primary">立即发布</button>
+                                </a>
+                            
+                                                    </div>
+
+                        <div class="price-label" style="margin-top: 20px;"></div>
+                    </div>
+                </div>
+                                <div class="card">
+                    <div class="card-header">
+                        <img src="/site-assets/logo.svg" alt="博客园" class="logo">
+                        <span class="status-badge">已开通</span>
+                    </div>
+                    <div class="card-body">
+
+                        <div class="price-section">
+                            
+                            <div class="price-value"><span class="price-currency">¥</span>5<span class="price-period">/篇</span></div>
+
+                        </div>
+                        <div class="card-actions">
+                            <a href="https://www.cnblogs.com/" target="_blank"><button class="btn btn-outline">平台地址</button></a>
+                                                             <a data-url="/user/b2b/tougao/type/3" class=" btn-dialog" data-toggle="modal" data-title="投稿B2B" data-area="[&quot;80%&quot;,&quot;80%&quot;]">
+                                    <button class="btn btn-primary">立即发布</button>
+                                </a>
+                            
+                                                    </div>
+
+                        <div class="price-label" style="margin-top: 20px;"></div>
+                    </div>
+                </div>
+                                <div class="card">
+                    <div class="card-header">
+                        <img src="/site-assets/cdn/main/release/static/images/index/indextop-logo.png" alt="商业新知" class="logo" style="background: #f14545;border-radius:10px;">
+                        <span class="status-badge">已开通</span>
+                    </div>
+                    <div class="card-body">
+
+                        <div class="price-section">
+                            
+                            <div class="price-value"><span class="price-currency">¥</span>5<span class="price-period">/篇</span></div>
+
+                        </div>
+                        <div class="card-actions">
+                            <a href="https://www.shangyexinzhi.com/" target="_blank"><button class="btn btn-outline">平台地址</button></a>
+                                                             <a data-url="/user/b2b/tougao/type/5" class=" btn-dialog" data-toggle="modal" data-title="投稿B2B" data-area="[&quot;80%&quot;,&quot;80%&quot;]">
+                                    <button class="btn btn-primary">立即发布</button>
+                                </a>
+                            
+                                                    </div>
+
+                        <div class="price-label" style="margin-top: 20px;"></div>
+                    </div>
+                </div>
+                                <div class="card">
+                    <div class="card-header">
+                        <img src="/site-assets/template/rtj1009_007/image/logo.png" alt="蓝色河畔" class="logo">
+                        <span class="status-badge">已开通</span>
+                    </div>
+                    <div class="card-body">
+
+                        <div class="price-section">
+                            
+                            <div class="price-value"><span class="price-currency">¥</span>5<span class="price-period">/篇</span></div>
+
+                        </div>
+                        <div class="card-actions">
+                            <a href="https://www.hepan.com/" target="_blank"><button class="btn btn-outline">平台地址</button></a>
+                                                             <a data-url="/user/b2b/tougao/type/6" class=" btn-dialog" data-toggle="modal" data-title="投稿B2B" data-area="[&quot;80%&quot;,&quot;80%&quot;]">
+                                    <button class="btn btn-primary">立即发布</button>
+                                </a>
+                            
+                                                    </div>
+
+                        <div class="price-label" style="margin-top: 20px;"></div>
+                    </div>
+                </div>
+                                <div class="card">
+                    <div class="card-header">
+                        <img src="/site-assets/images/home/logo.png?v=20260214" alt="黄页88" class="logo">
+                        <span class="status-badge">已开通</span>
+                    </div>
+                    <div class="card-body">
+
+                        <div class="price-section">
+                            
+                            <div class="price-value"><span class="price-currency">¥</span>3<span class="price-period">/篇</span></div>
+
+                        </div>
+                        <div class="card-actions">
+                            <a href="http://www.huangye88.com/" target="_blank"><button class="btn btn-outline">平台地址</button></a>
+                                                             <a data-url="/user/b2b/tougao/type/1" class=" btn-dialog" data-toggle="modal" data-title="投稿B2B" data-area="[&quot;80%&quot;,&quot;80%&quot;]">
+                                    <button class="btn btn-primary">立即发布</button>
+                                </a>
+                            
+                                                    </div>
+
+                        <div class="price-label" style="margin-top: 20px;">带GEO字眼、金融、医疗、保健品、学历提升不可发</div>
+                    </div>
+                </div>
+                
+           
+            
+        </div>
+    </div>
+
+
+    <div class="" style="margin-top: 50px;">
+        
+        <div class="header">
+            <div class="icon-wrapper">
+                <svg class="icon-globe" viewBox="0 0 24 24">
+                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"></path>
+                </svg>
+            </div>
+            <div class="title-container">
+                <h1 class="main-title">B2B店铺</h1>
+                <p class="subtitle">拥有自己的行业分类店铺，流量更精准</p>
+            </div>
+        </div>
+
+        
+        <div class="grid">
+                            <div class="card">
+                    <div class="card-header" id="header-2" style="position: relative;">
+                        <img src="/site-assets/user_assets/img/sole.png" alt="搜了网" class="logo">
+                                            </div>
+                    <div class="card-body">
+                        <div class="price-section">
+                            
+                            <div class="price-value"><span class="price-currency">¥</span>3<span class="price-period">/篇</span></div>
+                        </div>
+                        <div class="card-actions">
+                                                            <a href="https://www.51sole.com/" target="_blank"><button class="btn btn-outline">平台地址</button></a>
+                            
+                            <a data-url="/user/b2b/settle/type/2" id="settle-btn-2" class="btn-dialog" data-toggle="modal" data-title="搜了网 - 入驻店铺" data-area="[&quot;95%&quot;,&quot;95%&quot;]">
+                                                                        
+                                        <button class="btn btn-primary" title="还没有账号？立刻注册账号" id="settle-2">入驻店铺</button>
+                                        <button data-url="/user/b2b/configure/type/2" title="已有账号？试试配置账号吧" id="configure-2" data-title="搜了网 - 简易入驻" data-area="[&quot;80%&quot;,&quot;80%&quot;]" class="btn btn-primary btn-dialog">配置账号</button>
+                                                                </a>
+                        </div>
+                        <div class="price-label" style="margin-top: 20px;">需进行店铺入驻才可投稿</div>
+                    </div>
+                </div>
+                                <div class="card">
+                    <div class="card-header" id="header-8" style="position: relative;">
+                        <img src="/site-assets/img/b2b/1.jpg?v=2" alt="八方资源网" class="logo">
+                                            </div>
+                    <div class="card-body">
+                        <div class="price-section">
+                            
+                            <div class="price-value"><span class="price-currency">¥</span>3<span class="price-period">/篇</span></div>
+                        </div>
+                        <div class="card-actions">
+                                                            <a href="https://www.b2b168.com/" target="_blank"><button class="btn btn-outline">平台地址</button></a>
+                            
+                            <a data-url="/user/b2b/settle/type/8" id="settle-btn-8" class="btn-dialog" data-toggle="modal" data-title="八方资源网 - 入驻店铺" data-area="[&quot;95%&quot;,&quot;95%&quot;]">
+                                                                        <button class="btn btn-primary" id="settle-8">入驻店铺(20.00元)</button>
+                                                                </a>
+                        </div>
+                        <div class="price-label" style="margin-top: 20px;">需进行店铺入驻才可投稿</div>
+                    </div>
+                </div>
+                        </div>
+    </div>
+
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+
+
+    
+
+<script src="/vendor/jquery.js"></script><script src="/vendor/layui.js"></script><script src="/site-assets/user_assets/libs/bootstrap/dist/js/bootstrap.min.js"></script><script src="/ai-config.js"></script><script src="/services/ai-service.js"></script><script src="/site-assets/user_assets/js/require.js"></script><script>require(["/admin-runtime.js"]);</script></body></html>

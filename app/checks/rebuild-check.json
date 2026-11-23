@@ -1,0 +1,6 @@
+{
+  "result": {
+    "project": "D:\\MacyGEO\\咸鱼GEO系统",
+    "report": "web-visual: passed, 100% alike (needs 90%) — 1440 px: 100% alike (layout 100%, detail 100%; page height 900 vs 900 px); 768 px: 100% alike (layout 100%, detail 100%; page height 900 vs 900 px); 390 px: 100% alike (layout 100%, detail 100%; page height 900 vs 900 px); text 100% alike; structure 80% alike\nPictures of your build (compare each with the original's in capture/ or reference/): checks/round-0/screenshot-1440.png, checks/round-0/screenshot-768.png, checks/round-0/screenshot-390.png\nThis would pass. Finish what you're doing, then reply."
+  }
+}

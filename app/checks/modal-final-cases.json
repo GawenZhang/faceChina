@@ -1,0 +1,514 @@
+[
+  {
+    "key": "company_keyword",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/company_keyword-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "company_keyword",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/company_keyword-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "company_question",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/company_question-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "company_question",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/company_question-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "images_type-index-type-1",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/images_type-index-type-1-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "images_type-index-type-1",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/images_type-index-type-1-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "user_huaxiang",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/user_huaxiang-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "user_huaxiang",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/user_huaxiang-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "zhiling",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/zhiling-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "zhiling",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/zhiling-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "article_type",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/article_type-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "article_type",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/article_type-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "ai_task",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/ai_task-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "ai_task",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/ai_task-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "article",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/article-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "article",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/article-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "weixin_baowen",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/weixin_baowen-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "weixin_baowen",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/weixin_baowen-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "piliang_baowen",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/piliang_baowen-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "piliang_baowen",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/piliang_baowen-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "ai_image",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/ai_image-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "ai_image",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/ai_image-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "b2b_task",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/b2b_task-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b_task",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/b2b_task-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "user_contact",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/user_contact-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "user_contact",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/user_contact-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "webmedia",
+    "width": 1440,
+    "state": "dialog-0",
+    "selector": "[data-url=\"/user/webmedia/tougao/media_id/21471\"]",
+    "sourceImage": "capture/admin/states/special-webmedia-0-1440/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "webmedia_task",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/webmedia_task-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "webmedia_task",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/webmedia_task-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "media_collection-index-type-1",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/media_collection-index-type-1-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "media_collection-index-type-1",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/media_collection-index-type-1-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "zimedia",
+    "width": 1440,
+    "state": "dialog-0",
+    "selector": "[data-url=\"/user/zimedia/tougao/media_id/53781\"]",
+    "sourceImage": "capture/admin/states/special-zimedia-0-1440/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "media_collection-index-type-2",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/media_collection-index-type-2-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "media_collection-index-type-2",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/media_collection-index-type-2-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "draft",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/draft-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "draft",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/draft-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "user_site",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/user_site-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "user_site",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/user_site-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "user_site_task",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/user_site_task-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "user_site_task",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/user_site_task-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "user_tdk",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/user_tdk-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "user_tdk",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/user_tdk-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "images_type-index-type-2",
+    "width": 1440,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/images_type-index-type-2-interactive-1440/step-11.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "images_type-index-type-2",
+    "width": 390,
+    "state": "add",
+    "selector": ".btn-add",
+    "sourceImage": "capture/admin/states/images_type-index-type-2-interactive-390/step-11.png",
+    "opening_width": 390
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "state": "dialog-0",
+    "selector": "[data-url=\"/user/b2b/tougao/type/4\"]",
+    "opening_selector": "[data-url=\"/user/b2b/tougao/type/4\"] button",
+    "sourceImage": "capture/admin/states/special-b2b-0-1440/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "state": "dialog-0",
+    "selector": "[data-url=\"/user/b2b/tougao/type/4\"]",
+    "opening_selector": "[data-url=\"/user/b2b/tougao/type/4\"] button",
+    "sourceImage": "capture/admin/states/special-b2b-0-390/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "state": "dialog-2",
+    "selector": "[data-url=\"/user/b2b/tougao/type/5\"]",
+    "opening_selector": "[data-url=\"/user/b2b/tougao/type/5\"] button",
+    "sourceImage": "capture/admin/states/special-b2b-2-1440/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "state": "dialog-2",
+    "selector": "[data-url=\"/user/b2b/tougao/type/5\"]",
+    "opening_selector": "[data-url=\"/user/b2b/tougao/type/5\"] button",
+    "sourceImage": "capture/admin/states/special-b2b-2-390/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "state": "dialog-3",
+    "selector": "[data-url=\"/user/b2b/tougao/type/6\"]",
+    "opening_selector": "[data-url=\"/user/b2b/tougao/type/6\"] button",
+    "sourceImage": "capture/admin/states/special-b2b-3-1440/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "state": "dialog-3",
+    "selector": "[data-url=\"/user/b2b/tougao/type/6\"]",
+    "opening_selector": "[data-url=\"/user/b2b/tougao/type/6\"] button",
+    "sourceImage": "capture/admin/states/special-b2b-3-390/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "state": "dialog-4",
+    "selector": "[data-url=\"/user/b2b/tougao/type/1\"]",
+    "opening_selector": "[data-url=\"/user/b2b/tougao/type/1\"] button",
+    "sourceImage": "capture/admin/states/special-b2b-4-1440/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "state": "dialog-4",
+    "selector": "[data-url=\"/user/b2b/tougao/type/1\"]",
+    "opening_selector": "[data-url=\"/user/b2b/tougao/type/1\"] button",
+    "sourceImage": "capture/admin/states/special-b2b-4-390/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "webmedia",
+    "width": 390,
+    "state": "dialog-0",
+    "selector": "[data-url=\"/user/webmedia/tougao/media_id/21471\"]",
+    "sourceImage": "capture/admin/states/special-webmedia-0-390/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "zimedia",
+    "width": 390,
+    "state": "dialog-0",
+    "selector": "[data-url=\"/user/zimedia/tougao/media_id/53781\"]",
+    "sourceImage": "capture/admin/states/special-zimedia-0-390/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "state": "dialog-1",
+    "selector": "[data-url=\"/user/b2b/tougao/type/3\"]",
+    "opening_selector": "[data-url=\"/user/b2b/tougao/type/3\"] button",
+    "sourceImage": "capture/admin/states/special-b2b-repair-0-1440/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "state": "dialog-1",
+    "selector": "[data-url=\"/user/b2b/tougao/type/3\"]",
+    "opening_selector": "[data-url=\"/user/b2b/tougao/type/3\"] button",
+    "sourceImage": "capture/admin/states/special-b2b-repair-0-390/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "state": "dialog-5",
+    "selector": "[data-url=\"/user/b2b/settle/type/2\"]",
+    "opening_selector": "#settle-2",
+    "sourceImage": "capture/admin/states/special-store-0-1440/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "state": "dialog-5",
+    "selector": "[data-url=\"/user/b2b/settle/type/2\"]",
+    "opening_selector": "#settle-2",
+    "sourceImage": "capture/admin/states/special-store-0-390/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "state": "dialog-6",
+    "selector": "[data-url=\"/user/b2b/configure/type/2\"]",
+    "opening_selector": "#configure-2",
+    "sourceImage": "capture/admin/states/special-store-1-1440/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "state": "dialog-6",
+    "selector": "[data-url=\"/user/b2b/configure/type/2\"]",
+    "opening_selector": "#configure-2",
+    "sourceImage": "capture/admin/states/special-store-1-390/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 1440,
+    "state": "dialog-7",
+    "selector": "[data-url=\"/user/b2b/settle/type/8\"]",
+    "opening_selector": "#settle-8",
+    "sourceImage": "capture/admin/states/special-store-2-1440/final.png",
+    "opening_width": 1440
+  },
+  {
+    "key": "b2b",
+    "width": 390,
+    "state": "dialog-7",
+    "selector": "[data-url=\"/user/b2b/settle/type/8\"]",
+    "opening_selector": "#settle-8",
+    "sourceImage": "capture/admin/states/special-store-2-390/final.png",
+    "opening_width": 1440
+  }
+]

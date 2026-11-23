@@ -1,0 +1,166 @@
+<!DOCTYPE html><html><head>
+        <meta charset="utf-8">
+
+<title>
+    用户中心-鑫火GEO-鑫火GEO</title>
+<meta name="keywords" content="鑫火GEO，鑫火GEO">
+<meta name="description" content="鑫火GEO">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="renderer" content="webkit">
+<meta name="referrer" content="never">
+<meta name="robots" content="noindex, nofollow">
+
+<link rel="shortcut icon" href="/site-assets/assets/img/favicon.ico">
+
+<link href="/site-assets/user_assets/css/backend.css?v=1.3.1346" rel="stylesheet">
+
+<link href="/site-assets/user_assets/css/skins/skin-blue.css?v=1.3.1346" rel="stylesheet">
+
+<style type="text/css">
+    .layui-layer-fast .layui-layer-title{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+    .btn-primary{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+</style>
+
+
+<style type="text/css">
+    /* 整个滚动条 */
+    ::-webkit-scrollbar {width: 6px; /* 水平滚动条的高度、垂直滚动条的宽度 */height: 6px; /* 水平滚动条的高度 */border-radius: 10px!important;}
+    /* 滚动条轨道 */
+    ::-webkit-scrollbar-track {background: #333; /* 轨道颜色 */}
+    /* 滚动条滑块 */
+    ::-webkit-scrollbar-thumb {background: #999; /* 滑块颜色 */}
+    /* 滑块hover效果 */
+    ::-webkit-scrollbar-thumb:hover {background: #777; /* 滑块hover颜色 */}
+</style>
+
+
+
+
+
+    <link type="text/css" rel="stylesheet" href="/site-assets/user_assets/layui/css/layui.css?v=1.3.1346"><link id="layuicss-laydate" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/laydate/default/laydate.css?v=5.3.1" media="all"><link id="layuicss-layer" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/layer/default/layer.css?v=3.5.1" media="all"><link id="layuicss-skincodecss" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/code.css?v=3" media="all"><meta name="robots" content="noindex,nofollow,noarchive"><link rel="stylesheet" href="/admin-runtime.css"><script>if(innerWidth<=600)location.replace("/backend-pages/b2b_task-add.mobile.html"+location.search+location.hash);</script></head>
+
+    <body class="inside-header inside-aside " data-page-key="b2b_task-add" data-page-path="/user/b2b_task/add">
+        <div id="main" role="main">
+            <div class="tab-content tab-addtabs">
+                <div id="content">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <section class="content-header hide">
+                                <h1>
+                                    控制台                                    <small>Control panel</small>
+                                </h1>
+                            </section>
+                                                        <div class="content">
+                                <style type="text/css">
+    .red_xing{color:red;margin-right: 3px;}
+    .mode2_block{display: none;}
+</style>
+
+<form id="add-form" class="form-horizontal nice-validator n-default n-bootstrap" role="form" data-toggle="validator" novalidate="novalidate" action="#" method="get">
+    
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>任务名:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-task_name" class="form-control" name="row[task_name]" type="text" placeholder="任务名" value="">
+        </div>
+    </div>
+
+    <div class="form-group video_urls_block form-group-jianji-group">
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>发布网站:</label>
+        <div class="col-xs-12 col-sm-8">
+            
+            <div class="dropdown bootstrap-select show-tick form-control bs3"><select class="form-control selectpicker" data-actions-box="true" multiple="" data-live-search="true" required="true" name="b2b_ids[]"><option value="1">列举网</option><option value="3">博客园</option><option value="4">商业新知</option><option value="5">蓝色河畔</option><option value="7">黄页88</option></select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-default bs-placeholder" data-toggle="dropdown" role="combobox" aria-owns="bs-select-1" aria-haspopup="listbox" aria-expanded="false" title="没有选中任何项"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">没有选中任何项</div></div> </div><span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" role="combobox" aria-label="Search" aria-controls="bs-select-1" aria-autocomplete="list"></div><div class="bs-actionsbox"><div class="btn-group btn-group-sm btn-block"><button type="button" class="actions-btn bs-select-all btn btn-default">全选</button><button type="button" class="actions-btn bs-deselect-all btn btn-default">取消全选</button></div></div><div class="inner open" role="listbox" id="bs-select-1" tabindex="-1" aria-multiselectable="true"><ul class="dropdown-menu inner " role="presentation"></ul></div></div></div>        </div>
+    </div>
+
+    <div class="form-group video_urls_block">
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>AI文章分类:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="dropdown bootstrap-select form-control bs3"><select class="form-control selectpicker" data-actions-box="true" data-live-search="true" required="true" name="row[article_type_id]"><option value="0">选择文章（文章：0）</option></select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-default" data-toggle="dropdown" role="combobox" aria-owns="bs-select-2" aria-haspopup="listbox" aria-expanded="false" title="选择文章（文章：0）"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">选择文章（文章：0）</div></div> </div><span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" role="combobox" aria-label="Search" aria-controls="bs-select-2" aria-autocomplete="list"></div><div class="inner open" role="listbox" id="bs-select-2" tabindex="-1"><ul class="dropdown-menu inner " role="presentation"></ul></div></div></div>        </div>
+    </div>
+
+    <div class="form-group video_urls_block">
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>电话:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="dropdown bootstrap-select form-control bs3"><select class="form-control selectpicker" data-actions-box="true" data-live-search="true" required="true" name="row[contact_phone_id]"><option value="0">选择电话</option><option value="975">4000006236</option></select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-default" data-toggle="dropdown" role="combobox" aria-owns="bs-select-3" aria-haspopup="listbox" aria-expanded="false" title="选择电话"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">选择电话</div></div> </div><span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" role="combobox" aria-label="Search" aria-controls="bs-select-3" aria-autocomplete="list"></div><div class="inner open" role="listbox" id="bs-select-3" tabindex="-1"><ul class="dropdown-menu inner " role="presentation"></ul></div></div></div>        </div>
+    </div>
+
+    <div class="form-group video_urls_block">
+        <label class="control-label col-xs-12 col-sm-2">网址:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="dropdown bootstrap-select form-control bs3"><select class="form-control selectpicker" data-actions-box="true" data-live-search="true" required="true" name="row[contact_site_id]"><option value="0">选择网址</option><option value="974">www.xinyaoquan.com</option></select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-default" data-toggle="dropdown" role="combobox" aria-owns="bs-select-4" aria-haspopup="listbox" aria-expanded="false" title="选择网址"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">选择网址</div></div> </div><span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" role="combobox" aria-label="Search" aria-controls="bs-select-4" aria-autocomplete="list"></div><div class="inner open" role="listbox" id="bs-select-4" tabindex="-1"><ul class="dropdown-menu inner " role="presentation"></ul></div></div></div>        </div>
+    </div>
+
+    <div class="form-group video_urls_block">
+        <label class="control-label col-xs-12 col-sm-2">列举网地区:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="dropdown bootstrap-select form-control bs3"><select class="form-control selectpicker" data-actions-box="true" data-live-search="true" required="true" name="row[lieju_city_id]"><option value="0">选择地区</option><option value="1">北京</option><option value="2">上海</option><option value="3">天津</option><option value="4">重庆</option><option value="5">广州</option><option value="6">深圳</option><option value="7">珠海</option><option value="8">汕头</option><option value="9">韶关</option><option value="10">佛山</option><option value="11">江门</option><option value="12">湛江</option><option value="13">茂名</option><option value="14">肇庆</option><option value="15">惠州</option><option value="16">梅州</option><option value="17">汕尾</option><option value="18">河源</option><option value="19">阳江</option><option value="20">清远</option><option value="21">东莞</option><option value="22">中山</option><option value="23">潮州</option><option value="24">揭阳</option><option value="25">云浮</option><option value="26">杭州</option><option value="27">嘉兴</option><option value="28">宁波</option><option value="29">湖州</option><option value="30">绍兴</option><option value="31">金华</option><option value="32">衢州</option><option value="33">舟山</option><option value="34">台州</option><option value="35">丽水</option><option value="37">温州</option><option value="38">合肥</option><option value="39">芜湖</option><option value="40">蚌埠</option><option value="41">淮南</option><option value="42">马鞍山</option><option value="43">淮北</option><option value="44">铜陵</option><option value="45">安庆</option><option value="46">黄山</option><option value="47">滁州</option><option value="48">阜阳</option><option value="50">六安</option><option value="51">亳州</option><option value="52">池州</option><option value="53">宣城</option><option value="54">宿州</option><option value="55">福州</option><option value="56">厦门</option><option value="57">莆田</option><option value="58">三明</option><option value="59">泉州</option><option value="60">漳州</option><option value="61">南平</option><option value="62">龙岩</option><option value="63">宁德</option><option value="64">兰州</option><option value="65">嘉峪关</option><option value="66">金昌</option><option value="67">白银</option><option value="68">天水</option><option value="69">武威</option><option value="70">张掖</option><option value="71">平凉</option><option value="72">酒泉</option><option value="73">庆阳</option><option value="74">定西</option><option value="75">陇南</option><option value="76">临夏</option><option value="77">甘南</option><option value="78">南宁</option><option value="79">柳州</option><option value="80">桂林</option><option value="81">梧州</option><option value="82">贵港</option><option value="83">钦州</option><option value="84">北海</option><option value="85">防城港</option><option value="86">崇左</option><option value="87">百色</option><option value="88">河池</option><option value="89">来宾</option><option value="90">贺州</option><option value="91">玉林</option><option value="92">贵阳</option><option value="93">六盘水</option><option value="94">遵义</option><option value="95">安顺</option><option value="96">黔南</option><option value="97">黔东南</option><option value="98">黔西南</option><option value="99">毕节</option><option value="100">铜仁</option><option value="101">海口</option><option value="102">三亚</option><option value="103">石家庄</option><option value="104">沧州</option><option value="105">克孜勒苏</option><option value="106">邯郸</option><option value="107">邢台</option><option value="108">保定</option><option value="109">张家口</option><option value="110">承德</option><option value="111">唐山</option><option value="112">廊坊</option><option value="113">衡水</option><option value="114">秦皇岛</option><option value="115">郑州</option><option value="116">焦作</option><option value="117">洛阳</option><option value="118">信阳</option><option value="119">驻马店</option><option value="120">鹤壁</option><option value="121">新乡</option><option value="122">安阳</option><option value="123">濮阳</option><option value="124">许昌</option><option value="125">漯河</option><option value="126">三门峡</option><option value="127">南阳</option><option value="128">商丘</option><option value="129">平顶山</option><option value="130">周口</option><option value="131">开封</option><option value="132">哈尔滨</option><option value="133">齐齐哈尔</option><option value="134">鸡西</option><option value="135">鹤岗</option><option value="136">双鸭山</option><option value="137">大庆</option><option value="138">伊春</option><option value="139">佳木斯</option><option value="140">七台河</option><option value="141">牡丹江</option><option value="142">黑河</option><option value="143">绥化</option><option value="144">大兴安岭</option><option value="145">武汉</option><option value="146">襄阳</option><option value="147">黄石</option><option value="148">十堰</option><option value="149">随州</option><option value="150">宜昌</option><option value="151">荆州</option><option value="152">咸宁</option><option value="153">鄂州</option><option value="154">黄冈</option><option value="155">孝感</option><option value="156">荆门</option><option value="157">恩施</option><option value="158">长沙</option><option value="159">株洲</option><option value="160">湘潭</option><option value="161">衡阳</option><option value="162">邵阳</option><option value="163">岳阳</option><option value="164">常德</option><option value="165">张家界</option><option value="166">益阳</option><option value="167">郴州</option><option value="168">永州</option><option value="169">怀化</option><option value="170">娄底</option><option value="171">湘西</option><option value="172">长春</option><option value="173">吉林</option><option value="174">四平</option><option value="175">辽源</option><option value="176">通化</option><option value="177">白山</option><option value="178">松原</option><option value="179">白城</option><option value="180">延边</option><option value="181">南京</option><option value="182">无锡</option><option value="183">徐州</option><option value="184">常州</option><option value="185">扬州</option><option value="186">南通</option><option value="187">连云港</option><option value="188">淮安</option><option value="189">盐城</option><option value="190">苏州</option><option value="191">镇江</option><option value="192">宿迁</option><option value="193">泰州</option><option value="194">南昌</option><option value="195">景德镇</option><option value="196">萍乡</option><option value="197">九江</option><option value="198">新余</option><option value="199">鹰潭</option><option value="200">赣州</option><option value="201">吉安</option><option value="202">上饶</option><option value="203">宜春</option><option value="204">抚州</option><option value="205">沈阳</option><option value="206">大连</option><option value="207">鞍山</option><option value="208">抚顺</option><option value="209">本溪</option><option value="210">丹东</option><option value="211">锦州</option><option value="212">营口</option><option value="213">阜新</option><option value="214">辽阳</option><option value="215">盘锦</option><option value="216">铁岭</option><option value="217">朝阳</option><option value="218">葫芦岛</option><option value="219">呼和浩特</option><option value="220">包头</option><option value="221">呼伦贝尔</option><option value="222">赤峰</option><option value="223">通辽</option><option value="224">鄂尔多斯</option><option value="225">乌海</option><option value="226">巴彦淖尔</option><option value="227">乌兰察布</option><option value="228">兴安</option><option value="229">锡林郭勒</option><option value="230">阿拉善</option><option value="231">银川</option><option value="232">石嘴山</option><option value="233">吴忠</option><option value="234">固原</option><option value="235">中卫</option><option value="236">西宁</option><option value="237">海东</option><option value="238">海北</option><option value="239">黄南</option><option value="240">果洛</option><option value="241">玉树</option><option value="242">海西</option><option value="243">济南</option><option value="244">济宁</option><option value="245">淄博</option><option value="246">枣庄</option><option value="247">东营</option><option value="248">烟台</option><option value="249">潍坊</option><option value="250">威海</option><option value="251">青岛</option><option value="252">泰安</option><option value="253">日照</option><option value="254">莱芜</option><option value="255">临沂</option><option value="256">德州</option><option value="257">聊城</option><option value="258">滨州</option><option value="259">菏泽</option><option value="260">太原</option><option value="261">大同</option><option value="262">阳泉</option><option value="263">长治</option><option value="264">晋城</option><option value="265">朔州</option><option value="266">晋中</option><option value="267">运城</option><option value="268">忻州</option><option value="269">临汾</option><option value="270">吕梁</option><option value="271">西安</option><option value="272">铜川</option><option value="273">宝鸡</option><option value="274">咸阳</option><option value="275">渭南</option><option value="276">延安</option><option value="277">汉中</option><option value="278">榆林</option><option value="279">安康</option><option value="280">商洛</option><option value="281">成都</option><option value="282">泸州</option><option value="283">绵阳</option><option value="284">德阳</option><option value="285">南充</option><option value="286">广安</option><option value="287">遂宁</option><option value="288">内江</option><option value="289">乐山</option><option value="290">自贡</option><option value="291">广元</option><option value="292">宜宾</option><option value="293">攀枝花</option><option value="294">巴中</option><option value="295">达州</option><option value="296">资阳</option><option value="297">眉山</option><option value="298">雅安</option><option value="299">阿坝</option><option value="300">甘孜</option><option value="301">凉山</option><option value="302">拉萨</option><option value="303">昌都</option><option value="304">山南</option><option value="305">日喀则</option><option value="306">那曲</option><option value="307">阿里</option><option value="308">林芝</option><option value="309">乌鲁木齐</option><option value="310">克拉玛依</option><option value="311">吐鲁番</option><option value="312">哈密</option><option value="313">和田</option><option value="314">阿克苏</option><option value="315">喀什</option><option value="316">巴音郭楞</option><option value="317">昌吉</option><option value="318">博尔塔拉</option><option value="319">伊犁</option><option value="320">塔城</option><option value="321">阿勒泰</option><option value="322">石河子</option><option value="323">昆明</option><option value="324">曲靖</option><option value="325">玉溪</option><option value="326">保山</option><option value="327">昭通</option><option value="328">丽江</option><option value="329">临沧</option><option value="330">文山</option><option value="331">红河</option><option value="332">西双版纳</option><option value="333">楚雄</option><option value="334">大理</option><option value="335">德宏</option><option value="336">怒江</option><option value="337">迪庆</option><option value="338">普洱</option></select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-default" data-toggle="dropdown" role="combobox" aria-owns="bs-select-5" aria-haspopup="listbox" aria-expanded="false" title="选择地区"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">选择地区</div></div> </div><span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" role="combobox" aria-label="Search" aria-controls="bs-select-5" aria-autocomplete="list"></div><div class="inner open" role="listbox" id="bs-select-5" tabindex="-1"><ul class="dropdown-menu inner " role="presentation"></ul></div></div></div>                <p style="margin-top: 5px;font-size: 12px;color:#888">该选择地区，仅列举网生效</p>
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>发布日期:</label>
+        <div class="col-xs-12 col-sm-3">
+            <input id="c-start_date" class="form-control" name="row[start_date]" data-rule="" type="date" placeholder="开始时间" value="2026-11-22">
+        </div>
+
+        <div class="col-xs-12 col-sm-1" style="vertical-align: bottom;text-align: center;margin-top: 6px;">
+            至
+        </div>
+
+        <div class="col-xs-12 col-sm-3">
+            <input id="c-end_date" class="form-control" name="row[end_date]" data-rule="" type="date" placeholder="结束时间" value="2026-12-22">
+        </div>
+    </div>
+
+
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>每日发布(篇):</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-day_send_count" class="form-control" name="row[day_send_count]" type="number" placeholder="每日发布文章量" value="10">
+            <p style="margin-top: 5px;font-size: 12px;color:#888">每日发布多少篇文章后，当日就不再发布</p>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>总预算(元):</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-all_price" class="form-control" name="row[all_price]" type="number" placeholder="总预算(元)" value="10">
+            <p style="margin-top: 5px;font-size: 12px;color:#888">发布达到总预算金额后，任务会自动完成</p>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">文章去重:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="radio"><label for="row[is_quchong]-0"><input id="row[is_quchong]-0" checked="checked" name="row[is_quchong]" type="radio" value="0"> 不去重</label> <label for="row[is_quchong]-1"><input id="row[is_quchong]-1" name="row[is_quchong]" type="radio" value="1"> 去重</label></div>            <p style="margin-top: 5px;font-size: 12px;color:#888">【去重】即文章每一篇都不重复，文章都已发布过的话，任务会自动完成</p>
+        </div>
+    </div>
+
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-primary btn-embossed">提交任务</button>
+        </div>
+    </div>
+</form>
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+
+
+    
+
+<script src="/vendor/jquery.js"></script><script src="/vendor/layui.js"></script><script src="/site-assets/user_assets/libs/bootstrap/dist/js/bootstrap.min.js"></script><script src="/site-assets/user_assets/libs/bootstrap-select/dist/js/bootstrap-select.min.js"></script><script src="/site-assets/user_assets/libs/bootstrap-select/dist/js/i18n/defaults-zh_CN.js"></script><script src="/ai-config.js"></script><script src="/services/ai-service.js"></script><script src="/site-assets/user_assets/js/require.js"></script><script>require(["/admin-runtime.js"]);</script></body></html>

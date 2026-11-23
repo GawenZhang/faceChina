@@ -1,0 +1,78 @@
+﻿{
+  "total": 170,
+  "compared": 170,
+  "needsFix": [
+    {
+      "key": "company_keyword-add",
+      "width": 390,
+      "errors": 0,
+      "failed": 0,
+      "ssim": 0.8130355082799797,
+      "diff": 0.0891908831908832
+    },
+    {
+      "key": "user_huaxiang-add",
+      "width": 390,
+      "errors": 0,
+      "failed": 0,
+      "ssim": 0.6970149578314219,
+      "diff": 0.10430435990002777
+    },
+    {
+      "key": "ai_task-add",
+      "width": 390,
+      "errors": 0,
+      "failed": 0,
+      "ssim": 0.5656711079717346,
+      "diff": 0.24445746491448342
+    },
+    {
+      "key": "article-add",
+      "width": 1440,
+      "errors": 0,
+      "failed": 0,
+      "ssim": 0.9301726101291302,
+      "diff": 0.031650041562759766
+    },
+    {
+      "key": "article-add",
+      "width": 390,
+      "errors": 0,
+      "failed": 0,
+      "ssim": 0.7664637713053014,
+      "diff": 0.08463959182913432
+    },
+    {
+      "key": "b2b_task-add",
+      "width": 1440,
+      "errors": 0,
+      "failed": 0,
+      "ssim": 0.9662195719807501,
+      "diff": 0.06328395061728395
+    },
+    {
+      "key": "user_score_log",
+      "width": 390,
+      "errors": 0,
+      "failed": 0,
+      "ssim": 0.9678401563628339,
+      "diff": 0.012888888888888889
+    },
+    {
+      "key": "b2b-settle-type-8",
+      "width": 1440,
+      "errors": 0,
+      "failed": 0,
+      "ssim": 0.96429470522719,
+      "diff": 0.06309501142421935
+    },
+    {
+      "key": "b2b-settle-type-8",
+      "width": 390,
+      "errors": 0,
+      "failed": 0,
+      "ssim": 0.5946810827559506,
+      "diff": 0.16581549035157284
+    }
+  ]
+}

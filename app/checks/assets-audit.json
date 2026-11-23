@@ -1,0 +1,470 @@
+{
+  "assetFiles": 176,
+  "htmlAssets": 61,
+  "missingHtml": [],
+  "cssReferences": 169,
+  "missingCss": [
+    {
+      "source": "user_assets/css/ai_shoulu.css",
+      "reference": "/template/pc/skin/images/bar.png",
+      "path": "site-assets/template/pc/skin/images/bar.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/fastadmin.css",
+      "reference": "../img/boxed-bg.jpg",
+      "path": "site-assets/user_assets/img/boxed-bg.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/media.css",
+      "reference": "/statics/v11/images/activity.png",
+      "path": "site-assets/statics/v11/images/activity.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "/statics/mjy/v1/images/index/fixed_left.png",
+      "path": "site-assets/statics/mjy/v1/images/index/fixed_left.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/b1.jpg",
+      "path": "site-assets/user_assets/images/b1.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/b2.jpg",
+      "path": "site-assets/user_assets/images/b2.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/b3.jpg",
+      "path": "site-assets/user_assets/images/b3.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/b4.jpg",
+      "path": "site-assets/user_assets/images/b4.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/map.png",
+      "path": "site-assets/user_assets/images/map.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "owl.video.play.png",
+      "path": "site-assets/user_assets/css/owl.video.play.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/loading.gif",
+      "path": "site-assets/user_assets/images/loading.gif",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/img-sprite.png",
+      "path": "site-assets/user_assets/images/img-sprite.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/img-sprite.png",
+      "path": "site-assets/user_assets/images/img-sprite.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/close.png",
+      "path": "site-assets/user_assets/images/close.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_protection.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_protection.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_about.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_about.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_about.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_about.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_resources.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_resources.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_solution.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_solution.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_baidu.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_baidu.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_image.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_image.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_hatch.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_hatch.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_agriculture.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_agriculture.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_government.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_government.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_protection2.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_protection2.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_construction.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_construction.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_spread.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_spread.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_media.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_media.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_contact.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_contact.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_charity.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_charity.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_services.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_services.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_services_americanmedia.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_services_americanmedia.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_services_drones.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_services_drones.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_services_articlemarketing.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_services_articlemarketing.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_services_cctv.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_services_cctv.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_services_effectadvertising.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_services_effectadvertising.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_product.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_product.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg1.jpg",
+      "path": "site-assets/user_assets/images/bg1.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/services/bg1.jpg",
+      "path": "site-assets/user_assets/images/services/bg1.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/services/bg2.jpg",
+      "path": "site-assets/user_assets/images/services/bg2.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/services/bg3.jpg",
+      "path": "site-assets/user_assets/images/services/bg3.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/services/bg4.jpg",
+      "path": "site-assets/user_assets/images/services/bg4.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/services/bg5.jpg",
+      "path": "site-assets/user_assets/images/services/bg5.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/services/bg6.jpg",
+      "path": "site-assets/user_assets/images/services/bg6.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/bg/bg_client.jpg",
+      "path": "site-assets/user_assets/images/bg/bg_client.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/cm_01.png",
+      "path": "site-assets/user_assets/images/index/cm_01.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/cm_index65.png",
+      "path": "site-assets/user_assets/images/index/cm_index65.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/cm_10.png",
+      "path": "site-assets/user_assets/images/index/cm_10.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/cm_index42.png",
+      "path": "site-assets/user_assets/images/index/cm_index42.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/akd.png",
+      "path": "site-assets/user_assets/images/index/akd.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/bls.png",
+      "path": "site-assets/user_assets/images/index/bls.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/z20.png",
+      "path": "site-assets/user_assets/images/index/z20.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/sc.png",
+      "path": "site-assets/user_assets/images/index/sc.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/gzxj.png",
+      "path": "site-assets/user_assets/images/index/gzxj.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/jyzb.png",
+      "path": "site-assets/user_assets/images/index/jyzb.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/UIOT.png",
+      "path": "site-assets/user_assets/images/index/UIOT.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../images/index/cm_12.png",
+      "path": "site-assets/user_assets/images/index/cm_12.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "../../images/modile/icon19.png",
+      "path": "site-assets/images/modile/icon19.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "/statics/mjy/v1/images/index/matrix_bg.png",
+      "path": "site-assets/statics/mjy/v1/images/index/matrix_bg.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "/statics/mjy/v1/images/index/matrix_bg.png",
+      "path": "site-assets/statics/mjy/v1/images/index/matrix_bg.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "/statics/mjy/v1/images/index/index_banner_01.png",
+      "path": "site-assets/statics/mjy/v1/images/index/index_banner_01.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "/statics/mjy/v1/images/index/u205.png",
+      "path": "site-assets/statics/mjy/v1/images/index/u205.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "/statics/mjy/v1/images/index/u205.png",
+      "path": "site-assets/statics/mjy/v1/images/index/u205.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "/statics/mjy/v1/images/index/boutique_left.png",
+      "path": "site-assets/statics/mjy/v1/images/index/boutique_left.png",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "/statics/mjy/v1/images/index/boutique_right.jpg",
+      "path": "site-assets/statics/mjy/v1/images/index/boutique_right.jpg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    },
+    {
+      "source": "user_assets/css/style-auto.css",
+      "reference": "/statics/mjy/v1/images/pages/u1191.svg",
+      "path": "site-assets/statics/mjy/v1/images/pages/u1191.svg",
+      "exists": false,
+      "originalStatus": "Public asset unavailable: 404"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "updated": "2026-11-22T15:03:49.346Z",
+  "scope": "Recovery validation of the existing static demo; app runtime unchanged.",
+  "resumeValidationPassed": true,
+  "sourceAndDistRuntimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+  "checks": [
+    {
+      "command": "npm.cmd test",
+      "cwd": "app",
+      "exitCode": 0,
+      "passed": 21,
+      "coverage": "6 login logic/HTML checks and 15 AI service checks"
+    },
+    {
+      "command": "npm.cmd run test:browser",
+      "cwd": "app",
+      "exitCode": 0,
+      "passed": 8,
+      "coverage": "Assertions against previously saved login/AI browser captures at 1440/390; not a fresh browser interaction run"
+    },
+    {
+      "command": "npm.cmd run build",
+      "cwd": "app",
+      "exitCode": 0,
+      "backendRoutes": 84
+    },
+    {
+      "command": "rebuild_check",
+      "passed": true,
+      "report": "resume-rebuild-check.json",
+      "coverage": "Fresh login entry page comparison at 1440/768/390 only",
+      "visualPercent": 100,
+      "textPercent": 100,
+      "structurePercent": 80
+    },
+    {
+      "command": "node app/tools/audit-integrity.mjs",
+      "cwd": "project root",
+      "exitCode": 0,
+      "passed": true,
+      "textFilesChecked": 5904,
+      "credentialHits": 0,
+      "tokenHits": 0,
+      "servedHtml": 260
+    }
+  ],
+  "residualReview": {
+    "measuredInteractions": 268,
+    "meetingVisualThreshold": 263,
+    "documentedDataDifferences": 5,
+    "reason": "user_score_log baseline and local capture contain three rows; later source interaction captures contain zero. No runtime defect established; retain both captures and measured differences.",
+    "sourceDataChanged": false
+  },
+  "openUnknowns": [
+    {
+      "id": "unk_535e912a89bb59c9",
+      "remaining": "Original login-error response and server implementation are unverified; successful redirect is already known."
+    },
+    {
+      "id": "unk_72d7e78db17ca13b",
+      "remaining": "Original unchecked-agreement message lacks two-width visual evidence; original Layer assets are already local."
+    }
+  ],
+  "deliveryLimit": "Static demo only; live AI, authentication, database, payments, publishing and uploads are not connected."
+}

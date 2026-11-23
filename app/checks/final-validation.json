@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-11-22T15:18:25.199Z",
+  "status": "complete",
+  "build": {
+    "passed": true,
+    "contentRoutes": 84,
+    "log": "build.txt",
+    "bindings": [
+      {
+        "file": "login.html",
+        "source": "5684f5a87bfbe71a0eb69ff4b1a4ad0d8870be9f6aa0a9e33ea5ee96130ff79f",
+        "build": "5684f5a87bfbe71a0eb69ff4b1a4ad0d8870be9f6aa0a9e33ea5ee96130ff79f"
+      },
+      {
+        "file": "login.js",
+        "source": "895b4541420692adffd279dd29485f42e92c57cf0a8cd48790dfa7e069f85bbf",
+        "build": "895b4541420692adffd279dd29485f42e92c57cf0a8cd48790dfa7e069f85bbf"
+      },
+      {
+        "file": "login.css",
+        "source": "ab287d477823a655498094eaf018c136850fc1d0a5246089014de40ab63a5c84",
+        "build": "ab287d477823a655498094eaf018c136850fc1d0a5246089014de40ab63a5c84"
+      },
+      {
+        "file": "admin-runtime.js",
+        "source": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+        "build": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c"
+      },
+      {
+        "file": "admin-runtime.css",
+        "source": "8cbe33494339f858c3576e692dac71b1fc010fca5ab234c517f4c0eec81b792e",
+        "build": "8cbe33494339f858c3576e692dac71b1fc010fca5ab234c517f4c0eec81b792e"
+      }
+    ]
+  },
+  "tests": {
+    "logicTests": 21,
+    "browserEvidenceAssertions": 14,
+    "acceptance": "passed",
+    "freshLocalBrowserFlows": 8,
+    "freshSourceLocalLoginStates": 12
+  },
+  "rebuild": {
+    "passed": true,
+    "scope": "Login initial state at 1440/768/390; backend evidence separately indexed",
+    "report": "final-rebuild-check.json"
+  },
+  "preview": {
+    "passed": true,
+    "checks": [
+      {
+        "url": "http://127.0.0.1:4173/",
+        "status": 200,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "url": "http://127.0.0.1:4173/user/index/login/",
+        "status": 200,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "url": "http://127.0.0.1:4173/user/index/index/",
+        "status": 200,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "url": "http://127.0.0.1:4173/backend-pages/dashboard.html",
+        "status": 200,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "url": "http://127.0.0.1:4173/backend-pages/dashboard.mobile.html",
+        "status": 200,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "url": "http://127.0.0.1:4173/robots.txt",
+        "status": 200,
+        "robots": "noindex, nofollow"
+      }
+    ],
+    "flows": "final-preview-flows.txt"
+  },
+  "acceptance": {
+    "pageWidths": 170,
+    "interactions": 268,
+    "loginComparisons": 6,
+    "snapshotDifferences": 5,
+    "retainedLoginDifferences": 2,
+    "unverified": 0,
+    "needsFix": 0,
+    "missingLinks": []
+  },
+  "integrity": {
+    "pass": true,
+    "report": "integrity.json",
+    "credentialHits": 0,
+    "tokenFiles": 0
+  },
+  "unknowns": [
+    {
+      "id": "unk_0bcd85dd07f0d2a3",
+      "status": "resolved",
+      "resolution": "本轮收到明确CLI执行指令后，通过指定CLI --allow-run --deep 完成登录。后续MCP只读观测确认已进入鉴权后的点数明细页；不再以旧MCP审批阻塞解释未完成范围。原站错误登录响应与其他业务差异单独在验收说明列出。"
+    },
+    {
+      "id": "unk_535e912a89bb59c9",
+      "status": "resolved",
+      "resolution": "已完成CLI双宽实测：空表单原生required提示；虚构错误账号POST返回HTTP200“用户名不正确”独立页及3秒返回。成功登录落点前轮已确认。本地错误反馈保留“演示账号或密码错误”Layer并不发送认证请求，截图及原因见app/checks/login-closure.json。此未知的交互证据部分已解决；服务端源码、真实鉴权及其他错误分支作为静态演示的已登记范围边界，不声明等价。"
+    },
+    {
+      "id": "unk_72d7e78db17ca13b",
+      "status": "resolved",
+      "resolution": "已完成原站及本地1440/390实际填表、取消协议并提交的CLI截图、DOM及网络取证，均显示“请阅读并勾选用户协议”，无登录POST；感知相似度均超过98%。微量残差为Layer抖动截图时刻差异，实测数值见app/checks/login-closure.json。采用隔离临时上下文，未退出原站持久会话。"
+    },
+    {
+      "id": "unk_7b92ec1d09a1090d",
+      "status": "resolved",
+      "resolution": "用户明确要求全量复刻且文字层级与原站一致；现按既有原站证据恢复登录品牌及短宣传语，不再保留无依据的额外授权阻塞。"
+    },
+    {
+      "id": "unk_9f41cb691a4d0c3e",
+      "status": "resolved",
+      "resolution": "通过用户指定CLI登录并遍历49菜单页、25新增/编辑页、10弹窗内容页；84内容路由双宽模板以及后台外框已建立，技术组合为实际观测的Layui/jQuery/Bootstrap/RequireJS/FastAdmin/AdminLTE。双宽交互、成熟表单与截图对照归档在capture/admin、app/checks；后端服务实现仍是明确记录的非等价边界，不再属于菜单技术组合未知。"
+    }
+  ],
+  "limitations": "Static demo; source error response differs from local demo message and is explicitly retained. Server authentication, database, paid publishing/upload and live AI are not implemented."
+}

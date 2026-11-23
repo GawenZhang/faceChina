@@ -1,0 +1,1 @@
+﻿import fs from 'node:fs';for(const r of JSON.parse(fs.readFileSync('capture/admin/routes.json'))){const h=fs.readFileSync('capture/admin/'+r.key+'-1440/final.html','utf8');const canv=[...h.matchAll(/<canvas\b[^>]*>/g)].map(x=>x[0]);if(canv.length)console.log(r.key,canv.join(' ').slice(0,900));}

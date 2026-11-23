@@ -1,0 +1,231 @@
+<!DOCTYPE html><html><head>
+        <meta charset="utf-8">
+
+<title>
+    用户中心-鑫火GEO-鑫火GEO</title>
+<meta name="keywords" content="鑫火GEO，鑫火GEO">
+<meta name="description" content="鑫火GEO">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="renderer" content="webkit">
+<meta name="referrer" content="never">
+<meta name="robots" content="noindex, nofollow">
+
+<link rel="shortcut icon" href="/site-assets/assets/img/favicon.ico">
+
+<link href="/site-assets/user_assets/css/backend.css?v=1.3.1346" rel="stylesheet">
+
+<link href="/site-assets/user_assets/css/skins/skin-blue.css?v=1.3.1346" rel="stylesheet">
+
+<style type="text/css">
+    .layui-layer-fast .layui-layer-title{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+    .btn-primary{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+</style>
+
+
+<style type="text/css">
+    /* 整个滚动条 */
+    ::-webkit-scrollbar {width: 6px; /* 水平滚动条的高度、垂直滚动条的宽度 */height: 6px; /* 水平滚动条的高度 */border-radius: 10px!important;}
+    /* 滚动条轨道 */
+    ::-webkit-scrollbar-track {background: #333; /* 轨道颜色 */}
+    /* 滚动条滑块 */
+    ::-webkit-scrollbar-thumb {background: #999; /* 滑块颜色 */}
+    /* 滑块hover效果 */
+    ::-webkit-scrollbar-thumb:hover {background: #777; /* 滑块hover颜色 */}
+</style>
+
+
+
+
+
+    <link type="text/css" rel="stylesheet" href="/site-assets/user_assets/layui/css/layui.css?v=1.3.1346"><link id="layuicss-laydate" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/laydate/default/laydate.css?v=5.3.1" media="all"><link id="layuicss-layer" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/layer/default/layer.css?v=3.5.1" media="all"><link id="layuicss-skincodecss" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/code.css?v=3" media="all"><meta name="robots" content="noindex,nofollow,noarchive"><link rel="stylesheet" href="/admin-runtime.css"><script>if(innerWidth<=600)location.replace("/backend-pages/company_keyword-add.mobile.html"+location.search+location.hash);</script></head>
+
+    <body class="inside-header inside-aside " data-page-key="company_keyword-add" data-page-path="/user/company_keyword/add">
+        <div id="main" role="main">
+            <div class="tab-content tab-addtabs">
+                <div id="content">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <section class="content-header hide">
+                                <h1>
+                                    控制台                                    <small>Control panel</small>
+                                </h1>
+                            </section>
+                                                        <div class="content">
+                                <style type="text/css">
+    .mode2_block {
+        display: none;
+    }
+</style>
+
+<form id="add-form" class="form-horizontal nice-validator n-default n-bootstrap" role="form" data-toggle="validator" novalidate="novalidate" action="#" method="get">
+        <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">主关键词:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-keyword" class="form-control" name="row[keyword]" type="text" placeholder="主关键词" value="">
+            <p style="margin-top: 5px;font-size: 12px;color:#666;">主关键词，只能一个，不低于3个字</p>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">公司(品牌):</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-hit_word" class="form-control" name="row[hit_word]" type="text" placeholder="公司品牌名或者简称" value="">
+            <p style="margin-top: 5px;font-size: 12px;color:#666;">输入达标命中信息，逗号隔开，比如：xx科技公司，xx科技</p>
+        </div>
+    </div>
+
+    <div class="form-group " style="display: none">
+        <label class="control-label col-xs-12 col-sm-2">查收录算法:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="radio"><label for="row[tuozhan_status]-0"><input id="row[tuozhan_status]-0" checked="checked" name="row[tuozhan_status]" type="radio" value="0"> 查询不拓词</label> <label for="row[tuozhan_status]-1"><input id="row[tuozhan_status]-1" name="row[tuozhan_status]" type="radio" value="1"> 查询自动拓词</label></div>        </div>
+    </div>
+
+
+    <style type="text/css">
+        .keyword_block {
+            width: 100%;
+            margin: 20px auto;
+            height: 300px;
+        }
+
+        .keyword_item {
+            width: 30%;
+            display: inline-block;
+            margin-right: 2%;
+        }
+
+        .keyword_item p {
+            font-size: 13px;
+            color: #666;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .keyword_item textarea {
+            background: #f8f4ff;
+        }
+
+        .zhengliu_block {
+            width: 80%;
+            margin: 20px auto;
+        }
+
+        .zhengliu_block input[type="checkbox"] {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            background-color: #fff;
+            border: 1px solid #8c57db;
+            border-radius: 4px;
+            position: relative;
+            vertical-align: middle;
+            margin-left: 5px;
+            margin-top: -2px;
+        }
+
+        .zhengliu_block input[type="checkbox"]:checked::after {
+            content: '';
+            position: absolute;
+            top: 2px;
+            left: 6px;
+            width: 6px;
+            height: 12px;
+            border: 1px solid #8c57db;
+            border-width: 0 3px 3px 0;
+            transform: rotate(45deg); /* 对勾旋转 */
+        }
+
+        .zhengliu_block_head {
+            background: linear-gradient(168deg, #cad2ff, #f3a6ff);
+            line-height: 35px;
+            height: 35px;
+            display: flex;
+            border-radius: 8px 8px 0px 0;
+            color: #000;
+        }
+
+        .zhengliu_block_head label, .zhengliu_block_body label {
+            font-size: 14px !important;
+            color: #000 !important;
+            text-align: right;
+            font-weight: inherit;
+        }
+
+        .zhengliu_block_body {
+            line-height: 35px;
+            height: 35px;
+            display: flex;
+            color: #555;
+            width: 100%;
+            background: #e8eaf6;
+        }
+
+        .strat_zhengliu, .shoudong_zhengliu {
+            width: 120px;
+            display: inline-block;
+            text-align: center;
+            line-height: 30px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            background: linear-gradient(168deg, #0f89e2, #6ab9f3);
+            color: #fff;
+            cursor: pointer;
+        }
+
+        .strat_zhengliu {
+            width: auto;
+            padding: 0 8px;
+        }
+
+        .shoudong_zhengliu {
+            margin-left: 10px;
+            background: linear-gradient(168deg, #ce2c62, #ff5d75)
+        }
+    </style>
+
+    <div class="zhengliu_block keyword_all ">
+
+        <span class="strat_zhengliu"> <i class="fa fa-cloud-download"></i> AI蒸馏拓展 （10点/次）</span>
+        <span class="shoudong_zhengliu"> <i class="fa fa-hand-o-up"></i> 手动批量添加</span>
+        <a data-url="/user/tuozhan/" class="btn addcart_btn btn-dialog" data-toggle="modal" data-title="拓词工具" data-area="[&quot;80%&quot;,&quot;80%&quot;]"> <i class="fa fa-hand-o-up"></i> 拓词工具</a>
+        <div class="form-group">
+            <div class="col-xs-12 col-sm-10">
+                <textarea id="c-zhengliu_question" class="form-control zhengliu_question_input" style="line-height: 25px;font-size: 15px;" rows="20" name="row[zhengliu_question]" type="text" placeholder="一行一个拓展问题"></textarea>
+            </div>
+        </div>
+        
+
+
+    </div>
+
+
+    
+
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="button" class="btn btn-primary btn-embossed " id="submitBtn">确定</button>
+        </div>
+    </div>
+</form>
+
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+
+
+    
+
+<script src="/vendor/jquery.js"></script><script src="/vendor/layui.js"></script><script src="/site-assets/user_assets/libs/bootstrap/dist/js/bootstrap.min.js"></script><script src="/ai-config.js"></script><script src="/services/ai-service.js"></script><script src="/site-assets/user_assets/js/require.js"></script><script>require(["/admin-runtime.js"]);</script></body></html>

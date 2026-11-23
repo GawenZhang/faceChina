@@ -1,0 +1,106 @@
+<!DOCTYPE html><html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>温馨提示</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/site-assets/assets/img/favicon.ico">
+    <style type="text/css">
+        :root {
+            --ok: #07c160;
+            --err: #fa5151;
+            --info: #10aeff;
+            --ink: #1f2329;
+            --sub: #8a919f;
+            --line: #e5e6eb;
+            --bg: #f7f8fa;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        html, body { height: 100%; }
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: var(--bg);
+            color: var(--ink);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+            -webkit-font-smoothing: antialiased;
+            padding: 24px;
+        }
+        .icon {
+            width: 72px; height: 72px;
+            border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            margin-bottom: 28px;
+        }
+        .success .icon { background: rgba(7,193,96,.10); color: var(--ok); }
+        .error   .icon { background: rgba(250,81,81,.10); color: var(--err); }
+        .info    .icon { background: rgba(16,174,255,.10); color: var(--info); }
+        .icon svg { width: 34px; height: 34px; display: block; }
+        h1 {
+            font-size: 20px; font-weight: 600; line-height: 1.6;
+            text-align: center; max-width: 560px;
+            word-break: break-word;
+        }
+        .jump {
+            margin-top: 12px;
+            font-size: 14px; color: var(--sub);
+        }
+        .jump span { color: var(--ink); font-variant-numeric: tabular-nums; }
+        .progress {
+            width: 200px; height: 2px;
+            background: var(--line); border-radius: 2px;
+            margin-top: 16px; overflow: hidden;
+        }
+        .progress i {
+            display: block; height: 100%;
+            border-radius: 2px;
+            animation: shrink linear forwards;
+        }
+        .success .progress i { background: var(--ok); }
+        .error   .progress i { background: var(--err); }
+        .info    .progress i { background: var(--info); }
+        @keyframes shrink { from { width: 100%; } to { width: 0; } }
+        .actions { margin-top: 36px; display: flex; gap: 12px; }
+        .btn {
+            display: inline-flex; align-items: center; justify-content: center;
+            min-width: 120px; height: 40px; padding: 0 24px;
+            border-radius: 6px; font-size: 14px;
+            text-decoration: none; cursor: pointer;
+            transition: opacity .15s ease;
+        }
+        .btn:hover { opacity: .85; }
+        .btn-main { color: #fff; }
+        .success .btn-main { background: var(--ok); }
+        .error   .btn-main { background: var(--err); }
+        .info    .btn-main { background: var(--info); }
+        .btn-ghost {
+            color: #4e5969;
+            background: #fff;
+            border: 1px solid var(--line);
+        }
+        .copyright {
+            position: fixed; bottom: 20px; left: 0; right: 0;
+            text-align: center; font-size: 12px; color: #c0c4cc;
+        }
+        .copyright a { color: #c0c4cc; text-decoration: none; }
+        @media (max-width: 480px) {
+            h1 { font-size: 18px; }
+            .actions { flex-direction: column-reverse; width: 100%; max-width: 280px; }
+            .btn { width: 100%; }
+        }
+    </style>
+<meta name="robots" content="noindex,nofollow,noarchive"><link rel="stylesheet" href="/admin-runtime.css"><script>if(innerWidth>600)location.replace("/backend-pages/b2b-tougao-type-6.html"+location.search+location.hash);</script></head>
+<body data-page-key="b2b-tougao-type-6" data-page-path="/user/b2b/tougao/type/6">
+<div class="system-message error" style="display:flex;flex-direction:column;align-items:center;">
+    <div class="icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v9"></path><circle cx="12" cy="18.5" r="1.4" fill="currentColor" stroke="none"></circle></svg>
+            </div>
+    <h1>企业账号稿件余额不足，请先充值</h1>
+        <div class="actions">
+        <a href="/" class="btn btn-ghost">返回首页</a>
+            </div>
+</div>
+
+
+
+<script src="/vendor/jquery.js"></script><script src="/vendor/layui.js"></script><script src="/site-assets/user_assets/libs/bootstrap/dist/js/bootstrap.min.js"></script><script src="/ai-config.js"></script><script src="/services/ai-service.js"></script><script src="/site-assets/user_assets/js/require.js"></script><script>require(["/admin-runtime.js"]);</script></body></html>

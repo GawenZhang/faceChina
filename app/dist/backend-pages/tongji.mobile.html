@@ -1,0 +1,481 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试号 · 大屏报表</title>
+    <style>
+        :root{
+            --bg:#f6f8fb;
+            --card:#ffffff;
+            --ink:#1e293b;
+            --ink-2:#475569;
+            --ink-3:#94a3b8;
+            --teal:#0fb5a6;
+            --teal-soft:#e0f7f4;
+            --sky:#2ba3ec;
+            --sky-soft:#e3f3fd;
+            --amber:#f59e0b;
+            --amber-soft:#fdf1dc;
+            --coral:#f0625d;
+            --coral-soft:#fdeae9;
+            --green:#3fae5a;
+            --green-soft:#e5f5e9;
+            --indigo:#4f6bdd;
+            --indigo-soft:#e9edfb;
+            --pink:#ec6aa8;
+            --pink-soft:#fce8f1;
+            --cyan:#18b3c9;
+            --cyan-soft:#e0f5f8;
+            --line:#e6ebf2;
+            --shadow:0 10px 30px -12px rgba(30,41,59,.12);
+            --shadow-lg:0 24px 48px -16px rgba(30,41,59,.18);
+            --r-lg:22px;
+            --r-md:16px;
+        }
+        *{margin:0;padding:0;box-sizing:border-box}
+        html{scroll-behavior:smooth}
+        body{
+            font-family:"PingFang SC","Microsoft YaHei","Segoe UI",system-ui,-apple-system,sans-serif;
+            background:var(--bg);color:var(--ink);min-height:100dvh;overflow-x:hidden;
+        }
+        /* ---------- 背景光斑 ---------- */
+        .bg-stage{position:fixed;inset:0;z-index:0;overflow:hidden;pointer-events:none}
+        .blob{position:absolute;border-radius:50%;filter:blur(80px);opacity:.35;will-change:transform}
+        .blob-1{width:560px;height:560px;background:#b9f0e8;top:-160px;left:-120px;animation:drift1 26s ease-in-out infinite}
+        .blob-2{width:480px;height:480px;background:#cfe7fb;top:10%;right:-140px;animation:drift2 32s ease-in-out infinite}
+        .blob-3{width:420px;height:420px;background:#fdeccb;bottom:-120px;left:22%;animation:drift3 28s ease-in-out infinite}
+        .blob-4{width:380px;height:380px;background:#fcd9d7;bottom:8%;right:16%;animation:drift1 36s ease-in-out infinite reverse}
+        @keyframes drift1{0%,100%{transform:translate(0,0) scale(1)}33%{transform:translate(70px,50px) scale(1.12)}66%{transform:translate(-40px,90px) scale(.94)}}
+        @keyframes drift2{0%,100%{transform:translate(0,0) scale(1)}50%{transform:translate(-90px,70px) scale(1.15)}}
+        @keyframes drift3{0%,100%{transform:translate(0,0) scale(1)}40%{transform:translate(80px,-60px) scale(1.1)}75%{transform:translate(-60px,-30px) scale(.92)}}
+        .shell{position:relative;z-index:1;max-width:1440px;margin:0 auto;padding:0 28px 60px}
+
+        /* ---------- 顶栏（与工作台一致） ---------- */
+        .topbar{
+            position:sticky;top:14px;z-index:50;display:flex;align-items:center;gap:22px;
+            background:rgba(255,255,255,.78);backdrop-filter:blur(14px);
+            border:1px solid rgba(255,255,255,.9);border-radius:20px;
+            padding:12px 22px;margin:14px 0 26px;box-shadow:var(--shadow);
+        }
+        .logo{display:flex;align-items:center;gap:11px;font-weight:800;font-size:19px;letter-spacing:.5px}
+        .logo-mark{
+            width:38px;height:38px;border-radius:12px;position:relative;overflow:hidden;
+            background:conic-gradient(from 0deg,var(--teal),var(--sky),var(--indigo),var(--teal));
+            animation:spinHue 8s linear infinite;display:grid;place-items:center;
+        }
+        .logo-mark svg{width:20px;height:20px;stroke:#fff;fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+        @keyframes spinHue{to{filter:hue-rotate(360deg)}}
+        .logo small{display:block;font-size:10px;font-weight:500;color:var(--ink-3);letter-spacing:2px}
+        .nav{display:flex;gap:4px;margin-left:8px}
+        .nav a{text-decoration:none;color:var(--ink-2);font-size:14px;font-weight:500;padding:8px 15px;border-radius:12px;transition:.25s}
+        .nav a:hover{color:var(--teal);background:var(--teal-soft)}
+        .nav a.active{color:var(--teal);background:var(--teal-soft);font-weight:700}
+        .topbar-right{margin-left:auto;display:flex;align-items:center;gap:14px}
+        .bell{position:relative;width:38px;height:38px;border-radius:12px;background:#f1f5f9;display:grid;place-items:center;cursor:pointer;transition:.25s}
+        .bell:hover{background:var(--amber-soft)}
+        .bell svg{width:17px;height:17px;stroke:var(--ink-2);fill:none;stroke-width:2;animation:bellSwing 4s ease-in-out infinite;transform-origin:top center}
+        @keyframes bellSwing{0%,100%{transform:rotate(0)}6%{transform:rotate(14deg)}12%{transform:rotate(-10deg)}18%{transform:rotate(6deg)}24%{transform:rotate(0)}}
+        .bell .dot{position:absolute;top:9px;right:10px;width:7px;height:7px;border-radius:50%;background:var(--coral);animation:pulseDot 1.8s ease-in-out infinite}
+        .avatar{width:38px;height:38px;border-radius:12px;background:linear-gradient(135deg,var(--sky),var(--teal));color:#fff;display:grid;place-items:center;font-weight:700;font-size:14px;cursor:pointer;transition:.25s}
+        .avatar:hover{transform:scale(1.08) rotate(-4deg)}
+        @keyframes pulseDot{0%,100%{box-shadow:0 0 0 0 rgba(240,98,93,.5)}50%{box-shadow:0 0 0 7px rgba(240,98,93,0)}}
+
+        /* ---------- 通用 ---------- */
+        .card{
+            background:var(--card);border-radius:var(--r-lg);box-shadow:var(--shadow);
+            border:1px solid rgba(230,235,242,.8);
+            transition:transform .35s cubic-bezier(.16,1,.3,1),box-shadow .35s;
+            position:relative;overflow:hidden;
+        }
+        .card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg)}
+        .reveal{opacity:0;transform:translateY(26px);animation:rise .8s cubic-bezier(.16,1,.3,1) forwards;animation-delay:var(--d,0s)}
+        @keyframes rise{to{opacity:1;transform:translateY(0)}}
+
+        /* ---------- 报表头 ---------- */
+        .report-head{
+            border-radius:var(--r-lg);padding:34px 40px;position:relative;overflow:hidden;color:#fff;
+            background:linear-gradient(118deg,#0fb5a6 0%,#2ba3ec 52%,#4f6bdd 100%);
+            box-shadow:0 20px 44px -16px rgba(43,163,236,.45);
+            display:flex;align-items:center;gap:26px;
+        }
+        .report-head::before{
+            content:"";position:absolute;inset:0;
+            background:radial-gradient(circle at 84% 20%,rgba(255,255,255,.28),transparent 42%),
+            radial-gradient(circle at 10% 90%,rgba(255,255,255,.16),transparent 38%);
+            animation:hueShift 12s ease-in-out infinite alternate;
+        }
+        @keyframes hueShift{from{opacity:.7;transform:scale(1)}to{opacity:1;transform:scale(1.06)}}
+        .report-title{position:relative}
+        .report-title h1{font-size:28px;font-weight:800;letter-spacing:2px;display:flex;align-items:center;gap:12px}
+        .report-title h1 .ai-badge{
+            width:auto;height:52px;border-radius:16px;display:grid;place-items:center;
+            background:rgba(255,255,255,.2);border:1.5px solid rgba(255,255,255,.4);
+            font-weight:800;font-size:17px;backdrop-filter:blur(4px);
+            animation:aiFloat 4.5s ease-in-out infinite;
+        }
+        @keyframes aiFloat{0%,100%{transform:translateY(0) rotate(-3deg)}50%{transform:translateY(-7px) rotate(3deg)}}
+        .report-title p{font-size:13.5px;opacity:.92;margin-top:8px}
+        .report-meta{position:relative;margin-left:auto;text-align:right;font-size:12.5px;opacity:.92;display:flex;flex-direction:column;gap:7px;align-items:flex-end}
+        .report-meta .refresh{display:inline-flex;align-items:center;gap:7px;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.32);padding:6px 13px;border-radius:999px;font-weight:600}
+        .report-meta .refresh svg{width:13px;height:13px;stroke:#fff;fill:none;stroke-width:2.2;stroke-linecap:round;animation:spinSlow 3.2s linear infinite}
+        @keyframes spinSlow{to{transform:rotate(360deg)}}
+
+        /* ---------- 指标卡 ---------- */
+        .stat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:22px 0}
+        .stat-card{padding:20px 22px;display:flex;align-items:center;gap:16px}
+        .stat-card::after{
+            content:"";position:absolute;left:0;top:0;bottom:0;width:4px;border-radius:4px 0 0 4px;
+            background:var(--sc,var(--teal));opacity:.9;
+        }
+        .stat-card .s-ic{
+            width:46px;height:46px;border-radius:14px;display:grid;place-items:center;flex-shrink:0;
+            background:var(--sc-bg);animation:iconBreath 3.6s ease-in-out infinite;animation-delay:var(--d,0s);
+        }
+        @keyframes iconBreath{0%,100%{transform:scale(1)}50%{transform:scale(1.09)}}
+        .stat-card .s-ic svg{width:21px;height:21px;fill:none;stroke:var(--sc);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+        .stat-card .s-num{font-size:26px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:-.4px;line-height:1.1}
+        .stat-card .s-num small{font-size:12px;color:var(--ink-3);font-weight:600;margin-left:3px}
+        .stat-card .s-label{font-size:12px;color:var(--ink-3);margin-top:3px}
+        .stat-card .s-trend{margin-left:auto;font-size:11.5px;font-weight:700;color:var(--green);flex-shrink:0}
+        .stat-card.zero .s-num{color:var(--ink-3)}
+        .stat-card .s-empty{
+            margin-left:auto;font-size:10.5px;color:var(--ink-3);background:#f1f5f9;
+            padding:4px 10px;border-radius:999px;flex-shrink:0;animation:tagBlink 2.4s infinite;
+        }
+        @keyframes tagBlink{0%,100%{opacity:1}50%{opacity:.55}}
+
+        /* ---------- 主区布局 ---------- */
+        .main-grid{display:grid;grid-template-columns:420px 1fr;gap:22px;margin-bottom:22px}
+        .panel{padding:24px 26px}
+        .panel-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+        .panel-head h3{font-size:16px;font-weight:800;display:flex;align-items:center;gap:9px}
+        .panel-head h3 i{width:9px;height:9px;border-radius:3px;background:var(--accent,var(--teal));display:inline-block;animation:pulseDot 2s infinite}
+        .panel-head .meta{font-size:11.5px;color:var(--ink-3)}
+
+        /* ---------- 环形图 ---------- */
+        .donut-wrap{display:flex;flex-direction:column;align-items:center;gap:18px}
+        .donut-box{position:relative;width:220px;height:220px}
+        .donut-box svg{transform:rotate(-90deg)}
+        .donut-seg{
+            fill:none;stroke-width:26;stroke-linecap:butt;cursor:pointer;
+            stroke-dasharray:0 628;transition:stroke-width .25s,opacity .25s;
+            animation:segGrow 1.6s cubic-bezier(.16,1,.3,1) forwards;animation-delay:var(--d,0s);
+        }
+        .donut-box:hover .donut-seg{opacity:.45;stroke-width:22}
+        .donut-box .donut-seg:hover{opacity:1;stroke-width:32}
+        @keyframes segGrow{to{stroke-dasharray:var(--dash) 628}}
+        .donut-center{
+            position:absolute;inset:0;display:grid;place-items:center;text-align:center;pointer-events:none;
+        }
+        .donut-center .dc-num{font-size:30px;font-weight:800;font-variant-numeric:tabular-nums}
+        .donut-center .dc-label{font-size:11px;color:var(--ink-3);margin-top:2px}
+        .donut-ring{
+            position:absolute;inset:-12px;border-radius:50%;border:2px dashed rgba(15,181,166,.28);
+            animation:spinSlow 22s linear infinite;pointer-events:none;
+        }
+        .legend-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px 22px;width:100%}
+        .lg-item{display:flex;align-items:center;gap:9px;font-size:12.5px;color:var(--ink-2);cursor:pointer;padding:4px 6px;border-radius:9px;transition:.2s}
+        .lg-item:hover{background:#f6f9fc}
+        .lg-item b{width:10px;height:10px;border-radius:3.5px;background:var(--lc);flex-shrink:0}
+        .lg-item .lg-name{flex:1}
+        .lg-item .lg-val{font-weight:700;font-variant-numeric:tabular-nums}
+        .lg-item .lg-pct{color:var(--ink-3);font-weight:600;margin-left:6px;font-size:11px}
+
+        /* ---------- 柱状图 ---------- */
+        .chart-box{position:relative}
+        .chart-svg{width:100%;height:auto;display:block}
+        .axis{stroke:#e6ebf2;stroke-width:1}
+        .axis-label{font-size:10.5px;fill:var(--ink-3)}
+        .bar-seg2{
+            transform:scaleY(0);
+            transform-box: fill-box;      /* ← 关键，让 transform-origin 以元素自身为基准 */
+            transform-origin: bottom;
+            animation:growY 1.1s cubic-bezier(.16,1,.3,1) forwards;
+            animation-delay:var(--d,0s);transition:filter .25s
+        }
+        @keyframes growY{to{transform:scaleY(1)}}
+        .bar-group:hover .bar-seg2{filter:brightness(1.1) saturate(1.15)}
+        .bar-group:hover .bar-top{opacity:1;transform:translateY(0)}
+        .bar-top{font-size:10.5px;font-weight:700;fill:var(--ink-2);opacity:0;transform:translateY(6px);transition:.3s}
+        .bar-name{font-size:11px;fill:var(--ink-2);font-weight:600}
+
+        /* ---------- 表格 ---------- */
+        .table-card{margin-bottom:22px}
+        .table-toolbar{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:16px}
+        .chip-row{display:flex;gap:8px;flex-wrap:wrap}
+        .chip{
+            font-size:12px;font-weight:600;padding:6px 13px;border-radius:999px;cursor:pointer;
+            border:1.5px solid var(--line);color:var(--ink-2);transition:.22s;background:#fff;
+        }
+        .chip:hover{transform:translateY(-2px)}
+        .chip.on{background:var(--teal);border-color:var(--teal);color:#fff;box-shadow:0 6px 14px -6px rgba(15,181,166,.55)}
+        .searchbox{
+            margin-left:auto;display:flex;align-items:center;gap:8px;background:#f1f5f9;border-radius:12px;
+            padding:8px 14px;border:1px solid transparent;transition:.25s;min-width:230px;
+        }
+        .searchbox:focus-within{border-color:var(--teal);background:#fff;box-shadow:0 0 0 3px rgba(15,181,166,.12)}
+        .searchbox svg{width:14px;height:14px;stroke:var(--ink-3);fill:none;stroke-width:2.4;stroke-linecap:round;flex-shrink:0}
+        .searchbox input{border:none;outline:none;background:transparent;font-size:13px;width:100%;color:var(--ink)}
+        .table-scroll{overflow-x:auto}
+        table{width:100%;border-collapse:collapse;min-width:860px}
+        thead th{
+            text-align:left;font-size:12px;color:var(--ink-3);font-weight:600;
+            padding:11px 14px;background:#f8fafc;white-space:nowrap;
+        }
+        thead th:first-child{border-radius:10px 0 0 10px}
+        thead th:last-child{border-radius:0 10px 10px 0}
+        tbody td{padding:12.5px 14px;font-size:13px;color:var(--ink-2);border-bottom:1px solid #f1f5f9;white-space:nowrap}
+        tbody tr{transition:background .2s;animation:feedIn .5s cubic-bezier(.16,1,.3,1) both;animation-delay:calc(var(--d,0)*1s)}
+        @keyframes feedIn{from{opacity:0;transform:translateY(-10px)}to{opacity:1;transform:translateY(0)}}
+        tbody tr:hover{background:var(--teal-soft)}
+        td .kw{font-weight:700;color:var(--ink)}
+        td .title-link{color:var(--sky);font-weight:600;cursor:pointer;transition:.2s}
+        td .title-link:hover{color:var(--teal);text-decoration:underline}
+        .tag{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:700;padding:3.5px 10px;border-radius:999px}
+        .tag i{width:5px;height:5px;border-radius:50%;background:currentColor}
+        .tag-blue{color:var(--sky);background:var(--sky-soft)}
+        .tag-green{color:var(--green);background:var(--green-soft)}
+        .tag-amber{color:var(--amber);background:var(--amber-soft)}
+        .tag-coral{color:var(--coral);background:var(--coral-soft)}
+        .table-foot{display:flex;align-items:center;justify-content:space-between;margin-top:16px;flex-wrap:wrap;gap:12px}
+        .page-info{font-size:12px;color:var(--ink-3)}
+        .pager{display:flex;gap:7px}
+        .pg{
+            min-width:33px;height:33px;padding:0 10px;border-radius:10px;border:1.5px solid var(--line);
+            background:#fff;color:var(--ink-2);font-size:12.5px;font-weight:600;cursor:pointer;
+            display:grid;place-items:center;transition:.22s;font-family:inherit;
+        }
+        .pg:hover{border-color:var(--teal);color:var(--teal);transform:translateY(-2px)}
+        .pg.on{background:linear-gradient(135deg,var(--teal),var(--sky));border-color:transparent;color:#fff;box-shadow:0 8px 16px -6px rgba(15,181,166,.5)}
+        .pg:disabled{opacity:.4;cursor:not-allowed;transform:none}
+        .statement{
+            margin-top:26px;font-size:11.5px;color:var(--ink-3);line-height:1.8;
+            background:#fff;border:1px dashed var(--line);border-radius:14px;padding:14px 20px;
+        }
+        .statement b{color:var(--amber)}
+
+        /* 无匹配空状态 */
+        .empty-row td{text-align:center;padding:44px 0;color:var(--ink-3);font-size:13px}
+        .empty-row svg{width:34px;height:34px;stroke:var(--ink-3);fill:none;stroke-width:1.6;margin-bottom:10px}
+
+        @media (max-width:1180px){
+            .main-grid{grid-template-columns:1fr}
+            .stat-grid{grid-template-columns:repeat(2,1fr)}
+            .nav{display:none}
+        }
+        @media (max-width:640px){.stat-grid{grid-template-columns:1fr}}
+        @media (prefers-reduced-motion:reduce){
+            *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+        }
+    </style>
+<meta name="robots" content="noindex,nofollow,noarchive"><link rel="stylesheet" href="/admin-runtime.css"><script>if(innerWidth>600)location.replace("/backend-pages/tongji.html"+location.search+location.hash);</script></head>
+<body data-page-key="tongji" data-page-path="/user/tongji">
+
+<div class="bg-stage" aria-hidden="true">
+    <div class="blob blob-1"></div><div class="blob blob-2"></div>
+    <div class="blob blob-3"></div><div class="blob blob-4"></div>
+</div>
+
+<div class="shell">
+
+
+    
+    <section class="report-head reveal" style="--d:.05s;margin-top: 20px;">
+         <a href="" target="_blank" style="color:#fff;right:10px;;position: absolute;z-index: 2;top:10px;font-size: 14px;  text-decoration: none;">
+            <svg style="display: inline-block;vertical-align: bottom;" t="1760495266959" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4757" width="15" height="15"><path d="M886.54 646.29v201.53c0 34.59-29.29 63.82-63.92 63.82l-674.89 1.11c-34.63 0-62.79-28.16-62.79-62.73L86.02 176c0-34.58 29.25-63.82 63.92-63.82h321.93V38.09H149.95C70.98 38.09 12 117.83 12 189.12V850c0 74.75 60.87 135.55 135.73 135.55h661.73c79.07 0 151.09-65.65 151.09-137.76V646.26h-74.01v0.03z m-590.52-11.3C457.3 405.35 733.59 436.04 733.59 436.04V595.2l278.44-278.56L733.59 38.09v159.19c-386.75 0-437.57 437.71-437.57 437.71z m0 0" p-id="2328" fill="#ffffff"></path></svg>
+            <span>分享链接</span>
+        </a>
+
+        <div class="report-title">
+            <h1><span class="ai-badge">测试号</span>收 录 报 表</h1>
+            <p>AI 大模型 · 助力品牌曝光 —— 采集自 DeepSeek / 豆包 / 腾讯元宝 / 通义千问 等主流模型</p>
+        </div>
+        <div class="report-meta">
+
+            <span>更新时间：<b id="clock">-</b></span>
+        </div>
+    </section>
+
+    
+    <section class="stat-grid">
+        <div class="card stat-card reveal" style="--d:.06s;--sc:var(--teal);--sc-bg:var(--teal-soft)">
+            <div class="s-ic" style="--d:0s"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"></circle><path d="M9.5 9a2.5 2.5 0 0 1 5 .5c0 1.5-2.5 2-2.5 3.5"></path><circle cx="12" cy="16.6" r=".4"></circle></svg></div>
+            <div><div class="s-num"><span class="count" data-to="18">18</span><small>条</small></div><div class="s-label">问题总量 · 今日新增问题数量</div></div>
+        </div>
+        <div class="card stat-card reveal" style="--d:.12s;--sc:var(--green);--sc-bg:var(--green-soft)">
+            <div class="s-ic" style="--d:.4s"><svg viewBox="0 0 24 24"><path d="M4 4h16v12H8l-4 4z"></path><path d="M8 9h8M8 12h5"></path></svg></div>
+            <div><div class="s-num"><span class="count" data-to="0">0</span><small>条</small></div><div class="s-label">收录总量 · 今日被收录内容数量</div></div>
+        </div>
+        <div class="card stat-card reveal" style="--d:.18s;--sc:var(--sky);--sc-bg:var(--sky-soft)">
+            <div class="s-ic" style="--d:.8s"><svg viewBox="0 0 24 24"><rect x="3" y="6" width="13" height="12" rx="2.5"></rect><path d="m16 10 5-3v10l-5-3"></path></svg></div>
+            <div><div class="s-num"><span class="count" data-to="7">7</span><small>个</small></div><div class="s-label">优化平台 </div></div>
+        </div>
+        <div class="card stat-card reveal" style="--d:.24s;--sc:var(--coral);--sc-bg:var(--coral-soft)">
+            <div class="s-ic" style="--d:1.2s"><svg viewBox="0 0 24 24"><path d="M12 2s6 5.5 6 10.5a6 6 0 0 1-12 0C6 7.5 12 2 12 2z"></path><path d="M9.5 14a2.5 2.5 0 0 0 5 0"></path></svg></div>
+            <div><div class="s-num"><span class="count" data-to="6">6</span><small>个</small></div><div class="s-label">蒸馏词</div></div>
+        </div>
+    </section>
+
+
+    
+    
+    <section class="main-grid">
+        <div class="card panel reveal" style="--d:.08s;--accent:var(--teal)">
+            <div class="panel-head">
+                <h3><i></i>平台收录渠道占比</h3>
+
+            </div>
+            <div class="donut-wrap">
+                <div class="donut-box">
+                    <div class="donut-ring"></div>
+                    <svg width="220" height="220" viewBox="0 0 220 220" id="donut"><circle class="donut-seg" cx="110" cy="110" r="100" stroke="var(--sky)" stroke-dashoffset="0" style="--dash:89.8;--d:0.00s">
+    <title>Deepseek：12.5 条（14.3%）</title></circle><circle class="donut-seg" cx="110" cy="110" r="100" stroke="var(--coral)" stroke-dashoffset="-89.75979010256552" style="--dash:89.8;--d:0.16s">
+    <title>豆包：12.5 条（14.3%）</title></circle><circle class="donut-seg" cx="110" cy="110" r="100" stroke="var(--green)" stroke-dashoffset="-179.51958020513104" style="--dash:89.8;--d:0.32s">
+    <title>腾讯元宝：12.5 条（14.3%）</title></circle><circle class="donut-seg" cx="110" cy="110" r="100" stroke="var(--teal)" stroke-dashoffset="-269.2793703076966" style="--dash:89.8;--d:0.48s">
+    <title>通义千问：12.5 条（14.3%）</title></circle><circle class="donut-seg" cx="110" cy="110" r="100" stroke="var(--amber)" stroke-dashoffset="-359.03916041026207" style="--dash:89.8;--d:0.64s">
+    <title>文心一言：12.5 条（14.3%）</title></circle><circle class="donut-seg" cx="110" cy="110" r="100" stroke="var(--indigo)" stroke-dashoffset="-448.79895051282756" style="--dash:89.8;--d:0.80s">
+    <title>KiMi：12.5 条（14.3%）</title></circle><circle class="donut-seg" cx="110" cy="110" r="100" stroke="var(--cyan)" stroke-dashoffset="-538.558740615393" style="--dash:89.8;--d:0.96s">
+    <title>智谱AI：12.5 条（14.3%）</title></circle></svg>
+                    <div class="donut-center">
+                        <div>
+                            <div class="dc-num"><span class="count" data-to="100">100</span></div>
+                            <div class="dc-label">收录总量</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="legend-grid" id="donutLegend"><div class="lg-item" style="--lc:var(--sky)"><b></b>
+    <span class="lg-name">Deepseek</span>
+    <span class="lg-val">12.5</span>
+    <span class="lg-pct">14.3%</span></div><div class="lg-item" style="--lc:var(--coral)"><b></b>
+    <span class="lg-name">豆包</span>
+    <span class="lg-val">12.5</span>
+    <span class="lg-pct">14.3%</span></div><div class="lg-item" style="--lc:var(--green)"><b></b>
+    <span class="lg-name">腾讯元宝</span>
+    <span class="lg-val">12.5</span>
+    <span class="lg-pct">14.3%</span></div><div class="lg-item" style="--lc:var(--teal)"><b></b>
+    <span class="lg-name">通义千问</span>
+    <span class="lg-val">12.5</span>
+    <span class="lg-pct">14.3%</span></div><div class="lg-item" style="--lc:var(--amber)"><b></b>
+    <span class="lg-name">文心一言</span>
+    <span class="lg-val">12.5</span>
+    <span class="lg-pct">14.3%</span></div><div class="lg-item" style="--lc:var(--indigo)"><b></b>
+    <span class="lg-name">KiMi</span>
+    <span class="lg-val">12.5</span>
+    <span class="lg-pct">14.3%</span></div><div class="lg-item" style="--lc:var(--cyan)"><b></b>
+    <span class="lg-name">智谱AI</span>
+    <span class="lg-val">12.5</span>
+    <span class="lg-pct">14.3%</span></div></div>
+            </div>
+        </div>
+
+        <div class="card panel reveal" style="--d:.14s;--accent:var(--coral)">
+            <div class="panel-head">
+                <h3><i style="background:var(--coral)"></i>收录量</h3>
+
+            </div>
+            <div class="chart-box">
+                <svg class="chart-svg" id="barChart" viewBox="0 0 640 260"><line class="axis" x1="44" y1="220" x2="630" y2="220"></line>
+             <text class="axis-label" x="36" y="223.5" text-anchor="end">0</text><line class="axis" x1="44" y1="170.5" x2="630" y2="170.5"></line>
+             <text class="axis-label" x="36" y="174" text-anchor="end">5</text><line class="axis" x1="44" y1="121" x2="630" y2="121"></line>
+             <text class="axis-label" x="36" y="124.5" text-anchor="end">10</text><line class="axis" x1="44" y1="71.5" x2="630" y2="71.5"></line>
+             <text class="axis-label" x="36" y="75" text-anchor="end">15</text><line class="axis" x1="44" y1="22" x2="630" y2="22"></line>
+             <text class="axis-label" x="36" y="25.5" text-anchor="end">20</text><g class="bar-group">
+        <text class="bar-top" x="85.85714285714286" y="89.25" text-anchor="middle">12.5</text>
+        <rect class="bar-seg2" x="66.85714285714286" y="96.25" width="38" height="123.75" rx="8" fill="var(--sky)" style="--d:0.20s">
+            <title>Deepseek：12.5 条</title>
+        </rect>
+        <text class="bar-name" x="85.85714285714286" y="246" text-anchor="middle">Deepseek</text>
+    </g><g class="bar-group">
+        <text class="bar-top" x="169.57142857142856" y="89.25" text-anchor="middle">12.5</text>
+        <rect class="bar-seg2" x="150.57142857142856" y="96.25" width="38" height="123.75" rx="8" fill="var(--coral)" style="--d:0.31s">
+            <title>豆包：12.5 条</title>
+        </rect>
+        <text class="bar-name" x="169.57142857142856" y="246" text-anchor="middle">豆包</text>
+    </g><g class="bar-group">
+        <text class="bar-top" x="253.28571428571428" y="89.25" text-anchor="middle">12.5</text>
+        <rect class="bar-seg2" x="234.28571428571428" y="96.25" width="38" height="123.75" rx="8" fill="var(--green)" style="--d:0.42s">
+            <title>腾讯元宝：12.5 条</title>
+        </rect>
+        <text class="bar-name" x="253.28571428571428" y="246" text-anchor="middle">腾讯元宝</text>
+    </g><g class="bar-group">
+        <text class="bar-top" x="336.99999999999994" y="89.25" text-anchor="middle">12.5</text>
+        <rect class="bar-seg2" x="317.99999999999994" y="96.25" width="38" height="123.75" rx="8" fill="var(--teal)" style="--d:0.53s">
+            <title>通义千问：12.5 条</title>
+        </rect>
+        <text class="bar-name" x="336.99999999999994" y="246" text-anchor="middle">通义千问</text>
+    </g><g class="bar-group">
+        <text class="bar-top" x="420.71428571428567" y="89.25" text-anchor="middle">12.5</text>
+        <rect class="bar-seg2" x="401.71428571428567" y="96.25" width="38" height="123.75" rx="8" fill="var(--amber)" style="--d:0.64s">
+            <title>文心一言：12.5 条</title>
+        </rect>
+        <text class="bar-name" x="420.71428571428567" y="246" text-anchor="middle">文心一言</text>
+    </g><g class="bar-group">
+        <text class="bar-top" x="504.4285714285714" y="89.25" text-anchor="middle">12.5</text>
+        <rect class="bar-seg2" x="485.4285714285714" y="96.25" width="38" height="123.75" rx="8" fill="var(--indigo)" style="--d:0.75s">
+            <title>KiMi：12.5 条</title>
+        </rect>
+        <text class="bar-name" x="504.4285714285714" y="246" text-anchor="middle">KiMi</text>
+    </g><g class="bar-group">
+        <text class="bar-top" x="588.1428571428571" y="89.25" text-anchor="middle">12.5</text>
+        <rect class="bar-seg2" x="569.1428571428571" y="96.25" width="38" height="123.75" rx="8" fill="var(--cyan)" style="--d:0.86s">
+            <title>智谱AI：12.5 条</title>
+        </rect>
+        <text class="bar-name" x="588.1428571428571" y="246" text-anchor="middle">智谱AI</text>
+    </g></svg>
+            </div>
+        </div>
+    </section>
+
+    
+    
+    
+    
+    
+
+    
+    <section class="card panel table-card reveal" style="--d:.1s;--accent:var(--indigo)">
+        <div class="panel-head">
+            <h3><i style="background:var(--indigo)"></i>关键词详情数据</h3>
+
+        </div>
+        <div class="table-toolbar">
+            <div class="chip-row" id="kwChips">
+                <span class="chip on" data-kw="全部">全部关键词</span>
+                            </div>
+            <label class="searchbox">
+                <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+                <input type="text" id="tableSearch" placeholder="搜索关键词…">
+            </label>
+        </div>
+        <div class="table-scroll">
+            <table>
+                <thead>
+                <tr><th>主关键词</th><th>收录标题</th><th>平台</th><th>来源</th><th>时间</th><th>性质</th></tr>
+                </thead>
+                <tbody id="tableBody"><tr class="empty-row"><td colspan="6" style="text-align:center;padding:40px;color:#94a3b8;">暂无收录数据</td></tr></tbody>
+            </table>
+        </div>
+        <div class="table-foot">
+            <span class="page-info">共 <b id="totalCount">0</b> 条记录 · 当前第 <b id="pageNow">1</b>/<b id="pageTotal">0</b> 页</span>
+            <div class="pager" style="display: none;">
+                <button class="pg" disabled="">上一页</button>
+                <button class="pg on">1</button>
+                <button class="pg">2</button>
+                <button class="pg">3</button>
+                <button class="pg">…</button>
+                <button class="pg">1440</button>
+                <button class="pg">下一页</button>
+            </div>
+        </div>
+
+        <div class="statement">
+            <b>郑重声明：</b>六大模型采集数据系基于人工模拟访问所得，搜索结果监测以互联网用户实际浏览效果为准，客观存在品牌某个展示的排名波动；正常现象属于数据自然浮动，可以收藏这个页面进行持续观测。
+        </div>
+    </section>
+
+</div>
+
+
+
+
+
+<script src="/vendor/jquery.js"></script><script src="/vendor/layui.js"></script><script src="/site-assets/user_assets/libs/bootstrap/dist/js/bootstrap.min.js"></script><script src="/ai-config.js"></script><script src="/services/ai-service.js"></script><script src="/site-assets/user_assets/js/require.js"></script><script>require(["/admin-runtime.js"]);</script></body></html>

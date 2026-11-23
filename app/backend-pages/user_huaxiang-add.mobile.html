@@ -1,0 +1,324 @@
+<!DOCTYPE html><html><head>
+        <meta charset="utf-8">
+
+<title>
+    用户中心-鑫火GEO-鑫火GEO</title>
+<meta name="keywords" content="鑫火GEO，鑫火GEO">
+<meta name="description" content="鑫火GEO">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="renderer" content="webkit">
+<meta name="referrer" content="never">
+<meta name="robots" content="noindex, nofollow">
+
+<link rel="shortcut icon" href="/site-assets/assets/img/favicon.ico">
+
+<link href="/site-assets/user_assets/css/backend.css?v=1.3.1346" rel="stylesheet">
+
+<link href="/site-assets/user_assets/css/skins/skin-blue.css?v=1.3.1346" rel="stylesheet">
+
+<style type="text/css">
+    .layui-layer-fast .layui-layer-title{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+    .btn-primary{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+</style>
+
+
+<style type="text/css">
+    /* 整个滚动条 */
+    ::-webkit-scrollbar {width: 6px; /* 水平滚动条的高度、垂直滚动条的宽度 */height: 6px; /* 水平滚动条的高度 */border-radius: 10px!important;}
+    /* 滚动条轨道 */
+    ::-webkit-scrollbar-track {background: #333; /* 轨道颜色 */}
+    /* 滚动条滑块 */
+    ::-webkit-scrollbar-thumb {background: #999; /* 滑块颜色 */}
+    /* 滑块hover效果 */
+    ::-webkit-scrollbar-thumb:hover {background: #777; /* 滑块hover颜色 */}
+</style>
+
+
+
+
+
+    <link type="text/css" rel="stylesheet" href="/site-assets/user_assets/layui/css/layui.css?v=1.3.1346"><link id="layuicss-laydate" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/laydate/default/laydate.css?v=5.3.1" media="all"><link id="layuicss-layer" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/layer/default/layer.css?v=3.5.1" media="all"><link id="layuicss-skincodecss" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/code.css?v=3" media="all"><meta name="robots" content="noindex,nofollow,noarchive"><link rel="stylesheet" href="/admin-runtime.css"><script>if(innerWidth>600)location.replace("/backend-pages/user_huaxiang-add.html"+location.search+location.hash);</script></head>
+
+    <body class="inside-header inside-aside " data-page-key="user_huaxiang-add" data-page-path="/user/user_huaxiang/add">
+        <div id="main" role="main">
+            <div class="tab-content tab-addtabs">
+                <div id="content">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <section class="content-header hide">
+                                <h1>
+                                    控制台                                    <small>Control panel</small>
+                                </h1>
+                            </section>
+                                                        <div class="content">
+                                <style type="text/css">
+    .voice_range_span{vertical-align: bottom;margin-left: 5px;font-weight: bold;color: #0065c3;}
+    .red_xing{color: red;margin-right: 5px;vertical-align: middle;}
+    .bootstrap-select>.dropdown-toggle{border-radius: 10px;}
+    /*.form-group{margin-bottom: 20px;}*/
+    .fenge{width: 100%;height: 1px ;background: #efefef;margin: 10px 0;margin-bottom: 20px;}
+
+    form{padding-right: 30px;}
+    .form-group textarea{background: #fbf8ff}
+
+    .show_image_more{line-height: 30px;color: #666;}
+    .show_btn{margin-top: 5px;color: #f39c12;font-size: 13px;cursor: pointer;}
+
+
+    /*弹出窗口*/
+    /* 初始按钮样式 */
+        .open-doc-btn{padding:3px 10px;background-color:#007bff;color:white;border:none;border-radius:4px;cursor:pointer;font-size:14px}
+        .open-doc-btn:hover{background-color:#0056b3}
+        .modal-overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,0.5);z-index:1000;justify-content:center;align-items:center}
+        .modal-container{background-color:white;max-width:800px;width:90%;max-height:90vh;overflow-y:auto;padding:20px;border-radius:8px;box-shadow:0 4px 20px rgba(0,0,0,0.15)}
+        .close-modal{float:right;background:#f5f5f5;border:none;width:30px;height:30px;border-radius:50%;cursor:pointer;font-size:18px;line-height:30px;text-align:center;margin-bottom:10px}
+        .close-modal:hover{background:#e0e0e0}
+        .document-container{font-family:Arial,sans-serif;color:#000}
+        .document-content{height:300px;border:1px solid #ddd;padding:20px;overflow-y:auto;margin-bottom:20px;line-height:1.6;font-size:14px}
+        .agree-section{display:flex;align-items:center;gap:10px;color:#999}
+        .agree-section.enabled{color:#333}
+        #agreeCheckbox:disabled{cursor:not-allowed;opacity:0.5}
+        #agreeCheckbox:enabled{cursor:pointer}
+        #submitBtn{margin-top:10px;padding:10px 20px;background-color:#007bff;color:white;border:none;border-radius:4px;cursor:pointer;font-size:14px}
+        #submitBtn:disabled{background-color:#ccc;cursor:not-allowed}
+        #submitBtn:enabled:hover{background-color:#0056b3}
+        .document-container h2,.document-container h1{line-height: 60px;}
+        .summary textarea{height: 500px !important;}
+</style>
+
+<form id="add-form" class="form-horizontal nice-validator n-default n-bootstrap" role="form" data-toggle="validator" novalidate="novalidate" action="#" method="get">
+        <h2 style="color:red;font-size: 16px;margin-bottom: 20px;margin-top: 10px;line-height: 30px;" class="form-group">
+        <label class="control-label col-xs-12 col-sm-1"></label>
+        
+        <div class="col-xs-12 col-sm-11" style="    color: #ff3939;
+    background: #ffecec;padding: 15px;border-radius: 10px;">
+            【重要提醒】：知识库必须是企业真实的信息与案例跟服务数据，不能有任何虚假宣传与违反广告法内容，AI会基于知识库写作。违者后果自负。
+            <button type="button" class="open-doc-btn" id="openDocBtn">查看必读承诺协议</button>
+        </div>
+    </h2>
+        
+        
+        <div class="modal-overlay" id="modalOverlay">
+            <div class="modal-container">
+                
+                <button type="button" class="close-modal" id="closeModalBtn" style="color:#000">×</button>
+                
+                
+                <div class="document-container">
+                    <h2 style="margin-bottom: 15px;">承诺协议（必读）</h2>
+                    
+                    <div class="document-content" id="docContent">
+                        <h1 style="text-align:center">
+                            使用协议
+                        </h1>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">本协议依据《中华人民共和国民法典》《中华人民共和国广告法》《中华人民共和国反不正当竞争法》《计算机软件保护条例》制定，适用于本AI品牌认知优化软件全体使用主体，旨在明确各方合规义务与法律责任边界。使用者在平台勾选确认同意本协议，即视为已完整审阅、充分理解并自愿接受全部条款，承诺严格履约，自行承担相应法律责任。</span>
+                        </p>
+                        <h1>
+                            一、协议适用范围与核心前提
+                        </h1>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">本协议适用于本AI品牌认知优化软件全体使用主体，包括品牌方、代运营方及自主使用方（品牌方与代运营方就该受托业务自行设立的委托合作关系，属于双方独立民事法律行为，与本软件及软件开发者无任何法律关联）；</span>
+                        </p>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">具体覆盖两类使用场景：一是代运营方接受品牌方委托，为开展AI品牌认知优化相关业务，依托本软件开展对应运营工作；二是品牌方及其他合法主体自主使用本软件，独立开展AI品牌认知优化相关业务。</span>
+                        </p>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">软件开发者仅提供软件研发及底层技术支撑服务，不提供服务器运维、不介入任何使用端操作，客观无法查看、知悉任何使用方的运营数据与操作细节，不具备监管条件，仅为单纯软件技术提供方，不承担运营、审核及监管相关义务。</span>
+                        </p>
+                        <h1>
+                            二、使用者通用合规义务
+                        </h1>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">全体使用主体应严格遵守国家法律法规、部门规章及行业规范，恪守《广告法》《反不正当竞争法》强制性规定，自行承担全部合规风险与法律责任：严禁利用本软件制作、发布虚假违法广告及引人误解的商业宣传；严禁实施商业诋毁、恶意竞争及侵犯第三方知识产权、名誉权等合法权益的行为；严禁利用本软件从事任何违法违规活动。各使用方自行审核运营内容、品牌资料及宣传信息的真实性与合法性，独立承担自身违规操作、违法经营产生的全部法律后果。</span>
+                        </p>
+                        <h2>
+                            （一）代运营使用场景专项义务
+                        </h2>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">代运营方应严格在品牌方合法授权及委托事项范围内使用本软件，仅可依据品牌方提供的真实、合法、完整资料开展操作，严禁超权限、超范围操作，严禁虚构篡改资料、虚假宣传、夸大表述及其他违法违规行为。品牌方承诺所提供的企业资质、品牌信息、宣传素材均真实有效，无虚假、隐瞒或误导性内容，自行承担资料不实、授权不清的全部法律责任。双方各自承担自身操作及委托履约过程中的全部违规责任，不得向软件开发者转嫁损失或主张权利。</span>
+                        </p>
+                        <h2>
+                            （二）自主使用场景专项义务
+                        </h2>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">自主使用方自愿使用本软件，独立全权负责软件操作、内容上传、信息编辑、品牌运营等全流程工作，自行履行内容合规审核义务，确保所有发布内容真实合法，坚决杜绝虚假宣传、夸大宣传、误导性陈述及一切违法违规行为，自行承担全流程操作风险、合规责任与经济损失。</span>
+                        </p>
+                        <h1 style="margin-left:0;text-indent:0">
+                            三、软件开发者免责条款（核心条款）
+                        </h1>
+                        <p>
+                            <span style="font-size:16px;font-family:宋体">软件开发者仅为本AI品牌认知优化软件的合法技术研发与底层技术支撑主体，不参与任何使用方的运营决策、内容审核、实际运营执行等任何经营管理环节，亦不介入使用方基于自身业务开展的各类操作行为。因本软件采用私有化独立部署企业自有服务器模式，开发者客观无法查看、知悉任何使用方的实际使用数据与业务运营细节，仅提供软件本身的技术支撑服务，不就使用方的操作合规性提供担保。</span>
+                        </p>
+                        <p>
+                            <span style="font-size:16px;font-family:宋体">各使用方因自身软件使用行为、运营操作或违反法律法规及本协议约定所产生的一切法律责任、经济损失、行政监管处罚及第三方索赔，均由该使用方自行独立全额承担，相关事宜与软件开发者无任何法律因果关系及法律关联；全体使用不得以任何事由向软件开发者主张权利、追究任何法律责任的权利。</span>
+                        </p>
+                        <h1>
+                            四、协议生效与法律效力
+                        </h1>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">各方确认已充分知悉软件独立部署特性、开发者权责边界及自身合规义务，自愿接受本协议全部约束。</span>
+                        </p>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">本人/本单位已仔细阅读、充分理解并完全同意本协议全部条款，勾选确认系本人/本单位真实意思表示，本协议自勾选完成之日起依法生效，具有完整法律约束力。</span>
+                        </p>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">本协议在线电子版与平台展示版本具有同等法律效力，因软件使用或协议履行产生的一切争议，由责任方自行处理并承担全部责任，与软件开发者无任何关联。</span>
+                        </p>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">&nbsp;</span>
+                        </p>
+                        <h1>
+                            五、条款独立性约定
+                        </h1>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">本协议任何条款被有权机关依法认定为无效、可撤销或不生效的，不影响本协议其他条款的法律效力，其余合法有效条款仍对各方具有完整法律约束力；本协议中有关争议解决、责任豁免、法律适用的独立条款，即便协议整体或部分条款无效，该等独立条款依然有效。</span>
+                        </p>
+                        <p style="text-align:left">
+                            <span style="font-size:16px;font-family:宋体">&nbsp;</span>
+                        </p>
+                        <p>
+                            &nbsp;
+                        </p>
+                        <p>
+                            <br>
+                        </p><br><br><br><br>
+                        <p>★ 阅读到底部后即可勾选同意 ★</p>
+                    </div>
+
+                    <div class="agree-section" id="agreeSection">
+                        <input type="checkbox" id="agreeCheckbox" disabled="">
+                        <label style="margin-bottom: -5px;" for="agreeCheckbox">我已仔细阅读并同意以上所有条款</label>
+                    </div>
+
+                    <button type="button" id="submitBtn" disabled="">确认已阅读 并承诺信息是真实数据</button>
+                </div>
+            </div>
+        </div>
+
+    
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>知识库名称:</label>
+        <div class="col-xs-12 col-sm-10">
+            <input id="c-name" class="form-control" name="row[name]" type="text" placeholder="知识库名称">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">模式:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="radio"><label for="row[type]-1"><input id="row[type]-1" checked="checked" name="row[type]" type="radio" value="1"> 细分模式</label> <label for="row[type]-2"><input id="row[type]-2" name="row[type]" type="radio" value="2"> 汇总模式</label></div>        </div>
+    </div>
+
+    
+
+    <div class="form-group subdivision">
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>公司名称:</label>
+        <div class="col-xs-12 col-sm-4">
+            <input id="c-company_name" class="form-control" name="row[company_name]" type="text" placeholder="公司名称">
+        </div>
+
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>品牌简称:</label>
+        <div class="col-xs-12 col-sm-4">
+            <input id="c-company_other_name" class="form-control" name="row[company_other_name]" type="text" placeholder="品牌简称">
+        </div>
+    </div>
+
+    <div class="form-group subdivision">
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>创作方向(多选):</label>
+        <div class="col-xs-12 col-sm-4">
+            <div class="dropdown bootstrap-select show-tick form-control bs3"><select class="form-control selectpicker" data-actions-box="true" multiple="" data-live-search="true" required="true" name="direction_ids[]"><option value="1">经验分享</option><option value="2">过程分享</option><option value="3">用户痛点</option><option value="4">用户避坑</option><option value="5">科技前沿</option><option value="6">行业洞察</option><option value="7">潮流趋势</option><option value="8">情感触动</option><option value="9">产品工艺</option><option value="10">产品特色</option><option value="11">技术创新</option><option value="12">功能亮点</option><option value="13">成本控制</option><option value="14">合作案例</option><option value="15">案例分析</option><option value="16">企业实力</option><option value="17">人才培养</option><option value="18">情感煽动</option><option value="19">热点宣传</option><option value="20">夸张方式</option><option value="21">效率提示</option><option value="22">行业对比</option><option value="23">成长优化</option><option value="24">风险揭示</option><option value="25">原则强调</option><option value="26">数据应用</option><option value="27">新手引导</option><option value="28">法规解读</option><option value="29">总结推荐</option></select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-default bs-placeholder" data-toggle="dropdown" role="combobox" aria-owns="bs-select-1" aria-haspopup="listbox" aria-expanded="false" title="没有选中任何项"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">没有选中任何项</div></div> </div><span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" role="combobox" aria-label="Search" aria-controls="bs-select-1" aria-autocomplete="list"></div><div class="bs-actionsbox"><div class="btn-group btn-group-sm btn-block"><button type="button" class="actions-btn bs-select-all btn btn-default">全选</button><button type="button" class="actions-btn bs-deselect-all btn btn-default">取消全选</button></div></div><div class="inner open" role="listbox" id="bs-select-1" tabindex="-1" aria-multiselectable="true"><ul class="dropdown-menu inner " role="presentation"></ul></div></div></div>            
+        </div>
+
+        <label class="control-label col-xs-12 col-sm-2"><i class="red_xing">*</i>文案类型(多选):</label>
+        <div class="col-xs-12 col-sm-4">
+            <div class="dropdown bootstrap-select show-tick form-control bs3"><select class="form-control selectpicker" data-actions-box="true" multiple="" data-live-search="true" required="true" name="wenan_type_ids[]"><option value="1">产品技术解读型</option><option value="2">热点话题关联型</option><option value="3">技术参数与性能评测型</option><option value="4">生活场景与情感共鸣型</option><option value="5">场景代入型</option><option value="6">体验风险型</option><option value="7">创意故事型</option><option value="8">悬念吸引型</option><option value="9">对比测评型</option><option value="10">新闻报道型</option><option value="11">知识科普型</option><option value="12">行业问答型</option><option value="13">行业百科型</option><option value="14">活动推广型</option><option value="15">用户对话型</option></select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-default bs-placeholder" data-toggle="dropdown" role="combobox" aria-owns="bs-select-2" aria-haspopup="listbox" aria-expanded="false" title="没有选中任何项"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">没有选中任何项</div></div> </div><span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" role="combobox" aria-label="Search" aria-controls="bs-select-2" aria-autocomplete="list"></div><div class="bs-actionsbox"><div class="btn-group btn-group-sm btn-block"><button type="button" class="actions-btn bs-select-all btn btn-default">全选</button><button type="button" class="actions-btn bs-deselect-all btn btn-default">取消全选</button></div></div><div class="inner open" role="listbox" id="bs-select-2" tabindex="-1" aria-multiselectable="true"><ul class="dropdown-menu inner " role="presentation"></ul></div></div></div>        </div>
+    </div>
+    
+
+    <div class="form-group subdivision">
+        <label class="control-label col-xs-12 col-sm-2">产品服务:<p class="show_btn" data-original-click="show_image_more('产品服务')">查看说明</p></label>
+        <div class="col-xs-12 col-sm-4">
+            <textarea placeholder="产品服务,1000字内" data-rule="" rows="4" class="form-control" name="row[product]"></textarea>
+
+        </div>
+
+        <label class="control-label col-xs-12 col-sm-2">产品特点:<p class="show_btn" data-original-click="show_image_more('产品特点')">查看说明</p></label>
+        <div class="col-xs-12 col-sm-4">
+            <textarea placeholder="产品特点,1000字内" data-rule="" rows="4" class="form-control" name="row[tese]"></textarea>
+        </div>
+    </div>
+
+    <div class="form-group subdivision">
+        <label class="control-label col-xs-12 col-sm-2">品牌故事:</label>
+        <div class="col-xs-12 col-sm-4">
+            <textarea placeholder="品牌故事,1000字内" data-rule="" rows="4" class="form-control" name="row[gushi]"></textarea>
+        </div>
+
+        <label class="control-label col-xs-12 col-sm-2">用户痛点:<p class="show_btn" data-original-click="show_image_more('用户痛点')">查看说明</p></label>
+        <div class="col-xs-12 col-sm-4">
+            <textarea placeholder="用户痛点,1000字内" data-rule="" rows="4" class="form-control" name="row[tongdian]"></textarea>
+
+        </div>
+    </div>
+
+    <div class="form-group subdivision">
+        <label class="control-label col-xs-12 col-sm-2">信任背书:<p class="show_btn" data-original-click="show_image_more('信任背书')">查看说明</p></label>
+        <div class="col-xs-12 col-sm-4">
+            <textarea placeholder="信任背书,1000字内" data-rule="" rows="4" class="form-control" name="row[beishu]"></textarea>
+
+        </div>
+
+        <label class="control-label col-xs-12 col-sm-2">客户案例:<p class="show_btn" data-original-click="show_image_more('客户案例')">查看说明</p></label>
+        <div class="col-xs-12 col-sm-4">
+            <textarea placeholder="客户案例,1000字内" data-rule="" rows="4" class="form-control" name="row[anli]"></textarea>
+            
+        </div>
+    </div>
+
+    <div class="form-group subdivision">
+        <label class="control-label col-xs-12 col-sm-2">其他信息:</label>
+        <div class="col-xs-12 col-sm-4">
+            <textarea placeholder="其他信息,1000字内" rows="4" class="form-control" name="row[other_info]"></textarea>
+        </div>
+
+        
+    </div>
+
+    <div class="form-group summary" style="display: none;">
+        <label class="control-label col-xs-12 col-sm-2">汇总信息:</label>
+        <div class="col-xs-12 col-sm-10">
+            <textarea placeholder="汇总信息，两万字内" rows="4" class="form-control" name="row[summary]"></textarea>
+        </div>
+    </div>
+
+
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="button" class="btn btn-primary btn-embossed " id="saveBtn">保存知识库</button>
+        </div>
+    </div>
+</form>
+
+
+
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+
+
+    
+
+<script src="/vendor/jquery.js"></script><script src="/vendor/layui.js"></script><script src="/site-assets/user_assets/libs/bootstrap/dist/js/bootstrap.min.js"></script><script src="/site-assets/user_assets/libs/bootstrap-select/dist/js/bootstrap-select.min.js"></script><script src="/site-assets/user_assets/libs/bootstrap-select/dist/js/i18n/defaults-zh_CN.js"></script><script src="/ai-config.js"></script><script src="/services/ai-service.js"></script><script src="/site-assets/user_assets/js/require.js"></script><script>require(["/admin-runtime.js"]);</script></body></html>

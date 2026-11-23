@@ -1,0 +1,27 @@
+
+> geo-local-demo@0.1.0 test
+> node check-login.mjs && node check-ai.mjs
+
+PASS both empty fields declare native required validation (HTML only)
+PASS login page does not redirect automatically
+PASS unchecked agreement blocks the local submission
+PASS incorrect demo login displays a demo error
+PASS valid demo login stores a session and opens the demonstration
+PASS remember option persists a marker without storing a password
+6 logic/HTML checks passed. These are not browser or visual checks.
+PASS stub reports not configured, no fabricated content and no network for all operations
+PASS stub cancellation closes loading state without returning later output
+PASS already cancelled requests never call the proxy
+PASS invalid input, signal and operation resolve explicit errors
+PASS proxy sends configured operation and input in the documented envelope
+PASS unsafe or invalid proxy endpoints do not make network requests
+PASS HTTP errors do not expose server response data
+PASS network failures return a stable error without exposing exception text
+PASS invalid content type, malformed JSON and incomplete envelopes are rejected
+PASS backend operation failure is not displayed as a successful AI result
+PASS timeout settles even when network implementation ignores abort
+PASS timeout also covers stalled JSON body parsing
+PASS proxy cancellation aborts transport and prevents late success
+PASS UI callback errors do not break request completion
+PASS circular input is rejected before network execution
+15 AI service checks passed. Browser UI and original-site mapping are outside these checks.

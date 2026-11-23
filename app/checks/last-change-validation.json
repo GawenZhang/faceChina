@@ -1,0 +1,101 @@
+{
+  "change": "Added delegated handlers for observed span.strat_zhengliu, span.submit_btn, span.shoudong_zhengliu. Manual modal markup extracted from captured inline source; local combination computation replaces original PHP POST.",
+  "source": "capture/admin/company_keyword-add-1440/final.html",
+  "scope": "Only the three custom span controls and new manualKeywords helper. Existing 72 list interaction paths, layer/frame/Bootstrap logic, CSS, and source modal geometry unchanged from preceding build.",
+  "unaffectedEvidence": "app/checks/interaction-coverage.json and interaction-coverage-tail.json retain their preceding buildHash; they are not re-labelled as final-code screenshots.",
+  "records": [
+    {
+      "key": "company_keyword-add",
+      "width": 1440,
+      "name": "local-states/span-ai-company_keyword-add-1440",
+      "evidence_id": "ev_a01d2ee425823e9a2112c1952cfa5dcbdc0124cb2f4a07e529e099a315b8f7f6",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "key": "zhengliu",
+      "width": 1440,
+      "name": "local-states/span-ai-zhengliu-1440",
+      "evidence_id": "ev_6b368a9d0d39c82c9256ebb52abc1cd05bd3aaa3f1ff1a853826e4e47caec380",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "key": "company_keyword-add",
+      "width": 390,
+      "name": "local-states/span-ai-company_keyword-add-390",
+      "evidence_id": "ev_184034918e39a96c72a2be94d9ea84f8ad611c770095d16c6e28706b3a99824d",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "key": "zhengliu",
+      "width": 390,
+      "name": "local-states/span-ai-zhengliu-390",
+      "evidence_id": "ev_0b3b4477d5d9486ebaee02cce92671e7ad410167d6743b44896493588dfcd8ce",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "key": "manual-keywords",
+      "width": 1440,
+      "name": "local-states/manual-keywords-1440",
+      "evidence_id": "ev_c794a3ebb2c1a8f6ccde0eda4e20af680f69bab94cfcdf2d5f507a6dda444c18",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "key": "manual-keywords",
+      "width": 390,
+      "name": "local-states/manual-keywords-390",
+      "evidence_id": "ev_f6ec0753c4ecde124f0d9cde863d7ff3b87c417b651891b85da30381ca71e905",
+      "passed": true,
+      "errors": []
+    }
+  ],
+  "spanPatchRuntimeSHA256": "0d362dc37cf2741e79993d292b2033163d94040077edd6ea6b37357937ba66e0",
+  "subsequentModalDelta": {
+    "change": "FastAdmin iframe modals use observed source shade=0 and wrap the copied footer contents in Bootstrap .row (source structure). Manual-keyword popup shade remains original0.8.",
+    "evidence": "app/checks/modal-final.json and modal-final-tail.json; each item records exact runtimeSHA256 and both source/local image paths.",
+    "unaffected": "Span AI dispatch and manual combination code unchanged after the six focused passing tests."
+  },
+  "responsiveModalDelta": {
+    "change": "Preserved percentage dimensions directly as CSS on resize; selected source-measured skin/shade/maxmin and original dialog query per modal template; applied FastAdmin footer only to source dialog=1 templates. Numeric media/id row families reuse their captured template geometry.",
+    "evidence": "app/checks/modal-final-responsive.json: all20 media/B2B modal cases complete with zero page errors at1440/390. Exact runtimeSHA256 recorded per item.",
+    "visualInspection": "Source/local webmedia390 and B2B settle/type/2 at390 match in popup dimensions, shade, header and content alignment.",
+    "unaffected": "List/search/sort/tab handlers and AI span dispatch are unchanged. Earlier focused evidence retains original hashes."
+  },
+  "selectpickerDelta": {
+    "change": "Destroy an existing auto-initialized Bootstrap selectpicker before unwrapping captured DOM and rebuilding its native instance; removes the window.load/RequireJS initialization race.",
+    "validationOwner": "page_build: app/checks/form-plugin-checks.json contains six passing focused dual-width checks for b2b_task-add, draft-add and user_tdk-add.",
+    "unaffected": "Modal positioning and skin logic and AI span dispatch are unchanged."
+  },
+  "shortDialogDelta": {
+    "change": "Removed the arbitrary100px iframe minimum when fitting a source-sized modal. Source article_type390 iframe is90.985px; clamping to100 caused the footer to overflow by9px.",
+    "evidence": "app/checks/interaction-local-residual-review.json: article_type390 improved from96.83% against settled source to99.99995%; other short mobile modals are covered by the same focused pass.",
+    "unaffected": "The correction changes no page outside an iframe modal and no modal whose available iframe height exceeds100px."
+  },
+  "formInitializationDelta": {
+    "change": "Replayed the observed stable Form.events.validator presentation initialization only on form[data-toggle=validator]: add nice-validator/n-default/n-bootstrap classes and remove class.disabled from submit controls inside that form's layer-footer/fixed-footer/normal-footer. Disabled attributes are preserved.",
+    "source": "app/site-assets/user_assets/js/require-form.js: Form.events.validator; source backend.css applies5px input corners only after nice-validator initializes.",
+    "evidence": "app/checks/interaction-local-residual-review.json records ai_image and piliang_baowen focused dual-width results; page_build records affected baseline form recaptures.",
+    "unaffected": "Forms without data-toggle=validator are unchanged; no original-site submission or remote validation call is introduced."
+  },
+  "finalRuntimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+  "tdkFieldsDelta": {
+    "scope": "Only pageKey=user_tdk-add and actual #entryForm; no baseline markup or styling mutation.",
+    "source": "capture/admin/user_tdk-add-1440/full.html inline row editor; current mature form has no data-toggle=validator and is excluded from validator initialization.",
+    "change": "Clone captured .field-row for four groups, Enter-add, delete while keeping one row, reset, required keyword/city/company validation, and exact comma/@@ field serialization for local save.",
+    "evidence": "app/checks/tdk-field-checks.json:16 passing records; source add/remove/reset and local add/remove/reset/validation/save at1440 and390.",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "sourceSafety": "Source tests only edited unsaved form state; no source submission was performed.",
+    "priorTestEvidence": "app/checks/tdk-field-checks-early.json retains the first test selector errors caused by matching commented-out .btn-reset/.btn-submit markup; final tests use actual type=reset/submit buttons."
+  },
+  "interactionFinal": {
+    "report": "app/checks/interaction-comparisons.json",
+    "total": 268,
+    "atLeast98Percent": 263,
+    "remaining": 5,
+    "remainingReason": "All five are user_score_log: latest original source0 rows vs retained earlier stable3-row snapshot; source/local paths and prior evidence preserved."
+  }
+}

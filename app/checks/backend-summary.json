@@ -1,0 +1,17 @@
+{
+  "total": 170,
+  "uniqueCases": 170,
+  "compared": 170,
+  "statusCounts": {
+    "已验证": 170,
+    "待修复": 0,
+    "未验证": 0
+  },
+  "minimumViewportSimilarity": 0.9921285895260353,
+  "minimumFullSimilarity": 0.9959899875427153,
+  "maximumFullHeightDifference": 0,
+  "browserErrors": 0,
+  "failedRequests": 0,
+  "missingEvidencePaths": [],
+  "needsFix": []
+}

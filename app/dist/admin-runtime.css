@@ -1,0 +1,11 @@
+﻿/* Only interaction surfaces; the captured page CSS owns the original layout. */
+.geo-toast{position:fixed;z-index:2147483000;left:50%;top:42%;transform:translate(-50%,-50%);max-width:90vw;padding:14px 22px;background:rgba(0,0,0,.78);border-radius:3px;color:#fff;font:14px/1.5 Arial,sans-serif;box-shadow:0 2px 15px #0002}
+.geo-ai-status{font-size:13px;line-height:1.6;margin:10px 0;color:#667085;white-space:normal}
+.geo-dialog{position:fixed;margin:auto;width:80vw;height:88vh;border:0;border-radius:3px;padding:0;box-shadow:0 8px 40px #0005}.geo-dialog::backdrop{background:#0005}.geo-dialog header{height:42px;background:#f5f5f5;padding:10px 15px}.geo-dialog header button{float:right;border:0;background:none;font-size:24px;line-height:20px}.geo-dialog iframe{border:0;width:100%;height:calc(100% - 42px)}
+.geo-card-table tbody tr{display:block;border:1px solid #ddd;padding:12px;margin:8px}.geo-card-table tbody td{display:block;text-align:left!important;border:none!important}.geo-card-table thead{display:none}
+.geo-favorite{color:#ffb800!important}
+body[data-page-key="shell"] .content-wrapper> .tab-pane{height:calc(100vh - 50px)}
+body[data-page-key="shell"] .content-wrapper iframe{display:block;height:100%;border:0}
+body[data-page-key="shell"] .sidebar{overflow-y:auto;max-height:calc(100vh - 50px)}
+body[data-page-key="shell"] .sidebar::-webkit-scrollbar{display:none}
+@media(max-width:767px){.geo-dialog{width:96vw;height:94vh}}

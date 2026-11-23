@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive,nosnippet,noimageindex">
+  <title>用户登录 - 鑫火GEO</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/login.css">
+</head>
+<body>
+  <main class="login-card" aria-label="账号登录">
+    <section class="intro" aria-labelledby="system-name">
+      <h2 id="system-name">鑫火GEO</h2>
+      <p>借助AI之力&nbsp;&nbsp;<br>轻松解决难题&nbsp;&nbsp;畅享智慧之旅</p>
+    </section>
+    <section class="login-panel">
+      <h3>账号登录</h3>
+      <form id="login-form" action="/demo/" method="post">
+        <div class="field">
+          <input id="username" name="username" type="text" placeholder="请输入账号" aria-label="请输入账号" autocomplete="username" required>
+        </div>
+        <div class="field">
+          <input id="password" name="password" type="password" placeholder="请输入登录密码" aria-label="请输入登录密码" autocomplete="current-password" required>
+        </div>
+        <div class="remember-row">
+          <label for="keeplogin"><input id="keeplogin" name="keeplogin" type="checkbox">记住登录状态</label>
+        </div>
+        <button class="login-submit" type="submit">立即登录</button>
+        <div class="agreement">
+          <input id="agree_input" name="agree_input" type="checkbox" aria-label="同意用户使用协议" checked>
+          登录即同意 <a href="https://my.feishu.cn/wiki/FKSFw27hSiUWtkkN5OMcmnmPnMb?from=from_copylink" target="_blank" rel="noopener noreferrer">《用户使用协议》</a>
+        </div>
+      </form>
+    </section>
+  </main>
+  <footer class="copyright">
+    Copyright © 2026 <a href="/">鑫火GEO</a> 版权所有<br><a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">鑫火GEO</a>
+  </footer>
+  <div id="login-feedback" class="fallback-message" role="status" aria-live="polite" hidden></div>
+  <script src="/vendor/jquery.js"></script>
+  <script src="/vendor/layui.js"></script>
+  <script src="/login.js"></script>
+</body>
+</html>

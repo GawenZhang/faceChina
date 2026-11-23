@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-11-22T15:18:25.072Z",
+  "scope": [
+    "app (including dist, source, documentation and checks)",
+    "capture (original/local evidence and reports)"
+  ],
+  "excluded": [
+    "Original task metadata and other workspace metadata; credential read from craft.request in memory only",
+    "node_modules junction (vendor sources scanned)",
+    "PNG/JPEG and other binary data; screenshots were masked before capture, never pixel-edited",
+    "This integrity report itself"
+  ],
+  "textFilesChecked": 5958,
+  "credential": {
+    "filesWithMatches": 0,
+    "encodingsChecked": [
+      "plain",
+      "url_component",
+      "percent_bytes",
+      "base64",
+      "base64url",
+      "base64_utf16le",
+      "hex_utf8",
+      "json_unicode",
+      "html_decimal",
+      "html_hex"
+    ],
+    "hitsByEncoding": {
+      "plain": 0,
+      "url_component": 0,
+      "percent_bytes": 0,
+      "base64": 0,
+      "base64url": 0,
+      "base64_utf16le": 0,
+      "hex_utf8": 0,
+      "json_unicode": 0,
+      "html_decimal": 0,
+      "html_hex": 0
+    },
+    "matches": []
+  },
+  "tokens": {
+    "htmlCSRF": 0,
+    "structuredCSRF": 0,
+    "inlineCSRFOrAliOss": 0,
+    "queryCSRF": 0,
+    "cloudKeys": 0,
+    "sensitiveHeaders": 0,
+    "matches": []
+  },
+  "robots": [
+    {
+      "file": "app/robots.txt",
+      "exists": true,
+      "disallowAll": true
+    },
+    {
+      "file": "app/dist/robots.txt",
+      "exists": true,
+      "disallowAll": true
+    }
+  ],
+  "servedHtml": {
+    "count": 260,
+    "missingNoindex": [],
+    "structuredData": []
+  },
+  "forbiddenIndexFiles": [],
+  "redactionReport": "../../capture/redaction-report.json",
+  "pass": true,
+  "networkHeaders": {
+    "recordFilesChecked": 1083,
+    "networkRecordsChecked": 1083,
+    "sensitiveHeaderEntries": [],
+    "unredactedEntries": []
+  }
+}

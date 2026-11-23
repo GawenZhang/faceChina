@@ -1,0 +1,76 @@
+[
+  {
+    "file": "user_assets/css/ai_shoulu.css",
+    "kind": "remove unavailable font-face",
+    "resource": "Alibaba-PuHuiTi-Regular.ttf",
+    "reason": "Original URL returns HTTP 404; preserve observed system-font fallback without failed local request"
+  },
+  {
+    "file": "user_assets/css/ai_shoulu.css",
+    "kind": "remove unavailable background",
+    "resource": "/assets/img/select.png",
+    "reason": "Original URL returns HTTP 404; preserve observed absent background"
+  },
+  {
+    "file": "user_assets/css/tuozhan_all.min.css",
+    "kind": "remove unavailable font-face",
+    "resources": [
+      "/user_assets/webfonts/fa-brands-400.woff2",
+      "/user_assets/webfonts/fa-brands-400.ttf"
+    ],
+    "reason": "Every font source returned HTTP 404 on the original site; preserve its fallback rendering without failed local requests"
+  },
+  {
+    "file": "user_assets/css/tuozhan_all.min.css",
+    "kind": "remove unavailable font-face",
+    "resources": [
+      "/user_assets/webfonts/fa-regular-400.woff2",
+      "/user_assets/webfonts/fa-regular-400.ttf"
+    ],
+    "reason": "Every font source returned HTTP 404 on the original site; preserve its fallback rendering without failed local requests"
+  },
+  {
+    "file": "user_assets/css/tuozhan_all.min.css",
+    "kind": "remove unavailable font-face",
+    "resources": [
+      "/user_assets/webfonts/fa-solid-900.woff2",
+      "/user_assets/webfonts/fa-solid-900.ttf"
+    ],
+    "reason": "Every font source returned HTTP 404 on the original site; preserve its fallback rendering without failed local requests"
+  },
+  {
+    "file": "user_assets/css/tuozhan_all.min.css",
+    "kind": "remove unavailable font-face",
+    "resources": [
+      "/user_assets/webfonts/fa-v4compatibility.woff2",
+      "/user_assets/webfonts/fa-v4compatibility.ttf"
+    ],
+    "reason": "Every font source returned HTTP 404 on the original site; preserve its fallback rendering without failed local requests"
+  },
+  {
+    "file": "user_assets/css/font-awesome.min.css",
+    "kind": "remove unavailable font-face",
+    "resources": [
+      "/user_assets/fonts/fontawesome-webfont.eot",
+      "/user_assets/fonts/fontawesome-webfont.eot",
+      "/user_assets/fonts/fontawesome-webfont.woff2",
+      "/user_assets/fonts/fontawesome-webfont.woff",
+      "/user_assets/fonts/fontawesome-webfont.ttf",
+      "/user_assets/fonts/fontawesome-webfont.svg"
+    ],
+    "reason": "Every font source returned HTTP 404 on the original site; preserve its fallback rendering without failed local requests"
+  },
+  {
+    "file": "user_assets/css/style-auto.css",
+    "kind": "remove unavailable font-face",
+    "resources": [
+      "/user_assets/fonts/fontawesome-webfont.eot",
+      "/user_assets/fonts/fontawesome-webfont.eot",
+      "/user_assets/fonts/fontawesome-webfont.woff2",
+      "/user_assets/fonts/fontawesome-webfont.woff",
+      "/user_assets/fonts/fontawesome-webfont.ttf",
+      "/user_assets/fonts/fontawesome-webfont.svg"
+    ],
+    "reason": "Every font source returned HTTP 404 on the original site; preserve its fallback rendering without failed local requests"
+  }
+]

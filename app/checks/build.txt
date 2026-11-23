@@ -1,0 +1,6 @@
+
+> geo-local-demo@0.1.0 build
+> node build.mjs
+
+Static build ready: dist; login, backend and configurable AI service stub.
+Backend pages built: 84

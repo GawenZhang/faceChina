@@ -1,0 +1,893 @@
+[
+  {
+    "key": "company_keyword",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/company_keyword-stable-390/step-9.png",
+    "localImage": "capture/admin/local-residual/company_keyword-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/company_keyword-interactive-390/step-11.png",
+    "priorSimilarity": 0.83733265493847,
+    "evidence_id": "ev_f93a53b1f13428ebf8e65f9ccde4a1cd05fe50a515f755f1467b7d2681614cfb",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/company_keyword-390-add/final.png",
+    "local_evidence_id": "ev_3c3732834c0c09d4677251331eb8c7dfea983dfb32eeefc62fe502f75892417b",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "company_question",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/company_question-stable-390/step-9.png",
+    "localImage": "capture/admin/local-residual/company_question-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/company_question-interactive-390/step-11.png",
+    "priorSimilarity": 0.9445681534767584,
+    "evidence_id": "ev_894a93237f98ed6497dc9c122bb8bfa2daa4379cbee1880e99b5563b71db201a",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 38,
+        "width": 330,
+        "x": 0,
+        "y": 709
+      },
+      "comparable": true,
+      "difference_fraction": 0.0027606837606837607,
+      "differing_pixels": 969,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 1,
+      "max_channel_delta": 195,
+      "perceptual_similarity": 0.9981862196457669,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/company_question-390-add/final.png",
+    "local_evidence_id": "ev_5c5893dffc057b14b44cd9f9a1c870ca92b933daed09869005b05900ae9032a9",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "article_type",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/article_type-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/article_type-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/article_type-interactive-390/step-11.png",
+    "priorSimilarity": 0.9514610158594092,
+    "evidence_id": "ev_6a981c792ffba8dc859670864997af7494a5e0eae9e2ecb2ca5199295e4c777f",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999995483956512,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/article_type-390-add/final.png",
+    "local_evidence_id": "ev_70ad6f5590d76b44f56703dbca9bd395d3af5268cb148619f3a25141780d4810",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "draft",
+    "width": 1440,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/draft-stable-1440/step-3.png",
+    "localImage": "capture/admin/local-residual/draft-1440-add/final.png",
+    "priorSourceImage": "capture/admin/states/draft-interactive-1440/step-11.png",
+    "priorSimilarity": 0.9064628713080745,
+    "evidence_id": "ev_580df1bfac5aa015caf033868f5c5319b41130db83c3c02ee0a03f8b6684437f",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999988536988486,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/draft-1440-add/final.png",
+    "local_evidence_id": "ev_2909261134cdea7d473159d042f0fb42ee69101cb3368ec9c1651f8b0d09147c",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "ai_task",
+    "width": 1440,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/ai_task-stable-1440/step-3.png",
+    "localImage": "capture/admin/local-residual/ai_task-1440-add/final.png",
+    "priorSourceImage": "capture/admin/states/ai_task-interactive-1440/step-11.png",
+    "priorSimilarity": 0.9011492934619523,
+    "evidence_id": "ev_8124b3e5123be45473d9863e155470e14ebeaa0e05b3d9a304a91b420d5b86f8",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999956000864038,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/ai_task-1440-add/final.png",
+    "local_evidence_id": "ev_953fa198678da561bc5bf370c782ef0143d74abc22c3efe12bc2f7e5493248f7",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "user_huaxiang",
+    "width": 1440,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/user_huaxiang-stable-1440/step-3.png",
+    "localImage": "capture/admin/local-residual/user_huaxiang-1440-add/final.png",
+    "priorSourceImage": "capture/admin/states/user_huaxiang-interactive-1440/step-11.png",
+    "priorSimilarity": 0.9544920786325073,
+    "evidence_id": "ev_c579cb408778786b83ccb941a61400e79b7630752ad9418c23b79e49c9159a70",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.999999999999989,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/user_huaxiang-1440-add/final.png",
+    "local_evidence_id": "ev_32a0c2c9d9f276cfd6158c04c6d6a21464f0dd1fcedc87078773aa269fb593da",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "webmedia_task",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/webmedia_task-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/webmedia_task-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/webmedia_task-interactive-390/step-11.png",
+    "priorSimilarity": 0.9657245389011022,
+    "evidence_id": "ev_9070ca668049334981ffe34fac50686beb155e14832013d2852da4a7653d8a46",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/webmedia_task-390-add/final.png",
+    "local_evidence_id": "ev_ae28358bbe24f9c3d5e4f4fe2b5afe350d97653b64213dc62c1f2907b995cb65",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "media_collection-index-type-1",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/media_collection-index-type-1-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/media_collection-index-type-1-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/media_collection-index-type-1-interactive-390/step-11.png",
+    "priorSimilarity": 0.9671404155517261,
+    "evidence_id": "ev_316c648f5d073f03d48720efeac8f023098b23eb4d1b39016c7254a7c53bb84d",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.999999454468884,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/media_collection-index-type-1-390-add/final.png",
+    "local_evidence_id": "ev_db6759035a9ca4f45d2f5ac42f0b0e8a808d3086b14116e48d6132103a528ff0",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "media_collection-index-type-2",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/media_collection-index-type-2-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/media_collection-index-type-2-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/media_collection-index-type-2-interactive-390/step-11.png",
+    "priorSimilarity": 0.9671404155517261,
+    "evidence_id": "ev_0f30a062be755703e5c1424d646653dfe0ca6f131f612347e5081ec8b8ead845",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.999999454468884,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/media_collection-index-type-2-390-add/final.png",
+    "local_evidence_id": "ev_cfc5764dfae09ce438e3ff913b88e12907d147e48fd23d80bc71dbb7843559d1",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "user_site",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/user_site-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/user_site-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/user_site-interactive-390/step-11.png",
+    "priorSimilarity": 0.9598571335986127,
+    "evidence_id": "ev_5e942ddfa7279574f57020bef1f74db6a20bf2afc57dab3be7bbde45e3ccc37f",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999959813684166,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/user_site-390-add/final.png",
+    "local_evidence_id": "ev_84835fd9badd843a562595cb8e933592e3f08124cedd4719d2c0e25ae262dcf5",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "user_site_task",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/user_site_task-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/user_site_task-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/user_site_task-interactive-390/step-11.png",
+    "priorSimilarity": 0.9336370269282701,
+    "evidence_id": "ev_9d8b61b8e6bc00e611f2495e8ea27c034138911472e9b923c7b61c1fbd2f1ff3",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/user_site_task-390-add/final.png",
+    "local_evidence_id": "ev_64b95afcd8a7d8eea530df39acb346362af80da1352e0c2fd742c72a5a22d62d",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "user_tdk",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/user_tdk-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/user_tdk-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/user_tdk-interactive-390/step-11.png",
+    "priorSimilarity": 0.9651999028052408,
+    "evidence_id": "ev_735a89a8eaea5fb780c898a0f2f4bade0ee86b6ab3f75b3721ac7f392be88e95",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.999999454468884,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/user_tdk-390-add/final.png",
+    "local_evidence_id": "ev_296b42cc8a3434a556c1ed9fa06d80b1ea11a58b0b9a6998f3b8a191d3312cc9",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "user_huaxiang",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/user_huaxiang-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/user_huaxiang-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/user_huaxiang-interactive-390/step-11.png",
+    "priorSimilarity": 0.9662500138575545,
+    "evidence_id": "ev_4e0bb25c22123237dc449522c76802871eb604ad310da604fa2e7f1aedd094b6",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999999999999901,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/user_huaxiang-390-add/final.png",
+    "local_evidence_id": "ev_37862a955a094f54d2154b51d4b7d4e2df5e52a797284f71b5281635c0459a71",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "zhiling",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/zhiling-stable-390/step-9.png",
+    "localImage": "capture/admin/local-residual/zhiling-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/zhiling-interactive-390/step-11.png",
+    "priorSimilarity": 0.9372292171221793,
+    "evidence_id": "ev_8459d7101f651ac59dfba667ddfc8b4ada351cc979c30631636298cd6bf78b8e",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999994121551451,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/zhiling-390-add/final.png",
+    "local_evidence_id": "ev_a5d1f54813d81b36fb9e4456abf08a26144e20bfb8aa3c300ce4acc52b00874b",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "ai_task",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/ai_task-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/ai_task-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/ai_task-interactive-390/step-11.png",
+    "priorSimilarity": 0.962688960138412,
+    "evidence_id": "ev_6922bf15e40e3cfbaa7a39e3b9ef4c80ea790481c1e8818913289e7e261aa484",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999998471232242,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/ai_task-390-add/final.png",
+    "local_evidence_id": "ev_0c16f027c63dd742832f48d6da1d4872fca0efd2755de75e5e5894328a51070c",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "article",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/article-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/article-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/article-interactive-390/step-11.png",
+    "priorSimilarity": 0.9467015848542303,
+    "evidence_id": "ev_6af6b76a627273972d0253a1408ad7fc94feddd9393a6df6ed00230f3ebfb057",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999995483956512,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/article-390-add/final.png",
+    "local_evidence_id": "ev_c6aaf974cf32886711daa646bc4c90722a11f560dcc1ec54b07db6a8ef4bc4a8",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "weixin_baowen",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/weixin_baowen-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/weixin_baowen-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/weixin_baowen-interactive-390/step-11.png",
+    "priorSimilarity": 0.9285910244381015,
+    "evidence_id": "ev_4b1191d7adba2ecaf874cd5f062ac908803f47e73e7cf8702921ca6e33edde15",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/weixin_baowen-390-add/final.png",
+    "local_evidence_id": "ev_d642ad179a377e6b2e56c0e8ebad0e2b2347883a1e110e293c9420a5b5919e6f",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "piliang_baowen",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/piliang_baowen-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/piliang_baowen-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/piliang_baowen-interactive-390/step-11.png",
+    "priorSimilarity": 0.943854209654549,
+    "evidence_id": "ev_f734fe47059cc584ec0ae7af899e814b5a3f7ade787424604ad91a97902d70cb",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/piliang_baowen-390-add/final.png",
+    "local_evidence_id": "ev_2d40e74fc36e5aa2641062e3bdc113d3024c8eff38471dad856225824d8511c5",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "ai_image",
+    "width": 1440,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/ai_image-stable-1440/step-3.png",
+    "localImage": "capture/admin/local-residual/ai_image-1440-add/final.png",
+    "priorSourceImage": "capture/admin/states/ai_image-interactive-1440/step-11.png",
+    "priorSimilarity": 0.9635587234223466,
+    "evidence_id": "ev_ba4d5748021ab7dc921d4543c1cd71f3b1fda5a4316f5f4af81d0f796ca2619b",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999994329769255,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/ai_image-1440-add/final.png",
+    "local_evidence_id": "ev_03ec5af29af90f4caa3d8862f4e90e78f4e3f1c4dc071a8e4844d6377ca1afd6",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "ai_image",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/ai_image-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/ai_image-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/ai_image-interactive-390/step-11.png",
+    "priorSimilarity": 0.9482641018315765,
+    "evidence_id": "ev_5890e768b98b065f3a66e6c17d5a1f442d05d5276638377c06a31ba96e6d91ee",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999995483956512,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/ai_image-390-add/final.png",
+    "local_evidence_id": "ev_1dd866211c20116484bc53d6264f54b7803bf89e8323444d7520273b9b101355",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "b2b_task",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/b2b_task-stable-390/step-3.png",
+    "localImage": "capture/admin/local-residual/b2b_task-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/b2b_task-interactive-390/step-11.png",
+    "priorSimilarity": 0.966727977168116,
+    "evidence_id": "ev_d3c87b8bf2ddaf4105735fb191a2a4b3b027ca468f8e1a1b711eea13d6efc4a2",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    },
+    "priorLocalImage": "capture/admin/local-modal-final/b2b_task-390-add/final.png",
+    "local_evidence_id": "ev_68674353425e3711eb29ee5b4203da7d9d8730cbc8b026b3a2bdfd714d834633",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  },
+  {
+    "key": "piliang_baowen",
+    "width": 1440,
+    "state": "add",
+    "sourceImage": "capture/admin/states/piliang_baowen-interactive-1440/step-11.png",
+    "localImage": "capture/admin/local-residual/piliang_baowen-1440-add/final.png",
+    "priorSourceImage": "capture/admin/states/piliang_baowen-interactive-1440/step-11.png",
+    "priorSimilarity": 0.9989612258841611,
+    "evidence_id": "ev_5db9bfec293599e8ad1eab88f9101515156b2eddc423b3c1cf1097552d2a6a63",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 530,
+        "width": 618,
+        "x": 354,
+        "y": 210
+      },
+      "comparable": true,
+      "difference_fraction": 0.018589506172839505,
+      "differing_pixels": 24092,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9902534113060428,
+      "max_channel_delta": 255,
+      "perceptual_similarity": 0.991729666945843,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    },
+    "sourceReviewMode": "Original settled source modal retained for additional focused validator initialization regression check.",
+    "priorLocalImage": "capture/admin/local-modal-final/piliang_baowen-1440-add/final.png",
+    "local_evidence_id": "ev_7c24e908cf8bc7d62a6b086f9607cf2ebaea1bb6515043581a1bdf37f102f3a3",
+    "runtimeSHA256": "d89964d6000fe496e174d692aa21039741d7bbb7ef39ee37f06e44e0c9a4a15c",
+    "templatesSHA256": "27aba90e9d6f03a992ca58ecc5ac56193bd38a87ac1cfe4b8c4476de97e48033"
+  }
+]

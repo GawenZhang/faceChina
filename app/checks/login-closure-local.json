@@ -1,0 +1,154 @@
+[
+  {
+    "kind": "local",
+    "width": 1440,
+    "state": "empty",
+    "evidence_id": "ev_b75b49742967dc2a8d8c66cea45a4449166534c757102394a1427d22530e4b22",
+    "url": "http://127.0.0.1:4173/user/index/login/",
+    "activeElement": "username",
+    "fields": [
+      {
+        "id": "username",
+        "required": true,
+        "valueMissing": true,
+        "validationMessage": "请填写此字段。"
+      },
+      {
+        "id": "password",
+        "required": true,
+        "valueMissing": true,
+        "validationMessage": "请填写此字段。"
+      }
+    ],
+    "agreement": true,
+    "messages": []
+  },
+  {
+    "kind": "local",
+    "width": 1440,
+    "state": "invalid",
+    "evidence_id": "ev_65c5e795097c504b524aab2cf05a2b74a3c8a0407ef0d9675254ff2ca67762b3",
+    "url": "http://127.0.0.1:4173/user/index/login/",
+    "activeElement": "",
+    "fields": [
+      {
+        "id": "username",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      },
+      {
+        "id": "password",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      }
+    ],
+    "agreement": true,
+    "messages": [
+      "演示账号或密码错误"
+    ]
+  },
+  {
+    "kind": "local",
+    "width": 1440,
+    "state": "agreement",
+    "evidence_id": "ev_3e4aee7033975d4177041b884d02831fc02525031980aad13d56145a5ae2c56f",
+    "url": "http://127.0.0.1:4173/user/index/login/",
+    "activeElement": "",
+    "fields": [
+      {
+        "id": "username",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      },
+      {
+        "id": "password",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      }
+    ],
+    "agreement": false,
+    "messages": [
+      "请阅读并勾选用户协议"
+    ]
+  },
+  {
+    "kind": "local",
+    "width": 390,
+    "state": "empty",
+    "evidence_id": "ev_afdada0719e92e7290f496460136f23b31c7385d3b485c092bb4cc0c90a10781",
+    "url": "http://127.0.0.1:4173/user/index/login/",
+    "activeElement": "username",
+    "fields": [
+      {
+        "id": "username",
+        "required": true,
+        "valueMissing": true,
+        "validationMessage": "请填写此字段。"
+      },
+      {
+        "id": "password",
+        "required": true,
+        "valueMissing": true,
+        "validationMessage": "请填写此字段。"
+      }
+    ],
+    "agreement": true,
+    "messages": []
+  },
+  {
+    "kind": "local",
+    "width": 390,
+    "state": "invalid",
+    "evidence_id": "ev_b8114ced7975e84d7d54bce2c4b9330d86a606b018f5c6c3a1502e8754717d71",
+    "url": "http://127.0.0.1:4173/user/index/login/",
+    "activeElement": "",
+    "fields": [
+      {
+        "id": "username",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      },
+      {
+        "id": "password",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      }
+    ],
+    "agreement": true,
+    "messages": [
+      "演示账号或密码错误"
+    ]
+  },
+  {
+    "kind": "local",
+    "width": 390,
+    "state": "agreement",
+    "evidence_id": "ev_c6613daabf8a1916e08e8b168b335659ed979697f7ed6c742b88bdcd287e0bbb",
+    "url": "http://127.0.0.1:4173/user/index/login/",
+    "activeElement": "",
+    "fields": [
+      {
+        "id": "username",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      },
+      {
+        "id": "password",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      }
+    ],
+    "agreement": false,
+    "messages": [
+      "请阅读并勾选用户协议"
+    ]
+  }
+]

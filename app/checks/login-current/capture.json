@@ -1,0 +1,828 @@
+{
+  "a11y": {
+    "images_without_alt": 0,
+    "landmarks": {
+      "contentinfo": 1,
+      "main": 1
+    },
+    "lang": "zh-CN",
+    "unnamed_controls": 0,
+    "unnamed_examples": []
+  },
+  "assets": {
+    "background_images": [],
+    "fonts": [],
+    "images": [],
+    "inline_scripts": 0,
+    "requests": [
+      {
+        "bytes": 4073,
+        "type": "link",
+        "url": "http://127.0.0.1:57561/login.css"
+      },
+      {
+        "bytes": 139444,
+        "type": "script",
+        "url": "http://127.0.0.1:57561/vendor/jquery.js"
+      },
+      {
+        "bytes": 291446,
+        "type": "script",
+        "url": "http://127.0.0.1:57561/vendor/layui.js"
+      },
+      {
+        "bytes": 1888,
+        "type": "script",
+        "url": "http://127.0.0.1:57561/login.js"
+      },
+      {
+        "bytes": 494,
+        "type": "link",
+        "url": "http://127.0.0.1:57561/vendor/css/modules/laydate/default/laydate.css"
+      },
+      {
+        "bytes": 2328,
+        "type": "link",
+        "url": "http://127.0.0.1:57561/vendor/css/modules/layer/default/layer.css"
+      },
+      {
+        "bytes": 425,
+        "type": "link",
+        "url": "http://127.0.0.1:57561/vendor/css/modules/code.css"
+      },
+      {
+        "bytes": 493,
+        "type": "other",
+        "url": "http://127.0.0.1:57561/favicon.svg"
+      }
+    ],
+    "scripts": [
+      "http://127.0.0.1:57561/vendor/jquery.js",
+      "http://127.0.0.1:57561/vendor/layui.js",
+      "http://127.0.0.1:57561/login.js"
+    ],
+    "stylesheets": [
+      "http://127.0.0.1:57561/login.css",
+      "http://127.0.0.1:57561/vendor/css/modules/laydate/default/laydate.css?v=5.3.1",
+      "http://127.0.0.1:57561/vendor/css/modules/layer/default/layer.css?v=3.5.1",
+      "http://127.0.0.1:57561/vendor/css/modules/code.css?v=3"
+    ]
+  },
+  "breakpoints": [
+    {
+      "count": 1,
+      "px": 700,
+      "query": "max-width 700px"
+    }
+  ],
+  "design": {
+    "backgrounds": [
+      {
+        "count": 2,
+        "value": "#f9faff"
+      },
+      {
+        "count": 1,
+        "value": "#ffffff"
+      }
+    ],
+    "css_variables": {
+      "--accent-color": "#9b59f2",
+      "--action-gradient": "linear-gradient(90deg, #407bff, #9b59f2)",
+      "--agreement-color": "#777777",
+      "--card-radius": "24px",
+      "--card-shadow": "0 10px 40px rgba(120, 80, 220, .15)",
+      "--card-width": "780px",
+      "--control-radius": "12px",
+      "--field-background": "#f9faff",
+      "--field-border": "#e8e8e8",
+      "--focus-color": "#7b61ff",
+      "--font-family": "\"Microsoft Yahei\", sans-serif",
+      "--footer-color": "#eeeeee",
+      "--heading-color": "#222222",
+      "--input-color": "#333333",
+      "--intro-gradient": "linear-gradient(145deg, #97c2ff, #6e72ff, #43d2f7)",
+      "--link-color": "#407bff",
+      "--muted-color": "#666666",
+      "--page-gradient": "linear-gradient(168deg, #efefff, #c9e0ff, #719aff, #d8dcff)",
+      "--placeholder-color": "#b4b8c3",
+      "--surface": "#ffffff"
+    },
+    "font_faces": [],
+    "font_sizes": [
+      {
+        "count": 3,
+        "value": "12px"
+      },
+      {
+        "count": 2,
+        "value": "14px"
+      },
+      {
+        "count": 2,
+        "value": "13px"
+      },
+      {
+        "count": 1,
+        "value": "26px"
+      },
+      {
+        "count": 1,
+        "value": "24px"
+      },
+      {
+        "count": 1,
+        "value": "16px"
+      }
+    ],
+    "font_weights": [
+      {
+        "count": 7,
+        "value": "400"
+      },
+      {
+        "count": 2,
+        "value": "600"
+      },
+      {
+        "count": 1,
+        "value": "700"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 10,
+        "value": "\"Microsoft Yahei\", sans-serif"
+      }
+    ],
+    "max_widths": [
+      {
+        "count": 1,
+        "value": "780px"
+      }
+    ],
+    "radii": [
+      {
+        "count": 3,
+        "value": "12px"
+      },
+      {
+        "count": 1,
+        "value": "24px"
+      }
+    ],
+    "shadows": [
+      {
+        "count": 1,
+        "value": "rgba(120, 80, 220, 0.15) 0px 10px 40px 0px"
+      }
+    ],
+    "spacing": [
+      {
+        "count": 5,
+        "value": "20px"
+      },
+      {
+        "count": 4,
+        "value": "18px"
+      },
+      {
+        "count": 2,
+        "value": "40px"
+      },
+      {
+        "count": 2,
+        "value": "25px"
+      },
+      {
+        "count": 2,
+        "value": "12px"
+      },
+      {
+        "count": 2,
+        "value": "50px"
+      },
+      {
+        "count": 2,
+        "value": "45px"
+      },
+      {
+        "count": 2,
+        "value": "22px"
+      },
+      {
+        "count": 2,
+        "value": "6px"
+      },
+      {
+        "count": 1,
+        "value": "35px"
+      },
+      {
+        "count": 1,
+        "value": "10px"
+      },
+      {
+        "count": 1,
+        "value": "30px"
+      }
+    ],
+    "text_colors": [
+      {
+        "count": 5,
+        "value": "#ffffff"
+      },
+      {
+        "count": 1,
+        "value": "#222222"
+      },
+      {
+        "count": 1,
+        "value": "#666666"
+      },
+      {
+        "count": 1,
+        "value": "#777777"
+      },
+      {
+        "count": 1,
+        "value": "#407bff"
+      },
+      {
+        "count": 1,
+        "value": "#eeeeee"
+      }
+    ]
+  },
+  "forms": [
+    {
+      "action": "/demo/",
+      "fields": [
+        {
+          "label": "请输入账号",
+          "name": "username",
+          "placeholder": "请输入账号",
+          "required": true,
+          "tag": "input",
+          "type": "text"
+        },
+        {
+          "label": "请输入登录密码",
+          "name": "password",
+          "placeholder": "请输入登录密码",
+          "required": true,
+          "tag": "input",
+          "type": "password"
+        },
+        {
+          "label": "记住登录状态",
+          "name": "keeplogin",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "checkbox"
+        },
+        {
+          "label": "",
+          "name": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "button",
+          "type": "submit"
+        },
+        {
+          "label": "同意用户使用协议",
+          "name": "agree_input",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "checkbox"
+        }
+      ],
+      "method": "post"
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "text": "鑫火GEO"
+    },
+    {
+      "level": 3,
+      "text": "账号登录"
+    }
+  ],
+  "health": {
+    "errors": [],
+    "failed_requests": []
+  },
+  "lang": "zh-CN",
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 780,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 780,
+            "x": 330
+          },
+          "h": 452,
+          "heading": "鑫火GEO",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "main",
+          "w": 780,
+          "y": 224
+        },
+        {
+          "h": 452,
+          "heading": "鑫火GEO",
+          "pad": [
+            40,
+            25,
+            40,
+            25
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 328,
+          "y": 224
+        },
+        {
+          "h": 452,
+          "heading": "账号登录",
+          "pad": [
+            50,
+            45,
+            50,
+            45
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 452,
+          "y": 224
+        },
+        {
+          "h": 32,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "footer",
+          "w": 1440,
+          "y": 853
+        }
+      ],
+      "page_h": 900,
+      "page_w": 1440,
+      "type": {
+        "body": 14,
+        "h1": 0,
+        "h2": 26,
+        "h3": 24
+      },
+      "width": 1440
+    },
+    {
+      "blocks": [
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 780,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 728,
+            "x": 20
+          },
+          "h": 452,
+          "heading": "鑫火GEO",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "main",
+          "w": 728,
+          "y": 224
+        },
+        {
+          "h": 452,
+          "heading": "鑫火GEO",
+          "pad": [
+            40,
+            25,
+            40,
+            25
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 306,
+          "y": 224
+        },
+        {
+          "h": 452,
+          "heading": "账号登录",
+          "pad": [
+            50,
+            45,
+            50,
+            45
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 422,
+          "y": 224
+        },
+        {
+          "h": 32,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "footer",
+          "w": 768,
+          "y": 853
+        }
+      ],
+      "page_h": 900,
+      "page_w": 768,
+      "type": {
+        "body": 14,
+        "h1": 0,
+        "h2": 26,
+        "h3": 24
+      },
+      "width": 768
+    },
+    {
+      "blocks": [
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 780,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 350,
+            "x": 20
+          },
+          "h": 579,
+          "heading": "鑫火GEO",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "main",
+          "w": 350,
+          "y": 160
+        },
+        {
+          "h": 157,
+          "heading": "鑫火GEO",
+          "pad": [
+            30,
+            30,
+            30,
+            30
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 350,
+          "y": 160
+        },
+        {
+          "h": 422,
+          "heading": "账号登录",
+          "pad": [
+            35,
+            25,
+            35,
+            25
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 350,
+          "y": 318
+        },
+        {
+          "h": 32,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "footer",
+          "w": 390,
+          "y": 853
+        }
+      ],
+      "page_h": 900,
+      "page_w": 390,
+      "type": {
+        "body": 14,
+        "h1": 0,
+        "h2": 26,
+        "h3": 24
+      },
+      "width": 390
+    }
+  ],
+  "links": [
+    {
+      "href": "https://my.feishu.cn/wiki/FKSFw27hSiUWtkkN5OMcmnmPnMb?from=from_copylink",
+      "text": "《用户使用协议》"
+    },
+    {
+      "href": "http://127.0.0.1:57561/",
+      "text": "鑫火GEO"
+    },
+    {
+      "href": "https://beian.miit.gov.cn/",
+      "text": "鑫火GEO"
+    }
+  ],
+  "meta": {
+    "description": "",
+    "icons": [
+      "http://127.0.0.1:57561/favicon.svg"
+    ],
+    "og_image": "",
+    "og_title": "",
+    "theme_color": ""
+  },
+  "outline": [
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 452,
+        "w": 780,
+        "x": 330,
+        "y": 224
+      },
+      "class": "login-card",
+      "color": "#000000",
+      "depth": 2,
+      "display": "flex",
+      "flex": "row",
+      "font": "16px 400",
+      "tag": "main"
+    },
+    {
+      "box": {
+        "h": 452,
+        "w": 328,
+        "x": 330,
+        "y": 224
+      },
+      "class": "intro",
+      "color": "#ffffff",
+      "depth": 3,
+      "display": "flex",
+      "flex": "column",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 108,
+        "x": 440,
+        "y": 401
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "26px 700",
+      "id": "system-name",
+      "tag": "h2",
+      "text": "鑫火GEO"
+    },
+    {
+      "box": {
+        "h": 50,
+        "w": 176,
+        "x": 406,
+        "y": 448
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "借助AI之力 轻松解决难题 畅享智慧之旅"
+    },
+    {
+      "box": {
+        "h": 452,
+        "w": 452,
+        "x": 658,
+        "y": 224
+      },
+      "class": "login-panel",
+      "color": "#000000",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 31,
+        "w": 362,
+        "x": 703,
+        "y": 274
+      },
+      "color": "#222222",
+      "depth": 4,
+      "font": "24px 600",
+      "tag": "h3",
+      "text": "账号登录"
+    },
+    {
+      "box": {
+        "h": 286,
+        "w": 362,
+        "x": 703,
+        "y": 340
+      },
+      "color": "#000000",
+      "depth": 4,
+      "display": "block",
+      "font": "16px 400",
+      "id": "login-form",
+      "tag": "form"
+    },
+    {
+      "background": "#f9faff",
+      "box": {
+        "h": 52,
+        "w": 362,
+        "x": 703,
+        "y": 340
+      },
+      "color": "#333333",
+      "depth": 6,
+      "font": "15px 400",
+      "id": "username",
+      "name": "username",
+      "placeholder": "请输入账号",
+      "tag": "input",
+      "type": "text"
+    },
+    {
+      "background": "#f9faff",
+      "box": {
+        "h": 52,
+        "w": 362,
+        "x": 703,
+        "y": 414
+      },
+      "color": "#333333",
+      "depth": 6,
+      "font": "15px 400",
+      "id": "password",
+      "name": "password",
+      "placeholder": "请输入登录密码",
+      "tag": "input",
+      "type": "password"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 13,
+        "x": 703,
+        "y": 491
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "13.3333px 400",
+      "id": "keeplogin",
+      "name": "keeplogin",
+      "placeholder": "",
+      "tag": "input",
+      "type": "checkbox"
+    },
+    {
+      "box": {
+        "h": 52,
+        "w": 362,
+        "x": 703,
+        "y": 537
+      },
+      "class": "login-submit",
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "16px 600",
+      "tag": "button",
+      "text": "立即登录"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 13,
+        "x": 789,
+        "y": 610
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13.3333px 400",
+      "id": "agree_input",
+      "name": "agree_input",
+      "placeholder": "",
+      "tag": "input",
+      "type": "checkbox"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 104,
+        "x": 875,
+        "y": 609
+      },
+      "color": "#407bff",
+      "depth": 6,
+      "font": "13px 400",
+      "href": "https://my.feishu.cn/wiki/FKSFw27hSiUWtkkN5OMcmnmPnMb?from=from_copylink",
+      "tag": "a",
+      "text": "《用户使用协议》"
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 1440,
+        "x": 0,
+        "y": 853
+      },
+      "class": "copyright",
+      "color": "#eeeeee",
+      "depth": 2,
+      "display": "block",
+      "font": "12px 400",
+      "tag": "footer"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 49,
+        "x": 723,
+        "y": 853
+      },
+      "color": "#ffffff",
+      "depth": 3,
+      "font": "12px 400",
+      "href": "http://127.0.0.1:57561/",
+      "tag": "a",
+      "text": "鑫火GEO"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 49,
+        "x": 695,
+        "y": 869
+      },
+      "color": "#ffffff",
+      "depth": 3,
+      "font": "12px 400",
+      "href": "https://beian.miit.gov.cn/",
+      "tag": "a",
+      "text": "鑫火GEO"
+    }
+  ],
+  "page": {
+    "h": 900,
+    "w": 1440
+  },
+  "text": "鑫火GEO 借助AI之力 轻松解决难题 畅享智慧之旅 账号登录 记住登录状态 立即登录 登录即同意 《用户使用协议》 Copyright © 2026 鑫火GEO 版权所有 鑫火GEO",
+  "title": "用户登录 - 鑫火GEO",
+  "unreadable_stylesheets": 0,
+  "url": "http://127.0.0.1:57561/",
+  "viewport": {
+    "h": 900,
+    "w": 1440
+  }
+}

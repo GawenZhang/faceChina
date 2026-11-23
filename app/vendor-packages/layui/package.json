@@ -1,0 +1,7 @@
+{
+  "name": "layui",
+  "version": "2.7.6",
+  "private": true,
+  "license": "MIT",
+  "main": "dist/layui.js"
+}

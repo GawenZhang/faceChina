@@ -1,0 +1,1481 @@
+[
+  {
+    "key": "company_keyword",
+    "width": 390,
+    "state": "search",
+    "sourceImage": "capture/admin/dialog-investigation/company_keyword-stable-390/step-3.png",
+    "localImage": "capture\\admin\\local-states\\company_keyword-interactive-390\\step-3.png",
+    "priorSourceImage": "capture\\admin\\states\\company_keyword-interactive-390\\step-2.png",
+    "priorSimilarity": 0.9405745089123556,
+    "evidence_id": "ev_f93a53b1f13428ebf8e65f9ccde4a1cd05fe50a515f755f1467b7d2681614cfb",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "company_keyword",
+    "width": 390,
+    "state": "columns",
+    "sourceImage": "capture/admin/dialog-investigation/company_keyword-stable-390/step-6.png",
+    "localImage": "capture\\admin\\local-states\\company_keyword-interactive-390\\step-6.png",
+    "priorSourceImage": "capture\\admin\\states\\company_keyword-interactive-390\\step-5.png",
+    "priorSimilarity": 0.9517123081737899,
+    "evidence_id": "ev_f93a53b1f13428ebf8e65f9ccde4a1cd05fe50a515f755f1467b7d2681614cfb",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999987309927073,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "company_keyword",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/company_keyword-stable-390/step-9.png",
+    "localImage": "capture/admin/local-modal-final/company_keyword-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/company_keyword-interactive-390/step-11.png",
+    "priorSimilarity": 0.83733265493847,
+    "evidence_id": "ev_f93a53b1f13428ebf8e65f9ccde4a1cd05fe50a515f755f1467b7d2681614cfb",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "company_question",
+    "width": 390,
+    "state": "search",
+    "sourceImage": "capture/admin/dialog-investigation/company_question-stable-390/step-3.png",
+    "localImage": "capture\\admin\\local-states\\company_question-interactive-390\\step-3.png",
+    "priorSourceImage": "capture\\admin\\states\\company_question-interactive-390\\step-2.png",
+    "priorSimilarity": 0.9082039521314789,
+    "evidence_id": "ev_894a93237f98ed6497dc9c122bb8bfa2daa4379cbee1880e99b5563b71db201a",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "company_question",
+    "width": 390,
+    "state": "columns",
+    "sourceImage": "capture/admin/dialog-investigation/company_question-stable-390/step-6.png",
+    "localImage": "capture\\admin\\local-states\\company_question-interactive-390\\step-6.png",
+    "priorSourceImage": "capture\\admin\\states\\company_question-interactive-390\\step-5.png",
+    "priorSimilarity": 0.9308453245420405,
+    "evidence_id": "ev_894a93237f98ed6497dc9c122bb8bfa2daa4379cbee1880e99b5563b71db201a",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999997228728764,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "company_question",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/company_question-stable-390/step-9.png",
+    "localImage": "capture/admin/local-modal-final/company_question-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/company_question-interactive-390/step-11.png",
+    "priorSimilarity": 0.9445681534767584,
+    "evidence_id": "ev_894a93237f98ed6497dc9c122bb8bfa2daa4379cbee1880e99b5563b71db201a",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 38,
+        "width": 330,
+        "x": 0,
+        "y": 709
+      },
+      "comparable": true,
+      "difference_fraction": 0.0027606837606837607,
+      "differing_pixels": 969,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 1,
+      "max_channel_delta": 195,
+      "perceptual_similarity": 0.9981862196457669,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "article_type",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/article_type-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/article_type-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/article_type-interactive-390/step-11.png",
+    "priorSimilarity": 0.9514610158594092,
+    "evidence_id": "ev_6a981c792ffba8dc859670864997af7494a5e0eae9e2ecb2ca5199295e4c777f",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 126,
+        "width": 330,
+        "x": 0,
+        "y": 78
+      },
+      "comparable": true,
+      "difference_fraction": 0.024316239316239316,
+      "differing_pixels": 8535,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9880701754385965,
+      "max_channel_delta": 210,
+      "perceptual_similarity": 0.9682693156995051,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "draft",
+    "width": 1440,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/draft-stable-1440/step-3.png",
+    "localImage": "capture/admin/local-modal-final/draft-1440-add/final.png",
+    "priorSourceImage": "capture/admin/states/draft-interactive-1440/step-11.png",
+    "priorSimilarity": 0.9064628713080745,
+    "evidence_id": "ev_580df1bfac5aa015caf033868f5c5319b41130db83c3c02ee0a03f8b6684437f",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 530,
+        "width": 770,
+        "x": 350,
+        "y": 210
+      },
+      "comparable": true,
+      "difference_fraction": 0.05584799382716049,
+      "differing_pixels": 72379,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.950682261208577,
+      "max_channel_delta": 255,
+      "perceptual_similarity": 0.9064444704635298,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    }
+  },
+  {
+    "key": "ai_task",
+    "width": 1440,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/ai_task-stable-1440/step-3.png",
+    "localImage": "capture/admin/local-modal-final/ai_task-1440-add/final.png",
+    "priorSourceImage": "capture/admin/states/ai_task-interactive-1440/step-11.png",
+    "priorSimilarity": 0.9011492934619523,
+    "evidence_id": "ev_8124b3e5123be45473d9863e155470e14ebeaa0e05b3d9a304a91b420d5b86f8",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999956000864038,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    }
+  },
+  {
+    "key": "user_huaxiang",
+    "width": 1440,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/user_huaxiang-stable-1440/step-3.png",
+    "localImage": "capture/admin/local-modal-final/user_huaxiang-1440-add/final.png",
+    "priorSourceImage": "capture/admin/states/user_huaxiang-interactive-1440/step-11.png",
+    "priorSimilarity": 0.9544920786325073,
+    "evidence_id": "ev_c579cb408778786b83ccb941a61400e79b7630752ad9418c23b79e49c9159a70",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.999999999999989,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    }
+  },
+  {
+    "key": "webmedia_task",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/webmedia_task-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/webmedia_task-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/webmedia_task-interactive-390/step-11.png",
+    "priorSimilarity": 0.9657245389011022,
+    "evidence_id": "ev_9070ca668049334981ffe34fac50686beb155e14832013d2852da4a7653d8a46",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 139,
+        "width": 330,
+        "x": 0,
+        "y": 65
+      },
+      "comparable": true,
+      "difference_fraction": 0.029472934472934472,
+      "differing_pixels": 10345,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.991578947368421,
+      "max_channel_delta": 241,
+      "perceptual_similarity": 0.9462134100197426,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "media_collection-index-type-1",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/media_collection-index-type-1-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/media_collection-index-type-1-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/media_collection-index-type-1-interactive-390/step-11.png",
+    "priorSimilarity": 0.9671404155517261,
+    "evidence_id": "ev_316c648f5d073f03d48720efeac8f023098b23eb4d1b39016c7254a7c53bb84d",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 139,
+        "width": 330,
+        "x": 0,
+        "y": 65
+      },
+      "comparable": true,
+      "difference_fraction": 0.0373019943019943,
+      "differing_pixels": 13093,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9852631578947368,
+      "max_channel_delta": 208,
+      "perceptual_similarity": 0.947267624489288,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "media_collection-index-type-2",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/media_collection-index-type-2-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/media_collection-index-type-2-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/media_collection-index-type-2-interactive-390/step-11.png",
+    "priorSimilarity": 0.9671404155517261,
+    "evidence_id": "ev_0f30a062be755703e5c1424d646653dfe0ca6f131f612347e5081ec8b8ead845",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 139,
+        "width": 330,
+        "x": 0,
+        "y": 65
+      },
+      "comparable": true,
+      "difference_fraction": 0.0373019943019943,
+      "differing_pixels": 13093,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9852631578947368,
+      "max_channel_delta": 208,
+      "perceptual_similarity": 0.947267624489288,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "user_site",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/user_site-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/user_site-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/user_site-interactive-390/step-11.png",
+    "priorSimilarity": 0.9598571335986127,
+    "evidence_id": "ev_5e942ddfa7279574f57020bef1f74db6a20bf2afc57dab3be7bbde45e3ccc37f",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 140,
+        "width": 330,
+        "x": 0,
+        "y": 64
+      },
+      "comparable": true,
+      "difference_fraction": 0.04904558404558405,
+      "differing_pixels": 17215,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9775438596491228,
+      "max_channel_delta": 255,
+      "perceptual_similarity": 0.9383485954260041,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "user_site_task",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/user_site_task-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/user_site_task-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/user_site_task-interactive-390/step-11.png",
+    "priorSimilarity": 0.9336370269282701,
+    "evidence_id": "ev_9d8b61b8e6bc00e611f2495e8ea27c034138911472e9b923c7b61c1fbd2f1ff3",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 139,
+        "width": 330,
+        "x": 0,
+        "y": 65
+      },
+      "comparable": true,
+      "difference_fraction": 0.03795156695156695,
+      "differing_pixels": 13321,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9852631578947368,
+      "max_channel_delta": 241,
+      "perceptual_similarity": 0.9336370269282701,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "user_tdk",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/user_tdk-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/user_tdk-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/user_tdk-interactive-390/step-11.png",
+    "priorSimilarity": 0.9651999028052408,
+    "evidence_id": "ev_735a89a8eaea5fb780c898a0f2f4bade0ee86b6ab3f75b3721ac7f392be88e95",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 96,
+        "width": 330,
+        "x": 0,
+        "y": 108
+      },
+      "comparable": true,
+      "difference_fraction": 0.03317094017094017,
+      "differing_pixels": 11643,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9859649122807017,
+      "max_channel_delta": 208,
+      "perceptual_similarity": 0.962225446464278,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "user_money_log",
+    "width": 390,
+    "state": "search",
+    "sourceImage": "capture/admin/dialog-investigation/user_money_log-stable-390/step-3.png",
+    "localImage": "capture\\admin\\local-states\\user_money_log-interactive-390\\step-3.png",
+    "priorSourceImage": "capture\\admin\\states\\user_money_log-interactive-390\\step-2.png",
+    "priorSimilarity": 0.9538758439041508,
+    "evidence_id": "ev_be4ba9879b4df6643ca6ca84a0d63421ed00606cbcfb0350d5b1462e56bbd07a",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.999999988575964,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "user_money_log",
+    "width": 390,
+    "state": "columns",
+    "sourceImage": "capture/admin/dialog-investigation/user_money_log-stable-390/step-6.png",
+    "localImage": "capture\\admin\\local-states\\user_money_log-interactive-390\\step-6.png",
+    "priorSourceImage": "capture\\admin\\states\\user_money_log-interactive-390\\step-5.png",
+    "priorSimilarity": 0.9643806287742177,
+    "evidence_id": "ev_be4ba9879b4df6643ca6ca84a0d63421ed00606cbcfb0350d5b1462e56bbd07a",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999997386568168,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "user_score_log",
+    "width": 1440,
+    "state": "search",
+    "sourceImage": "capture/admin/dialog-investigation/user_score_log-stable-1440/step-3.png",
+    "localImage": "capture\\admin\\local-states\\user_score_log-interactive-1440\\step-3.png",
+    "priorSourceImage": "capture\\admin\\states\\user_score_log-interactive-1440\\step-2.png",
+    "priorSimilarity": 0.9512007383105396,
+    "evidence_id": "ev_33ebe405df354bde67e2f278bdee4a255673528292261b4e2ead52d1f90ee848",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 206,
+        "width": 1176,
+        "x": 30,
+        "y": 146
+      },
+      "comparable": true,
+      "difference_fraction": 0.0080679012345679,
+      "differing_pixels": 10456,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9836257309941521,
+      "max_channel_delta": 204,
+      "perceptual_similarity": 0.9512009737106316,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    }
+  },
+  {
+    "key": "user_score_log",
+    "width": 1440,
+    "state": "columns",
+    "sourceImage": "capture/admin/dialog-investigation/user_score_log-stable-1440/step-6.png",
+    "localImage": "capture\\admin\\local-states\\user_score_log-interactive-1440\\step-6.png",
+    "priorSourceImage": "capture\\admin\\states\\user_score_log-interactive-1440\\step-5.png",
+    "priorSimilarity": 0.9550740596383175,
+    "evidence_id": "ev_33ebe405df354bde67e2f278bdee4a255673528292261b4e2ead52d1f90ee848",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 206,
+        "width": 1174,
+        "x": 30,
+        "y": 98
+      },
+      "comparable": true,
+      "difference_fraction": 0.007351851851851852,
+      "differing_pixels": 9528,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9851851851851852,
+      "max_channel_delta": 204,
+      "perceptual_similarity": 0.9550741851642007,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    }
+  },
+  {
+    "key": "user_score_log",
+    "width": 1440,
+    "state": "table-view",
+    "sourceImage": "capture/admin/dialog-investigation/user_score_log-stable-1440/step-9.png",
+    "localImage": "capture\\admin\\local-states\\user_score_log-interactive-1440\\step-9.png",
+    "priorSourceImage": "capture\\admin\\states\\user_score_log-interactive-1440\\step-8.png",
+    "priorSimilarity": 0.9457359574722882,
+    "evidence_id": "ev_33ebe405df354bde67e2f278bdee4a255673528292261b4e2ead52d1f90ee848",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 401,
+        "width": 800,
+        "x": 30,
+        "y": 96
+      },
+      "comparable": true,
+      "difference_fraction": 0.00946141975308642,
+      "differing_pixels": 12262,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.979337231968811,
+      "max_channel_delta": 204,
+      "perceptual_similarity": 0.9457359574722882,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    }
+  },
+  {
+    "key": "user_score_log",
+    "width": 390,
+    "state": "search",
+    "sourceImage": "capture/admin/dialog-investigation/user_score_log-stable-390/step-3.png",
+    "localImage": "capture\\admin\\local-states\\user_score_log-interactive-390\\step-3.png",
+    "priorSourceImage": "capture\\admin\\states\\user_score_log-interactive-390\\step-2.png",
+    "priorSimilarity": 0.8971571444504176,
+    "evidence_id": "ev_6ffe649f239b68696679e266a3c387279eac54236b2a4cf25a31794b567be024",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 212,
+        "width": 330,
+        "x": 30,
+        "y": 294
+      },
+      "comparable": true,
+      "difference_fraction": 0.028923076923076923,
+      "differing_pixels": 10152,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9536842105263158,
+      "max_channel_delta": 204,
+      "perceptual_similarity": 0.8971576760840506,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "user_score_log",
+    "width": 390,
+    "state": "columns",
+    "sourceImage": "capture/admin/dialog-investigation/user_score_log-stable-390/step-6.png",
+    "localImage": "capture\\admin\\local-states\\user_score_log-interactive-390\\step-6.png",
+    "priorSourceImage": "capture\\admin\\states\\user_score_log-interactive-390\\step-5.png",
+    "priorSimilarity": 0.9197855146013407,
+    "evidence_id": "ev_6ffe649f239b68696679e266a3c387279eac54236b2a4cf25a31794b567be024",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 212,
+        "width": 330,
+        "x": 30,
+        "y": 151
+      },
+      "comparable": true,
+      "difference_fraction": 0.01929059829059829,
+      "differing_pixels": 6771,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9628070175438597,
+      "max_channel_delta": 204,
+      "perceptual_similarity": 0.9197855594926299,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "user_huaxiang",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/user_huaxiang-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/user_huaxiang-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/user_huaxiang-interactive-390/step-11.png",
+    "priorSimilarity": 0.9662500138575545,
+    "evidence_id": "ev_4e0bb25c22123237dc449522c76802871eb604ad310da604fa2e7f1aedd094b6",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 68,
+        "width": 330,
+        "x": 0,
+        "y": 136
+      },
+      "comparable": true,
+      "difference_fraction": 0.026464387464387465,
+      "differing_pixels": 9289,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9754385964912281,
+      "max_channel_delta": 210,
+      "perceptual_similarity": 0.9669645856997515,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "zhiling",
+    "width": 390,
+    "state": "search",
+    "sourceImage": "capture/admin/dialog-investigation/zhiling-stable-390/step-3.png",
+    "localImage": "capture\\admin\\local-states\\zhiling-interactive-390\\step-3.png",
+    "priorSourceImage": "capture\\admin\\states\\zhiling-interactive-390\\step-2.png",
+    "priorSimilarity": 0.9570589858720867,
+    "evidence_id": "ev_8459d7101f651ac59dfba667ddfc8b4ada351cc979c30631636298cd6bf78b8e",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "zhiling",
+    "width": 390,
+    "state": "columns",
+    "sourceImage": "capture/admin/dialog-investigation/zhiling-stable-390/step-6.png",
+    "localImage": "capture\\admin\\local-states\\zhiling-interactive-390\\step-6.png",
+    "priorSourceImage": "capture\\admin\\states\\zhiling-interactive-390\\step-5.png",
+    "priorSimilarity": 0.9662484864293066,
+    "evidence_id": "ev_8459d7101f651ac59dfba667ddfc8b4ada351cc979c30631636298cd6bf78b8e",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999988034048368,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "zhiling",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/zhiling-stable-390/step-9.png",
+    "localImage": "capture/admin/local-modal-final/zhiling-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/zhiling-interactive-390/step-11.png",
+    "priorSimilarity": 0.9372292171221793,
+    "evidence_id": "ev_8459d7101f651ac59dfba667ddfc8b4ada351cc979c30631636298cd6bf78b8e",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999994121551451,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "ai_task",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/ai_task-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/ai_task-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/ai_task-interactive-390/step-11.png",
+    "priorSimilarity": 0.962688960138412,
+    "evidence_id": "ev_6922bf15e40e3cfbaa7a39e3b9ef4c80ea790481c1e8818913289e7e261aa484",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 0.9999998471232242,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "article",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/article-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/article-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/article-interactive-390/step-11.png",
+    "priorSimilarity": 0.9467015848542303,
+    "evidence_id": "ev_6af6b76a627273972d0253a1408ad7fc94feddd9393a6df6ed00230f3ebfb057",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 68,
+        "width": 330,
+        "x": 0,
+        "y": 136
+      },
+      "comparable": true,
+      "difference_fraction": 0.024051282051282052,
+      "differing_pixels": 8442,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9887719298245614,
+      "max_channel_delta": 210,
+      "perceptual_similarity": 0.9664998157720003,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "weixin_baowen",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/weixin_baowen-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/weixin_baowen-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/weixin_baowen-interactive-390/step-11.png",
+    "priorSimilarity": 0.9285910244381015,
+    "evidence_id": "ev_4b1191d7adba2ecaf874cd5f062ac908803f47e73e7cf8702921ca6e33edde15",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 126,
+        "width": 330,
+        "x": 0,
+        "y": 78
+      },
+      "comparable": true,
+      "difference_fraction": 0.03337037037037037,
+      "differing_pixels": 11713,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9782456140350877,
+      "max_channel_delta": 241,
+      "perceptual_similarity": 0.9529054280261928,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "piliang_baowen",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/piliang_baowen-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/piliang_baowen-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/piliang_baowen-interactive-390/step-11.png",
+    "priorSimilarity": 0.943854209654549,
+    "evidence_id": "ev_f734fe47059cc584ec0ae7af899e814b5a3f7ade787424604ad91a97902d70cb",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 138,
+        "width": 330,
+        "x": 0,
+        "y": 66
+      },
+      "comparable": true,
+      "difference_fraction": 0.024954415954415953,
+      "differing_pixels": 8759,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9901754385964913,
+      "max_channel_delta": 241,
+      "perceptual_similarity": 0.9655050854065536,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "ai_image",
+    "width": 1440,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/ai_image-stable-1440/step-3.png",
+    "localImage": "capture/admin/local-modal-final/ai_image-1440-add/final.png",
+    "priorSourceImage": "capture/admin/states/ai_image-interactive-1440/step-11.png",
+    "priorSimilarity": 0.9635587234223466,
+    "evidence_id": "ev_ba4d5748021ab7dc921d4543c1cd71f3b1fda5a4316f5f4af81d0f796ca2619b",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 530,
+        "width": 507,
+        "x": 465,
+        "y": 210
+      },
+      "comparable": true,
+      "difference_fraction": 0.008807098765432099,
+      "differing_pixels": 11414,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9947368421052631,
+      "max_channel_delta": 255,
+      "perceptual_similarity": 0.9958589597234466,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    }
+  },
+  {
+    "key": "ai_image",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/ai_image-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/ai_image-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/ai_image-interactive-390/step-11.png",
+    "priorSimilarity": 0.9482641018315765,
+    "evidence_id": "ev_5890e768b98b065f3a66e6c17d5a1f442d05d5276638377c06a31ba96e6d91ee",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 140,
+        "width": 330,
+        "x": 0,
+        "y": 64
+      },
+      "comparable": true,
+      "difference_fraction": 0.02827065527065527,
+      "differing_pixels": 9923,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.9887719298245614,
+      "max_channel_delta": 210,
+      "perceptual_similarity": 0.9478040493197005,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "b2b_task",
+    "width": 390,
+    "state": "add",
+    "sourceImage": "capture/admin/dialog-investigation/b2b_task-stable-390/step-3.png",
+    "localImage": "capture/admin/local-modal-final/b2b_task-390-add/final.png",
+    "priorSourceImage": "capture/admin/states/b2b_task-interactive-390/step-11.png",
+    "priorSimilarity": 0.966727977168116,
+    "evidence_id": "ev_d3c87b8bf2ddaf4105735fb191a2a4b3b027ca468f8e1a1b711eea13d6efc4a2",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 139,
+        "width": 330,
+        "x": 0,
+        "y": 65
+      },
+      "comparable": true,
+      "difference_fraction": 0.029524216524216523,
+      "differing_pixels": 10363,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 0.991578947368421,
+      "max_channel_delta": 241,
+      "perceptual_similarity": 0.9472168482867563,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "user_contact",
+    "width": 390,
+    "state": "search",
+    "sourceImage": "capture/admin/dialog-investigation/user_contact-stable-390/step-3.png",
+    "localImage": "capture\\admin\\local-states\\user_contact-interactive-390\\step-3.png",
+    "priorSourceImage": "capture\\admin\\states\\user_contact-interactive-390\\step-2.png",
+    "priorSimilarity": 0.9776750500521969,
+    "evidence_id": "ev_a64dd29be3fcb93b3a877e4f668016445b146d00efdfe60529896b9a9132f43e",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "b2b_order",
+    "width": 390,
+    "state": "search",
+    "sourceImage": "capture/admin/dialog-investigation/b2b_order-stable-390/step-3.png",
+    "localImage": "capture\\admin\\local-states\\b2b_order-interactive-390\\step-3.png",
+    "priorSourceImage": "capture\\admin\\states\\b2b_order-interactive-390\\step-2.png",
+    "priorSimilarity": 0.9769046112086763,
+    "evidence_id": "ev_ef039fc8e7c50f71974e765a86e011af61acd17f0f771e682ac970336ee5030f",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "b2b_order",
+    "width": 390,
+    "state": "columns",
+    "sourceImage": "capture/admin/dialog-investigation/b2b_order-stable-390/step-6.png",
+    "localImage": "capture\\admin\\local-states\\b2b_order-interactive-390\\step-6.png",
+    "priorSourceImage": "capture\\admin\\states\\b2b_order-interactive-390\\step-5.png",
+    "priorSimilarity": 0.9737057624607444,
+    "evidence_id": "ev_ef039fc8e7c50f71974e765a86e011af61acd17f0f771e682ac970336ee5030f",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": null,
+      "comparable": true,
+      "difference_fraction": 0,
+      "differing_pixels": 0,
+      "height": 900,
+      "identical": true,
+      "layout_similarity": 1,
+      "max_channel_delta": 0,
+      "perceptual_similarity": 1,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 390
+        },
+        "before": {
+          "height": 900,
+          "width": 390
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 351000,
+      "width": 390
+    }
+  },
+  {
+    "key": "piliang_baowen",
+    "width": 1440,
+    "state": "add",
+    "sourceImage": "capture/admin/states/piliang_baowen-interactive-1440/step-11.png",
+    "localImage": "capture/admin/local-modal-final/piliang_baowen-1440-add/final.png",
+    "priorSourceImage": "capture/admin/states/piliang_baowen-interactive-1440/step-11.png",
+    "priorSimilarity": 0.9989612258841611,
+    "evidence_id": "ev_5db9bfec293599e8ad1eab88f9101515156b2eddc423b3c1cf1097552d2a6a63",
+    "status": "complete",
+    "errors": [],
+    "result": {
+      "changed_bounding_box": {
+        "height": 204,
+        "width": 84,
+        "x": 354,
+        "y": 220
+      },
+      "comparable": true,
+      "difference_fraction": 0.0016604938271604938,
+      "differing_pixels": 2152,
+      "height": 900,
+      "identical": false,
+      "layout_similarity": 1,
+      "max_channel_delta": 220,
+      "perceptual_similarity": 0.9989612258841611,
+      "sizes": {
+        "after": {
+          "height": 900,
+          "width": 1440
+        },
+        "before": {
+          "height": 900,
+          "width": 1440
+        }
+      },
+      "tolerance": 16,
+      "total_pixels": 1296000,
+      "width": 1440
+    },
+    "sourceReviewMode": "Original settled source modal retained for additional focused validator initialization regression check."
+  }
+]

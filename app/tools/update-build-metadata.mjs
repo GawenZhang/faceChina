@@ -1,0 +1,2 @@
+﻿import fs from 'node:fs';const p=JSON.parse(fs.readFileSync('app/package.json'));p.scripts['test:browser']='node check-browser-evidence.mjs';fs.writeFileSync('app/package.json',JSON.stringify(p,null,2)+'\n');
+let b=fs.readFileSync('app/build.mjs','utf8');b=b.replace('页面尚未实现','页面不存在').replace('此页面尚未完成采样和复刻。','未找到此页面，请从后台菜单选择入口。').replace('Static build ready: dist; login, local demonstration and configurable AI service stub.','Static build ready: dist; login, backend and configurable AI service stub.');fs.writeFileSync('app/build.mjs',b);

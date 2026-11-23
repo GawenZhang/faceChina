@@ -1,0 +1,790 @@
+[
+  {
+    "url": "/user/user_score_log/?ref=addtabs",
+    "label": "点数明细",
+    "path": "/user/user_score_log",
+    "key": "user_score_log",
+    "file": "/backend-pages/user_score_log.html",
+    "mobileFile": "/backend-pages/user_score_log.mobile.html",
+    "source": "../capture/admin/user_score_log-1440/final.html"
+  },
+  {
+    "url": "/user/general/profile?ref=addtabs",
+    "label": "修改密码",
+    "path": "/user/general/profile",
+    "key": "general-profile",
+    "file": "/backend-pages/general-profile.html",
+    "mobileFile": "/backend-pages/general-profile.mobile.html",
+    "source": "../capture/admin/general-profile-1440/full.html",
+    "mobileSource": "../capture/admin/general-profile-390/full.html"
+  },
+  {
+    "url": "/user/dashboard?ref=addtabs",
+    "label": "首页",
+    "path": "/user/dashboard",
+    "key": "dashboard",
+    "file": "/backend-pages/dashboard.html",
+    "mobileFile": "/backend-pages/dashboard.mobile.html",
+    "source": "../capture/admin/dashboard-1440/final.html"
+  },
+  {
+    "url": "/user/analyze_v2/add?ref=addtabs",
+    "label": "AI诊断Pro版 新上",
+    "path": "/user/analyze_v2/add",
+    "key": "analyze_v2-add",
+    "file": "/backend-pages/analyze_v2-add.html",
+    "mobileFile": "/backend-pages/analyze_v2-add.mobile.html",
+    "source": "../capture/admin/analyze_v2-add-1440/final.html"
+  },
+  {
+    "url": "/user/analyze/add?ref=addtabs",
+    "label": "AI可见度诊断",
+    "path": "/user/analyze/add",
+    "key": "analyze-add",
+    "file": "/backend-pages/analyze-add.html",
+    "mobileFile": "/backend-pages/analyze-add.mobile.html",
+    "source": "../capture/admin/analyze-add-1440/final.html"
+  },
+  {
+    "url": "/user/analyze/?ref=addtabs",
+    "label": "诊断报告",
+    "path": "/user/analyze",
+    "key": "analyze",
+    "file": "/backend-pages/analyze.html",
+    "mobileFile": "/backend-pages/analyze.mobile.html",
+    "source": "../capture/admin/analyze-1440/final.html"
+  },
+  {
+    "url": "/user/company_keyword?ref=addtabs",
+    "label": "关键词",
+    "path": "/user/company_keyword",
+    "key": "company_keyword",
+    "file": "/backend-pages/company_keyword.html",
+    "mobileFile": "/backend-pages/company_keyword.mobile.html",
+    "source": "../capture/admin/company_keyword-1440/final.html"
+  },
+  {
+    "url": "/user/company_question/?ref=addtabs",
+    "label": "写作标题(问答词)",
+    "path": "/user/company_question",
+    "key": "company_question",
+    "file": "/backend-pages/company_question.html",
+    "mobileFile": "/backend-pages/company_question.mobile.html",
+    "source": "../capture/admin/company_question-1440/final.html"
+  },
+  {
+    "url": "/user/images_type/index/type/1/?ref=addtabs",
+    "label": "企业画像图库",
+    "path": "/user/images_type/index/type/1",
+    "key": "images_type-index-type-1",
+    "file": "/backend-pages/images_type-index-type-1.html",
+    "mobileFile": "/backend-pages/images_type-index-type-1.mobile.html",
+    "source": "../capture/admin/images_type-index-type-1-1440/final.html"
+  },
+  {
+    "url": "/user/user_huaxiang?ref=addtabs",
+    "label": "企业知识库",
+    "path": "/user/user_huaxiang",
+    "key": "user_huaxiang",
+    "file": "/backend-pages/user_huaxiang.html",
+    "mobileFile": "/backend-pages/user_huaxiang.mobile.html",
+    "source": "../capture/admin/user_huaxiang-1440/final.html"
+  },
+  {
+    "url": "/user/zhiling/?ref=addtabs",
+    "label": "写作指令",
+    "path": "/user/zhiling",
+    "key": "zhiling",
+    "file": "/backend-pages/zhiling.html",
+    "mobileFile": "/backend-pages/zhiling.mobile.html",
+    "source": "../capture/admin/zhiling-1440/final.html"
+  },
+  {
+    "url": "/user/article_type/?ref=addtabs",
+    "label": "文章分类",
+    "path": "/user/article_type",
+    "key": "article_type",
+    "file": "/backend-pages/article_type.html",
+    "mobileFile": "/backend-pages/article_type.mobile.html",
+    "source": "../capture/admin/article_type-1440/final.html"
+  },
+  {
+    "url": "/user/ai_task/?ref=addtabs",
+    "label": "AI写作任务",
+    "path": "/user/ai_task",
+    "key": "ai_task",
+    "file": "/backend-pages/ai_task.html",
+    "mobileFile": "/backend-pages/ai_task.mobile.html",
+    "source": "../capture/admin/ai_task-1440/final.html"
+  },
+  {
+    "url": "/user/article/?ref=addtabs",
+    "label": "文章列表",
+    "path": "/user/article",
+    "key": "article",
+    "file": "/backend-pages/article.html",
+    "mobileFile": "/backend-pages/article.mobile.html",
+    "source": "../capture/admin/article-1440/final.html"
+  },
+  {
+    "url": "/user/weixin_baowen/?ref=addtabs",
+    "label": "全网爆文复刻",
+    "path": "/user/weixin_baowen",
+    "key": "weixin_baowen",
+    "file": "/backend-pages/weixin_baowen.html",
+    "mobileFile": "/backend-pages/weixin_baowen.mobile.html",
+    "source": "../capture/admin/weixin_baowen-1440/final.html"
+  },
+  {
+    "url": "/user/piliang_baowen/?ref=addtabs",
+    "label": "批量爆文复刻",
+    "path": "/user/piliang_baowen",
+    "key": "piliang_baowen",
+    "file": "/backend-pages/piliang_baowen.html",
+    "mobileFile": "/backend-pages/piliang_baowen.mobile.html",
+    "source": "../capture/admin/piliang_baowen-1440/final.html"
+  },
+  {
+    "url": "/user/ai_image?ref=addtabs",
+    "label": "AI生图",
+    "path": "/user/ai_image",
+    "key": "ai_image",
+    "file": "/backend-pages/ai_image.html",
+    "mobileFile": "/backend-pages/ai_image.mobile.html",
+    "source": "../capture/admin/ai_image-1440/final.html"
+  },
+  {
+    "url": "/user/b2b?ref=addtabs",
+    "label": "B2B行业网站",
+    "path": "/user/b2b",
+    "key": "b2b",
+    "file": "/backend-pages/b2b.html",
+    "mobileFile": "/backend-pages/b2b.mobile.html",
+    "source": "../capture/admin/b2b-1440/final.html"
+  },
+  {
+    "url": "/user/b2b_task/?ref=addtabs",
+    "label": "B2B自动发布任务",
+    "path": "/user/b2b_task",
+    "key": "b2b_task",
+    "file": "/backend-pages/b2b_task.html",
+    "mobileFile": "/backend-pages/b2b_task.mobile.html",
+    "source": "../capture/admin/b2b_task-1440/final.html"
+  },
+  {
+    "url": "/user/user_contact/?ref=addtabs",
+    "label": "联系方式管理",
+    "path": "/user/user_contact",
+    "key": "user_contact",
+    "file": "/backend-pages/user_contact.html",
+    "mobileFile": "/backend-pages/user_contact.mobile.html",
+    "source": "../capture/admin/user_contact-1440/final.html"
+  },
+  {
+    "url": "/user/b2b_order/?ref=addtabs",
+    "label": "发布记录",
+    "path": "/user/b2b_order",
+    "key": "b2b_order",
+    "file": "/backend-pages/b2b_order.html",
+    "mobileFile": "/backend-pages/b2b_order.mobile.html",
+    "source": "../capture/admin/b2b_order-1440/final.html"
+  },
+  {
+    "url": "/user/webmedia?ref=addtabs",
+    "label": "单条发布媒体",
+    "path": "/user/webmedia",
+    "key": "webmedia",
+    "file": "/backend-pages/webmedia.html",
+    "mobileFile": "/backend-pages/webmedia.mobile.html",
+    "source": "../capture/admin/webmedia-1440/final.html"
+  },
+  {
+    "url": "/user/webmedia_task/?ref=addtabs",
+    "label": "AI智能发布任务",
+    "path": "/user/webmedia_task",
+    "key": "webmedia_task",
+    "file": "/backend-pages/webmedia_task.html",
+    "mobileFile": "/backend-pages/webmedia_task.mobile.html",
+    "source": "../capture/admin/webmedia_task-1440/final.html"
+  },
+  {
+    "url": "/user/webmedia_order/?ref=addtabs",
+    "label": "投稿记录",
+    "path": "/user/webmedia_order",
+    "key": "webmedia_order",
+    "file": "/backend-pages/webmedia_order.html",
+    "mobileFile": "/backend-pages/webmedia_order.mobile.html",
+    "source": "../capture/admin/webmedia_order-1440/final.html"
+  },
+  {
+    "url": "/user/media_collection/index/type/1/?ref=addtabs",
+    "label": "收藏分组",
+    "path": "/user/media_collection/index/type/1",
+    "key": "media_collection-index-type-1",
+    "file": "/backend-pages/media_collection-index-type-1.html",
+    "mobileFile": "/backend-pages/media_collection-index-type-1.mobile.html",
+    "source": "../capture/admin/media_collection-index-type-1-1440/final.html"
+  },
+  {
+    "url": "/user/zimedia?ref=addtabs",
+    "label": "发布自媒体",
+    "path": "/user/zimedia",
+    "key": "zimedia",
+    "file": "/backend-pages/zimedia.html",
+    "mobileFile": "/backend-pages/zimedia.mobile.html",
+    "source": "../capture/admin/zimedia-1440/final.html"
+  },
+  {
+    "url": "/user/zimedia_order/?ref=addtabs",
+    "label": "投稿记录",
+    "path": "/user/zimedia_order",
+    "key": "zimedia_order",
+    "file": "/backend-pages/zimedia_order.html",
+    "mobileFile": "/backend-pages/zimedia_order.mobile.html",
+    "source": "../capture/admin/zimedia_order-1440/final.html"
+  },
+  {
+    "url": "/user/media_collection/index/type/2/?ref=addtabs",
+    "label": "收藏分组",
+    "path": "/user/media_collection/index/type/2",
+    "key": "media_collection-index-type-2",
+    "file": "/backend-pages/media_collection-index-type-2.html",
+    "mobileFile": "/backend-pages/media_collection-index-type-2.mobile.html",
+    "source": "../capture/admin/media_collection-index-type-2-1440/final.html"
+  },
+  {
+    "url": "/user/weixinapp2?ref=addtabs",
+    "label": "账号授权",
+    "path": "/user/weixinapp2",
+    "key": "weixinapp2",
+    "file": "/backend-pages/weixinapp2.html",
+    "mobileFile": "/backend-pages/weixinapp2.mobile.html",
+    "source": "../capture/admin/weixinapp2-1440/final.html"
+  },
+  {
+    "url": "/user/draft/?ref=addtabs",
+    "label": "发布任务",
+    "path": "/user/draft",
+    "key": "draft",
+    "file": "/backend-pages/draft.html",
+    "mobileFile": "/backend-pages/draft.mobile.html",
+    "source": "../capture/admin/draft-1440/final.html"
+  },
+  {
+    "url": "/user/weixin_article/?ref=addtabs",
+    "label": "发布记录",
+    "path": "/user/weixin_article",
+    "key": "weixin_article",
+    "file": "/backend-pages/weixin_article.html",
+    "mobileFile": "/backend-pages/weixin_article.mobile.html",
+    "source": "../capture/admin/weixin_article-1440/final.html"
+  },
+  {
+    "url": "/user/user_site?ref=addtabs",
+    "label": "站点管理",
+    "path": "/user/user_site",
+    "key": "user_site",
+    "file": "/backend-pages/user_site.html",
+    "mobileFile": "/backend-pages/user_site.mobile.html",
+    "source": "../capture/admin/user_site-1440/final.html"
+  },
+  {
+    "url": "/user/user_site_task/?ref=addtabs",
+    "label": "SEO发布任务",
+    "path": "/user/user_site_task",
+    "key": "user_site_task",
+    "file": "/backend-pages/user_site_task.html",
+    "mobileFile": "/backend-pages/user_site_task.mobile.html",
+    "source": "../capture/admin/user_site_task-1440/final.html"
+  },
+  {
+    "url": "/user/user_site_record/?ref=addtabs",
+    "label": "发布记录",
+    "path": "/user/user_site_record",
+    "key": "user_site_record",
+    "file": "/backend-pages/user_site_record.html",
+    "mobileFile": "/backend-pages/user_site_record.mobile.html",
+    "source": "../capture/admin/user_site_record-1440/final.html"
+  },
+  {
+    "url": "/user/user_tdk?ref=addtabs",
+    "label": "智能TDK分组",
+    "path": "/user/user_tdk",
+    "key": "user_tdk",
+    "file": "/backend-pages/user_tdk.html",
+    "mobileFile": "/backend-pages/user_tdk.mobile.html",
+    "source": "../capture/admin/user_tdk-1440/final.html"
+  },
+  {
+    "url": "/user/user_jianji?ref=addtabs",
+    "label": "视频混剪任务",
+    "path": "/user/user_jianji",
+    "key": "user_jianji",
+    "file": "/backend-pages/user_jianji.html",
+    "mobileFile": "/backend-pages/user_jianji.mobile.html",
+    "source": "../capture/admin/user_jianji-1440/final.html"
+  },
+  {
+    "url": "/user/video_task/?ref=addtabs",
+    "label": "视频任务",
+    "path": "/user/video_task",
+    "key": "video_task",
+    "file": "/backend-pages/video_task.html",
+    "mobileFile": "/backend-pages/video_task.mobile.html",
+    "source": "../capture/admin/video_task-1440/final.html"
+  },
+  {
+    "url": "/user/video_record/?ref=addtabs",
+    "label": "视频发布记录",
+    "path": "/user/video_record",
+    "key": "video_record",
+    "file": "/backend-pages/video_record.html",
+    "mobileFile": "/backend-pages/video_record.mobile.html",
+    "source": "../capture/admin/video_record-1440/final.html"
+  },
+  {
+    "url": "/user/images_type/index/type/2/?ref=addtabs",
+    "label": "视频素材库",
+    "path": "/user/images_type/index/type/2",
+    "key": "images_type-index-type-2",
+    "file": "/backend-pages/images_type-index-type-2.html",
+    "mobileFile": "/backend-pages/images_type-index-type-2.mobile.html",
+    "source": "../capture/admin/images_type-index-type-2-1440/final.html"
+  },
+  {
+    "url": "/user/tongji/?ref=addtabs",
+    "label": "数据报表",
+    "path": "/user/tongji",
+    "key": "tongji",
+    "file": "/backend-pages/tongji.html",
+    "mobileFile": "/backend-pages/tongji.mobile.html",
+    "source": "../capture/admin/tongji-1440/final.html"
+  },
+  {
+    "url": "/user/shoulu_tuozhan/?ref=addtabs",
+    "label": "查询(带截图)",
+    "path": "/user/shoulu_tuozhan",
+    "key": "shoulu_tuozhan",
+    "file": "/backend-pages/shoulu_tuozhan.html",
+    "mobileFile": "/backend-pages/shoulu_tuozhan.mobile.html",
+    "source": "../capture/admin/shoulu_tuozhan-1440/final.html"
+  },
+  {
+    "url": "/user/shoulu_record/?ref=addtabs",
+    "label": "查询记录(带截图)",
+    "path": "/user/shoulu_record",
+    "key": "shoulu_record",
+    "file": "/backend-pages/shoulu_record.html",
+    "mobileFile": "/backend-pages/shoulu_record.mobile.html",
+    "source": "../capture/admin/shoulu_record-1440/final.html"
+  },
+  {
+    "url": "/user/agent_skill?ref=addtabs",
+    "label": "Agent插件 新上",
+    "path": "/user/agent_skill",
+    "key": "agent_skill",
+    "file": "/backend-pages/agent_skill.html",
+    "mobileFile": "/backend-pages/agent_skill.mobile.html",
+    "source": "../capture/admin/agent_skill-1440/final.html"
+  },
+  {
+    "url": "/user/zhishu/?ref=addtabs",
+    "label": "关键词指数",
+    "path": "/user/zhishu",
+    "key": "zhishu",
+    "file": "/backend-pages/zhishu.html",
+    "mobileFile": "/backend-pages/zhishu.mobile.html",
+    "source": "../capture/admin/zhishu-1440/final.html"
+  },
+  {
+    "url": "/user/zhengliu/?ref=addtabs",
+    "label": "AI拓词",
+    "path": "/user/zhengliu",
+    "key": "zhengliu",
+    "file": "/backend-pages/zhengliu.html",
+    "mobileFile": "/backend-pages/zhengliu.mobile.html",
+    "source": "../capture/admin/zhengliu-1440/final.html"
+  },
+  {
+    "url": "/user/tuozhan/?ref=addtabs",
+    "label": "手动拓词工具",
+    "path": "/user/tuozhan",
+    "key": "tuozhan",
+    "file": "/backend-pages/tuozhan.html",
+    "mobileFile": "/backend-pages/tuozhan.mobile.html",
+    "source": "../capture/admin/tuozhan-1440/final.html"
+  },
+  {
+    "url": "/user/user_money_log/?ref=addtabs",
+    "label": "余额明细",
+    "path": "/user/user_money_log",
+    "key": "user_money_log",
+    "file": "/backend-pages/user_money_log.html",
+    "mobileFile": "/backend-pages/user_money_log.mobile.html",
+    "source": "../capture/admin/user_money_log-1440/final.html"
+  },
+  {
+    "url": "/user/realname?ref=addtabs",
+    "label": "实名认证",
+    "path": "/user/realname",
+    "key": "realname",
+    "file": "/backend-pages/realname.html",
+    "mobileFile": "/backend-pages/realname.mobile.html",
+    "source": "../capture/admin/realname-1440/final.html"
+  },
+  {
+    "url": "/user/quanyi?ref=addtabs",
+    "label": "账号权益",
+    "path": "/user/quanyi",
+    "key": "quanyi",
+    "file": "/backend-pages/quanyi.html",
+    "mobileFile": "/backend-pages/quanyi.mobile.html",
+    "source": "../capture/admin/quanyi-1440/final.html"
+  },
+  {
+    "path": "/user/company_keyword/edit/ids/34935",
+    "label": "关键词 · 编辑",
+    "parent": "company_keyword",
+    "key": "company_keyword-edit-ids-34935",
+    "file": "/backend-pages/company_keyword-edit-ids-34935.html",
+    "mobileFile": "/backend-pages/company_keyword-edit-ids-34935.mobile.html",
+    "source": "../capture/admin/company_keyword-edit-ids-34935-1440/final.html"
+  },
+  {
+    "path": "/user/company_question/edit/ids/42957156",
+    "label": "写作标题(问答词) · 编辑",
+    "parent": "company_question",
+    "key": "company_question-edit-ids-42957156",
+    "file": "/backend-pages/company_question-edit-ids-42957156.html",
+    "mobileFile": "/backend-pages/company_question-edit-ids-42957156.mobile.html",
+    "source": "../capture/admin/company_question-edit-ids-42957156-1440/final.html"
+  },
+  {
+    "path": "/user/images_type/edit/ids/12465",
+    "label": "企业画像图库 · 编辑",
+    "parent": "images_type-index-type-1",
+    "key": "images_type-edit-ids-12465",
+    "file": "/backend-pages/images_type-edit-ids-12465.html",
+    "mobileFile": "/backend-pages/images_type-edit-ids-12465.mobile.html",
+    "source": "../capture/admin/images_type-edit-ids-12465-1440/final.html"
+  },
+  {
+    "path": "/user/zhiling/edit/ids/24976",
+    "label": "写作指令 · 编辑",
+    "parent": "zhiling",
+    "key": "zhiling-edit-ids-24976",
+    "file": "/backend-pages/zhiling-edit-ids-24976.html",
+    "mobileFile": "/backend-pages/zhiling-edit-ids-24976.mobile.html",
+    "source": "../capture/admin/zhiling-edit-ids-24976-1440/final.html"
+  },
+  {
+    "path": "/user/user_contact/edit/ids/975",
+    "label": "联系方式管理 · 编辑",
+    "parent": "user_contact",
+    "key": "user_contact-edit-ids-975",
+    "file": "/backend-pages/user_contact-edit-ids-975.html",
+    "mobileFile": "/backend-pages/user_contact-edit-ids-975.mobile.html",
+    "source": "../capture/admin/user_contact-edit-ids-975-1440/full.html",
+    "mobileSource": "../capture/admin/user_contact-edit-ids-975-390/full.html"
+  },
+  {
+    "path": "/user/images_type/edit/ids/14743",
+    "label": "视频素材库 · 编辑",
+    "parent": "images_type-index-type-2",
+    "key": "images_type-edit-ids-14743",
+    "file": "/backend-pages/images_type-edit-ids-14743.html",
+    "mobileFile": "/backend-pages/images_type-edit-ids-14743.mobile.html",
+    "source": "../capture/admin/images_type-edit-ids-14743-1440/full.html",
+    "mobileSource": "../capture/admin/images_type-edit-ids-14743-390/full.html"
+  },
+  {
+    "path": "/user/user_huaxiang/add",
+    "label": "企业知识库 · 添加",
+    "parent": "user_huaxiang",
+    "selector": ".btn-add",
+    "key": "user_huaxiang-add",
+    "file": "/backend-pages/user_huaxiang-add.html",
+    "mobileFile": "/backend-pages/user_huaxiang-add.mobile.html",
+    "source": "../capture/admin/user_huaxiang-add-1440/final.html"
+  },
+  {
+    "path": "/user/b2b/tougao/type/4",
+    "key": "b2b-tougao-type-4",
+    "label": "B2B行业网站 · 投稿B2B",
+    "parent": "b2b",
+    "file": "/backend-pages/b2b-tougao-type-4.html",
+    "mobileFile": "/backend-pages/b2b-tougao-type-4.mobile.html",
+    "source": "../capture/admin/b2b-tougao-type-4-1440/final.html"
+  },
+  {
+    "path": "/user/b2b/tougao/type/3",
+    "key": "b2b-tougao-type-3",
+    "label": "B2B行业网站 · 投稿B2B",
+    "parent": "b2b",
+    "file": "/backend-pages/b2b-tougao-type-3.html",
+    "mobileFile": "/backend-pages/b2b-tougao-type-3.mobile.html",
+    "source": "../capture/admin/b2b-tougao-type-3-1440/final.html"
+  },
+  {
+    "path": "/user/b2b/tougao/type/5",
+    "key": "b2b-tougao-type-5",
+    "label": "B2B行业网站 · 投稿B2B",
+    "parent": "b2b",
+    "file": "/backend-pages/b2b-tougao-type-5.html",
+    "mobileFile": "/backend-pages/b2b-tougao-type-5.mobile.html",
+    "source": "../capture/admin/b2b-tougao-type-5-1440/final.html"
+  },
+  {
+    "path": "/user/b2b/tougao/type/6",
+    "key": "b2b-tougao-type-6",
+    "label": "B2B行业网站 · 投稿B2B",
+    "parent": "b2b",
+    "file": "/backend-pages/b2b-tougao-type-6.html",
+    "mobileFile": "/backend-pages/b2b-tougao-type-6.mobile.html",
+    "source": "../capture/admin/b2b-tougao-type-6-1440/final.html"
+  },
+  {
+    "path": "/user/b2b/tougao/type/1",
+    "key": "b2b-tougao-type-1",
+    "label": "B2B行业网站 · 投稿B2B",
+    "parent": "b2b",
+    "file": "/backend-pages/b2b-tougao-type-1.html",
+    "mobileFile": "/backend-pages/b2b-tougao-type-1.mobile.html",
+    "source": "../capture/admin/b2b-tougao-type-1-1440/final.html"
+  },
+  {
+    "path": "/user/b2b/settle/type/2",
+    "key": "b2b-settle-type-2",
+    "label": "B2B行业网站 · 搜了网 - 入驻店铺",
+    "parent": "b2b",
+    "file": "/backend-pages/b2b-settle-type-2.html",
+    "mobileFile": "/backend-pages/b2b-settle-type-2.mobile.html",
+    "source": "../capture/admin/b2b-settle-type-2-1440/final.html"
+  },
+  {
+    "path": "/user/b2b/configure/type/2",
+    "key": "b2b-configure-type-2",
+    "label": "B2B行业网站 · 搜了网 - 简易入驻",
+    "parent": "b2b",
+    "file": "/backend-pages/b2b-configure-type-2.html",
+    "mobileFile": "/backend-pages/b2b-configure-type-2.mobile.html",
+    "source": "../capture/admin/b2b-configure-type-2-1440/final.html"
+  },
+  {
+    "path": "/user/b2b/settle/type/8",
+    "key": "b2b-settle-type-8",
+    "label": "B2B行业网站 · 八方资源网 - 入驻店铺",
+    "parent": "b2b",
+    "file": "/backend-pages/b2b-settle-type-8.html",
+    "mobileFile": "/backend-pages/b2b-settle-type-8.mobile.html",
+    "source": "../capture/admin/b2b-settle-type-8-1440/final.html"
+  },
+  {
+    "path": "/user/webmedia/tougao/media_id/21471",
+    "key": "webmedia-tougao-media_id-21471",
+    "label": "单条发布媒体 · 投稿内容编辑",
+    "parent": "webmedia",
+    "file": "/backend-pages/webmedia-tougao-media_id-21471.html",
+    "mobileFile": "/backend-pages/webmedia-tougao-media_id-21471.mobile.html",
+    "source": "../capture/admin/webmedia-tougao-media_id-21471-1440/final.html"
+  },
+  {
+    "path": "/user/company_keyword/add",
+    "label": "关键词 · 添加",
+    "parent": "company_keyword",
+    "selector": ".btn-add",
+    "key": "company_keyword-add",
+    "file": "/backend-pages/company_keyword-add.html",
+    "mobileFile": "/backend-pages/company_keyword-add.mobile.html",
+    "source": "../capture/admin/company_keyword-add-1440/final.html"
+  },
+  {
+    "path": "/user/company_question/add",
+    "label": "写作标题(问答词) · 添加",
+    "parent": "company_question",
+    "selector": ".btn-add",
+    "key": "company_question-add",
+    "file": "/backend-pages/company_question-add.html",
+    "mobileFile": "/backend-pages/company_question-add.mobile.html",
+    "source": "../capture/admin/company_question-add-1440/final.html"
+  },
+  {
+    "path": "/user/images_type/add",
+    "label": "视频素材库 · 添加",
+    "parent": "images_type-index-type-2",
+    "selector": ".btn-add",
+    "key": "images_type-add",
+    "file": "/backend-pages/images_type-add.html",
+    "mobileFile": "/backend-pages/images_type-add.mobile.html",
+    "source": "../capture/admin/images_type-add-1440/final.html"
+  },
+  {
+    "path": "/user/zhiling/add",
+    "label": "写作指令 · 添加",
+    "parent": "zhiling",
+    "selector": ".btn-add",
+    "key": "zhiling-add",
+    "file": "/backend-pages/zhiling-add.html",
+    "mobileFile": "/backend-pages/zhiling-add.mobile.html",
+    "source": "../capture/admin/zhiling-add-1440/final.html"
+  },
+  {
+    "path": "/user/article_type/add",
+    "label": "文章分类 · 添加",
+    "parent": "article_type",
+    "selector": ".btn-add",
+    "key": "article_type-add",
+    "file": "/backend-pages/article_type-add.html",
+    "mobileFile": "/backend-pages/article_type-add.mobile.html",
+    "source": "../capture/admin/article_type-add-1440/final.html"
+  },
+  {
+    "path": "/user/ai_task/add",
+    "label": "AI写作任务 · 添加",
+    "parent": "ai_task",
+    "selector": ".btn-add",
+    "key": "ai_task-add",
+    "file": "/backend-pages/ai_task-add.html",
+    "mobileFile": "/backend-pages/ai_task-add.mobile.html",
+    "source": "../capture/admin/ai_task-add-1440/final.html"
+  },
+  {
+    "path": "/user/article/add",
+    "label": "文章列表 · 添加",
+    "parent": "article",
+    "selector": ".btn-add",
+    "key": "article-add",
+    "file": "/backend-pages/article-add.html",
+    "mobileFile": "/backend-pages/article-add.mobile.html",
+    "source": "../capture/admin/article-add-1440/final.html"
+  },
+  {
+    "path": "/user/weixin_baowen/add",
+    "label": "全网爆文复刻 · 添加",
+    "parent": "weixin_baowen",
+    "selector": ".btn-add",
+    "key": "weixin_baowen-add",
+    "file": "/backend-pages/weixin_baowen-add.html",
+    "mobileFile": "/backend-pages/weixin_baowen-add.mobile.html",
+    "source": "../capture/admin/weixin_baowen-add-1440/final.html"
+  },
+  {
+    "path": "/user/piliang_baowen/add",
+    "label": "批量爆文复刻 · 添加",
+    "parent": "piliang_baowen",
+    "selector": ".btn-add",
+    "key": "piliang_baowen-add",
+    "file": "/backend-pages/piliang_baowen-add.html",
+    "mobileFile": "/backend-pages/piliang_baowen-add.mobile.html",
+    "source": "../capture/admin/piliang_baowen-add-1440/full.html",
+    "mobileSource": "../capture/admin/piliang_baowen-add-390/full.html"
+  },
+  {
+    "path": "/user/ai_image/add",
+    "label": "AI生图 · 添加",
+    "parent": "ai_image",
+    "selector": ".btn-add",
+    "key": "ai_image-add",
+    "file": "/backend-pages/ai_image-add.html",
+    "mobileFile": "/backend-pages/ai_image-add.mobile.html",
+    "source": "../capture/admin/ai_image-add-1440/full.html",
+    "mobileSource": "../capture/admin/ai_image-add-390/full.html"
+  },
+  {
+    "path": "/user/b2b_task/add",
+    "label": "B2B自动发布任务 · 添加",
+    "parent": "b2b_task",
+    "selector": ".btn-add",
+    "key": "b2b_task-add",
+    "file": "/backend-pages/b2b_task-add.html",
+    "mobileFile": "/backend-pages/b2b_task-add.mobile.html",
+    "source": "../capture/admin/b2b_task-add-1440/full.html",
+    "mobileSource": "../capture/admin/b2b_task-add-390/full.html"
+  },
+  {
+    "path": "/user/user_contact/add",
+    "label": "联系方式管理 · 添加",
+    "parent": "user_contact",
+    "selector": ".btn-add",
+    "key": "user_contact-add",
+    "file": "/backend-pages/user_contact-add.html",
+    "mobileFile": "/backend-pages/user_contact-add.mobile.html",
+    "source": "../capture/admin/user_contact-add-1440/full.html",
+    "mobileSource": "../capture/admin/user_contact-add-390/full.html"
+  },
+  {
+    "path": "/user/webmedia_task/add",
+    "label": "AI智能发布任务 · 添加",
+    "parent": "webmedia_task",
+    "selector": ".btn-add",
+    "key": "webmedia_task-add",
+    "file": "/backend-pages/webmedia_task-add.html",
+    "mobileFile": "/backend-pages/webmedia_task-add.mobile.html",
+    "source": "../capture/admin/webmedia_task-add-1440/full.html",
+    "mobileSource": "../capture/admin/webmedia_task-add-390/full.html"
+  },
+  {
+    "path": "/user/media_collection/add",
+    "label": "收藏分组 · 添加",
+    "parent": "media_collection-index-type-2",
+    "selector": ".btn-add",
+    "key": "media_collection-add",
+    "file": "/backend-pages/media_collection-add.html",
+    "mobileFile": "/backend-pages/media_collection-add.mobile.html",
+    "source": "../capture/admin/media_collection-add-1440/full.html",
+    "mobileSource": "../capture/admin/media_collection-add-390/full.html"
+  },
+  {
+    "path": "/user/zimedia/tougao/media_id/53781",
+    "key": "zimedia-tougao-media_id-53781",
+    "label": "发布自媒体 · 投稿内容编辑",
+    "parent": "zimedia",
+    "file": "/backend-pages/zimedia-tougao-media_id-53781.html",
+    "mobileFile": "/backend-pages/zimedia-tougao-media_id-53781.mobile.html",
+    "source": "../capture/admin/zimedia-tougao-media_id-53781-1440/final.html"
+  },
+  {
+    "path": "/user/draft/add",
+    "label": "发布任务 · 添加",
+    "parent": "draft",
+    "selector": ".btn-add",
+    "key": "draft-add",
+    "file": "/backend-pages/draft-add.html",
+    "mobileFile": "/backend-pages/draft-add.mobile.html",
+    "source": "../capture/admin/draft-add-1440/full.html",
+    "mobileSource": "../capture/admin/draft-add-390/full.html"
+  },
+  {
+    "path": "/user/user_site/add",
+    "label": "站点管理 · 添加",
+    "parent": "user_site",
+    "selector": ".btn-add",
+    "key": "user_site-add",
+    "file": "/backend-pages/user_site-add.html",
+    "mobileFile": "/backend-pages/user_site-add.mobile.html",
+    "source": "../capture/admin/user_site-add-1440/full.html",
+    "mobileSource": "../capture/admin/user_site-add-390/full.html"
+  },
+  {
+    "path": "/user/user_site_task/add",
+    "label": "SEO发布任务 · 添加",
+    "parent": "user_site_task",
+    "selector": ".btn-add",
+    "key": "user_site_task-add",
+    "file": "/backend-pages/user_site_task-add.html",
+    "mobileFile": "/backend-pages/user_site_task-add.mobile.html",
+    "source": "../capture/admin/user_site_task-add-1440/full.html",
+    "mobileSource": "../capture/admin/user_site_task-add-390/full.html"
+  },
+  {
+    "path": "/user/user_tdk/add",
+    "label": "智能TDK分组 · 添加",
+    "parent": "user_tdk",
+    "selector": ".btn-add",
+    "key": "user_tdk-add",
+    "file": "/backend-pages/user_tdk-add.html",
+    "mobileFile": "/backend-pages/user_tdk-add.mobile.html",
+    "source": "../capture/admin/user_tdk-add-1440/full.html",
+    "mobileSource": "../capture/admin/user_tdk-add-390/full.html"
+  }
+]

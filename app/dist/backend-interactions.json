@@ -1,0 +1,766 @@
+{
+  "user_site": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "194.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/user_site/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/user_site/add?dialog=1"
+      }
+    }
+  },
+  "user_site_task": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "194.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/user_site_task/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/user_site_task/add?dialog=1"
+      }
+    }
+  },
+  "user_tdk": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "188.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/user_tdk/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/user_tdk/add?dialog=1"
+      }
+    }
+  },
+  "images_type-index-type-2": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "297.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/images_type/add?type=2&dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/images_type/add?type=2&dialog=1"
+      }
+    }
+  },
+  "company_keyword": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "489.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/company_keyword/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "90%",
+        "height": "90%",
+        "top": "45px",
+        "left": "72px",
+        "url": "/user/company_keyword/add?dialog=1"
+      }
+    }
+  },
+  "company_question": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "768.125px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/company_question/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/company_question/add?dialog=1"
+      }
+    }
+  },
+  "images_type-index-type-1": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "249.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/images_type/add?type=1&dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/images_type/add?type=1&dialog=1"
+      }
+    }
+  },
+  "user_huaxiang": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "194.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/user_huaxiang/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "90%",
+        "top": "45px",
+        "left": "144px",
+        "url": "/user/user_huaxiang/add?dialog=1"
+      }
+    }
+  },
+  "zhiling": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "441.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/zhiling/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/zhiling/add?dialog=1"
+      }
+    }
+  },
+  "article_type": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "194.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/article_type/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/article_type/add?dialog=1"
+      }
+    }
+  },
+  "ai_task": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "224.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/ai_task/add?article_type=1&dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/ai_task/add?article_type=1&dialog=1"
+      }
+    }
+  },
+  "article": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "194.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/article/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/article/add?dialog=1"
+      }
+    }
+  },
+  "weixin_baowen": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "194.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/weixin_baowen/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/weixin_baowen/add?dialog=1"
+      }
+    }
+  },
+  "piliang_baowen": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "194.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/piliang_baowen/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/piliang_baowen/add?dialog=1"
+      }
+    }
+  },
+  "ai_image": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "194.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/ai_image/add?ids=undefined&dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/ai_image/add?ids=undefined&dialog=1"
+      }
+    }
+  },
+  "b2b_task": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "194.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/b2b_task/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/b2b_task/add?dialog=1"
+      }
+    }
+  },
+  "user_contact": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "297.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/user_contact/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/user_contact/add?dialog=1"
+      }
+    }
+  },
+  "webmedia": {
+    "390": {
+      "[data-url=\"/user/webmedia/tougao/media_id/21471\"]": {
+        "skin": "",
+        "shade": 0.3,
+        "maxmin": false,
+        "width": "90%",
+        "height": "90%",
+        "top": "45px",
+        "left": "19.203px",
+        "url": "/user/webmedia/tougao/media_id/21471"
+      }
+    },
+    "1440": {
+      "[data-url=\"/user/webmedia/tougao/media_id/21471\"]": {
+        "skin": "",
+        "shade": 0.3,
+        "maxmin": false,
+        "width": "90%",
+        "height": "90%",
+        "top": "45px",
+        "left": "71.705px",
+        "url": "/user/webmedia/tougao/media_id/21471"
+      }
+    }
+  },
+  "webmedia_task": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "194.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/webmedia_task/add?dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/webmedia_task/add?dialog=1"
+      }
+    }
+  },
+  "media_collection-index-type-1": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "188.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/media_collection/add?type=1&dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/media_collection/add?type=1&dialog=1"
+      }
+    }
+  },
+  "zimedia": {
+    "390": {
+      "[data-url=\"/user/zimedia/tougao/media_id/53781\"]": {
+        "skin": "",
+        "shade": 0.3,
+        "maxmin": false,
+        "width": "90%",
+        "height": "90%",
+        "top": "45px",
+        "left": "19.203px",
+        "url": "/user/zimedia/tougao/media_id/53781"
+      }
+    },
+    "1440": {
+      "[data-url=\"/user/zimedia/tougao/media_id/53781\"]": {
+        "skin": "",
+        "shade": 0.3,
+        "maxmin": false,
+        "width": "90%",
+        "height": "90%",
+        "top": "45px",
+        "left": "71.705px",
+        "url": "/user/zimedia/tougao/media_id/53781"
+      }
+    }
+  },
+  "media_collection-index-type-2": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "188.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/media_collection/add?type=2&dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/media_collection/add?type=2&dialog=1"
+      }
+    }
+  },
+  "draft": {
+    "390": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "330px",
+        "height": "224.562px",
+        "top": "0px",
+        "left": "0px",
+        "url": "/user/draft/add?article_type=1&user_type=1&dialog=1"
+      }
+    },
+    "1440": {
+      ".btn-add": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "800px",
+        "height": "600px",
+        "top": "150px",
+        "left": "320px",
+        "url": "/user/draft/add?article_type=1&user_type=1&dialog=1"
+      }
+    }
+  },
+  "b2b": {
+    "390": {
+      "[data-url=\"/user/b2b/tougao/type/4\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "38.406px",
+        "url": "/user/b2b/tougao/type/4?dialog=1"
+      },
+      "[data-url=\"/user/b2b/tougao/type/5\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "38.406px",
+        "url": "/user/b2b/tougao/type/5?dialog=1"
+      },
+      "[data-url=\"/user/b2b/tougao/type/6\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "38.406px",
+        "url": "/user/b2b/tougao/type/6?dialog=1"
+      },
+      "[data-url=\"/user/b2b/tougao/type/1\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "38.406px",
+        "url": "/user/b2b/tougao/type/1?dialog=1"
+      },
+      "[data-url=\"/user/b2b/tougao/type/3\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "38.406px",
+        "url": "/user/b2b/tougao/type/3?dialog=1"
+      },
+      "[data-url=\"/user/b2b/settle/type/2\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "95%",
+        "height": "95%",
+        "top": "22.5px",
+        "left": "9.6015px",
+        "url": "/user/b2b/settle/type/2?dialog=1"
+      },
+      "[data-url=\"/user/b2b/configure/type/2\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "38.406px",
+        "url": "/user/b2b/configure/type/2?dialog=1"
+      },
+      "[data-url=\"/user/b2b/settle/type/8\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "95%",
+        "height": "95%",
+        "top": "22.5px",
+        "left": "9.6015px",
+        "url": "/user/b2b/settle/type/8?dialog=1"
+      }
+    },
+    "1440": {
+      "[data-url=\"/user/b2b/tougao/type/4\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "143.405px",
+        "url": "/user/b2b/tougao/type/4?dialog=1"
+      },
+      "[data-url=\"/user/b2b/tougao/type/5\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "143.405px",
+        "url": "/user/b2b/tougao/type/5?dialog=1"
+      },
+      "[data-url=\"/user/b2b/tougao/type/6\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "143.405px",
+        "url": "/user/b2b/tougao/type/6?dialog=1"
+      },
+      "[data-url=\"/user/b2b/tougao/type/1\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "143.405px",
+        "url": "/user/b2b/tougao/type/1?dialog=1"
+      },
+      "[data-url=\"/user/b2b/tougao/type/3\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "143.405px",
+        "url": "/user/b2b/tougao/type/3?dialog=1"
+      },
+      "[data-url=\"/user/b2b/settle/type/2\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "95%",
+        "height": "95%",
+        "top": "22.5px",
+        "left": "35.85px",
+        "url": "/user/b2b/settle/type/2?dialog=1"
+      },
+      "[data-url=\"/user/b2b/configure/type/2\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "80%",
+        "height": "80%",
+        "top": "90px",
+        "left": "143.405px",
+        "url": "/user/b2b/configure/type/2?dialog=1"
+      },
+      "[data-url=\"/user/b2b/settle/type/8\"]": {
+        "skin": "layui-layer-fast",
+        "shade": 0,
+        "maxmin": true,
+        "width": "95%",
+        "height": "95%",
+        "top": "22.5px",
+        "left": "35.85px",
+        "url": "/user/b2b/settle/type/8?dialog=1"
+      }
+    }
+  }
+}

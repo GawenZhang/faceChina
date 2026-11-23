@@ -1,0 +1,18 @@
+
+> geo-local-demo@0.1.0 test:browser
+> node check-browser-evidence.mjs && node check-login-evidence.mjs
+
+PASS generate 1440 browser UI uses unified stub without original API calls
+PASS detect 1440 browser UI uses unified stub without original API calls
+PASS analyze 1440 browser UI uses unified stub without original API calls
+PASS 1440 demo browser login reaches sampled backend shell
+PASS generate 390 browser UI uses unified stub without original API calls
+PASS detect 390 browser UI uses unified stub without original API calls
+PASS analyze 390 browser UI uses unified stub without original API calls
+PASS 390 demo browser login reaches sampled backend shell
+PASS login empty 1440: source/local evidence and explicit difference classification
+PASS login invalid 1440: source/local evidence and explicit difference classification
+PASS login agreement 1440: source/local evidence and explicit difference classification
+PASS login empty 390: source/local evidence and explicit difference classification
+PASS login invalid 390: source/local evidence and explicit difference classification
+PASS login agreement 390: source/local evidence and explicit difference classification

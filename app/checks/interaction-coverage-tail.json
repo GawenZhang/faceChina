@@ -1,0 +1,1232 @@
+[
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "webmedia_task",
+    "width": 390,
+    "name": "local-states/webmedia_task-interactive-390",
+    "evidence_id": "ev_d9c3aa1687fa48dc4b993e9e4cd4051d784b98188380a7105357513f30fa0418",
+    "source": "states/webmedia_task-interactive-390",
+    "source_evidence_id": "ev_adbefb2fcda65821788091f2f0ac2b4341b51eed613a0720bcc9f6dfbdd11cfa",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "webmedia_order",
+    "width": 1440,
+    "name": "local-states/webmedia_order-interactive-1440",
+    "evidence_id": "ev_6fc524eadd8fd805820beba24779b543b91ed29ad98d9adc213093091ad7947c",
+    "source": "states/webmedia_order-interactive-1440",
+    "source_evidence_id": "ev_c129b67b665063fc86937632cd9df66a8094496be14bb1aadbf64695f53b6592",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "webmedia_order",
+    "width": 390,
+    "name": "local-states/webmedia_order-interactive-390",
+    "evidence_id": "ev_b01d828d78c6453661e54a03e37008e5a9167049d8ae02e25a26e95904231305",
+    "source": "states/webmedia_order-interactive-390",
+    "source_evidence_id": "ev_0f3f6682ab04159dc3a5174e67ec9e8ebffcc6133f04508830a4b89ac7244f4c",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "media_collection-index-type-1",
+    "width": 1440,
+    "name": "local-states/media_collection-index-type-1-interactive-1440",
+    "evidence_id": "ev_a738081c5a827dd3b72f27dfcfb9bd3c9106ffb29965d4f93387feb4c8065e3d",
+    "source": "states/media_collection-index-type-1-interactive-1440",
+    "source_evidence_id": "ev_80a7eec9bdc4c5265c21ab83a291712b8aa0a35e10a3b91cc54a926db447fa03",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "media_collection-index-type-1",
+    "width": 390,
+    "name": "local-states/media_collection-index-type-1-interactive-390",
+    "evidence_id": "ev_dd936978bb375baf2e2912e76cd5e2d94ffba063f93240e8488007ec123bdd80",
+    "source": "states/media_collection-index-type-1-interactive-390",
+    "source_evidence_id": "ev_85f29651452f19d9d68abf396c7fb15eb7be1caca5ee72eef4b48555e0663ee4",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "zimedia",
+    "width": 1440,
+    "name": "local-states/zimedia-interactive-1440",
+    "evidence_id": "ev_1662d472e263b5493e30de7c338654c591261b413b7476d21abd6f41d2288880",
+    "source": "states/zimedia-interactive-1440",
+    "source_evidence_id": "ev_61f7ea2b1cc5a93eddbfac8d178c3122dcf1ef74ac4723c1f8e9248047fbfdf3",
+    "states": [
+      {
+        "name": "dialog-0",
+        "selector": "[data-url=\"/user/zimedia/tougao/media_id/53781\"]",
+        "modal": true,
+        "step": 3
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "zimedia_order",
+    "width": 1440,
+    "name": "local-states/zimedia_order-interactive-1440",
+    "evidence_id": "ev_f13f1906dcf7b187efbccb7aec1849ce349507c7b1e63af82b8c128064a30c27",
+    "source": "states/zimedia_order-interactive-1440",
+    "source_evidence_id": "ev_a26378ad031ecdec19341c1cc6e2bc5afaaceff661094a9c5d594aa26e3d2969",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "zimedia_order",
+    "width": 390,
+    "name": "local-states/zimedia_order-interactive-390",
+    "evidence_id": "ev_0a3a77dc2976483ce85dbb8988090a81e71720d295fbb14bee072736845429b1",
+    "source": "states/zimedia_order-interactive-390",
+    "source_evidence_id": "ev_5b3556ed40c2afe1a0772a2cbdda0fe560887ec8bbc0a1717ad0f9ce415304bb",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "media_collection-index-type-2",
+    "width": 1440,
+    "name": "local-states/media_collection-index-type-2-interactive-1440",
+    "evidence_id": "ev_82c504de40575f5d8222fcdf8b0f7dc6cdb5f1e1a7681e356a71fee8a159ec7c",
+    "source": "states/media_collection-index-type-2-interactive-1440",
+    "source_evidence_id": "ev_d4111a95cb96790a58ef57890df4a9687275bc690d6facdc838ee2177903f34d",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "media_collection-index-type-2",
+    "width": 390,
+    "name": "local-states/media_collection-index-type-2-interactive-390",
+    "evidence_id": "ev_60ac21111300a3bba6909feab5a550a4ed66c887246b34a37ee3b45b1ac0e8ce",
+    "source": "states/media_collection-index-type-2-interactive-390",
+    "source_evidence_id": "ev_76b0bb0f0cdaa6845959f1ad4aee61070b98149ac183a1727266cac268db263f",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "weixinapp2",
+    "width": 1440,
+    "name": "local-states/weixinapp2-interactive-1440",
+    "evidence_id": "ev_ef60f257ef2a98b308556dc3cd74ed4772d7ba0925c20ddf51c7a322bb523be8",
+    "source": "states/weixinapp2-interactive-1440",
+    "source_evidence_id": "ev_0e156ba8f5a566dd19ac71cf6fa69ebb5cb73c0da18f06c9ac45812e70c3c909",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "weixinapp2",
+    "width": 390,
+    "name": "local-states/weixinapp2-interactive-390",
+    "evidence_id": "ev_1d815ce3a0fe1aa3f1a71a24578a591c2492e51659c1e0f494d7bad09a8b5778",
+    "source": "states/weixinapp2-interactive-390",
+    "source_evidence_id": "ev_c9942ee03725b4766253522f7198d21e6bfee6349c223100f31384e360e22002",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "draft",
+    "width": 1440,
+    "name": "local-states/draft-interactive-1440",
+    "evidence_id": "ev_7f60842a83f54a5a4bcd0c0456513b60341d24889bef61b752000c8f87a56c54",
+    "source": "states/draft-interactive-1440",
+    "source_evidence_id": "ev_9d5834f997269b9e6b6b80db4b4c8edaaec4bab97fb8ae4f27798cd846728bc8",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "draft",
+    "width": 390,
+    "name": "local-states/draft-interactive-390",
+    "evidence_id": "ev_7bdfc797e6f12628f6c0eb7013dd1150543b679e0efccc8681579d788fc2799c",
+    "source": "states/draft-interactive-390",
+    "source_evidence_id": "ev_019e945cf235156b16627e61808814f81cbcafb3e59b72309ae3deb17306cc88",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "weixin_article",
+    "width": 1440,
+    "name": "local-states/weixin_article-interactive-1440",
+    "evidence_id": "ev_f7a26c3f9bd31311269280bf2f38e29edc7356763d2ae320844401c239db5337",
+    "source": "states/weixin_article-interactive-1440",
+    "source_evidence_id": "ev_724db818d25fcf27004c911a7019bdf18dbbc389598bde0ddcf18232a94638a9",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "weixin_article",
+    "width": 390,
+    "name": "local-states/weixin_article-interactive-390",
+    "evidence_id": "ev_266390a92b96eab5a1cd59d8eb10634c7b631119fefa222d6f6e2fc38515f9a9",
+    "source": "states/weixin_article-interactive-390",
+    "source_evidence_id": "ev_96d7a3e34b1281f89ae255a3c806d04bb88c61c977c6731a2730f3cf684e27af",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_site",
+    "width": 1440,
+    "name": "local-states/user_site-interactive-1440",
+    "evidence_id": "ev_4902a3b49e4c6f7fa6bdae2fc29e44f5bcdcb9021769dab998e5dbc88ab0c5a1",
+    "source": "states/user_site-interactive-1440",
+    "source_evidence_id": "ev_084bba08408cf20a95507561709802c269aaa3068b12804398aad035f729a932",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_site",
+    "width": 390,
+    "name": "local-states/user_site-interactive-390",
+    "evidence_id": "ev_9174da1de80c2afe692d987e3fd4390b17d4537f5b3241b59b43b7be805d79e9",
+    "source": "states/user_site-interactive-390",
+    "source_evidence_id": "ev_85b84f5444f4b60d4350d8dfea155e6d65ce3825c70deb1a3a19bde4ad72d815",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_site_task",
+    "width": 1440,
+    "name": "local-states/user_site_task-interactive-1440",
+    "evidence_id": "ev_f6201cff81dbccfa92ea850e534b91a51f06e56617408192886cb4f1e2f0f924",
+    "source": "states/user_site_task-interactive-1440",
+    "source_evidence_id": "ev_dfb6eec6439d8cd3e2871205aad898ff10ce5fe7d207fd3c4077cc5e0746c9c8",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_site_task",
+    "width": 390,
+    "name": "local-states/user_site_task-interactive-390",
+    "evidence_id": "ev_820e181926712a77f672a72d5f3b7fd08d040edfcbd369bb6fa5fc139190bbbc",
+    "source": "states/user_site_task-interactive-390",
+    "source_evidence_id": "ev_2d8865d62ea2bcdfbea414f51b99222febcff644a0bf83041cbe984480513ba5",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_site_record",
+    "width": 1440,
+    "name": "local-states/user_site_record-interactive-1440",
+    "evidence_id": "ev_61bf5a7d6670b5ae33164e8091862d4c369e96c2d13db11818b578f6607853c5",
+    "source": "states/user_site_record-interactive-1440",
+    "source_evidence_id": "ev_e0657ad1aa608e7709b61c40b77069fd7f1d2a3f5852a916b202da3cd9987453",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_site_record",
+    "width": 390,
+    "name": "local-states/user_site_record-interactive-390",
+    "evidence_id": "ev_d460f50d753b959e38537e3be12e3e558f3e57744f2ad87ebfe07ccbf508d972",
+    "source": "states/user_site_record-interactive-390",
+    "source_evidence_id": "ev_1783eca232dc333ef9c4e2eda08e190944835c994f377c4d0013365d5994dd08",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_tdk",
+    "width": 1440,
+    "name": "local-states/user_tdk-interactive-1440",
+    "evidence_id": "ev_c4ce77e4364c8b3f2d3ffb98e647f5acb4b3733f563284ce7e31c3289916b667",
+    "source": "states/user_tdk-interactive-1440",
+    "source_evidence_id": "ev_998eeb617cea475d2d95244b86b402b1906c324cc12d406a5d876b0a980a5bf6",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_tdk",
+    "width": 390,
+    "name": "local-states/user_tdk-interactive-390",
+    "evidence_id": "ev_3978d7624b9fdffe58bf203a196aaf5bfc969546676b83a3436de8db7cbb9dc1",
+    "source": "states/user_tdk-interactive-390",
+    "source_evidence_id": "ev_00f54aa17dc3e86f43ea06eb428455ea37d56385b250ef1cefa17eea6446376c",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_jianji",
+    "width": 1440,
+    "name": "local-states/user_jianji-interactive-1440",
+    "evidence_id": "ev_cdb0a245f83a2dbd977d99870d2d1cbdf73611d7b2205fab7ccc249286c4c1ad",
+    "source": "states/user_jianji-interactive-1440",
+    "source_evidence_id": "ev_6fa6e566efb39eb228c74b4eed4c2ccf6c84832fe00947d97ab4c6c2615f4792",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_jianji",
+    "width": 390,
+    "name": "local-states/user_jianji-interactive-390",
+    "evidence_id": "ev_90c9fbcf3a72a0d6d76033740b4cafb20b565b60c89e314c40033b47ae95d3b9",
+    "source": "states/user_jianji-interactive-390",
+    "source_evidence_id": "ev_35cb1b5ddb762db19759ba840b97943c4f0f4902b4a66bae6584829930210a49",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "video_task",
+    "width": 1440,
+    "name": "local-states/video_task-interactive-1440",
+    "evidence_id": "ev_9fc47d7718ceac7d2a8115943b8c5526de339c163066dc2b087429f5cf29f903",
+    "source": "states/video_task-interactive-1440",
+    "source_evidence_id": "ev_b738bb1e191b1d772cb96beac93b1f1ec06c79ace1cd04979beed9f626b98c07",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "video_task",
+    "width": 390,
+    "name": "local-states/video_task-interactive-390",
+    "evidence_id": "ev_c69302fdced02f39fad7c94065a09b93cee67cd4c8fab069d7fe403c0dee9db4",
+    "source": "states/video_task-interactive-390",
+    "source_evidence_id": "ev_572ff56d5e86a6f2ff59052290313ca1f8e66559611751df3de5dba0b3ad3bb3",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "video_record",
+    "width": 1440,
+    "name": "local-states/video_record-interactive-1440",
+    "evidence_id": "ev_ea0ee5158c7c35d8f133ffaf300695f090ad3dd399d8204492e8572cb26b8a42",
+    "source": "states/video_record-interactive-1440",
+    "source_evidence_id": "ev_2386cd802485d39ca02529c7627a998864153b360f7d65559fad455e63af202b",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "video_record",
+    "width": 390,
+    "name": "local-states/video_record-interactive-390",
+    "evidence_id": "ev_b73e155298dd3d959cb06e1da1e4b494c062bb057a9feb5e496985a73c842f9b",
+    "source": "states/video_record-interactive-390",
+    "source_evidence_id": "ev_ec59b809975d6ff75c4657b101704110f7292939b436dc66bbdbe4ce9147f58a",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "images_type-index-type-2",
+    "width": 1440,
+    "name": "local-states/images_type-index-type-2-interactive-1440",
+    "evidence_id": "ev_ce9cdbf560cb6fb98dd800ed70bed636eff48c11d8e73366b5ef0b350a2cba7d",
+    "source": "states/images_type-index-type-2-interactive-1440",
+    "source_evidence_id": "ev_912c8b43ab2d4ff75d420bc06296dfc87e4932519bb4ac29e6cbbabb38b706f0",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "images_type-index-type-2",
+    "width": 390,
+    "name": "local-states/images_type-index-type-2-interactive-390",
+    "evidence_id": "ev_1f8a515db4605abf6dda159b5ac551ad57516640625eb4bccffcf281ef466e01",
+    "source": "states/images_type-index-type-2-interactive-390",
+    "source_evidence_id": "ev_884b447a580019990053997755f4cb81e981c7a15893cd537abeca26067f03d4",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      },
+      {
+        "name": "add",
+        "selector": ".btn-add",
+        "modal": true,
+        "step": 12
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "shoulu_record",
+    "width": 1440,
+    "name": "local-states/shoulu_record-interactive-1440",
+    "evidence_id": "ev_98098e313fb19a42a49caf044e8273742bee0907e57b6c07440d509d22fe59cf",
+    "source": "states/shoulu_record-interactive-1440",
+    "source_evidence_id": "ev_6fddf1531db5fac0fd401824285581874abff2149eab7268d78050d733af00dc",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "shoulu_record",
+    "width": 390,
+    "name": "local-states/shoulu_record-interactive-390",
+    "evidence_id": "ev_56bbac7a7f9565140613973b8da0ae555bc9b8ca164b36d18980e8444dddf379",
+    "source": "states/shoulu_record-interactive-390",
+    "source_evidence_id": "ev_a28409885b14da7eb7b9a5b06e0a221869356bf4650ae538501aae3e83c006c9",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_money_log",
+    "width": 1440,
+    "name": "local-states/user_money_log-interactive-1440",
+    "evidence_id": "ev_08894fb252c70c212a5cac5ef6a0b3359dbaee2a9d04f9f33441a7ff36a185f7",
+    "source": "states/user_money_log-interactive-1440",
+    "source_evidence_id": "ev_a42b2261dc64ca86f3b19704d1147d23c26f6c05f910c2e7be1244ff85570656",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  },
+  {
+    "buildHash": "aa8bab79b2792efdad973733fb2cdb39d12df306595d9af993ccc7400a581e43",
+    "key": "user_money_log",
+    "width": 390,
+    "name": "local-states/user_money_log-interactive-390",
+    "evidence_id": "ev_6209c6c9d62fff24b971de49a791be28bc430a6982a60d3f551f3aed1b80440c",
+    "source": "states/user_money_log-interactive-390",
+    "source_evidence_id": "ev_38b2e2e08a822f8f513b7322447c69608be9ed46a11fb253e8472c67c7010013",
+    "states": [
+      {
+        "name": "search",
+        "selector": "button[name=\"commonSearch\"]",
+        "close": "button[name=\"commonSearch\"]",
+        "step": 3
+      },
+      {
+        "name": "columns",
+        "selector": "button[aria-label=\"columns\"]",
+        "close": "button[aria-label=\"columns\"]",
+        "step": 6
+      },
+      {
+        "name": "table-view",
+        "selector": "button[name=\"toggle\"]",
+        "close": "button[name=\"toggle\"]",
+        "step": 9
+      }
+    ],
+    "status": "complete",
+    "aborted": null,
+    "errors": []
+  }
+]

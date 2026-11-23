@@ -1,0 +1,28 @@
+
+> geo-local-demo@0.1.0 test:acceptance
+> node tools/check-acceptance-closure.mjs
+
+{
+  "updated": "2026-11-22T15:18:21.464Z",
+  "pageCount": 85,
+  "widthChecks": 170,
+  "pageStatus": {
+    "已验证": 170
+  },
+  "states": 268,
+  "stateStatus": {
+    "已验证": 263,
+    "已记录数据差异": 5
+  },
+  "loginChecks": 6,
+  "loginStatus": {
+    "已验证": 4,
+    "已验证（保留差异）": 2
+  },
+  "documentedSnapshotDifferences": 5,
+  "checkedLinks": 2122,
+  "missingLinks": [],
+  "unverifiedRows": 0,
+  "closure": "complete",
+  "failures": []
+}

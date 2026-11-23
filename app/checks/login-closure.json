@@ -1,0 +1,531 @@
+{
+  "timestamp": "2026-11-22T15:15:55.460Z",
+  "method": "CLI web-walkthrough-record --allow-run --deep over CDP 9222; isolated disposable context; synthetic invalid input only",
+  "rows": [
+    {
+      "state": "empty",
+      "width": 1440,
+      "status": "已验证",
+      "sourceImage": "capture/admin/login-closure/source-empty-1440/final.png",
+      "localImage": "capture/admin/login-closure/local-empty-1440/final.png",
+      "reason": "双侧空表单均由原生required拦截，账号获得焦点并显示“请填写此字段。”，没有登录POST；截图含浏览器原生提示。",
+      "comparison": {
+        "changed_bounding_box": null,
+        "comparable": true,
+        "difference_fraction": 0,
+        "differing_pixels": 0,
+        "height": 900,
+        "identical": true,
+        "layout_similarity": 1,
+        "max_channel_delta": 0,
+        "perceptual_similarity": 0.9999993112900619,
+        "sizes": {
+          "after": {
+            "height": 900,
+            "width": 1440
+          },
+          "before": {
+            "height": 900,
+            "width": 1440
+          }
+        },
+        "tolerance": 16,
+        "total_pixels": 1296000,
+        "width": 1440
+      },
+      "evidenceIds": [
+        "ev_10006778e66c68b42ee448c2556bf9420d8376be55027f8cc9289531b1fa0d9a",
+        "ev_da4335eccfe1a5da657e5a71d2ae6684c7265fbbc65dc13f4298f34f81a136c4",
+        "ev_8ed0d56f079d1c662822b10659238721e11aab4923b89a37bfea1daa9c7aa88c"
+      ],
+      "observations": [
+        {
+          "kind": "source",
+          "width": 1440,
+          "state": "empty",
+          "evidence_id": "ev_10006778e66c68b42ee448c2556bf9420d8376be55027f8cc9289531b1fa0d9a",
+          "url": "https://geo136.doujia5799.top/user/index/login",
+          "activeElement": "username",
+          "fields": [
+            {
+              "id": "username",
+              "required": true,
+              "valueMissing": true,
+              "validationMessage": "请填写此字段。"
+            },
+            {
+              "id": "password",
+              "required": true,
+              "valueMissing": true,
+              "validationMessage": "请填写此字段。"
+            }
+          ],
+          "agreement": true,
+          "messages": []
+        },
+        {
+          "kind": "local",
+          "width": 1440,
+          "state": "empty",
+          "evidence_id": "ev_da4335eccfe1a5da657e5a71d2ae6684c7265fbbc65dc13f4298f34f81a136c4",
+          "url": "http://127.0.0.1:4173/user/index/login/",
+          "activeElement": "username",
+          "fields": [
+            {
+              "id": "username",
+              "required": true,
+              "valueMissing": true,
+              "validationMessage": "请填写此字段。"
+            },
+            {
+              "id": "password",
+              "required": true,
+              "valueMissing": true,
+              "validationMessage": "请填写此字段。"
+            }
+          ],
+          "agreement": true,
+          "messages": []
+        }
+      ]
+    },
+    {
+      "state": "invalid",
+      "width": 1440,
+      "status": "已验证（保留差异）",
+      "sourceImage": "capture/admin/login-closure/source-invalid-1440/final.png",
+      "localImage": "capture/admin/login-closure/local-invalid-1440/final.png",
+      "reason": "原站错误账号POST后返回“用户名不正确”独立页，3秒后返回；本地静态演示无真实鉴权，保留“演示账号或密码错误”Layer提示且不发认证请求。两者已双宽实测，保留页面、文案和跳转差异，不认定视觉等价。",
+      "comparison": {
+        "changed_bounding_box": {
+          "height": 900,
+          "width": 1440,
+          "x": 0,
+          "y": 0
+        },
+        "comparable": true,
+        "difference_fraction": 0.8497145061728395,
+        "differing_pixels": 1101230,
+        "height": 900,
+        "identical": false,
+        "layout_similarity": 0.17621832358674464,
+        "max_channel_delta": 250,
+        "perceptual_similarity": 0.8515885688133054,
+        "sizes": {
+          "after": {
+            "height": 900,
+            "width": 1440
+          },
+          "before": {
+            "height": 900,
+            "width": 1440
+          }
+        },
+        "tolerance": 16,
+        "total_pixels": 1296000,
+        "width": 1440
+      },
+      "evidenceIds": [
+        "ev_4e4492307622569925fcb5cb525c07f5389d11614f8600b3e1574e654b2e6a70",
+        "ev_65c5e795097c504b524aab2cf05a2b74a3c8a0407ef0d9675254ff2ca67762b3",
+        "ev_b2c2b20a6923727bb35c11157699f739ade69a8018a12eae62f741447142729a"
+      ],
+      "observations": [
+        {
+          "kind": "source",
+          "width": 1440,
+          "state": "invalid",
+          "evidence_id": "ev_4e4492307622569925fcb5cb525c07f5389d11614f8600b3e1574e654b2e6a70",
+          "url": "https://geo136.doujia5799.top/user/index/login",
+          "activeElement": "",
+          "fields": [],
+          "messages": [
+            "用户名不正确"
+          ]
+        },
+        {
+          "kind": "local",
+          "width": 1440,
+          "state": "invalid",
+          "evidence_id": "ev_65c5e795097c504b524aab2cf05a2b74a3c8a0407ef0d9675254ff2ca67762b3",
+          "url": "http://127.0.0.1:4173/user/index/login/",
+          "activeElement": "",
+          "fields": [
+            {
+              "id": "username",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            },
+            {
+              "id": "password",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            }
+          ],
+          "agreement": true,
+          "messages": [
+            "演示账号或密码错误"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "agreement",
+      "width": 1440,
+      "status": "已验证",
+      "sourceImage": "capture/admin/login-closure/source-agreement-1440/final.png",
+      "localImage": "capture/admin/login-closure/local-agreement-1440/final.png",
+      "reason": "双侧填入同一虚构无效输入后取消协议均显示“请阅读并勾选用户协议”Layer提示，没有登录POST；抖动动画采样时刻可能产生像素差异。",
+      "comparison": {
+        "changed_bounding_box": null,
+        "comparable": true,
+        "difference_fraction": 0,
+        "differing_pixels": 0,
+        "height": 900,
+        "identical": true,
+        "layout_similarity": 1,
+        "max_channel_delta": 0,
+        "perceptual_similarity": 0.9999920288456415,
+        "sizes": {
+          "after": {
+            "height": 900,
+            "width": 1440
+          },
+          "before": {
+            "height": 900,
+            "width": 1440
+          }
+        },
+        "tolerance": 16,
+        "total_pixels": 1296000,
+        "width": 1440
+      },
+      "evidenceIds": [
+        "ev_3c69bee59b51a07c79cf3134cede6b72245d097f9323edcee2b08fceb4cbfe07",
+        "ev_6a34d9f667f5b86e45f460b3668fee195ba41da7259b56f7eb5dc851b47986ac",
+        "ev_0b543671fc8ae999bf8774d7208b0f49a00ed969313d9dd09c18d7816882d265"
+      ],
+      "observations": [
+        {
+          "kind": "source",
+          "width": 1440,
+          "state": "agreement",
+          "evidence_id": "ev_3c69bee59b51a07c79cf3134cede6b72245d097f9323edcee2b08fceb4cbfe07",
+          "url": "https://geo136.doujia5799.top/user/index/login",
+          "activeElement": "",
+          "fields": [
+            {
+              "id": "username",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            },
+            {
+              "id": "password",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            }
+          ],
+          "agreement": false,
+          "messages": [
+            "请阅读并勾选用户协议"
+          ]
+        },
+        {
+          "kind": "local",
+          "width": 1440,
+          "state": "agreement",
+          "evidence_id": "ev_6a34d9f667f5b86e45f460b3668fee195ba41da7259b56f7eb5dc851b47986ac",
+          "url": "http://127.0.0.1:4173/user/index/login/",
+          "activeElement": "",
+          "fields": [
+            {
+              "id": "username",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            },
+            {
+              "id": "password",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            }
+          ],
+          "agreement": false,
+          "messages": [
+            "请阅读并勾选用户协议"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "empty",
+      "width": 390,
+      "status": "已验证",
+      "sourceImage": "capture/admin/login-closure/source-empty-390/final.png",
+      "localImage": "capture/admin/login-closure/local-empty-390/final.png",
+      "reason": "双侧空表单均由原生required拦截，账号获得焦点并显示“请填写此字段。”，没有登录POST；截图含浏览器原生提示。",
+      "comparison": {
+        "changed_bounding_box": null,
+        "comparable": true,
+        "difference_fraction": 0,
+        "differing_pixels": 0,
+        "height": 900,
+        "identical": true,
+        "layout_similarity": 1,
+        "max_channel_delta": 0,
+        "perceptual_similarity": 0.9999642360276132,
+        "sizes": {
+          "after": {
+            "height": 900,
+            "width": 390
+          },
+          "before": {
+            "height": 900,
+            "width": 390
+          }
+        },
+        "tolerance": 16,
+        "total_pixels": 351000,
+        "width": 390
+      },
+      "evidenceIds": [
+        "ev_0c516ffd56731c98343f2520e3dbb88fbfe4fdc16bdda0d0c48e30934f62f702",
+        "ev_0755e52ddbc6a16e045e7ee39e6daf902f80aad056d714d0fe0f140747c74915",
+        "ev_8d523aded6d57c1d4d6d201526628d637533db3e92ee0a9efe5fcc945feccc97"
+      ],
+      "observations": [
+        {
+          "kind": "source",
+          "width": 390,
+          "state": "empty",
+          "evidence_id": "ev_0c516ffd56731c98343f2520e3dbb88fbfe4fdc16bdda0d0c48e30934f62f702",
+          "url": "https://geo136.doujia5799.top/user/index/login",
+          "activeElement": "username",
+          "fields": [
+            {
+              "id": "username",
+              "required": true,
+              "valueMissing": true,
+              "validationMessage": "请填写此字段。"
+            },
+            {
+              "id": "password",
+              "required": true,
+              "valueMissing": true,
+              "validationMessage": "请填写此字段。"
+            }
+          ],
+          "agreement": true,
+          "messages": []
+        },
+        {
+          "kind": "local",
+          "width": 390,
+          "state": "empty",
+          "evidence_id": "ev_0755e52ddbc6a16e045e7ee39e6daf902f80aad056d714d0fe0f140747c74915",
+          "url": "http://127.0.0.1:4173/user/index/login/",
+          "activeElement": "username",
+          "fields": [
+            {
+              "id": "username",
+              "required": true,
+              "valueMissing": true,
+              "validationMessage": "请填写此字段。"
+            },
+            {
+              "id": "password",
+              "required": true,
+              "valueMissing": true,
+              "validationMessage": "请填写此字段。"
+            }
+          ],
+          "agreement": true,
+          "messages": []
+        }
+      ]
+    },
+    {
+      "state": "invalid",
+      "width": 390,
+      "status": "已验证（保留差异）",
+      "sourceImage": "capture/admin/login-closure/source-invalid-390/final.png",
+      "localImage": "capture/admin/login-closure/local-invalid-390/final.png",
+      "reason": "原站错误账号POST后返回“用户名不正确”独立页，3秒后返回；本地静态演示无真实鉴权，保留“演示账号或密码错误”Layer提示且不发认证请求。两者已双宽实测，保留页面、文案和跳转差异，不认定视觉等价。",
+      "comparison": {
+        "changed_bounding_box": {
+          "height": 900,
+          "width": 390,
+          "x": 0,
+          "y": 0
+        },
+        "comparable": true,
+        "difference_fraction": 0.640054131054131,
+        "differing_pixels": 224659,
+        "height": 900,
+        "identical": false,
+        "layout_similarity": 0.37473684210526315,
+        "max_channel_delta": 250,
+        "perceptual_similarity": 0.7011693642828651,
+        "sizes": {
+          "after": {
+            "height": 900,
+            "width": 390
+          },
+          "before": {
+            "height": 900,
+            "width": 390
+          }
+        },
+        "tolerance": 16,
+        "total_pixels": 351000,
+        "width": 390
+      },
+      "evidenceIds": [
+        "ev_99f88a45610204da3411aa212740a3770a5f41dd93082f693bb8a9fe26c0fe8c",
+        "ev_b8114ced7975e84d7d54bce2c4b9330d86a606b018f5c6c3a1502e8754717d71",
+        "ev_e146df18eb3fd6e31a9f3eddab50c7780972651f27ea938bfa3881ce662cfe2c"
+      ],
+      "observations": [
+        {
+          "kind": "source",
+          "width": 390,
+          "state": "invalid",
+          "evidence_id": "ev_99f88a45610204da3411aa212740a3770a5f41dd93082f693bb8a9fe26c0fe8c",
+          "url": "https://geo136.doujia5799.top/user/index/login",
+          "activeElement": "",
+          "fields": [],
+          "messages": [
+            "用户名不正确"
+          ]
+        },
+        {
+          "kind": "local",
+          "width": 390,
+          "state": "invalid",
+          "evidence_id": "ev_b8114ced7975e84d7d54bce2c4b9330d86a606b018f5c6c3a1502e8754717d71",
+          "url": "http://127.0.0.1:4173/user/index/login/",
+          "activeElement": "",
+          "fields": [
+            {
+              "id": "username",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            },
+            {
+              "id": "password",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            }
+          ],
+          "agreement": true,
+          "messages": [
+            "演示账号或密码错误"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "agreement",
+      "width": 390,
+      "status": "已验证",
+      "sourceImage": "capture/admin/login-closure/source-agreement-390/final.png",
+      "localImage": "capture/admin/login-closure/local-agreement-390/final.png",
+      "reason": "双侧填入同一虚构无效输入后取消协议均显示“请阅读并勾选用户协议”Layer提示，没有登录POST；抖动动画采样时刻可能产生像素差异。",
+      "comparison": {
+        "changed_bounding_box": null,
+        "comparable": true,
+        "difference_fraction": 0,
+        "differing_pixels": 0,
+        "height": 900,
+        "identical": true,
+        "layout_similarity": 1,
+        "max_channel_delta": 0,
+        "perceptual_similarity": 0.9999718815711812,
+        "sizes": {
+          "after": {
+            "height": 900,
+            "width": 390
+          },
+          "before": {
+            "height": 900,
+            "width": 390
+          }
+        },
+        "tolerance": 16,
+        "total_pixels": 351000,
+        "width": 390
+      },
+      "evidenceIds": [
+        "ev_10dbfca7114e9715798c065383e2799d22f695a804eedf64bff68bc3892055ed",
+        "ev_b77ae0df2eb65c7f399a8818846a41c09df09d82014f99addad436b90313877b",
+        "ev_dd3f476256a1c411f6d4213be40fd0cbefb85e1e8119a44000381d93baaf7e5f"
+      ],
+      "observations": [
+        {
+          "kind": "source",
+          "width": 390,
+          "state": "agreement",
+          "evidence_id": "ev_10dbfca7114e9715798c065383e2799d22f695a804eedf64bff68bc3892055ed",
+          "url": "https://geo136.doujia5799.top/user/index/login",
+          "activeElement": "",
+          "fields": [
+            {
+              "id": "username",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            },
+            {
+              "id": "password",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            }
+          ],
+          "agreement": false,
+          "messages": [
+            "请阅读并勾选用户协议"
+          ]
+        },
+        {
+          "kind": "local",
+          "width": 390,
+          "state": "agreement",
+          "evidence_id": "ev_b77ae0df2eb65c7f399a8818846a41c09df09d82014f99addad436b90313877b",
+          "url": "http://127.0.0.1:4173/user/index/login/",
+          "activeElement": "",
+          "fields": [
+            {
+              "id": "username",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            },
+            {
+              "id": "password",
+              "required": true,
+              "valueMissing": false,
+              "validationMessage": ""
+            }
+          ],
+          "agreement": false,
+          "messages": [
+            "请阅读并勾选用户协议"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCounts": {
+    "已验证": 4,
+    "已验证（保留差异）": 2
+  },
+  "pass": true
+}

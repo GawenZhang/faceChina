@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-22",
+  "endpoint": "http://127.0.0.1:9222",
+  "preauthorizationPresent": true,
+  "tool": "web_walkthrough_record",
+  "requestedActions": ["fill username (redacted)", "fill password (redacted)", "click submit", "wait for redirect"],
+  "secretsDeclaredForRedaction": true,
+  "attempts": [
+    {"attempt": 1, "code": "consent_required", "message": "the person declined this action", "isError": true},
+    {"attempt": 2, "code": "consent_required", "message": "the person declined this action", "isError": true}
+  ],
+  "submitted": false,
+  "authenticatedInventoryKnown": false,
+  "passivePageEvidence": "ev_4f62c5b788d2f9e3d8455ee93e91b5bef02cc4856e480977601301d7d836cb28",
+  "followup": "Asked user to restore effective Craft Anything approval or reconnect the tool service; no alternative login transport attempted."
+}

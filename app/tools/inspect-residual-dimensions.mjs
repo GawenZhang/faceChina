@@ -1,0 +1,3 @@
+﻿import fs from 'node:fs';
+const a=JSON.parse(fs.readFileSync('app/checks/interaction-residual-review.json')),g=JSON.parse(fs.readFileSync('app/backend-interactions.json'));
+for(const r of a.filter(x=>x.state==='add')){const s=fs.readFileSync(r.sourceImage.replace('.png','.html'),'utf8'),tag=(s.match(/<div\b[^>]*class="[^"]*layui-layer-iframe[^"]*"[^>]*>/g)||[]).pop();if(!tag)continue;const style=tag.match(/style="([^"]*)"/)?.[1];const dims=Object.fromEntries((style||'').split(';').map(x=>x.split(':').map(y=>y.trim())).filter(x=>x.length===2));const old=g[r.key]?.[r.width]?.['.btn-add'];console.log(r.key,r.width,JSON.stringify({old:old&&[old.width,old.height,old.top,old.left],new:[dims.width,dims.height,dims.top,dims.left]}));}

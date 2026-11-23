@@ -1,0 +1,57 @@
+# Project-scoped Craft Anything browser inspection permissions.
+# The complete transport keeps this file valid when loaded without builder overrides.
+# Craft Anything supplies its current project/inbox arguments when starting a builder.
+[mcp_servers.craft-anything]
+command = 'C:\Users\Administration\.dsh\plugins-data\craft-anything\0.6.0\craft-anything-cli.exe'
+args = ["mcp", "--all-tools"]
+
+[mcp_servers.craft-anything.tools.web_site_open]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_pages_list]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_page_show]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_site_capture]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_page_screenshot_take]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_page_states_capture]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_browser_connect]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_walkthrough_record]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_walkthrough_check]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_page_js_analyze]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_page_watch]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_modules_trace]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_listeners_list]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_coverage_measure]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_snapshots_compare]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_pixels_compare]
+approval_mode = "approve"
+
+[mcp_servers.craft-anything.tools.web_mcp_tools_list]
+approval_mode = "approve"

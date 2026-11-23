@@ -1,0 +1,216 @@
+[
+  {
+    "key": "b2b_task-add",
+    "width": 1440,
+    "name": "local-select/b2b_task-add-1440",
+    "buildHash": "ea485cdc16108ce990731a9dc3fe7ebefbcb0c45ad4c03a8a602bddb2d936705",
+    "evidence": "ev_0ceee66cb151fd509541be6cffdffb47b85366d9b309dc95df592d56f685d5c2",
+    "steps": [
+      {
+        "action": "goto",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      },
+      {
+        "action": "click",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      },
+      {
+        "action": "click",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      }
+    ],
+    "errors": [],
+    "aborted": null,
+    "check": true,
+    "status": "已验证",
+    "notes": "已打开原生多选菜单并选择“列举网”。"
+  },
+  {
+    "key": "b2b_task-add",
+    "width": 390,
+    "name": "local-select/b2b_task-add-390",
+    "buildHash": "ea485cdc16108ce990731a9dc3fe7ebefbcb0c45ad4c03a8a602bddb2d936705",
+    "evidence": "ev_3fbdc73953ac4f466465f9c45d9859ec0b277f2fec69a3d3639287f1e0d11fe1",
+    "steps": [
+      {
+        "action": "goto",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      },
+      {
+        "action": "click",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      },
+      {
+        "action": "click",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      }
+    ],
+    "errors": [],
+    "aborted": null,
+    "check": true,
+    "status": "已验证",
+    "notes": "已打开原生多选菜单并选择“列举网”。"
+  },
+  {
+    "key": "draft-add",
+    "width": 1440,
+    "name": "local-select/draft-add-1440",
+    "buildHash": "ea485cdc16108ce990731a9dc3fe7ebefbcb0c45ad4c03a8a602bddb2d936705",
+    "evidence": "ev_b02df7644cb004e23eeee2c2a039ea807978e0d5dc55ef4e843a91f5661615aa",
+    "steps": [
+      {
+        "action": "goto",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      },
+      {
+        "action": "click",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      },
+      {
+        "action": "click",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      }
+    ],
+    "errors": [],
+    "aborted": null,
+    "check": true,
+    "status": "已验证",
+    "notes": "原测试账号文章分类仅有“不选择”；已打开原生菜单并选择该实际选项。"
+  },
+  {
+    "key": "draft-add",
+    "width": 390,
+    "name": "local-select/draft-add-390",
+    "buildHash": "ea485cdc16108ce990731a9dc3fe7ebefbcb0c45ad4c03a8a602bddb2d936705",
+    "evidence": "ev_226d080d938a219c94a253f9cf7cc2925a835bc571fea884cd1b64f2d6101f58",
+    "steps": [
+      {
+        "action": "goto",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      },
+      {
+        "action": "click",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      },
+      {
+        "action": "click",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      }
+    ],
+    "errors": [],
+    "aborted": null,
+    "check": true,
+    "status": "已验证",
+    "notes": "原测试账号文章分类仅有“不选择”；已打开原生菜单并选择该实际选项。"
+  },
+  {
+    "key": "user_tdk-add",
+    "width": 1440,
+    "name": "local-select/user_tdk-add-1440",
+    "buildHash": "ea485cdc16108ce990731a9dc3fe7ebefbcb0c45ad4c03a8a602bddb2d936705",
+    "evidence": "ev_5d6d2ed73308b59fc7d2acb67e77fba4b3451e39468ae633c0e6a22f97cf2da0",
+    "steps": [
+      {
+        "action": "goto",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      },
+      {
+        "action": "fill",
+        "status": "ok"
+      },
+      {
+        "action": "fill",
+        "status": "ok"
+      }
+    ],
+    "errors": [],
+    "aborted": null,
+    "check": true,
+    "status": "已验证",
+    "notes": "此页无下拉框；验证分组名和联系方式输入。",
+    "validation": "Accessibility nodes contain both entered values; input DOM attributes do not serialize current input properties."
+  },
+  {
+    "key": "user_tdk-add",
+    "width": 390,
+    "name": "local-select/user_tdk-add-390",
+    "buildHash": "ea485cdc16108ce990731a9dc3fe7ebefbcb0c45ad4c03a8a602bddb2d936705",
+    "evidence": "ev_77b3e0bb4ad3983ab8fa8269878c16e4bbb9877e25581808a8b47e113a0691b2",
+    "steps": [
+      {
+        "action": "goto",
+        "status": "ok"
+      },
+      {
+        "action": "wait",
+        "status": "ok"
+      },
+      {
+        "action": "fill",
+        "status": "ok"
+      },
+      {
+        "action": "fill",
+        "status": "ok"
+      }
+    ],
+    "errors": [],
+    "aborted": null,
+    "check": true,
+    "status": "已验证",
+    "notes": "此页无下拉框；验证分组名和联系方式输入。",
+    "validation": "Accessibility nodes contain both entered values; input DOM attributes do not serialize current input properties."
+  }
+]

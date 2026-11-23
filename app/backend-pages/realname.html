@@ -1,0 +1,211 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+        <meta charset="utf-8">
+
+<title>
+    用户中心-鑫火GEO-鑫火GEO</title>
+<meta name="keywords" content="鑫火GEO，鑫火GEO">
+<meta name="description" content="鑫火GEO">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="renderer" content="webkit">
+<meta name="referrer" content="never">
+<meta name="robots" content="noindex, nofollow">
+
+<link rel="shortcut icon" href="/site-assets/assets/img/favicon.ico">
+
+<link href="/site-assets/user_assets/css/backend.css?v=1.3.1346" rel="stylesheet">
+
+<link href="/site-assets/user_assets/css/skins/skin-blue.css?v=1.3.1346" rel="stylesheet">
+
+<style type="text/css">
+    .layui-layer-fast .layui-layer-title{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+    .btn-primary{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+</style>
+
+
+<style type="text/css">
+    /* 整个滚动条 */
+    ::-webkit-scrollbar {width: 6px; /* 水平滚动条的高度、垂直滚动条的宽度 */height: 6px; /* 水平滚动条的高度 */border-radius: 10px!important;}
+    /* 滚动条轨道 */
+    ::-webkit-scrollbar-track {background: #333; /* 轨道颜色 */}
+    /* 滚动条滑块 */
+    ::-webkit-scrollbar-thumb {background: #999; /* 滑块颜色 */}
+    /* 滑块hover效果 */
+    ::-webkit-scrollbar-thumb:hover {background: #777; /* 滑块hover颜色 */}
+</style>
+
+
+
+
+
+    <link type="text/css" rel="stylesheet" href="/site-assets/user_assets/layui/css/layui.css?v=1.3.1346"><link id="layuicss-laydate" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/laydate/default/laydate.css?v=5.3.1" media="all"><link id="layuicss-layer" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/layer/default/layer.css?v=3.5.1" media="all"><link id="layuicss-skincodecss" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/code.css?v=3" media="all"><meta name="robots" content="noindex,nofollow,noarchive"><link rel="stylesheet" href="/admin-runtime.css"><script>if(innerWidth<=600)location.replace("/backend-pages/realname.mobile.html"+location.search+location.hash);</script></head>
+
+    <body class="inside-header inside-aside " data-page-key="realname" data-page-path="/user/realname">
+        <div id="main" role="main">
+            <div class="tab-content tab-addtabs">
+                <div id="content">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <section class="content-header hide">
+                                <h1>
+                                    控制台                                    <small>Control panel</small>
+                                </h1>
+                            </section>
+                                                        <div class="content">
+                                
+
+
+    <meta charset="UTF-8">
+    <title>实名认证</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="/site-assets/user_assets/css/tuozhan_all.min.css">
+    
+    <link rel="stylesheet" href="/site-assets/user_assets/css/font-awesome.min.css">
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box}
+        .header_content{margin: 30px;}
+        .header_content h1{font-size: 24px;font-weight: bold;color: #1890ff}
+        .header_content p{color: #1890ff;
+    background-color: #ddefff;;padding: 20px;border-radius: 10px;margin-top:15px;}
+        .header_content span{color: #6569ff;font-size: 16px;font-weight: initial;}
+
+        .body_content{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;margin-top:20vh;display:flex;justify-content:center;align-items:center}
+        .auth-type-container{display:flex;gap:40px;padding:0 20px}
+        .auth-type-btn{width:280px;height:180px;border:none;border-radius:12px;background-color:#fff;box-shadow:0 4px 20px rgba(0,0,0,0.08);font-size:18px;font-weight:500;color:#333;cursor:pointer;transition:all 0.3s ease;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:15px}
+        .auth-type-btn:hover{transform:translateY(-5px);box-shadow:0 8px 25px rgba(0,0,0,0.12);color:#1890ff}
+        .auth-type-btn i{font-size:48px;color:#1890ff}
+        .modal-content{border-radius:12px;border:none;box-shadow:0 10px 30px rgba(0,0,0,0.15)}
+        .modal-header{background-color:#f8f9fa;border-bottom:1px solid #e8e8e8;padding:16px 24px;border-radius:12px 12px 0 0}
+        .modal-title{font-size:18px;font-weight:500;color:#333}
+        .modal-body{padding:24px}
+        .modal-footer{padding:16px 24px;border-top:1px solid #e8e8e8;border-radius:0 0 12px 12px}
+        .form-group{margin-bottom:20px;padding-left: 20px;padding-right: 20px;}
+        .form-group label{display:block;margin-bottom:8px;font-weight:500;color:#333;font-size:14px}
+        .form-control{height:44px;border-radius:8px;border:1px solid #d9d9d9;padding:0 12px;font-size:14px;transition:border-color 0.3s}
+        .form-control:focus{border-color:#1890ff;box-shadow:0 0 0 2px rgba(24,144,255,0.2);outline:none}
+        .img-preview{width:200px;height:auto;margin-top:12px;border-radius:8px;display:none;border:1px solid #e8e8e8}
+        .btn{border-radius:8px;padding:10px 24px;font-size:14px;font-weight:500;transition:all 0.2s}
+        .btn-primary{background-color:#1890ff;border-color:#1890ff}
+        .btn-primary:hover{background-color:#096dd9;border-color:#096dd9}
+        .btn-default{color:#666;border-color:#d9d9d9}
+        .btn-default:hover{background-color:#f5f5f5;border-color:#bfbfbf}
+        input[type="file"]{border:1px solid #d9d9d9;padding:8px;border-radius:8px;width:100%;cursor:pointer}
+        
+    </style>
+
+
+    <div class="header_content">
+        <h1>实名认证 <span>【已认证 情*】</span></h1>
+        <p>为了确保您能正常、稳定地使用系统全部功能，请尽快完成实名认证。</p>
+    </div>
+    
+    <div class="body_content">
+        
+        <div class="auth-type-container">
+            <button type="button" class="auth-type-btn" id="companyBtn" data-status="1">
+                <i class="fa fa-building"></i>
+                <span>企业实名认证</span>
+            </button>
+                        
+        </div>
+
+        
+        <div class="modal fade" id="personalModal" tabindex="-1" role="dialog" aria-labelledby="personalModalLabel">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                        <h4 class="modal-title" id="personalModalLabel">个人实名认证</h4>
+                    </div>
+                    <div class="modal-body">
+                        <form id="personalForm" enctype="multipart/form-data" class="form-horizontal nice-validator n-default n-bootstrap" role="form" novalidate="novalidate" action="#" method="get">
+                            
+                            
+                            
+                            
+                            <div class="form-group">
+                                <label>真实姓名</label>
+                                <input type="text" name="username" class="form-control" placeholder="请输入真实姓名" value="情*">
+                            </div>
+                            <div class="form-group">
+                                <label>身份证号码</label>
+                                <input type="text" name="idcard" class="form-control" placeholder="请输入18位身份证号码" value="211421********8897">
+                            </div>
+                            <div class="form-group">
+                                <label>手机号</label>
+                                <input type="text" name="mobile" class="form-control" placeholder="请输入实名手机号码" value="1*********2">
+                            </div>
+            
+                        
+                          
+                        </form>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="modal fade" id="companyModal" tabindex="-1" role="dialog" aria-labelledby="companyModalLabel">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                        <h4 class="modal-title" id="companyModalLabel">企业实名认证</h4>
+                    </div>
+                    <div class="modal-body">
+                        <form id="companyForm" enctype="multipart/form-data" class="form-horizontal nice-validator n-default n-bootstrap" role="form" novalidate="novalidate" action="#" method="get">
+                            
+                            
+                            
+                            
+                            <div class="form-group">
+                                <label>企业名称</label>
+                                <input type="text" name="realname" class="form-control" placeholder="请输入企业全称" value="情*">
+                            </div>
+                            <div class="form-group">
+                                <label>营业执照注册号</label>
+                                <input type="text" name="number" class="form-control" placeholder="请输入营业执照注册号" value="911***********Q357">
+                            </div>
+                            
+                            <div class="form-group">
+                                <label>管理员姓名</label>
+                                <input type="text" name="username" class="form-control" placeholder="请输入真实姓名" value="情*">
+                            </div>
+                            <div class="form-group">
+                                <label>管理员身份证号</label>
+                                <input type="text" name="idcard" class="form-control" placeholder="请输入18位身份证号码" value="211421********8897">
+                            </div>
+                            <div class="form-group">
+                                <label>手机号</label>
+                                <input type="text" name="mobile" class="form-control" placeholder="请输入实名手机号码" value="1*********2">
+                            </div>
+          
+                                                    </form>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+    
+    
+    
+    
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+
+
+    
+
+<script src="/vendor/jquery.js"></script><script src="/vendor/layui.js"></script><script src="/site-assets/user_assets/libs/bootstrap/dist/js/bootstrap.min.js"></script><script src="/ai-config.js"></script><script src="/services/ai-service.js"></script><script src="/site-assets/user_assets/js/require.js"></script><script>require(["/admin-runtime.js"]);</script></body></html>

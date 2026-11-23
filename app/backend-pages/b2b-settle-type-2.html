@@ -1,0 +1,247 @@
+<!DOCTYPE html><html><head>
+        <meta charset="utf-8">
+
+<title>
+    用户中心-鑫火GEO-鑫火GEO</title>
+<meta name="keywords" content="鑫火GEO，鑫火GEO">
+<meta name="description" content="鑫火GEO">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="renderer" content="webkit">
+<meta name="referrer" content="never">
+<meta name="robots" content="noindex, nofollow">
+
+<link rel="shortcut icon" href="/site-assets/assets/img/favicon.ico">
+
+<link href="/site-assets/user_assets/css/backend.css?v=1.3.1346" rel="stylesheet">
+
+<link href="/site-assets/user_assets/css/skins/skin-blue.css?v=1.3.1346" rel="stylesheet">
+
+<style type="text/css">
+    .layui-layer-fast .layui-layer-title{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+    .btn-primary{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+</style>
+
+
+<style type="text/css">
+    /* 整个滚动条 */
+    ::-webkit-scrollbar {width: 6px; /* 水平滚动条的高度、垂直滚动条的宽度 */height: 6px; /* 水平滚动条的高度 */border-radius: 10px!important;}
+    /* 滚动条轨道 */
+    ::-webkit-scrollbar-track {background: #333; /* 轨道颜色 */}
+    /* 滚动条滑块 */
+    ::-webkit-scrollbar-thumb {background: #999; /* 滑块颜色 */}
+    /* 滑块hover效果 */
+    ::-webkit-scrollbar-thumb:hover {background: #777; /* 滑块hover颜色 */}
+</style>
+
+
+
+
+
+    <link type="text/css" rel="stylesheet" href="/site-assets/user_assets/layui/css/layui.css?v=1.3.1346"><link id="layuicss-laydate" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/laydate/default/laydate.css?v=5.3.1" media="all"><link id="layuicss-layer" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/layer/default/layer.css?v=3.5.1" media="all"><link id="layuicss-skincodecss" rel="stylesheet" href="/site-assets/user_assets/layui/css/modules/code.css?v=3" media="all"><meta name="robots" content="noindex,nofollow,noarchive"><link rel="stylesheet" href="/admin-runtime.css"><script>if(innerWidth<=600)location.replace("/backend-pages/b2b-settle-type-2.mobile.html"+location.search+location.hash);</script></head>
+
+    <body class="inside-header inside-aside " data-page-key="b2b-settle-type-2" data-page-path="/user/b2b/settle/type/2">
+        <div id="main" role="main">
+            <div class="tab-content tab-addtabs">
+                <div id="content">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <section class="content-header hide">
+                                <h1>
+                                    控制台                                    <small>Control panel</small>
+                                </h1>
+                            </section>
+                                                        <div class="content">
+                                <style type="text/css">
+    body{background: #fff;}
+    .red_xing{color: red;margin-right: 5px;}
+    .red_color{color: red;}
+    .change_article{vertical-align: middle;background: #8487f5;border-radius: 10px;text-align: center;font-size: 14px;line-height: 30px;color: #fff;cursor: pointer;}
+    .article_is_send{color: #bd7a00;font-size: 14px;margin-top: 5px;display: none}
+</style>
+
+<form id="add-form" class="form-horizontal nice-validator n-default n-bootstrap" role="form" data-toggle="validator" novalidate="novalidate" action="#" method="get">
+            <div class="form-group">
+            <label for="UserName" class="control-label col-xs-12 col-sm-2">用户名:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="UserName" class="form-control" name="row[UserName]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="pwd" class="control-label col-xs-12 col-sm-2">用户密码:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="pwd" class="form-control" name="row[pwd]" type="password" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="niName" class="control-label col-xs-12 col-sm-2">昵称:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="niName" class="form-control" name="row[niName]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="companyName" class="control-label col-xs-12 col-sm-2">企业名称:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="companyName" class="form-control" name="row[companyName]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group video_urls_block">
+            <label class="control-label col-xs-12 col-sm-2">法人性别:</label>
+            <div class="col-xs-12 col-sm-6">
+                <div class="dropdown bootstrap-select form-control bs3"><select class="form-control selectpicker" data-actions-box="true" data-live-search="true" required="true" name="row[sex]"><option value="先生">先生</option><option value="女士">女士</option></select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-default" data-toggle="dropdown" role="combobox" aria-owns="bs-select-1" aria-haspopup="listbox" aria-expanded="false" title="先生"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">先生</div></div> </div><span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" role="combobox" aria-label="Search" aria-controls="bs-select-1" aria-autocomplete="list"></div><div class="inner open" role="listbox" id="bs-select-1" tabindex="-1"><ul class="dropdown-menu inner " role="presentation"></ul></div></div></div>            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="mobilePhone" class="control-label col-xs-12 col-sm-2">手机号码:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="mobilePhone" class="form-control" name="row[mobilePhone]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="Tel_Detail" class="control-label col-xs-12 col-sm-2">固定电话:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="Tel_Detail" class="form-control" name="row[Tel_Detail]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="qq" class="control-label col-xs-12 col-sm-2">QQ:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="qq" class="form-control" name="row[qq]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="companyAddress" class="control-label col-xs-12 col-sm-2">公司详细地址:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="companyAddress" class="form-control" name="row[companyAddress]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="ContactAddress" class="control-label col-xs-12 col-sm-2">街道详细地址(不需要在前面加省市):</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="ContactAddress" class="form-control" name="row[ContactAddress]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="companyAddress" class="control-label col-xs-12 col-sm-2">主营大行业:</label>
+            <div class="col-xs-12 col-sm-6">
+                <div class="sp_container" style="width: 100%;"><input id="BigIndustryId_text" data-source="/user/b2b/getList?table=sole_big_industry" class="form-control selectpage sp_input" data-field="BigIndustryName" data-primary-key="BigIndustryId" name="row[BigIndustryId]_text" type="text" value="" autocomplete="off" novalidate="novalidate"><div class="sp_button" title="关闭 (Tab键)"><span class="sp_caret"></span></div></div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="companyAddress" class="control-label col-xs-12 col-sm-2">主营中行业:</label>
+            <div class="col-xs-12 col-sm-6">
+                <div class="sp_container" style="width: 100%;"><input id="MidIndustryId_text" data-source="/user/b2b/getList?table=sole_mid_industry" class="form-control selectpage sp_input" data-field="MidIndustryName" data-primary-key="MidIndustryId" name="row[MidIndustryId]_text" type="text" value="" autocomplete="off" novalidate="novalidate"><div class="sp_button" title="关闭 (Tab键)"><span class="sp_caret"></span></div></div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="companyAddress" class="control-label col-xs-12 col-sm-2">主营小行业:</label>
+            <div class="col-xs-12 col-sm-6">
+                <div class="sp_container" style="width: 100%;"><input id="SmallIndustryId_text" data-source="/user/b2b/getList?table=sole_small_industry" class="form-control selectpage sp_input" data-field="SmallIndustryName" data-primary-key="SmallIndustryId" name="row[SmallIndustryId]_text" type="text" value="" autocomplete="off" novalidate="novalidate"><div class="sp_button" title="关闭 (Tab键)"><span class="sp_caret"></span></div></div>
+            </div>
+        </div>
+
+        <div class="form-group video_urls_block">
+            <label class="control-label col-xs-12 col-sm-2">企业类型:</label>
+            <div class="col-xs-12 col-sm-6">
+                <div class="dropdown bootstrap-select form-control bs3"><select class="form-control selectpicker" data-actions-box="true" data-live-search="true" required="true" name="row[companyType]"><option value="私营企业">私营企业</option><option value="国有企业">国有企业</option><option value="集体所有制企业">集体所有制企业</option><option value="合资企业">合资企业</option><option value="外资企业">外资企业</option><option value="股份企业">股份企业</option><option value="个体经营">个体经营</option><option value="事业单位">事业单位</option><option value="社会团体">社会团体</option><option value="个人">个人</option><option value="其他">其他</option></select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-default" data-toggle="dropdown" role="combobox" aria-owns="bs-select-2" aria-haspopup="listbox" aria-expanded="false" title="私营企业"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">私营企业</div></div> </div><span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" role="combobox" aria-label="Search" aria-controls="bs-select-2" aria-autocomplete="list"></div><div class="inner open" role="listbox" id="bs-select-2" tabindex="-1"><ul class="dropdown-menu inner " role="presentation"></ul></div></div></div>            </div>
+        </div>
+
+        <div class="form-group video_urls_block">
+            <label class="control-label col-xs-12 col-sm-2">经营模式:</label>
+            <div class="col-xs-12 col-sm-6">
+                <div class="dropdown bootstrap-select form-control bs3"><select class="form-control selectpicker" data-actions-box="true" data-live-search="true" required="true" name="row[WorkingModel]"><option value="服务型">服务型</option><option value="生产型">生产型</option><option value="贸易型">贸易型</option><option value="政府">政府</option><option value="其他机构">其他机构</option></select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-default" data-toggle="dropdown" role="combobox" aria-owns="bs-select-3" aria-haspopup="listbox" aria-expanded="false" title="服务型"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">服务型</div></div> </div><span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" role="combobox" aria-label="Search" aria-controls="bs-select-3" aria-autocomplete="list"></div><div class="inner open" role="listbox" id="bs-select-3" tabindex="-1"><ul class="dropdown-menu inner " role="presentation"></ul></div></div></div>            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="CompanyDesc" class="control-label col-xs-12 col-sm-2">企业简介:</label>
+            <div class="col-xs-12 col-sm-6">
+                <textarea id="CompanyDesc" class="form-control" name="row[CompanyDesc]"></textarea>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="CompanyEmail" class="control-label col-xs-12 col-sm-2">邮箱:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="CompanyEmail" class="form-control" name="row[CompanyEmail]" type="email" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="MainProduct" class="control-label col-xs-12 col-sm-2">主营产品:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="MainProduct" class="form-control" name="row[MainProduct]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="MainBrand" class="control-label col-xs-12 col-sm-2">主营品牌:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="MainBrand" class="form-control" name="row[MainBrand]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="CompanyIntro" class="control-label col-xs-12 col-sm-2">公司简称:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="CompanyIntro" class="form-control" name="row[CompanyIntro]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="CompanyKeyword" class="control-label col-xs-12 col-sm-2">公司关键词:</label>
+            <div class="col-xs-12 col-sm-6">
+                <input id="CompanyKeyword" class="form-control" name="row[CompanyKeyword]" type="text" value="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="Area_p" class="control-label col-xs-12 col-sm-2">所在省份:</label>
+            <div class="col-xs-12 col-sm-6">
+                <div class="sp_container" style="width: 100%;"><input id="Area_p_text" data-params="{&quot;custom[parentid]&quot;:&quot;2&quot;}" data-source="/user/b2b/getList?table=sole_area" class="form-control selectpage sp_input" data-field="areaname" name="row[Area_p]_text" type="text" value="" autocomplete="off" novalidate="novalidate"><div class="sp_button" title="关闭 (Tab键)"><span class="sp_caret"></span></div></div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="Area_t" class="control-label col-xs-12 col-sm-2">所在城市:</label>
+            <div class="col-xs-12 col-sm-6">
+                <div class="sp_container" style="width: 100%;"><input id="Area_t_text" data-source="/user/b2b/getList?table=sole_area" class="form-control selectpage sp_input" data-field="areaname" name="row[Area_t]_text" type="text" value="" autocomplete="off" novalidate="novalidate"><div class="sp_button" title="关闭 (Tab键)"><span class="sp_caret"></span></div></div>
+            </div>
+        </div>
+
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button class="submit btn btn-primary btn-embossed" style="height: 50px;width: 200px;font-size: 13px;">申请入驻</button>
+        </div>
+    </div>
+
+     
+</form>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+
+
+    
+
+<div class="sp_result_area"><ul class="sp_results"></ul><div class="sp_pagination"><ul></ul></div></div><div class="sp_result_area"><ul class="sp_results"></ul><div class="sp_pagination"><ul></ul></div></div><div class="sp_result_area"><ul class="sp_results"></ul><div class="sp_pagination"><ul></ul></div></div><div class="sp_result_area"><ul class="sp_results"></ul><div class="sp_pagination"><ul></ul></div></div><div class="sp_result_area"><ul class="sp_results"></ul><div class="sp_pagination"><ul></ul></div></div><script src="/vendor/jquery.js"></script><script src="/vendor/layui.js"></script><script src="/site-assets/user_assets/libs/bootstrap/dist/js/bootstrap.min.js"></script><script src="/site-assets/user_assets/libs/bootstrap-select/dist/js/bootstrap-select.min.js"></script><script src="/site-assets/user_assets/libs/bootstrap-select/dist/js/i18n/defaults-zh_CN.js"></script><script src="/ai-config.js"></script><script src="/services/ai-service.js"></script><script src="/site-assets/user_assets/js/require.js"></script><script>require(["/admin-runtime.js"]);</script></body></html>

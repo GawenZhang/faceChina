@@ -1,14 +1,16 @@
 {
-  "name": "aeris-chambers",
-  "version": "1.0.0",
+  "name": "geo-local-demo",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "vite build && node static-routes.mjs",
-    "qa": "node qa-all.mjs"
+    "build": "node build.mjs",
+    "test": "node check-login.mjs && node check-ai.mjs",
+    "test:browser": "node check-browser-evidence.mjs && node check-login-evidence.mjs",
+    "test:acceptance": "node tools/check-acceptance-closure.mjs"
   },
   "dependencies": {
-    "vite": "5.4.21"
-  },
-  "devDependencies": {}
+    "jquery": "file:vendor-packages/jquery",
+    "layui": "file:vendor-packages/layui"
+  }
 }

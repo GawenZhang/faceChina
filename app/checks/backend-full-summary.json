@@ -1,0 +1,14 @@
+﻿{
+  "total": 170,
+  "compared": 170,
+  "needsFix": [
+    {
+      "key": "b2b_task-add",
+      "width": 1440,
+      "errors": 0,
+      "failed": 0,
+      "ssim": 0.9662195719807501,
+      "diff": 0.06328395061728395
+    }
+  ]
+}

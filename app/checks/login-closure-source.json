@@ -1,0 +1,126 @@
+[
+  {
+    "kind": "source",
+    "width": 1440,
+    "state": "empty",
+    "evidence_id": "ev_32431fb85fb0eb8a577045c271366fd483a02af6e154caf960f863a6ae314341",
+    "url": "https://geo136.doujia5799.top/user/index/login",
+    "activeElement": "username",
+    "fields": [
+      {
+        "id": "username",
+        "required": true,
+        "valueMissing": true,
+        "validationMessage": "请填写此字段。"
+      },
+      {
+        "id": "password",
+        "required": true,
+        "valueMissing": true,
+        "validationMessage": "请填写此字段。"
+      }
+    ],
+    "agreement": true,
+    "messages": []
+  },
+  {
+    "kind": "source",
+    "width": 1440,
+    "state": "invalid",
+    "evidence_id": "ev_cee8ec9fc09261178b0069b2314a8db0043e22ac36dcc054b4ab2c6c5a3c7abb",
+    "url": "https://geo136.doujia5799.top/user/index/login",
+    "activeElement": "",
+    "fields": [],
+    "messages": [
+      "用户名不正确"
+    ]
+  },
+  {
+    "kind": "source",
+    "width": 1440,
+    "state": "agreement",
+    "evidence_id": "ev_2c15d21e1b63efe661c60c86337633e8694b618d343222b0eea3f17c654ed47c",
+    "url": "https://geo136.doujia5799.top/user/index/login",
+    "activeElement": "",
+    "fields": [
+      {
+        "id": "username",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      },
+      {
+        "id": "password",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      }
+    ],
+    "agreement": false,
+    "messages": [
+      "请阅读并勾选用户协议"
+    ]
+  },
+  {
+    "kind": "source",
+    "width": 390,
+    "state": "empty",
+    "evidence_id": "ev_7226f5416da7859d6bc370e19c1b056235ea3d99563a103ace3f1b5357fdacd6",
+    "url": "https://geo136.doujia5799.top/user/index/login",
+    "activeElement": "username",
+    "fields": [
+      {
+        "id": "username",
+        "required": true,
+        "valueMissing": true,
+        "validationMessage": "请填写此字段。"
+      },
+      {
+        "id": "password",
+        "required": true,
+        "valueMissing": true,
+        "validationMessage": "请填写此字段。"
+      }
+    ],
+    "agreement": true,
+    "messages": []
+  },
+  {
+    "kind": "source",
+    "width": 390,
+    "state": "invalid",
+    "evidence_id": "ev_99f88a45610204da3411aa212740a3770a5f41dd93082f693bb8a9fe26c0fe8c",
+    "url": "https://geo136.doujia5799.top/user/index/login",
+    "activeElement": "",
+    "fields": [],
+    "messages": [
+      "用户名不正确"
+    ]
+  },
+  {
+    "kind": "source",
+    "width": 390,
+    "state": "agreement",
+    "evidence_id": "ev_111a0cedb7a8787b004b87956a3cafc729d21445635edfb11e15b7e5861dd2bf",
+    "url": "https://geo136.doujia5799.top/user/index/login",
+    "activeElement": "",
+    "fields": [
+      {
+        "id": "username",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      },
+      {
+        "id": "password",
+        "required": true,
+        "valueMissing": false,
+        "validationMessage": ""
+      }
+    ],
+    "agreement": false,
+    "messages": [
+      "请阅读并勾选用户协议"
+    ]
+  }
+]

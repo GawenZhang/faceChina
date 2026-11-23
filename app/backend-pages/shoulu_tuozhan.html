@@ -1,0 +1,386 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+        <meta charset="utf-8">
+
+<title>
+    用户中心-鑫火GEO-鑫火GEO</title>
+<meta name="keywords" content="鑫火GEO，鑫火GEO">
+<meta name="description" content="鑫火GEO">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="renderer" content="webkit">
+<meta name="referrer" content="never">
+<meta name="robots" content="noindex, nofollow">
+
+<link rel="shortcut icon" href="/site-assets/assets/img/favicon.ico">
+
+<link href="/site-assets/user_assets/css/backend.css?v=1.3.1346" rel="stylesheet">
+
+<link href="/site-assets/user_assets/css/skins/skin-blue.css?v=1.3.1346" rel="stylesheet">
+
+<style type="text/css">
+    .layui-layer-fast .layui-layer-title{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+    .btn-primary{background: linear-gradient(168deg, rgb(135 138 255), rgb(139 95 255), rgb(50 110 255), rgb(156 167 255)) !important}
+</style>
+
+
+<style type="text/css">
+    /* 整个滚动条 */
+    ::-webkit-scrollbar {width: 6px; /* 水平滚动条的高度、垂直滚动条的宽度 */height: 6px; /* 水平滚动条的高度 */border-radius: 10px!important;}
+    /* 滚动条轨道 */
+    ::-webkit-scrollbar-track {background: #333; /* 轨道颜色 */}
+    /* 滚动条滑块 */
+    ::-webkit-scrollbar-thumb {background: #999; /* 滑块颜色 */}
+    /* 滑块hover效果 */
+    ::-webkit-scrollbar-thumb:hover {background: #777; /* 滑块hover颜色 */}
+</style>
+
+
+
+
+
+    <link id="layuicss-laydate" rel="stylesheet" href="/site-assets/layui/css/modules/laydate/default/laydate.css?v=5.3.1" media="all"><link id="layuicss-layer" rel="stylesheet" href="/site-assets/layui/css/modules/layer/default/layer.css?v=3.5.1" media="all"><link id="layuicss-skincodecss" rel="stylesheet" href="/site-assets/layui/css/modules/code.css?v=3" media="all"><meta name="robots" content="noindex,nofollow,noarchive"><link rel="stylesheet" href="/admin-runtime.css"><script>if(innerWidth<=600)location.replace("/backend-pages/shoulu_tuozhan.mobile.html"+location.search+location.hash);</script></head>
+
+    <body class="inside-header inside-aside " data-page-key="shoulu_tuozhan" data-page-path="/user/shoulu_tuozhan">
+        <div id="main" role="main">
+            <div class="tab-content tab-addtabs">
+                <div id="content">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <section class="content-header hide">
+                                <h1>
+                                    控制台                                    <small>Control panel</small>
+                                </h1>
+                            </section>
+                                                        <div class="content">
+                                
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GEO拓词收录</title>
+    <link rel="stylesheet" href="/site-assets/user_assets/css/tuozhan_all.min.css">
+    <style>
+        *{box-sizing:border-box;margin:0;padding:0;font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif}
+        /*:root{--primary:#00f3ff;--secondary:#7e42ff;--dark:#0a0e17;--darker:#050811;--light:#e0f7ff;--card-bg:rgba(16,24,39,0.8);--glow:0 0 15px rgba(0,243,255,0.7)}*/
+        body{color:var(--light);line-height:1.6;padding:0px;min-height:100vh}
+        .container{width:100%;margin:0 auto;background:#fff;border-radius:10px;position:relative;overflow:hidden}
+        header{text-align:center;margin-bottom:30px;padding-bottom:20px;border-bottom:1px solid rgba(0,243,255,0.2);position:relative}
+        h1{color:var(--primary);margin-bottom:10px;font-size:2.5rem;text-shadow:0 0 10px rgba(0,243,255,0.5);letter-spacing:1px}
+        .description{color:#a0b3c6;font-size:16px;max-width:800px;margin:0 auto}
+        .keyword-inputs{display:flex;gap:1px;overflow-x:auto;padding:10px 0}
+        .keyword-area{border-radius:10px;padding:8px;min-width:180px;flex:1;transition:all 0.3s ease}
+        .keyword-area:hover{transform:translateY(-5px);box-shadow:var(--glow);border-color:var(--primary)}
+        .keyword-area h3{margin-bottom:15px;color:#fff;font-weight:initial;align-items:center;font-size:13px;background:#f16d6d;height:30px;line-height:30px;text-align:center;border-radius:5px;margin-top: 0px;}
+        .required{color:#ff4d6d;text-shadow:0 0 5px rgba(255,77,109,0.7)}
+        textarea{width:100%;height:220px;padding:12px;border:1px solid rgb(4 4 4 / 30%);border-radius:6px;resize:vertical;font-size:14px;color:#000;transition:all 0.3s}
+        textarea:focus{outline:none;border-color:var(--primary);box-shadow:0 0 10px rgba(0,243,255,0.5)}
+        .combination-options{border-radius:10px;padding:0 20px;margin-bottom:30px}
+        .combination-options h3{margin-bottom:15px;color:#000;font-size:1.5rem;display:flex;justify-content:space-between;align-items:center}
+        .select-all{font-size:14px;cursor:pointer;color:#7f52c4;display:flex;align-items:center;gap:5px}
+        .select-all:hover{text-shadow:0 0 5px rgba(0,243,255,0.7)}
+        .option-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:12px}
+        .option-item{display:flex;align-items:center}
+        .option-item input[type="checkbox"]{display:none}
+        .option-item label{cursor:pointer;padding:5px 10px;background:rgb(220 234 255 / 70%);border-radius:6px;transition:all 0.3s;border:1px solid rgba(0,243,255,0.3);color:#74808b;display:flex;align-items:center;gap:2px;width:100%;font-size:12px;font-weight:inherit}
+        .option-item label:hover{background:rgba(0,243,255,0.1)}
+        .option-item input[type="checkbox"]:checked + label{background:linear-gradient(135deg,var(--primary),var(--secondary));color:#fff;font-weight:bold;border-color:var(--primary)}
+        .result-area{border-radius:10px;padding:0 20px;margin-top:20px}
+        .result-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:15px}
+        .result-header h3{color:#000;font-size:1.5rem;margin:0}
+        .result-count{background:linear-gradient(135deg,var(--primary),var(--secondary));color:#fff;padding:5px 12px;border-radius:20px;font-weight:bold;font-size:14px;box-shadow:0 0 10px rgba(0,243,255,0.5)}
+        #keyword-results{border:1px solid #ccc;border-radius:6px;padding:15px;min-height:150px;max-height:300px;overflow-y:auto;margin-bottom:15px;white-space:pre-line;color:#333;font-size:14px;line-height:26px}
+        .actions{display:flex;gap:10px;margin-bottom:15px;flex-wrap:wrap}
+        button{padding:12px 25px;background:linear-gradient(135deg,var(--primary),var(--secondary));color:#fff;border:none;border-radius:6px;cursor:pointer;transition:all 0.3s;font-size:16px;font-weight:bold;display:flex;align-items:center;gap:8px;box-shadow:0 5px 15px rgba(0,0,0,0.3)}
+        button:hover{transform:translateY(-3px);box-shadow:var(--glow)}
+        button:active{transform:translateY(1px)}
+        button#copy-btn{background:#eee;color: #555}
+        button#clear-btn{background:linear-gradient(135deg,#e74c3c,#c0392b)}
+        .empty-message{color:#a0b3c6;text-align:center;padding:0 20px;font-style:italic}
+        .instructions{padding:20px;margin:0 20px;border-radius:10px;border:1px solid #ccc}
+        .instructions h3{color:#7284f1;margin-bottom:10px;font-size:1.5rem}
+        .instructions ul{padding-left:20px}
+        .instructions li{margin-bottom:8px;color:#a0b3c6}
+    
+        
+        /* 开关样式 */
+        .container_keyword{margin-top:10px;margin-left:10px;color:#fff;background:linear-gradient(135deg,#5316f1,#f39c12);padding:5px 20px;border-radius:20px;font-weight:bold;font-size:14px;box-shadow:0 0 10px rgba(0,243,255,0.5);width: 400px;float: right;}
+
+        .container_keyword label{width: 25%;}
+        .container_keyword select{    width: 70%;height: 40px;line-height: 40px;background: unset;border: 1px solid #b8baf5;border-radius: 5px;padding-left: 10px;}
+        .container_keyword select option{color: #000;}
+        .switch-container{align-items:center;gap:10px;margin-top:10px;margin-left:10px;font-family:Arial,sans-serif;width: 50%;float: left;}
+        .switch{position:relative;display:inline-block;width:60px;height:34px;margin-top:15px}
+        .switch input{opacity:0;width:0;height:0}
+        .slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background-color:#ccc;transition:.4s;border-radius:34px}
+        .slider:before{position:absolute;content:"";height:26px;width:26px;left:2px;bottom:-1px;background-color:white;transition:.4s;border-radius:50%}
+        input:checked + .slider{background-color:#2196F3}
+        input:checked + .slider:before{transform:translateX(30px)}
+        .status-text{font-size:16px;color:#333}
+        .loading{color:#999}
+        .message{margin-left:20px;padding:5px 10px;border-radius:4px;font-size:14px;display:none}
+        .success{background-color:#d4edda;color:#155724;display:inline-block}
+        .error{background-color:#f8d7da;color:#721c24;display:inline-block}
+
+
+        /*选择平台*/
+        .field-onlinerecharge-selectmoney .mr5 {
+    margin-right: 10px;
+}
+.radio-custom label {
+    min-height: 18px;margin-top: 10px;
+    padding-left: 20px;
+    margin-bottom: 0;
+    font-weight: normal;
+    cursor: pointer;
+    margin-right: 10px;
+    background: linear-gradient(108deg, #a6b2fa, #f5f5f5);
+    color: #3d3d9f;
+    padding: 5px 10px 5px 30px;
+    border-radius: 5px;font-size: 15px;
+}
+.radio-custom input
+ {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 19px;width: 16px;height: 16px;
+}
+.radio-custom img{width: 20px;height: 20px;margin-left: 3px;margin-right: 3px;vertical-align: sub;}
+    </style>
+
+
+    <div class="container">
+
+        <div class="container_keyword">
+            <label>选中主词：</label>
+            <select class="keyword_select">
+                                    <option value="34935" selected="">药房，药店</option>
+                                    <option value="33688">太原新房装修 小户型装修</option>
+                                    <option value="33606">怎么购买安利产品</option>
+                                    <option value="31611">乐骏途车品官方旗舰店</option>
+                                    <option value="31610">恒云翔车品官方旗舰店</option>
+                                    <option value="31609">杜志业医生</option>
+                            </select>
+        </div>
+        
+        <div class="switch-container">
+
+            
+            <div style="font-size: 14px;color:#999;clear: both;margin-top: 10px;display: block;width: 100%;">配置以下搭配，在查询收录时，会<font style="color:#474bfb">节约查询费用</font>、并<font style="color:#474bfb">报表附带截图</font></div>
+            <div style="font-size: 14px;color:#999;clear: both;margin-top: 10px;;display: block;width: 100%">攻略：如需查询<font style="color:#474bfb">固定的长尾词</font>，把长尾词一行一个复制进C区，其他区域不要填即可</div>
+        </div>
+        
+        <div style="height: 1px;width: 100%;clear: both;"></div>
+        <div style="clear: both;background: #389fff;color:#fff;padding: 8px 20px;border-radius: 5px;display: block;width: 250px;margin-top: 20px;text-align: center;cursor: pointer;" class="import_question">一键导入选中关键词的问题</div>
+
+        
+
+
+        <div class="keyword-inputs" style="clear: both;margin-top: 10px;">
+            <div class="keyword-area">
+                <h3><span>A</span>前缀/地区</h3>
+                <textarea id="area-a" placeholder="请输入前缀关键词，每行一个
+例如：
+市面上
+国内
+广东"></textarea>
+            </div>
+            
+            <div class="keyword-area">
+                <h3><span>B</span>前缀2/形容词</h3>
+                <textarea id="area-b" placeholder="请输入前缀关键词，每行一个
+例如：
+口碑好的
+正规的
+专业的"></textarea>
+            </div>
+            
+            <div class="keyword-area">
+                <h3 style="background: #d21b1b"><span>C</span>主词【必填】 <font>*</font></h3>
+                <textarea id="area-c" placeholder="请输入核心关键词，每行一个
+例如：
+SEO优化
+内容营销
+社交媒体"></textarea>
+            </div>
+            
+            <div class="keyword-area">
+                <h3 style="background: #d21b1b"><span>D</span>目标通义词【必填】 <font>*</font></h3>
+                <textarea id="area-d" placeholder="请输入通义词，每行一个
+例如：
+品牌
+公司
+供应商"></textarea>
+            </div>
+            
+            <div class="keyword-area">
+                <h3><span>E</span>推荐词</h3>
+                <textarea id="area-e" placeholder="请输入推荐词，每行一个
+例如：
+推荐
+排行
+推荐榜"></textarea>
+            </div>
+            
+            <div class="keyword-area">
+                <h3><span>F</span>疑问词</h3>
+                <textarea id="area-f" placeholder="请输入疑问词，每行一个
+例如：
+哪家好
+哪个好
+哪家强"></textarea>
+            </div>
+        </div>
+
+        
+        <div class="field-onlinerecharge-selectmoney" style="width: 100%;clear: both;margin-top: 10px;">
+            <label class="col-lg-1 control-label" style="font-weight: initial;line-height: 30px;font-size: 14px;">查询平台：</label>
+            <span class="radio-custom">
+                
+                <input type="checkbox" id="selectmoney1" name="platform[]" value="1"><label class="mr5 money_radio" for="selectmoney1"><img src="/site-assets/assets/img/deepseek.png" alt="">
+                                            deepseek（0.10元）
+                                    </label>
+                <input type="checkbox" id="selectmoney2" name="platform[]" value="2"><label class="mr5 money_radio" for="selectmoney2"><img src="/site-assets/assets/img/doubao.png" alt="">
+                                            豆包AI（0.10元）
+                                    </label>
+                <input type="checkbox" id="selectmoney3" name="platform[]" value="3"><label class="mr5 money_radio" for="selectmoney3"><img src="/site-assets/assets/img/yuanbao.png" alt="">
+                                            腾讯元宝（0.06元）
+                                    </label>
+                <input type="checkbox" id="selectmoney4" name="platform[]" value="4"><label class="mr5 money_radio" for="selectmoney4"><img src="/site-assets/assets/img/qianwen.png" alt="">
+                                            通义千问（0.06元）
+                                    </label>
+
+                <input type="checkbox" id="selectmoney5" name="platform[]" value="5"><label class="mr5 money_radio" for="selectmoney5"><img src="/site-assets/assets/img/wenxin.png" alt="">
+                                            文心一言（0.06元）
+                                    </label>
+                <br>
+                <input type="checkbox" id="selectmoney6" name="platform[]" value="6" style="display: none"><label style="display: none" class="mr5 money_radio" for="selectmoney6"><img src="/site-assets/assets/img/nami.png" alt="">
+                                            纳米AI（0.06元）
+                                    </label>
+                <input type="checkbox" id="selectmoney7" name="platform[]" value="7"><label class="mr5 money_radio" for="selectmoney7"><img src="/site-assets/assets/img/kimi.png" alt="">
+                                            Kimi AI（0.20元）
+                                    </label>
+                <input type="checkbox" id="selectmoney8" name="platform[]" value="8"><label class="mr5 money_radio" for="selectmoney8"><img src="/site-assets/assets/img/zhipu.png" alt="">
+                                            智普清言（0.06元）
+                                    </label>
+            </span>
+        </div>
+        
+
+        <div style="clear: both;margin-top: 20px;">
+            <button id="save-btn" style="background: linear-gradient(135deg, #5316f1, #f39c12);margin: 30px auto;width: 48%;text-align: center;display: block;float: left;">保存词组</button>
+            <button id="shoulu-btn" style="background: linear-gradient(135deg, #5316f1, #f39c12);margin: 30px auto;width: 48%;text-align: center;display: block;float: left;margin-left: 2%">提交查收录（余额：0.00 元）</button>
+        </div>
+        
+        
+        <div class="combination-options" style="display: none">
+            <h3>
+                <span>组合方式选择</span>
+                <span class="select-all" id="select-all">
+                    全选
+                </span>
+            </h3>
+            <div class="option-list">
+                <div class="option-item">
+                    <input type="checkbox" id="option-cd" data-combo="C+D" checked="">
+                    <label for="option-cd"> C+D</label>
+                </div>
+                <div class="option-item">
+                    <input type="checkbox" id="option-acd" data-combo="A+C+D" checked="">
+                    <label for="option-acd"> A+C+D</label>
+                </div>
+                <div class="option-item">
+                    <input type="checkbox" id="option-bcd" data-combo="B+C+D" checked="">
+                    <label for="option-bcd"> B+C+D</label>
+                </div>
+                <div class="option-item">
+                    <input type="checkbox" id="option-abcd" data-combo="A+B+C+D" checked="">
+                    <label for="option-abcd"> A+B+C+D</label>
+                </div>
+                <div class="option-item">
+                    <input type="checkbox" id="option-cde" data-combo="C+D+E" checked="">
+                    <label for="option-cde"> C+D+E</label>
+                </div>
+                <div class="option-item">
+                    <input type="checkbox" id="option-cdf" data-combo="C+D+F" checked="">
+                    <label for="option-cdf"> C+D+F</label>
+                </div>
+                <div class="option-item">
+                    <input type="checkbox" id="option-acde" data-combo="A+C+D+E" checked="">
+                    <label for="option-acde"> A+C+D+E</label>
+                </div>
+                <div class="option-item">
+                    <input type="checkbox" id="option-bcde" data-combo="B+C+D+E" checked="">
+                    <label for="option-bcde"> B+C+D+E</label>
+                </div>
+                <div class="option-item">
+                    <input type="checkbox" id="option-abcde" data-combo="A+B+C+D+E" checked="">
+                    <label for="option-abcde"> A+B+C+D+E</label>
+                </div>
+                
+                
+                <div class="option-item">
+                    <input type="checkbox" id="option-abcdef" data-combo="A+B+C+D+F" checked="">
+                    <label for="option-abcdef"> A+B+C+D+F</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="result-area" style="clear: both;">
+            <div class="result-header">
+                <h3></h3>
+                <div class="result-count" id="result-count" style="background: linear-gradient(135deg, #5316f1, #f39c12)">0 条结果</div>
+            </div>
+            <div class="actions">
+                <button id="generate-btn" style="background: linear-gradient(135deg, #f75444, #f39c12)">预览全部问题</button>
+                <button id="generate-btn2" style="background: linear-gradient(135deg, #5316f1, #f39c12)">评估查询</button>
+                <button id="copy-btn">复制</button>
+                <span class="pinggu_price" style="line-height: 50px;margin-left: 20px;"></span>
+            </div>
+            <div id="keyword-results">
+                <div class="empty-message">关键词结果预览区域</div>
+            </div>
+            
+        </div>
+        
+        <div class="instructions">
+            <h3>使用说明</h3>
+            <ul>
+                <li>在ABCDEF区域的文本框中输入关键词，每行一个关键词</li>
+                <li>C区核心关键词是必需的，必须至少输入一个</li>
+                <li>点击"生成关键词"按钮查看组合结果</li>
+                <li>点击"复制结果"按钮复制生成的关键词</li>
+            </ul>
+        </div>
+    </div>
+
+    <textarea id="questions_text" style="display: none">赣州哪家药店靠谱
+</textarea>
+
+    
+    
+    
+
+    
+    
+
+    
+
+
+    
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+
+
+    
+
+<script src="/vendor/jquery.js"></script><script src="/vendor/layui.js"></script><script src="/site-assets/user_assets/libs/bootstrap/dist/js/bootstrap.min.js"></script><script src="/ai-config.js"></script><script src="/services/ai-service.js"></script><script src="/site-assets/user_assets/js/require.js"></script><script>require(["/admin-runtime.js"]);</script></body></html>
