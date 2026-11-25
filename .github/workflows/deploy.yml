@@ -20,7 +20,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Pack site
-        run: tar -czf site.tar.gz index.html favicon.png favicon.svg robots.txt sitemap.xml llms.txt css js img about app articles products privacy terms downloads
+        run: |
+          tar -cf - index.html favicon.png favicon.svg robots.txt sitemap.xml llms.txt css js img about app articles products privacy terms downloads | gzip -1 > site.tar.gz
+          ls -lh site.tar.gz
 
       - name: Publish to server
         env:
@@ -36,9 +38,23 @@ jobs:
           install -d -m 700 ~/.ssh
           printf '%s\n' "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
-          ssh-keyscan -H "$SSH_HOST" >> ~/.ssh/known_hosts
-          scp -i ~/.ssh/deploy_key -o IdentitiesOnly=yes \
-            site.tar.gz "${SSH_USER}@${SSH_HOST}:/tmp/o2magic-site.tar.gz"
-          ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes \
-            "${SSH_USER}@${SSH_HOST}" \
-            "sudo /usr/local/bin/deploy-o2magic"
+          ssh_opts=(
+            -i "$HOME/.ssh/deploy_key"
+            -o IdentitiesOnly=yes
+            -o StrictHostKeyChecking=accept-new
+            -o ConnectTimeout=20
+            -o ServerAliveInterval=15
+            -o ServerAliveCountMax=4
+          )
+          ok=0
+          for attempt in 1 2 3 4; do
+            echo "upload attempt ${attempt}"
+            if scp "${ssh_opts[@]}" site.tar.gz "${SSH_USER}@${SSH_HOST}:/tmp/o2magic-site.tar.gz" \
+              && ssh "${ssh_opts[@]}" "${SSH_USER}@${SSH_HOST}" "sudo /usr/local/bin/deploy-o2magic"; then
+              ok=1
+              break
+            fi
+            echo "attempt ${attempt} failed, waiting before retry"
+            sleep 20
+          done
+          test "$ok" = 1
