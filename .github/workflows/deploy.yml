@@ -7,54 +7,26 @@ on:
 
 concurrency:
   group: deploy-www
-  cancel-in-progress: true
-
-permissions:
-  contents: read
+  cancel-in-progress: false
 
 jobs:
   deploy:
+    name: Deploy to 110.40.173.15
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Pack site
-        run: |
-          tar -cf - index.html favicon.png favicon.svg robots.txt sitemap.xml llms.txt css js img about app articles products privacy terms downloads | gzip -1 > site.tar.gz
-          ls -lh site.tar.gz
-
-      - name: Publish to server
-        env:
-          SSH_HOST: ${{ secrets.SSH_HOST }}
-          SSH_USER: ${{ secrets.SSH_USER }}
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-        run: |
-          if [ -z "$SSH_HOST" ] || [ -z "$SSH_USER" ] || [ -z "$SSH_PRIVATE_KEY" ]; then
-            echo "缺少 GitHub Secrets：SSH_HOST、SSH_USER、SSH_PRIVATE_KEY"
-            echo "先在服务器上执行 scripts/setup-deploy.sh，再把输出的私钥写进仓库 Secrets。"
-            exit 1
-          fi
-          install -d -m 700 ~/.ssh
-          printf '%s\n' "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/deploy_key
-          chmod 600 ~/.ssh/deploy_key
-          ssh_opts=(
-            -i "$HOME/.ssh/deploy_key"
-            -o IdentitiesOnly=yes
-            -o StrictHostKeyChecking=accept-new
-            -o ConnectTimeout=20
-            -o ServerAliveInterval=15
-            -o ServerAliveCountMax=4
-          )
-          ok=0
-          for attempt in 1 2 3 4; do
-            echo "upload attempt ${attempt}"
-            if scp "${ssh_opts[@]}" site.tar.gz "${SSH_USER}@${SSH_HOST}:/tmp/o2magic-site.tar.gz" \
-              && ssh "${ssh_opts[@]}" "${SSH_USER}@${SSH_HOST}" "sudo /usr/local/bin/deploy-o2magic"; then
-              ok=1
-              break
-            fi
-            echo "attempt ${attempt} failed, waiting before retry"
-            sleep 20
-          done
-          test "$ok" = 1
+      - name: Publish site
+        uses: appleboy/ssh-action@v1.2.2
+        with:
+          host: 110.40.173.15
+          username: ubuntu
+          port: 22
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          command_timeout: 20m
+          script: |
+            cd "$HOME/faceChina"
+            git remote set-url origin git@github.com:GawenZhang/faceChina.git
+            git fetch origin main
+            git checkout -f main
+            git reset --hard origin/main
+            tar -czf /tmp/o2magic-site.tar.gz index.html favicon.png favicon.svg robots.txt sitemap.xml llms.txt css js img about app articles products privacy terms downloads
+            sudo /usr/local/bin/deploy-o2magic
