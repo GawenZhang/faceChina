@@ -19,21 +19,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-          cache-dependency-path: app/package-lock.json
-
-      - name: Build site
-        working-directory: app
-        run: |
-          npm ci
-          npm run build
-
       - name: Pack site
-        run: tar -czf site.tar.gz -C app/dist .
+        run: tar -czf site.tar.gz index.html favicon.png favicon.svg robots.txt sitemap.xml llms.txt css js img about app articles products privacy terms downloads
 
       - name: Publish to server
         env:

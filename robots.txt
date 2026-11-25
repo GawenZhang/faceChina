@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# AI answer engines may read this site.
+# A plain-language summary for language models is at /llms.txt
+
+Sitemap: http://macy-pan.online/sitemap.xml
