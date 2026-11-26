@@ -1,6 +1,8 @@
 # 原站抓取素材（版权敏感，不入库）
 capture/
 inspection/
+/downloads/dims/
+/img/dims/
 
 # 内部机器文件
 investigation.cany/

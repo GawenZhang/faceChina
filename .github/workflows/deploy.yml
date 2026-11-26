@@ -22,7 +22,7 @@ jobs:
           GEO_SITE_ORIGIN: ${{ vars.GEO_SITE_ORIGIN }}
         run: |
           node scripts/build-geo.mjs
-          tar -czf site.tar.gz index.html favicon.png favicon.svg robots.txt sitemap.xml llms.txt css js img about app articles en products privacy terms downloads
+          tar -czf site.tar.gz index.html favicon.png favicon.svg robots.txt sitemap.xml llms.txt css js img/logo.png img/products about app articles en products privacy terms downloads/O2Magic.apk
           ls -lh site.tar.gz
 
       - name: Upload site archive

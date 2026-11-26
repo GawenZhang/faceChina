@@ -1,22 +1,22 @@
 # MACY-PAN HE5000 高压氧舱
 
-> HE5000 系列产品图、尺寸图和选型资料。规格中的毫米数值对应各型号所附图纸。
+> HE5000 系列产品外观、舱体外形尺寸和选型资料。尺寸以毫米表示。
 
 ## 产品图与尺寸
 
-- [五款型号对比](http://macy-pan.online/articles/he5000-models/): 图示配置、舱体主要标注及原始 PDF。
-- [HE5000 Mono](http://macy-pan.online/products/he5000-mono/): 单人舱产品图和尺寸图。
+- [五款型号对比](http://macy-pan.online/articles/he5000-models/): 舱体长、宽、高。
+- [HE5000 Mono](http://macy-pan.online/products/he5000-mono/): 单人舱外观和舱体尺寸。
 - [HE5000 Standard](http://macy-pan.online/products/he5000-standard/): 图示 2 人坐式配置。
 - [HE5000 PLUS](http://macy-pan.online/products/he5000-plus/): 图示 4 人坐式配置。
-- [HE5000 Fort](http://macy-pan.online/products/he5000-fort/): 舱体和配套设备尺寸。图示资料未标明乘坐人数。
-- [HE5000 Diamond](http://macy-pan.online/products/he5000-diamond/): 休息型配置及图纸中的两段拼接标注。
+- [HE5000 Fort](http://macy-pan.online/products/he5000-fort/): 舱体外观尺寸。
+- [HE5000 Diamond](http://macy-pan.online/products/he5000-diamond/): 休息型舱体外观尺寸。
 - [安装前核对清单](http://macy-pan.online/articles/drawing-dimensions/): 搬运路线、设备空间和现场条件。
 
 ## English
 
 - [HE5000 catalogue](http://macy-pan.online/en/products/)
 - [Compare the five models](http://macy-pan.online/en/articles/he5000-models/)
-- [Drawings and pre-installation checklist](http://macy-pan.online/en/articles/drawing-dimensions/)
+- [Pre-installation checklist](http://macy-pan.online/en/articles/drawing-dimensions/)
 
 ## 联系与支持
 

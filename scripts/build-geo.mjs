@@ -14,7 +14,7 @@ const language = (await read("js/copy.js")).trim();
 const english = JSON.parse(language.replace(/^window\.MACY_COPY = /, "").replace(/;$/, "")).en;
 
 const englishPages = new Map([
-  ["/", ["MACY-PAN HE5000 Hyperbaric Chambers | Models and Drawings", english["home-lead"]]],
+  ["/", ["MACY-PAN HE5000 Hyperbaric Chambers | Models and Dimensions", english["home-lead"]]],
   ["/products/", ["HE5000 Hyperbaric Chamber Catalogue | MACY-PAN", english["prod-lead"]]],
   ["/products/he5000-mono/", ["HE5000 Mono Hyperbaric Chamber Dimensions | MACY-PAN", english["mono-p"]]],
   ["/products/he5000-standard/", ["HE5000 Standard Hyperbaric Chamber Dimensions | MACY-PAN", english["std-p"]]],
@@ -24,8 +24,8 @@ const englishPages = new Map([
   ["/about/", ["About and Contact Shanghai Baobang | MACY-PAN", english["about-lead"]]],
   ["/app/", ["O2Magic Companion App for Android | MACY-PAN", "See how O2Magic connects to a home chamber and download the Android package."]],
   ["/articles/", ["HE5000 Selection and Installation Resources | MACY-PAN", english["blog-lead"]]],
-  ["/articles/he5000-models/", ["Compare Five HE5000 Hyperbaric Chambers | MACY-PAN", "Compare the displayed configurations and drawing dimensions for the HE5000 Mono, Standard, PLUS, Fort and Diamond."]],
-  ["/articles/drawing-dimensions/", ["HE5000 Drawings and Pre-installation Checklist | MACY-PAN", "Check HE5000 dimensions, the delivery route and on-site requirements using the original drawings."]],
+  ["/articles/he5000-models/", ["Compare Five HE5000 Hyperbaric Chambers | MACY-PAN", "Compare chamber length, width and height for the HE5000 Mono, Standard, PLUS, Fort and Diamond."]],
+  ["/articles/drawing-dimensions/", ["HE5000 Pre-installation Checklist | MACY-PAN", "Check HE5000 exterior dimensions, the delivery route and on-site installation requirements."]],
   ["/articles/o2magic/", ["What O2Magic Does | MACY-PAN", english["a3-ex"]]],
   ["/articles/contact/", ["How to Contact Shanghai Baobang | MACY-PAN", english["a4-ex"]]],
 ]);
