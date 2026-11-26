@@ -25,6 +25,7 @@ body {
   line-height: 1.6;
 }
 img, svg { display: block; max-width: 100%; }
+img { height: auto; }
 button, input, textarea { font: inherit; color: inherit; }
 a { color: var(--blue); text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -118,7 +119,7 @@ button { cursor: pointer; }
   background: #fff;
   border: 1px solid var(--line);
 }
-.lang-menu button {
+.lang-menu button, .lang-menu a {
   display: block;
   width: 100%;
   text-align: left;
@@ -127,7 +128,7 @@ button { cursor: pointer; }
   padding: 8px 10px;
   font-weight: 600;
 }
-.lang-menu button[aria-selected="true"] { color: var(--blue); }
+.lang-menu [aria-selected="true"] { color: var(--blue); }
 .tools { margin: 0 0 8px; }
 .tools input[type="search"] {
   width: min(420px, 100%);
@@ -365,6 +366,26 @@ main > section:not(.intro) { padding-bottom: 56px; }
   font-variant-numeric: tabular-nums;
 }
 .spec th { width: 28%; color: var(--muted); font-weight: 650; }
+.spec caption {
+  text-align: left;
+  color: var(--slate);
+  padding: 8px 0;
+}
+.model-comparison {
+  width: 100%;
+  min-width: 640px;
+  border-collapse: collapse;
+  margin: 12px 0;
+}
+.model-comparison th, .model-comparison td {
+  padding: 12px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--line);
+}
+.model-comparison thead { background: var(--field); }
+.model-comparison tbody th { white-space: nowrap; }
+.model-comparison caption { text-align: left; margin-bottom: 8px; }
 .dim-sheet {
   width: 100%;
   background: var(--field);
@@ -386,20 +407,12 @@ main > section:not(.intro) { padding-bottom: 56px; }
 
 .faq { max-width: 760px; }
 .faq-item { border-bottom: 1px solid var(--line); }
-.faq-item button {
-  width: 100%;
-  display: flex;
-  gap: 16px;
-  align-items: center;
-  text-align: left;
-  background: none;
-  border: 0;
+.faq-item summary {
+  cursor: pointer;
   padding: 16px 0;
   font-weight: 650;
 }
-.faq-item .num { color: var(--muted); width: 28px; font-variant-numeric: tabular-nums; }
-.faq-panel { padding: 0 0 16px 44px; color: var(--slate); }
-.faq-panel[hidden] { display: none; }
+.faq-panel { padding: 0 0 16px 20px; color: var(--slate); }
 
 .facts { display: grid; gap: 0; margin: 8px 0 24px; }
 .facts div {

@@ -15,21 +15,6 @@
   };
 
   var pack = {
-    en: {
-      "nav-home": "Home", "nav-blog": "Blog", "nav-products": "Products", "nav-app": "Companion app", "nav-about": "About",
-      "cta-contact": "Contact us", "cta-quote": "Get a factory quote", "cta-more": "More posts →",
-      "cta-start": "Start your project", "cta-submit": "Submit", "cta-subscribe": "Subscribe",
-      "cta-expand": "Read more", "cta-collapse": "Show less", "cta-detail": "View details",
-      "footer-products": "Products", "footer-support": "Support", "footer-legal": "Legal",
-      "privacy": "Privacy policy", "terms": "Terms of service",
-      "ph-name": "Name", "ph-email": "Email", "ph-phone": "Phone", "ph-message": "Message",
-      "ph-search": "Search articles", "menu": "Menu",
-      "quote-title": "Contact us", "quote-lead": "We look forward to hearing from you",
-      "sent": "Received. This preview keeps your note in the browser only.",
-      "subscribe-ok": "Subscribed in this browser.",
-      "empty-page": "No further posts on this page.",
-      "no-result": "No matching posts."
-    },
     es: {
       "nav-home": "Inicio", "nav-blog": "Blog", "nav-products": "Productos", "nav-app": "Aplicación", "nav-about": "Nosotros",
       "cta-contact": "Contáctenos", "cta-quote": "Pedir cotización", "cta-more": "Más artículos →",
@@ -182,8 +167,6 @@
       var value = (pack[code] && pack[code][key]) || zh[key];
       if (value) el.alt = value;
     });
-    var heading = $("h1");
-    if (heading && heading.textContent) document.title = heading.textContent.trim() + " | MACY-PAN";
     var label = $(".lang-label");
     if (label) label.textContent = names[code];
     $$(".lang-menu [data-lang]").forEach(function (btn) {
@@ -206,6 +189,10 @@
     langMenu.addEventListener("click", function (event) {
       var btn = event.target.closest("[data-lang]");
       if (!btn) return;
+      if (btn.tagName === "A") {
+        try { localStorage.removeItem("macy-lang"); } catch (err) {}
+        return;
+      }
       applyLang(btn.getAttribute("data-lang"));
       try { localStorage.setItem("macy-lang", btn.getAttribute("data-lang")); } catch (err) {}
       langMenu.setAttribute("hidden", "");
@@ -249,22 +236,6 @@
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
   }
-
-  $$(".faq").forEach(function (group) {
-    group.addEventListener("click", function (event) {
-      var btn = event.target.closest("button[aria-expanded]");
-      if (!btn || !group.contains(btn)) return;
-      var panel = document.getElementById(btn.getAttribute("aria-controls"));
-      var willOpen = btn.getAttribute("aria-expanded") !== "true";
-      $$("button[aria-expanded]", group).forEach(function (other) {
-        other.setAttribute("aria-expanded", "false");
-        var otherPanel = document.getElementById(other.getAttribute("aria-controls"));
-        if (otherPanel) otherPanel.hidden = true;
-      });
-      btn.setAttribute("aria-expanded", willOpen ? "true" : "false");
-      if (panel) panel.hidden = !willOpen;
-    });
-  });
 
   var tablist = $(".tabs");
   if (tablist) {
@@ -353,7 +324,7 @@
     if (!cards.length) return;
     var shown = 0;
     cards.forEach(function (card) {
-      var hay = (card.getAttribute("data-article") || "").toLowerCase();
+      var hay = card.textContent.toLowerCase();
       var tags = card.getAttribute("data-tags") || "";
       var match = (!query || hay.indexOf(query) !== -1) && (!tag || tags.indexOf(tag) !== -1);
       var onPage = !query && !tag ? card.getAttribute("data-page") === String(page) : match;
@@ -432,18 +403,8 @@
 
   mountPhotos();
 
-  function detectLang() {
-    var list = (navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language || "zh"];
-    var i, tag, primary;
-    for (i = 0; i < list.length; i++) {
-      tag = String(list[i] || "").toLowerCase();
-      if (tag.indexOf("zh") === 0) return "zh";
-      primary = tag.split("-")[0];
-      if (names[primary]) return primary;
-    }
-    return "zh";
-  }
   function initialLang() {
+    if (document.documentElement.hasAttribute("data-fixed-language")) return document.documentElement.lang;
     var q = "";
     try { q = new URLSearchParams(location.search).get("lang") || ""; } catch (err) {}
     q = String(q).toLowerCase();
@@ -451,8 +412,9 @@
     if (names[q]) return q;
     var chosen = "";
     try { chosen = localStorage.getItem("macy-lang") || ""; } catch (err) {}
+    if (chosen === "en" && $(".lang-menu a[data-lang='en']")) return "zh";
     if (names[chosen]) return chosen;
-    return detectLang();
+    return "zh";
   }
   applyLang(initialLang());
 

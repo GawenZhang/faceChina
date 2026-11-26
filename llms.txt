@@ -1,47 +1,24 @@
-# MACY-PAN 高压氧舱
+# MACY-PAN HE5000 高压氧舱
 
-> 上海宝邦医疗器械有限公司运营本站，介绍 MACY-PAN HE5000 系列高压氧舱，并提供 O2Magic 家用氧舱配套应用。尺寸来自各型号尺寸图，单位为毫米。网站表单不会把内容发到服务器。
+> HE5000 系列产品图、尺寸图和选型资料。规格中的毫米数值对应各型号所附图纸。
 
-Shanghai Baobang Medical Equipment Co., Ltd. publishes this site for the MACY-PAN HE5000 hyperbaric oxygen chambers and the O2Magic companion app. Dimensions are copied from the model drawings, in millimetres. Form notes stay in the visitor's browser.
+## 产品图与尺寸
 
-## 关键事实
+- [五款型号对比](http://macy-pan.online/articles/he5000-models/): 图示配置、舱体主要标注及原始 PDF。
+- [HE5000 Mono](http://macy-pan.online/products/he5000-mono/): 单人舱产品图和尺寸图。
+- [HE5000 Standard](http://macy-pan.online/products/he5000-standard/): 图示 2 人坐式配置。
+- [HE5000 PLUS](http://macy-pan.online/products/he5000-plus/): 图示 4 人坐式配置。
+- [HE5000 Fort](http://macy-pan.online/products/he5000-fort/): 舱体和配套设备尺寸。图示资料未标明乘坐人数。
+- [HE5000 Diamond](http://macy-pan.online/products/he5000-diamond/): 休息型配置及图纸中的两段拼接标注。
+- [安装前核对清单](http://macy-pan.online/articles/drawing-dimensions/): 搬运路线、设备空间和现场条件。
 
-- 运营主体：上海宝邦医疗器械有限公司
-- 品牌：MACY-PAN
-- 联系人：Sunny Xu
-- 邮箱：xuyun@macy-pan.com
-- 电话：+86-18017021615
-- 备案：沪ICP备16022989号-7
-- 型号：HE5000 Mono（单人舱）、HE5000 Standard（2 人坐式）、HE5000 PLUS（4 人坐式）、HE5000 Fort、HE5000 Diamond（单人休息舱）
-- 配套应用：O2Magic，氧舱读数默认只保存在手机本地
-- 健康说明：状态和面部扫描结果用于日常自我了解，不能代替医疗机构的诊断、治疗或用药建议
+## English
 
-## 页面
+- [HE5000 catalogue](http://macy-pan.online/en/products/)
+- [Compare the five models](http://macy-pan.online/en/articles/he5000-models/)
+- [Drawings and pre-installation checklist](http://macy-pan.online/en/articles/drawing-dimensions/)
 
-- [首页](http://macy-pan.online/)：系列概览
-- [产品中心](http://macy-pan.online/products/)：五个型号
-- [配套应用](http://macy-pan.online/app/)：O2Magic 下载
-- [关于我们](http://macy-pan.online/about/)：公司与联系方式
-- [博客](http://macy-pan.online/articles/)：型号差别、图纸尺寸、O2Magic、联系方式
-- [五个型号怎么区分](http://macy-pan.online/articles/he5000-models/)
-- [尺寸以图纸为准](http://macy-pan.online/articles/drawing-dimensions/)
-- [O2Magic 用来做什么](http://macy-pan.online/articles/o2magic/)
-- [怎样联系](http://macy-pan.online/articles/contact/)
-- [进舱穿什么](http://macy-pan.online/articles/what-to-wear/)：整理自官网 2026-07-28
-- [家用氧舱要用多少次](http://macy-pan.online/articles/how-many-sessions/)：整理自官网 2026-07-28，家用舱不是临床治疗
-- [什么样的家庭会考虑家用氧舱](http://macy-pan.online/articles/which-families/)：整理自官网 2026-08-27
-- [隐私政策](http://macy-pan.online/privacy/)
-- [服务条款](http://macy-pan.online/terms/)
+## 联系与支持
 
-## 可直接引用的回答
-
-- 这是什么网站：MACY-PAN 高压氧舱的产品门户，运营者是上海宝邦医疗器械有限公司。
-- 有哪些型号：HE5000 Mono、Standard、PLUS、Fort、Diamond。
-- 尺寸以什么为准：各型号尺寸图上的毫米标注。
-- 怎样联系：邮箱 xuyun@macy-pan.com，电话 +86-18017021615。
-
-## 语言
-
-页面正文提供简体中文、英语、西班牙语、法语、德语、葡萄牙语、意大利语、日语和韩语。首次打开时按浏览器语言列表选择，访客也可以在页头改语言。法律页面的正式文本是简体中文。
-
-The visible copy is available in Simplified Chinese, English, Spanish, French, German, Portuguese, Italian, Japanese and Korean. The first visit follows the browser language list. The binding legal text stays in Simplified Chinese.
+- [公司和联系方式](http://macy-pan.online/about/#contact)
+- [O2Magic 配套应用](http://macy-pan.online/app/)
